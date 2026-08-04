@@ -57,15 +57,18 @@
     "https://www.aciprensa.com/noticias/127385/muere-el-cardenal-duarte-langa-a-los-98-anos-en-mozambique": "descartado_palabras",
     "https://persecution.org/?p=4495363": "procesado",
     "https://www.aciprensa.com/noticias/127389/obispo-de-asis-sobre-la-visita-de-leon-xiv-el-papa-hablara-a-los-jovenes-con-sinceridad-y-amor": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127391/exmiembro-comando-vermelho-bautismo-eucaristia-confirmacion-prision-brasil": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127391/exmiembro-comando-vermelho-bautismo-eucaristia-confirmacion-prision-brasil": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127393/visita-mexico-cardenal-parolin-vaticano-reaviva-ilusion-viaje-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127395/congreso-colombiano-debatira-ley-para-que-constitucion-proteja-vida-humana-desde-la-concepcion": "descartado_palabras",
+    "https://persecution.org/?p=4495366": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Tue, 04 Aug 2026 17:15:34 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"a1fea9db11f053ad6781591016c7dc54\"",
-      "modified": "Tue, 04 Aug 2026 17:36:14 GMT"
+      "etag": "W/\"874ac890ba99dcc3fe3fc92b1c8a808f\"",
+      "modified": "Tue, 04 Aug 2026 20:34:47 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"e72094a2e6359b2f8406ec937f1a2225\"",
@@ -75,10 +78,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-M8TcH0WKEfoF159rqQRNQLwzhf8\""
+      "etag": "W/\"84d8-2u1pdqZ6actwUJB/5t/e1YtqQr0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 04 Aug 2026 19:40:03 GMT"
+      "modified": "Tue, 04 Aug 2026 21:14:23 GMT"
     }
   },
   "pendientes": {
@@ -155,6 +158,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Upper Kauda Catholic Parish Continues to Mourn Following Attack, Killing of Priest",
       "creado": 1785865958.1946108
+    },
+    "8": {
+      "texto": "📄 <b>NIGERIA</b> 🇳🇬\n\n<b>El cambio climático no es persecución cristiana, entonces, ¿por qué importa?</b>\n\nParte 1 de la serie, \"Cuando la creación gime\" Por Lisa Navarrette, becaria de ICC La primera luz del amanecer se extiende a través de un pueblo agrícola en el Cinturón Medio de Nigeria mientras Samuel camina lentamente por el campo que su padre una vez cultivó antes que él. Se arrodilla y recoge un puñado de tierra seca en la palma de su mano. Otra temporada de lluvias... El cambio climático posterior no es persecución cristiana, ¿por qué importa?\n\n➖➖➖\n🇬🇧 <b>Climate Change Is Not Christian Persecution, So Why Does It Matter?</b>\n\n<i>Part 1 of the series, “When Creation Groans” By ICC Fellow Lisa Navarrette The first light of dawn stretches across a farming village in Nigeria’s Middle Belt as Samuel walks slowly through the field his father once cultivated before him. He kneels and scoops a handful of dry soil into his palm. Another rainy season… The post Climate Change Is Not Christian Persecution, So Why Does It Matter?</i>\n\n📎 <a href=\"https://persecution.org/2026/08/04/climate-change-is-not-christian-persecution-so-why-does-it-matter/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2025/07/Nigerian-farmers-1.png"
+      },
+      "msg_id": 16,
+      "fuente": "International Christian Concern",
+      "titulo": "Climate Change Is Not Christian Persecution, So Why Does It Matter?",
+      "creado": 1785878066.9379792
     }
   },
   "editando": null
