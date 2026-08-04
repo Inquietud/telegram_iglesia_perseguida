@@ -1,0 +1,7 @@
+# NUNCA subir el token
+config.json
+
+bot.log
+diagnostico.txt
+__pycache__/
+*.pyc

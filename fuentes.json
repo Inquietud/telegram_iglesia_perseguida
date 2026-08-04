@@ -1,0 +1,86 @@
+{
+  "_comentario": "Solo agencias y ONGs de primer nivel, con corresponsales o verificacion propia sobre el terreno. 'filtrar': true = la web publica tambien cosas que no son persecucion, el bot descarta lo que no lo sea. Ejecuta comprobar_fuentes.py para verificar cuales responden desde tu conexion.",
+  "fuentes": [
+    {
+      "nombre": "Morning Star News",
+      "url": "https://morningstarnews.org/feed/",
+      "idioma": "en",
+      "filtrar": false,
+      "activa": true,
+      "verificada": true,
+      "nota": "Agencia especializada con periodistas locales. La mas rapida y la mas fiable en hechos concretos."
+    },
+    {
+      "nombre": "International Christian Concern",
+      "url": "https://persecution.org/feed/",
+      "idioma": "en",
+      "filtrar": false,
+      "activa": true,
+      "verificada": true,
+      "nota": "Cobertura diaria y amplia, con red de contactos en Asia y Africa."
+    },
+    {
+      "nombre": "Open Doors UK",
+      "url": "https://www.opendoorsuk.org/feed/",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": true,
+      "nota": "Investigacion propia. Autores de la Lista Mundial de la Persecucion."
+    },
+    {
+      "nombre": "Release International",
+      "url": "https://releaseinternational.org/feed/",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": true,
+      "nota": "Socios locales en mas de 25 paises."
+    },
+    {
+      "nombre": "Christian Solidarity Worldwide",
+      "url": "https://www.csw.org.uk/rss.xml",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": false,
+      "nota": "Documentacion juridica y de derechos humanos, citada por la ONU."
+    },
+    {
+      "nombre": "Barnabas Aid",
+      "url": "https://barnabasaid.org/feed/",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": false,
+      "nota": "Cobertura de Oriente Medio, Africa y Asia."
+    },
+    {
+      "nombre": "Voice of the Martyrs",
+      "url": "https://www.persecution.com/feed/",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": false,
+      "nota": "Testimonios directos de presos y familias."
+    },
+    {
+      "nombre": "Aid to the Church in Need",
+      "url": "https://acninternational.org/category/news/feed/",
+      "idioma": "en",
+      "filtrar": true,
+      "activa": true,
+      "verificada": false,
+      "nota": "Fundacion pontificia, informe bienal de libertad religiosa."
+    },
+    {
+      "nombre": "ACI Prensa",
+      "url": "https://www.aciprensa.com/rss/noticias.xml",
+      "idioma": "es",
+      "filtrar": true,
+      "activa": true,
+      "verificada": false,
+      "nota": "Fuente en espanol, generalista catolica: se filtra fuerte."
+    }
+  ]
+}

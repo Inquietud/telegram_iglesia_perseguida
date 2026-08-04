@@ -1,0 +1,15 @@
+{
+  "telegram_bot_token": "PEGA_AQUI_EL_TOKEN_DE_BOTFATHER",
+  "channel_id": "@nombre_de_tu_canal",
+  "admin_chat_id": 0,
+  "traducir": true,
+  "email_traductor": "",
+  "publicar_ingles": true,
+  "minutos_entre_chequeos": 3,
+  "max_antiguedad_horas": 12,
+  "max_borradores_por_ciclo": 6,
+  "buscar_media_en_articulo": true,
+  "hashtag_fijo": "#IglesiaPerseguida",
+  "firma": "",
+  "anthropic_api_key": ""
+}
