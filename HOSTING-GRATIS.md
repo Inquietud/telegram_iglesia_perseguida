@@ -43,6 +43,13 @@ Esa primera ejecución marca el histórico como visto y no publica nada. A parti
 
 **6. Apaga el bot de tu ordenador.** Importante: no pueden funcionar los dos a la vez, porque se roban los mensajes entre ellos. Cierra la ventana de `ARRANCAR.bat` y usa solo uno de los dos.
 
+### Cosas a vigilar con el tiempo
+
+- **GitHub apaga los cron tras ~60 días sin actividad en el repo.** Te avisa por correo. Para reactivarlo: entra en *Actions* y pulsa *Enable workflow*, o haz cualquier commit.
+- **Minutos gratis (solo si el repo es privado):** 2.000 al mes. A 30 minutos de intervalo son unas 1.400-1.700, así que entra justo. Míralo de vez en cuando en *Settings → Billing → Plans and usage*. Si se acerca al límite: pon el cron cada 45 minutos (`*/45`) o haz el repositorio público (minutos ilimitados, y tu token seguiría a salvo en Secrets).
+- **GitHub retrasa o se salta ejecuciones** cuando su cola va cargada, sobre todo en punto en hora. No es un fallo: la siguiente pasada recoge lo pendiente.
+- **Nunca subas `config.json`.** Está en `.gitignore`, pero si algún día lo fuerzas, tu token quedaría publicado. Si pasara: @BotFather → `/revoke`.
+
 ### Detalles útiles
 
 - **Ver qué ha hecho**: pestaña *Actions* → cada ejecución tiene su registro.

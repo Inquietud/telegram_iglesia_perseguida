@@ -170,14 +170,64 @@ CONTEXTO_CRISTIANO = re.compile(
     r"protestant|biblia|culto|fiel|fieles)\w*", re.I)
 
 
-def es_relevante(texto, fuente_especializada=False):
-    """Sin IA: exige termino de persecucion Y contexto cristiano.
-    En fuentes 100% especializadas basta con el contexto cristiano."""
-    tiene_contexto = bool(CONTEXTO_CRISTIANO.search(texto))
-    tiene_termino = bool(TERMINO_PERSECUCION.search(texto))
-    if fuente_especializada:
-        return tiene_contexto or tiene_termino
-    return tiene_contexto and tiene_termino
+# hechos concretos: si aparece uno de estos, la noticia entra aunque el resto
+# del texto parezca institucional
+TERMINO_FUERTE = re.compile(
+    r"\b(killed|killing|murder|assassinat|massacre|slain|behead|shot dead|"
+    r"burnt alive|burned alive|abduct|kidnap|hostage|arrest|detain|jailed|"
+    r"imprison|sentenc|convict|blasphemy|apostasy|death row|执行|"
+    r"demolish|bulldoz|torched|desecrat|martyr|"
+    r"asesin|matar|mataron|masacre|degoll|secuestr|deten|encarcel|conden|"
+    r"blasfemia|apostas|derrib|demol|profan|martir|mártir|incendi)\w*", re.I)
+
+# temas que NO son noticia de persecucion: si aparecen y no hay ningun hecho
+# concreto, se descarta (campanas, actos, nombramientos, liturgia, agenda)
+VETO = re.compile(
+    r"\b(donat|donate|fundrais|fundraising|appeal for funds|legacy|bequest|"
+    r"gift aid|webinar|podcast|newsletter|subscribe|magazine|"
+    r"prayer request|please pray|prayer diary|devotional|reflection|"
+    r"appoint|appointed|nominat|ordain|consecrat|installed as|enthron|"
+    r"liturg|homily|sermon|retreat|pilgrimage|novena|festival|"
+    r"conference|congress|synod|assembly|webcast|anniversary of the founding|"
+    r"obituary|funeral of|dies at|passed away|"
+    r"donativ|donaci[oó]n|colecta|campa[nñ]a de|legado|"
+    r"b[oó]letin|bolet[ií]n|podcast|seminario web|revista|"
+    r"petici[oó]n de oraci[oó]n|oremos|oraci[oó]n del d[ií]a|reflexi[oó]n|"
+    r"nombra|nombrado|design|ordena|ordenaci[oó]n|consagra|toma de posesi[oó]n|"
+    r"liturgia|homil[ií]a|serm[oó]n|retiro|peregrinaci[oó]n|novena|"
+    r"congreso|s[ií]nodo|asamblea|aniversario de la fundaci[oó]n|"
+    r"obituario|funeral de|fallece|falleci[oó])\w*", re.I)
+
+
+def es_relevante(texto, fuente_especializada=False, titulo=""):
+    """Sin IA hay que ser exigente. Reglas:
+
+    1. Tiene que haber contexto cristiano (iglesia, pastor, converso...).
+    2. Tiene que haber un termino de persecucion.
+    3. Si el texto es de agenda institucional (campanas, nombramientos,
+       liturgia, podcasts) se descarta salvo que haya un hecho concreto
+       (muertos, detenidos, condenas, demoliciones...).
+    4. En fuentes generalistas, ademas, el titular tiene que hablar de ello:
+       no vale que la palabra 'iglesia' aparezca de refilon en el cuerpo.
+    """
+    titulo = titulo or texto[:160]
+    hay_contexto = bool(CONTEXTO_CRISTIANO.search(texto))
+    hay_termino = bool(TERMINO_PERSECUCION.search(texto))
+    hay_fuerte = bool(TERMINO_FUERTE.search(texto))
+
+    if not (hay_contexto and hay_termino):
+        return False
+    if VETO.search(texto) and not hay_fuerte:
+        return False
+    if not fuente_especializada:
+        # el titular debe llevar el contexto cristiano y algun termino
+        if not (CONTEXTO_CRISTIANO.search(titulo) and TERMINO_PERSECUCION.search(titulo)):
+            return False
+    else:
+        # en especializadas basta con que el titular mencione una de las dos
+        if not (CONTEXTO_CRISTIANO.search(titulo) or TERMINO_PERSECUCION.search(titulo)):
+            return False
+    return True
 
 
 # --------------------------------------------------------------------------

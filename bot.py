@@ -373,9 +373,9 @@ def formatear(post, enlace, fuente, cfg, media=None):
 # lectura de feeds
 # --------------------------------------------------------------------------
 
-def relevante_por_palabras(texto, especializada=False):
-    """Filtro sin IA: termino de persecucion + contexto cristiano."""
-    return R.es_relevante(texto, especializada)
+def relevante_por_palabras(texto, especializada=False, titulo=""):
+    """Filtro sin IA: contexto cristiano + termino de persecucion + vetos."""
+    return R.es_relevante(texto, especializada, titulo)
 
 
 def leer_feeds(fuentes, vistos, cache, max_horas, max_por_fuente=10):
@@ -417,7 +417,7 @@ def leer_feeds(fuentes, vistos, cache, max_horas, max_por_fuente=10):
             titulo = limpiar_html(e.get("title", ""))
             resumen = limpiar_html(e.get("summary", "") or e.get("description", ""))
             especializada = not f.get("filtrar", False)
-            if not relevante_por_palabras(titulo + " " + resumen, especializada):
+            if not relevante_por_palabras(titulo + " " + resumen, especializada, titulo):
                 vistos[uid] = "descartado_palabras"
                 continue
             nuevos.append({
