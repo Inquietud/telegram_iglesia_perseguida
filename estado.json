@@ -55,7 +55,9 @@
     "https://morningstarnews.org/?p=18224": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127387/ven-y-veras-en-memoria-de-san-alberto-hurtado-comenzo-en-chile-el-mes-de-la-solidaridad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127385/muere-el-cardenal-duarte-langa-a-los-98-anos-en-mozambique": "descartado_palabras",
-    "https://persecution.org/?p=4495363": "procesado"
+    "https://persecution.org/?p=4495363": "procesado",
+    "https://www.aciprensa.com/noticias/127389/obispo-de-asis-sobre-la-visita-de-leon-xiv-el-papa-hablara-a-los-jovenes-con-sinceridad-y-amor": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127391/exmiembro-comando-vermelho-bautismo-eucaristia-confirmacion-prision-brasil": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -73,10 +75,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-GBzXKO8zkKB3GRb5ukVp09BWEJw\""
+      "etag": "W/\"84d8-M8TcH0WKEfoF159rqQRNQLwzhf8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 04 Aug 2026 17:52:33 GMT"
+      "modified": "Tue, 04 Aug 2026 19:40:03 GMT"
     }
   },
   "pendientes": {
