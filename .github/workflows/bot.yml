@@ -37,7 +37,7 @@ jobs:
           EMAIL_TRADUCTOR: ${{ secrets.EMAIL_TRADUCTOR }}
           TRADUCIR: "true"
           MAX_ANTIGUEDAD_HORAS: "48"
-          HASHTAG_FIJO: "#IglesiaPerseguida"
+          HASHTAG_FIJO: "#IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross"
         run: python bot.py --una-vez
 
       - name: Guardar el estado
