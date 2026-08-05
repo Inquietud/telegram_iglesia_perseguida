@@ -81,7 +81,9 @@
     "https://persecution.org/?p=4495373": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127435/peru-legado-papa-leon-xiv-ruta-internacional-peregrinacion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127433/lugares-visita-papa-leon-xiv-chiclayo-peru": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127431/estudio-revela-que-muchos-jovenes-de-eeuu-se-sienten-solos-y-excluidos-del-sueno-americano": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127431/estudio-revela-que-muchos-jovenes-de-eeuu-se-sienten-solos-y-excluidos-del-sueno-americano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127439/lider-obispos-ee-uu-virtud-patriotismo-caballeros-de-colon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127437/iglesia-argentina-tierra-no-es-mercancia-defender-soberania": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -99,10 +101,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-V7NDNFtAvxHfVN2EVB5fY4w2EuA\""
+      "etag": "W/\"84d8-eXYVDjbYzz4s1692p3s4o4NwC6Q\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 20:37:03 GMT"
+      "modified": "Wed, 05 Aug 2026 21:56:05 GMT"
     }
   },
   "pendientes": {
