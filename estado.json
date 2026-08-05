@@ -63,7 +63,11 @@
     "https://persecution.org/?p=4495366": "procesado",
     "https://www.aciprensa.com/noticias/127397/arquidiocesis-mexico-censura-previa-libertad-expresion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127401/se-valiente-cristo-vive-mas-de-4-000-jovenes-participaron-en-la-jornada-de-la-juventud-en-peru": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127399/arzobispo-de-colombia-pide-rezar-para-que-dios-ilumine-al-gobierno-de-abelardo-de-la-espriella": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127399/arzobispo-de-colombia-pide-rezar-para-que-dios-ilumine-al-gobierno-de-abelardo-de-la-espriella": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127409/novena-a-san-maximiliano-kolbe-martir-asesinado-por-nazis": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127407/obispos-mexico-centenario-cristiada-tiempo-gracia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127405/papa-leon-xiv-caballeros-colon-profetas-armonia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127403/asaltan-a-peregrinos-guadalupe-mano-armada-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -81,10 +85,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-MsgiLxWftbw6mlzH3tP9f1x5t3c\""
+      "etag": "W/\"84d8-dqx5h5DijrGu1p+FU9touL3ExD4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 00:04:29 GMT"
+      "modified": "Wed, 05 Aug 2026 03:44:18 GMT"
     }
   },
   "pendientes": {
