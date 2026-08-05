@@ -32,8 +32,8 @@ Fichero que **NO** debe ir: `config.json` (tiene tu token).
 | Nombre | Valor |
 |---|---|
 | `TELEGRAM_BOT_TOKEN` | tu token de BotFather |
-| `CHANNEL_ID` | `@the_persecuted_church` |
-| `ADMIN_CHAT_ID` | `7633188915` |
+| `CHANNEL_ID` | `@tu_canal` |
+| `ADMIN_CHAT_ID` | tu chat id (te lo da `configurar.py`) |
 
 Opcional: `EMAIL_TRADUCTOR` con tu email, para ampliar la cuota del traductor a 50.000 caracteres/día.
 
