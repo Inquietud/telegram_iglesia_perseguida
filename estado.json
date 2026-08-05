@@ -68,7 +68,8 @@
     "https://www.aciprensa.com/noticias/127407/obispos-mexico-centenario-cristiada-tiempo-gracia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127405/papa-leon-xiv-caballeros-colon-profetas-armonia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127403/asaltan-a-peregrinos-guadalupe-mano-armada-mexico": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127411/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-importancia-de-la-oracion": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127411/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-importancia-de-la-oracion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127413/leon-xiv-lamenta-que-la-oracion-se-este-perdiendo-en-las-familias-y-llama-a-redescubrirla": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -86,10 +87,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-3XElntIWYAHVPbsMIetyPr8PkBo\""
+      "etag": "W/\"84d8-Rmkua3ifNLN0zHvEsAfSgvByOFg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 09:04:19 GMT"
+      "modified": "Wed, 05 Aug 2026 09:39:22 GMT"
     }
   },
   "pendientes": {
