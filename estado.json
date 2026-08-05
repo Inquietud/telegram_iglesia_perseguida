@@ -61,7 +61,9 @@
     "https://www.aciprensa.com/noticias/127393/visita-mexico-cardenal-parolin-vaticano-reaviva-ilusion-viaje-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127395/congreso-colombiano-debatira-ley-para-que-constitucion-proteja-vida-humana-desde-la-concepcion": "descartado_palabras",
     "https://persecution.org/?p=4495366": "procesado",
-    "https://www.aciprensa.com/noticias/127397/arquidiocesis-mexico-censura-previa-libertad-expresion": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127397/arquidiocesis-mexico-censura-previa-libertad-expresion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127401/se-valiente-cristo-vive-mas-de-4-000-jovenes-participaron-en-la-jornada-de-la-juventud-en-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127399/arzobispo-de-colombia-pide-rezar-para-que-dios-ilumine-al-gobierno-de-abelardo-de-la-espriella": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -79,10 +81,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-pOQ58b4CMau/AnOKXlckwtfv2+Y\""
+      "etag": "W/\"84d8-MsgiLxWftbw6mlzH3tP9f1x5t3c\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 04 Aug 2026 22:36:36 GMT"
+      "modified": "Wed, 05 Aug 2026 00:04:29 GMT"
     }
   },
   "pendientes": {
