@@ -190,6 +190,11 @@ VETO = re.compile(
     r"liturg|homily|sermon|retreat|pilgrimage|novena|festival|"
     r"conference|congress|synod|assembly|webcast|anniversary of the founding|"
     r"obituary|funeral of|dies at|passed away|"
+    # ensayos, series de opinion y entrevistas: no son noticia
+    r"part \d+ of|of the series|this series|fellow|essay|op-ed|opinion|"
+    r"commentary|column|interview with|book review|explainer|"
+    r"parte \d+ de|de la serie|esta serie|ensayo|opini[oó]n|columna|"
+    r"entrevista con|rese[nñ]a|"
     r"donativ|donaci[oó]n|colecta|campa[nñ]a de|legado|"
     r"b[oó]letin|bolet[ií]n|podcast|seminario web|revista|"
     r"petici[oó]n de oraci[oó]n|oremos|oraci[oó]n del d[ií]a|reflexi[oó]n|"

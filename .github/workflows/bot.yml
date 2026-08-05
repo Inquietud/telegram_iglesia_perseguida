@@ -2,8 +2,9 @@ name: Canal de la Iglesia perseguida
 
 on:
   schedule:
-    # cada 30 minutos. GitHub puede retrasarlo unos minutos si hay mucha carga.
-    - cron: "*/30 * * * *"
+    # cada 5 minutos, que es el minimo que admite GitHub. En repos publicos
+    # los minutos son ilimitados y el programador tiene mucha mas prioridad.
+    - cron: "*/5 * * * *"
   workflow_dispatch:        # boton para lanzarlo a mano desde la pestana Actions
 
 permissions:
