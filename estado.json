@@ -70,7 +70,8 @@
     "https://www.aciprensa.com/noticias/127403/asaltan-a-peregrinos-guadalupe-mano-armada-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127411/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-importancia-de-la-oracion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127413/leon-xiv-lamenta-que-la-oracion-se-este-perdiendo-en-las-familias-y-llama-a-redescubrirla": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127415/leon-xiv-visitara-uruguay-argentina-y-peru-del-6-al-17-de-noviembre": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127415/leon-xiv-visitara-uruguay-argentina-y-peru-del-6-al-17-de-noviembre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127417/4-datos-sobre-ceuta-ciudad-fronteriza-espanola-en-africa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -81,17 +82,17 @@
       "modified": "Tue, 04 Aug 2026 20:34:47 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"cad1de064fff6dc7bfde78f569db22dc\"",
-      "modified": "Wed, 05 Aug 2026 10:25:14 GMT"
+      "etag": "\"42f1d917749ec76dcba2ff61b626a4b6\"",
+      "modified": "Wed, 05 Aug 2026 12:53:20 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-GQWbgQQa1Yj+sR/LbJHHVAJIv0E\""
+      "etag": "W/\"84d8-nuhHIqULrs5yYoYYF6KS/1GobPs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 11:30:33 GMT"
+      "modified": "Wed, 05 Aug 2026 13:18:57 GMT"
     }
   },
   "pendientes": {
