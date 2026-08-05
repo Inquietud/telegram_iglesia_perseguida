@@ -71,7 +71,10 @@
     "https://www.aciprensa.com/noticias/127411/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-importancia-de-la-oracion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127413/leon-xiv-lamenta-que-la-oracion-se-este-perdiendo-en-las-familias-y-llama-a-redescubrirla": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127415/leon-xiv-visitara-uruguay-argentina-y-peru-del-6-al-17-de-noviembre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127417/4-datos-sobre-ceuta-ciudad-fronteriza-espanola-en-africa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127417/4-datos-sobre-ceuta-ciudad-fronteriza-espanola-en-africa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127421/con-alegria-y-oracion-argentina-espera-al-papa-leon-xiv-peregrino-de-la-paz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127419/arzobispo-de-panama-a-sus-sacerdotes-un-parroco-no-se-mide-por-el-tamano-de-su-parroquia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127423/leon-xiv-lamenta-la-muerte-del-cardenal-duarte-langa-y-destaca-su-sencillez-y-celo-pastoral": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -82,17 +85,17 @@
       "modified": "Tue, 04 Aug 2026 20:34:47 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"42f1d917749ec76dcba2ff61b626a4b6\"",
-      "modified": "Wed, 05 Aug 2026 12:53:20 GMT"
+      "etag": "\"6e34f942527e12e22604a48a646da7fc\"",
+      "modified": "Wed, 05 Aug 2026 13:51:19 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-nuhHIqULrs5yYoYYF6KS/1GobPs\""
+      "etag": "W/\"84d8-T9ojTYdomACfIBLi0KdvLKhCDYo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 13:18:57 GMT"
+      "modified": "Wed, 05 Aug 2026 15:36:14 GMT"
     }
   },
   "pendientes": {
@@ -180,6 +183,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Climate Change Is Not Christian Persecution, So Why Does It Matter?",
       "creado": 1785878066.9379792
+    },
+    "9": {
+      "texto": "🚨 <b>INTERNACIONAL</b> 🌍\n\n<b>León XIV lamenta la muerte del Cardenal Duarte Langa y destaca su sencillez y celo pastoral</b>\n\nLeón XIV expresó su profundo pesar por la muerte del Cardenal Júlio Duarte Langa, fallecido el 3 de agosto a los 98 años; y destacó su sencillez, celo y entrega “al rebaño que le fue confiado”.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127423/leon-xiv-lamenta-la-muerte-del-cardenal-duarte-langa-y-destaca-su-sencillez-y-celo-pastoral\">Fuente: ACI Prensa</a>\n#Mundo #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1785941583/ewtn-news/es/Papa_Leon_XIV_oracion_Daniel_Ibanez_EWTN_News_05082026_blmmfh.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 17,
+      "fuente": "ACI Prensa",
+      "titulo": "León XIV lamenta la muerte del Cardenal Duarte Langa y destaca su sencillez y celo pastoral",
+      "creado": 1785944175.4092793
     }
   },
   "editando": null
