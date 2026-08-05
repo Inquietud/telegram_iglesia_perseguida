@@ -75,7 +75,9 @@
     "https://www.aciprensa.com/noticias/127421/con-alegria-y-oracion-argentina-espera-al-papa-leon-xiv-peregrino-de-la-paz": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127419/arzobispo-de-panama-a-sus-sacerdotes-un-parroco-no-se-mide-por-el-tamano-de-su-parroquia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127423/leon-xiv-lamenta-la-muerte-del-cardenal-duarte-langa-y-destaca-su-sencillez-y-celo-pastoral": "procesado",
-    "https://www.aciprensa.com/noticias/127425/por-que-leon-xiv-sustituyo-la-constitucion-del-vaticano-promulgada-por-francisco": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127425/por-que-leon-xiv-sustituyo-la-constitucion-del-vaticano-promulgada-por-francisco": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127429/una-gran-alegria-para-renovar-la-esperanza-uruguay-celebra-la-llegada-de-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127427/90-anos-agosto-1936-mataron-mayoria-obispos-martires-guerra-civil": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -93,10 +95,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-VnJrmZVDy69YrKhFy3U/ICTfIsU\""
+      "etag": "W/\"84d8-M1MBPaLuqh0ptLoZfNOvQAhiFsQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 17:10:04 GMT"
+      "modified": "Wed, 05 Aug 2026 18:54:56 GMT"
     }
   },
   "pendientes": {
@@ -195,6 +197,17 @@
       "fuente": "ACI Prensa",
       "titulo": "León XIV lamenta la muerte del Cardenal Duarte Langa y destaca su sencillez y celo pastoral",
       "creado": 1785944175.4092793
+    },
+    "10": {
+      "texto": "🚨 <b>INTERNACIONAL</b> 🌍\n\n<b>90 años de agosto de 1936, cuando mataron a la mayoría de los obispos mártires de la Guerra Civil</b>\n\nEn agosto de 2026 se cumplen 90 años del asesinato por odio a la fe de la mayoría de los obispos españoles que murieron mártires en el contexto de la Guerra Civil española.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127427/90-anos-agosto-1936-mataron-mayoria-obispos-martires-guerra-civil\">Fuente: ACI Prensa</a>\n#Mundo #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1785944689/ewtn-news/es/Obispos_m%C3%A1rtires_qspewu.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 18,
+      "fuente": "ACI Prensa",
+      "titulo": "90 años de agosto de 1936, cuando mataron a la mayoría de los obispos mártires de la Guerra Civil",
+      "creado": 1785956141.809625
     }
   },
   "editando": null
