@@ -86,7 +86,9 @@
     "https://www.aciprensa.com/noticias/127437/iglesia-argentina-tierra-no-es-mercancia-defender-soberania": "descartado_palabras",
     "https://persecution.org/?p=4495377": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127441/al-menos-94-estructuras-eclesiales-fueron-danadas-por-los-terremotos-en-venezuela": "descartado_palabras",
-    "https://persecution.org/?p=4495382": "procesado"
+    "https://persecution.org/?p=4495382": "procesado",
+    "https://www.aciprensa.com/noticias/127447/visita-cardenal-parolin-guatemala": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127443/dios-nuestro-unico-refugio-obispo-palm-beach-ayuda-venezuela": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -104,10 +106,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Ek6Xqx0zL7oT30oLjqt4dyeZll0\""
+      "etag": "W/\"84d8-hlq1XGqXtN6Dg/NNskCLW4eyc50\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 05 Aug 2026 23:10:19 GMT"
+      "modified": "Thu, 06 Aug 2026 00:12:10 GMT"
     }
   },
   "pendientes": {
