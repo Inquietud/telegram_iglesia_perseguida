@@ -91,7 +91,8 @@
     "https://www.aciprensa.com/noticias/127443/dios-nuestro-unico-refugio-obispo-palm-beach-ayuda-venezuela": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127451/obispos-ee-uu-renuevan-llamado-dignidad-inmigrantes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127445/preparan-el-camino-de-san-maximo-confesor-una-nueva-ruta-de-peregrinacion-en-mexico": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127449/carita-mexicana-ayuda-a-familias-afectas-por-un-incendio-en-baja-california-sur": "procesado"
+    "https://www.aciprensa.com/noticias/127449/carita-mexicana-ayuda-a-familias-afectas-por-un-incendio-en-baja-california-sur": "procesado",
+    "https://www.aciprensa.com/noticias/127453/el-papa-invita-a-los-jovenes-desde-asis-a-imitar-la-radicalidad-evangelica-de-san-francisco": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -102,17 +103,17 @@
       "modified": "Wed, 05 Aug 2026 23:03:30 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"6e34f942527e12e22604a48a646da7fc\"",
-      "modified": "Wed, 05 Aug 2026 13:51:19 GMT"
+      "etag": "\"09c51ee8d4bf82478d61e6411693dc6b\"",
+      "modified": "Thu, 06 Aug 2026 07:22:03 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-oBFEHRwIao+5O3ofdYMQVQWkets\""
+      "etag": "W/\"84d8-k8so3L46FNVtXWBZ6f0br78jv20\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 06 Aug 2026 06:18:16 GMT"
+      "modified": "Thu, 06 Aug 2026 09:19:21 GMT"
     }
   },
   "pendientes": {
