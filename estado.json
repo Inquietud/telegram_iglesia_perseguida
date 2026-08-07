@@ -122,15 +122,18 @@
     "https://www.aciprensa.com/noticias/76784/que-tienen-en-comun-estos-santos-cuya-fiesta-liturgica-se-celebra-en-agosto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127503/francia-cierra-una-mezquita-en-las-afueras-de-paris-por-presunto-apoyo-al-terrorismo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127505/polonia-inicia-preparativos-para-la-primera-visita-del-papa-leon-xiv-al-pais": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127507/inician-causa-de-beatificacion-de-mons-juan-tomis-el-sacerdote-que-marco-la-vida-del-papa-leon": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127507/inician-causa-de-beatificacion-de-mons-juan-tomis-el-sacerdote-que-marco-la-vida-del-papa-leon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127509/buenos-aires-recibe-a-olivia-maurel-voz-global-contra-la-gestacion-subrogada": "descartado_palabras",
+    "https://persecution.org/?p=4495396": "procesado",
+    "https://morningstarnews.org/?p=18235": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Thu, 06 Aug 2026 19:33:29 GMT"
+      "modified": "Fri, 07 Aug 2026 16:46:42 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"b91d628d75cca9b69b44201c8f754a25\"",
-      "modified": "Thu, 06 Aug 2026 16:39:49 GMT"
+      "etag": "W/\"d28f366e284d09b74fd7d3294096171b\"",
+      "modified": "Fri, 07 Aug 2026 17:30:15 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"fa0cab7257a8acd16b779d3cb72f697d\"",
@@ -140,10 +143,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-iTbGCkCMYGCirSiFaHgKw9WOI6I\""
+      "etag": "W/\"84d8-8XaiaS8ytHi9aPhZ06vPyqFqD3M\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 16:36:07 GMT"
+      "modified": "Fri, 07 Aug 2026 17:34:01 GMT"
     }
   },
   "pendientes": {
@@ -297,6 +300,28 @@
       "fuente": "Morning Star News",
       "titulo": "Christian Girl Struggles to Void Forced Marriage in Pakistan",
       "creado": 1786063079.7889087
+    },
+    "15": {
+      "texto": "🚨 <b>SUDÁN</b> 🇸🇩\n\n<b>Muere un pastor y otro es secuestrado en un ataque en las montañas Nuba de Sudán</b>\n\nEn las colinas de las montañas Nuba de Sudán, el dolor continúa profundizándose a medida que las comunidades cristianas se enfrentan a repetidos ataques contra sus líderes. El 24 de julio, combatientes de una facción separatista del Ejército de Liberación del Pueblo Sudanés-Norte (SPLA-N) irrumpieron en el área de Dabbi del condado de Heiban en Kordofán del Sur.\n\n➖➖➖\n🇬🇧 <b>One Pastor Dies, Another Abducted in Attack in Sudan’s Nuba Mountains</b>\n\n<i>In the hills of Sudan’s Nuba Mountains, grief continues to deepen as Christian communities face repeated attacks on their leaders. On July 24, fighters from a breakaway faction of the Sudan People’s Liberation Army-North (SPLA-N) stormed the Dabbi area of Heiban County in South Kordofan.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/07/one-pastor-dies-another-abducted-in-attack-in-sudans-nuba-mountains/\">Fuente: International Christian Concern</a>\n#Sudan #Africa #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Sudan-pastor.png"
+      },
+      "msg_id": 23,
+      "fuente": "International Christian Concern",
+      "titulo": "One Pastor Dies, Another Abducted in Attack in Sudan’s Nuba Mountains",
+      "creado": 1786124046.4725957
+    },
+    "16": {
+      "texto": "🚨 <b>SUDÁN</b> 🇸🇩\n\n<b>Otro líder de la iglesia secuestrado en Sudán</b>\n\nJUBA, Sudán del Sur (Morning Star News) – Tras los ataques contra el clero en el estado sudanés de Kordofán del Sur el mes pasado, otro líder de la iglesia en la ciudad de Heiban fue secuestrado la semana pasada, según fuentes. Zakaria Suliman Jana, líder de la Iglesia Sudanesa de Cristo (SCOC) en Heiban, estado de Kordofán del Sur, fue secuestrada por la fuerza en la mañana de julio [...]\n\n➖➖➖\n🇬🇧 <b>Another Church Leader Abducted in Sudan</b>\n\n<i>JUBA, South Sudan (Morning Star News) – Following attacks on clergy in Sudan’s South Kordofan state last month, another church leader in Heiban town was abducted last week, according to sources. Zakaria Suliman Jana, a leader in the Sudanese Church of Christ (SCOC) in Heiban, South Kordofan state, was forcefully abducted on the morning of July […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/another-church-leader-abducted-in-sudan/\">Fuente: Morning Star News</a>\n#Sudan #Africa #Secuestro #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/SPLA-members-in-Nuba-Mountains-in-video-recording-from-2014.-Screenshot-from-Nuba-Mountains-Shamson-300x173.png"
+      },
+      "msg_id": 24,
+      "fuente": "Morning Star News",
+      "titulo": "Another Church Leader Abducted in Sudan",
+      "creado": 1786124052.2202933
     }
   },
   "editando": null
