@@ -112,7 +112,9 @@
     "https://www.aciprensa.com/noticias/127471/201-anos-independencia-bolivia-mensaje-papa-leon": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127469/estrenan-en-colombia-la-pelicula-solo-javier-la-historia-de-javier-sartorius": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127487/iglesia-catolica-nueva-york-cuarto-ataque-destruyen-estatua-virgen": "procesado",
-    "https://morningstarnews.org/?p=18230": "procesado"
+    "https://morningstarnews.org/?p=18230": "procesado",
+    "https://www.aciprensa.com/noticias/127491/oea-reunion-emergencia-cancilleres-represion-nicaragua": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127489/claudia-sheinbaum-invitacion-papa-leon-xiv-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -130,10 +132,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-QrSpb2J7HAwZECaBvDkWv9amMVQ\""
+      "etag": "W/\"84d8-eZNXjWncuK9QFdKMvTTkqkemWao\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 00:37:54 GMT"
+      "modified": "Fri, 07 Aug 2026 03:39:31 GMT"
     }
   },
   "pendientes": {
