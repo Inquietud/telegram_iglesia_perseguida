@@ -114,7 +114,8 @@
     "https://www.aciprensa.com/noticias/127487/iglesia-catolica-nueva-york-cuarto-ataque-destruyen-estatua-virgen": "procesado",
     "https://morningstarnews.org/?p=18230": "procesado",
     "https://www.aciprensa.com/noticias/127491/oea-reunion-emergencia-cancilleres-represion-nicaragua": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127489/claudia-sheinbaum-invitacion-papa-leon-xiv-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127489/claudia-sheinbaum-invitacion-papa-leon-xiv-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127493/el-santo-caliz-de-valencia-tendra-su-musical-las-aventuras-del-santo-grial": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -125,17 +126,17 @@
       "modified": "Thu, 06 Aug 2026 16:39:49 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"09c51ee8d4bf82478d61e6411693dc6b\"",
-      "modified": "Thu, 06 Aug 2026 07:22:03 GMT"
+      "etag": "\"24a610ff17ec6871060736ae1d3c9ce7\"",
+      "modified": "Fri, 07 Aug 2026 09:42:56 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-yKKEa+Qf518y0MDM0p+szHoVSV4\""
+      "etag": "W/\"84d8-i2VIabHiUsWaWJnOCKj+9s5G4IU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 10:23:16 GMT"
+      "modified": "Fri, 07 Aug 2026 11:22:44 GMT"
     }
   },
   "pendientes": {
