@@ -130,7 +130,9 @@
     "https://www.aciprensa.com/noticias/127513/obispos-de-ecuador-piden-archivar-proyecto-de-ley-sobre-reproduccion-asistida-por-afectar-la": "descartado_palabras",
     "https://persecution.org/?p=4495403": "procesado",
     "https://persecution.org/?p=4495406": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127515/obispos-florida-senadores-extension-tps-haitianos": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127515/obispos-florida-senadores-extension-tps-haitianos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127519/leon-xiv-arturo-sosa-superior-general-jesuitas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127521/8-agosto-dia-internacional-accion-dos-vidas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -148,10 +150,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-rCPoxW7wBtjqfzfpD44knTj0jzA\""
+      "etag": "W/\"84d8-BmL6YR3l0F2j+ky9VFzVsaXJNOQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 20:21:55 GMT"
+      "modified": "Fri, 07 Aug 2026 21:10:09 GMT"
     }
   },
   "pendientes": {
