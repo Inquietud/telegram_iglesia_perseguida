@@ -125,7 +125,8 @@
     "https://www.aciprensa.com/noticias/127507/inician-causa-de-beatificacion-de-mons-juan-tomis-el-sacerdote-que-marco-la-vida-del-papa-leon": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127509/buenos-aires-recibe-a-olivia-maurel-voz-global-contra-la-gestacion-subrogada": "descartado_palabras",
     "https://persecution.org/?p=4495396": "procesado",
-    "https://morningstarnews.org/?p=18235": "procesado"
+    "https://morningstarnews.org/?p=18235": "procesado",
+    "https://www.aciprensa.com/noticias/127511/obispo-de-funchal-visitara-venezuela-en-una-mision-de-cercania-solidaridad-y-esperanza": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -143,10 +144,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-8XaiaS8ytHi9aPhZ06vPyqFqD3M\""
+      "etag": "W/\"84d8-iF2iI2w2NenwjvrTDU3lY7FeYUQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 17:34:01 GMT"
+      "modified": "Fri, 07 Aug 2026 18:27:27 GMT"
     }
   },
   "pendientes": {
