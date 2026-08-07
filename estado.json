@@ -126,15 +126,17 @@
     "https://www.aciprensa.com/noticias/127509/buenos-aires-recibe-a-olivia-maurel-voz-global-contra-la-gestacion-subrogada": "descartado_palabras",
     "https://persecution.org/?p=4495396": "procesado",
     "https://morningstarnews.org/?p=18235": "procesado",
-    "https://www.aciprensa.com/noticias/127511/obispo-de-funchal-visitara-venezuela-en-una-mision-de-cercania-solidaridad-y-esperanza": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127511/obispo-de-funchal-visitara-venezuela-en-una-mision-de-cercania-solidaridad-y-esperanza": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127513/obispos-de-ecuador-piden-archivar-proyecto-de-ley-sobre-reproduccion-asistida-por-afectar-la": "descartado_palabras",
+    "https://persecution.org/?p=4495403": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Fri, 07 Aug 2026 16:46:42 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"d28f366e284d09b74fd7d3294096171b\"",
-      "modified": "Fri, 07 Aug 2026 17:30:15 GMT"
+      "etag": "W/\"1a7e4b07a0df71915cb92041ad51aa14\"",
+      "modified": "Fri, 07 Aug 2026 18:30:00 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"fa0cab7257a8acd16b779d3cb72f697d\"",
@@ -144,10 +146,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-iF2iI2w2NenwjvrTDU3lY7FeYUQ\""
+      "etag": "W/\"84d8-Vo6eqipG8GBUXJwow7fD8kx17R0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 07 Aug 2026 18:27:27 GMT"
+      "modified": "Fri, 07 Aug 2026 19:35:34 GMT"
     }
   },
   "pendientes": {
@@ -323,6 +325,17 @@
       "fuente": "Morning Star News",
       "titulo": "Another Church Leader Abducted in Sudan",
       "creado": 1786124052.2202933
+    },
+    "17": {
+      "texto": "🚨 <b>RUSIA</b> 🇷🇺\n\n<b>Un misil ruso mata a una querida familia cristiana en Ucrania</b>\n\nEn las primeras horas de la mañana del 30 de julio, Rusia lanzó un ataque contra un pueblo en las afueras de Kryvyi Rih, una gran ciudad industrial en Ucrania. En una noche, más de 70 misiles y 280 drones golpearon la pequeña comunidad de Radushne. Los Voronov, una familia cristiana devota, estaban durmiendo profundamente... El misil posterior a Rusia mata a la querida familia cristiana en Ucrania apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Russia Missile Kills Beloved Christian Family in Ukraine</b>\n\n<i>In the early hours of the morning of July 30, Russia launched an attack on a village on the outskirts of Kryvyi Rih, a large industrial city in Ukraine. In one night, more than 70 missiles and 280 drones pummeled the small community of Radushne. The Voronovs, a devout Christian family, were sleeping soundly that… The post Russia Missile Kills Beloved Christian Family in Ukraine first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/07/russia-missile-kills-beloved-christian-family-in-ukraine/\">Fuente: International Christian Concern</a>\n#Rusia #Europa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Ukrainan-family.png"
+      },
+      "msg_id": 25,
+      "fuente": "International Christian Concern",
+      "titulo": "Russia Missile Kills Beloved Christian Family in Ukraine",
+      "creado": 1786131338.4201355
     }
   },
   "editando": null
