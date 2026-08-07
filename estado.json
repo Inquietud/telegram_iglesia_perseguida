@@ -99,15 +99,28 @@
     "https://www.aciprensa.com/noticias/127461/el-cristo-de-los-abismos-el-silencioso-custodio-de-las-profundidades-del-mediterraneo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127467/obispo-valdivia-ceuta-es-un-baluarte-que-proclama-el-valor-de-la-fe-en-la-construccion-de-un-pais": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127465/papa-leon-xiv-nombra-a-eusebio-ramos-nuevo-arzobispo-de-san-juan-de-puerto-rico": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127463/papa-leon-xiv-a-los-jovenes-en-asis-hoy-europa-y-el-mundo-entero-buscan-en-ustedes-nuevos-santos": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127463/papa-leon-xiv-a-los-jovenes-en-asis-hoy-europa-y-el-mundo-entero-buscan-en-ustedes-nuevos-santos": "descartado_palabras",
+    "https://persecution.org/?p=4495387": "descartado_palabras",
+    "https://persecution.org/?p=4495391": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127485/empeora-patron-intimidacion-colonos-israelies-cristianos-taybeh": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127483/81-anos-bombardeos-atomicos-vigilia-oracion-hiroshima-nueva-york-roma": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127479/virgen-guadalupe-cardenal-parolin-recuerda-madres-desaparecidos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127481/fallece-arzobispo-carlos-garfias-merlos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127477/dios-los-ama-papa-leon-tambien-nuncio-apostolico-argentina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127475/rostro-papa-leon-xiv-monedas-vaticano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127473/concejo-bogota-vota-a-favor-del-dia-de-la-oracion-pero-ateos-exigen-al-alcalde-que-no-lo-apruebe": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127471/201-anos-independencia-bolivia-mensaje-papa-leon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127469/estrenan-en-colombia-la-pelicula-solo-javier-la-historia-de-javier-sartorius": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127487/iglesia-catolica-nueva-york-cuarto-ataque-destruyen-estatua-virgen": "procesado",
+    "https://morningstarnews.org/?p=18230": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Tue, 04 Aug 2026 17:15:34 GMT"
+      "modified": "Thu, 06 Aug 2026 19:33:29 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"66b9ef7c99e96b95e5671524df4caceb\"",
-      "modified": "Wed, 05 Aug 2026 23:03:30 GMT"
+      "etag": "W/\"b91d628d75cca9b69b44201c8f754a25\"",
+      "modified": "Thu, 06 Aug 2026 16:39:49 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"09c51ee8d4bf82478d61e6411693dc6b\"",
@@ -117,10 +130,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-RkJjgJyg7kDz4FdRhsbKXxdF56g\""
+      "etag": "W/\"84d8-QrSpb2J7HAwZECaBvDkWv9amMVQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 06 Aug 2026 15:42:34 GMT"
+      "modified": "Fri, 07 Aug 2026 00:37:54 GMT"
     }
   },
   "pendientes": {
@@ -252,6 +265,28 @@
       "fuente": "ACI Prensa",
       "titulo": "La Iglesia en México ayuda a familias afectas por un incendio en Baja California Sur",
       "creado": 1785987880.4144394
+    },
+    "13": {
+      "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Iglesia católica de Nueva York sufre cuarto ataque en 2 años: destruyen estatua de la Virgen</b>\n\nLa Policía investiga el ataque contra la iglesia católica de Santa Rita como un delito de odio, informó la Diócesis de Brooklyn.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127487/iglesia-catolica-nueva-york-cuarto-ataque-destruyen-estatua-virgen\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786058700/ewtn-news/es/Camara-vandalismo-iglesia-NY-060826_apanfo.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 21,
+      "fuente": "ACI Prensa",
+      "titulo": "Iglesia católica de Nueva York sufre cuarto ataque en 2 años: destruyen estatua de la Virgen",
+      "creado": 1786063075.1221778
+    },
+    "14": {
+      "texto": "🚨 <b>PAKISTÁN</b> 🇵🇰\n\n<b>Niña cristiana lucha por anular el matrimonio forzado en Pakistán</b>\n\nLAHORE, Pakistán (Christian Daily International–Morning Star News) – Aneeqa Ishaq, una niña cristiana de 16 años de Lahore, Pakistán, aceptó un trabajo como cajera de un restaurante para la supervivencia de su familia, pero terminó con un compañero de trabajo secuestrándola, obligándola a convertirse al Islam y obligándola a casarse con él, dijo. \"Solo quería ayudar a mi [...]\n\n➖➖➖\n🇬🇧 <b>Christian Girl Struggles to Void Forced Marriage in Pakistan</b>\n\n<i>LAHORE, Pakistan (Christian Daily International–Morning Star News) – Aneeqa Ishaq, a 16-year-old Christian girl in Lahore, Pakistan, took a job as a restaurant cashier for her family’s survival, but it ended with a coworker abducting her, forcing her to convert to Islam and coercing her to marry him, she said. “I only wanted to help my […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/christian-girl-struggles-to-void-forced-marriage-in-pakistan/\">Fuente: Morning Star News</a>\n#Pakistan #Asia #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/In-one-study-the-average-age-of-girls-forced-to-marry-and-convert-to-Islam-in-Pakistan-was-12.8-years-old-according-to-Jubilee-Campaign.-Screenshot-from-Black-Stone-documentary-259x300.png"
+      },
+      "msg_id": 22,
+      "fuente": "Morning Star News",
+      "titulo": "Christian Girl Struggles to Void Forced Marriage in Pakistan",
+      "creado": 1786063079.7889087
     }
   },
   "editando": null
