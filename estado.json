@@ -167,11 +167,12 @@
     "https://www.aciprensa.com/noticias/127571/convocan-a-una-colecta-nacional-para-la-visita-del-papa-leon-xiv-a-argentina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127575/lanzan-concurso-para-crear-la-cancion-oficial-de-la-visita-de-leon-xiv-a-argentina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127573/muere-a-los-108-anos-el-ultimo-monje-trapense-chino-que-sobrevivio-a-la-persecucion-maoista": "descartado_palabras",
-    "https://morningstarnews.org/?p=18250": "procesado"
+    "https://morningstarnews.org/?p=18250": "procesado",
+    "https://www.aciprensa.com/noticias/127577/sismo-causa-severos-danos-en-varias-iglesias-y-basilicas-de-colombia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Mon, 10 Aug 2026 19:11:54 GMT"
+      "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"80a3ff75195d3f6ac1ba216b5139d409\"",
@@ -185,10 +186,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-u8S1XZJaZTcyj7S9oW0LZomlACg\""
+      "etag": "W/\"84d8-40Fzj2weEI2DSggnslIsBusqQDM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 19:17:00 GMT"
+      "modified": "Mon, 10 Aug 2026 20:06:03 GMT"
     }
   },
   "pendientes": {
