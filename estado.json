@@ -161,11 +161,13 @@
     "https://www.aciprensa.com/noticias/127561/el-santuario-de-lourdes-ya-se-prepara-para-recibir-al-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127565/el-papa-leon-xiv-esta-emocionado-y-esperando-su-visita-a-chiclayo-afirma-su-secretario-personal": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127563/mujer-vivio-solo-eucaristia-misterio-lola-cine": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales": "procesado"
+    "https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales": "procesado",
+    "https://morningstarnews.org/?p=18244": "procesado",
+    "https://www.aciprensa.com/noticias/127569/curacion-de-un-hombre-con-cancer-podria-impulsar-la-canonizacion-de-una-monja-martir-del": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Fri, 07 Aug 2026 16:46:42 GMT"
+      "modified": "Mon, 10 Aug 2026 17:02:50 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"80a3ff75195d3f6ac1ba216b5139d409\"",
@@ -179,10 +181,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-knJ35WSW71XDp0LlOzsBO+zetU4\""
+      "etag": "W/\"84d8-Y99W+jllH14B6aLFbgUi8wWnZtw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 16:12:34 GMT"
+      "modified": "Mon, 10 Aug 2026 17:12:53 GMT"
     }
   },
   "pendientes": {
@@ -391,6 +393,28 @@
       "fuente": "ACI Prensa",
       "titulo": "Sismo en Colombia deja al menos 20 muertos; se derrumba parcialmente la Catedral de Manizales",
       "creado": 1786378391.8871093
+    },
+    "20": {
+      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Tres cristianos asesinados en el estado de Plateau, Nigeria</b>\n\nABUJA, Nigeria (Christian Daily International-Morning Star News) – Un cristiano que se dirigía a un servicio de adoración el domingo por la mañana fue asesinado a tiros por presuntos pastores fulani el domingo (9 de agosto) en la aldea de Fann, condado de Barkin Ladi, estado de Plateau, en el centro de Nigeria. El hombre no identificado fue uno de los tres cristianos asesinados en el condado de Barkin Ladi en el [...]\n\n➖➖➖\n🇬🇧 <b>Three Christians Killed in Plateau State, Nigeria</b>\n\n<i>ABUJA, Nigeria (Christian Daily International–Morning Star News) – A Christian on his way to a Sunday morning worship service was shot and killed by suspected Fulani herdsmen on Sunday (Aug. 9) in Fann village, Barkin Ladi County, Plateau state in central Nigeria. The unidentified man was one of three Christians slain in Barkin Ladi County in the […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/\">Fuente: Morning Star News</a>\n#Nigeria #Africa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/Fulani-cattleman-in-southern-nigeria.-Screenshot-of-DW-report-on-YouTube-300x178.png"
+      },
+      "msg_id": 28,
+      "fuente": "Morning Star News",
+      "titulo": "Three Christians Killed in Plateau State, Nigeria",
+      "creado": 1786382013.237697
+    },
+    "21": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Curación de un hombre con cáncer podría impulsar la canonización de una monja mártir del comunismo</b>\n\nBeata Zdenka Schelingová canonización\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127569/curacion-de-un-hombre-con-cancer-podria-impulsar-la-canonizacion-de-una-monja-martir-del\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786378663/ewtn-news/es/BeataZdenkaSchelingov%C3%A1_100826_zgkosy.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 29,
+      "fuente": "ACI Prensa",
+      "titulo": "Curación de un hombre con cáncer podría impulsar la canonización de una monja mártir del comunismo",
+      "creado": 1786382015.0758996
     }
   },
   "editando": null
