@@ -163,11 +163,12 @@
     "https://www.aciprensa.com/noticias/127563/mujer-vivio-solo-eucaristia-misterio-lola-cine": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales": "procesado",
     "https://morningstarnews.org/?p=18244": "procesado",
-    "https://www.aciprensa.com/noticias/127569/curacion-de-un-hombre-con-cancer-podria-impulsar-la-canonizacion-de-una-monja-martir-del": "procesado"
+    "https://www.aciprensa.com/noticias/127569/curacion-de-un-hombre-con-cancer-podria-impulsar-la-canonizacion-de-una-monja-martir-del": "procesado",
+    "https://www.aciprensa.com/noticias/127571/convocan-a-una-colecta-nacional-para-la-visita-del-papa-leon-xiv-a-argentina": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Mon, 10 Aug 2026 17:02:50 GMT"
+      "modified": "Mon, 10 Aug 2026 17:15:22 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"80a3ff75195d3f6ac1ba216b5139d409\"",
@@ -181,10 +182,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Y99W+jllH14B6aLFbgUi8wWnZtw\""
+      "etag": "W/\"84d8-E3REvBlSRTS67gzbgmcf07cn7zM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 17:12:53 GMT"
+      "modified": "Mon, 10 Aug 2026 18:07:25 GMT"
     }
   },
   "pendientes": {
