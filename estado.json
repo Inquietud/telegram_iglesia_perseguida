@@ -160,7 +160,8 @@
     "https://www.aciprensa.com/noticias/127559/mons-ramon-valdivia-convoca-una-vigilia-por-la-paz-la-estabilidad-y-la-justicia-en-ceuta": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127561/el-santuario-de-lourdes-ya-se-prepara-para-recibir-al-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127565/el-papa-leon-xiv-esta-emocionado-y-esperando-su-visita-a-chiclayo-afirma-su-secretario-personal": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127563/mujer-vivio-solo-eucaristia-misterio-lola-cine": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127563/mujer-vivio-solo-eucaristia-misterio-lola-cine": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -178,10 +179,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-wkK9ZDPJcWLGOhL9vcAEkOjsd1A\""
+      "etag": "W/\"84d8-knJ35WSW71XDp0LlOzsBO+zetU4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 15:16:30 GMT"
+      "modified": "Mon, 10 Aug 2026 16:12:34 GMT"
     }
   },
   "pendientes": {
@@ -379,6 +380,17 @@
       "fuente": "ACI Prensa",
       "titulo": "Ante la Virgen de Guadalupe, obispo pide que cese “trágica violencia” en Sinaloa, México",
       "creado": 1786312474.417985
+    },
+    "19": {
+      "texto": "🚨 <b>COLOMBIA</b> 🇨🇴\n\n<b>Sismo en Colombia deja al menos 20 muertos; se derrumba parcialmente la Catedral de Manizales</b>\n\nLa Arquidiócesis de Manizales ha pedido rezar a Dios \"por todas las personas y familias que pudieron verse afectadas” y en especial por quienes necesitan ayuda”.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales\">Fuente: ACI Prensa</a>\n#Colombia #America #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786373882/ewtn-news/es/catedral-manizales_100626_nqrusu.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 27,
+      "fuente": "ACI Prensa",
+      "titulo": "Sismo en Colombia deja al menos 20 muertos; se derrumba parcialmente la Catedral de Manizales",
+      "creado": 1786378391.8871093
     }
   },
   "editando": null
