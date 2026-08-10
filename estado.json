@@ -164,11 +164,14 @@
     "https://www.aciprensa.com/noticias/127567/sismo-colombia-causa-derrumbe-parcial-de-catedral-manizales": "procesado",
     "https://morningstarnews.org/?p=18244": "procesado",
     "https://www.aciprensa.com/noticias/127569/curacion-de-un-hombre-con-cancer-podria-impulsar-la-canonizacion-de-una-monja-martir-del": "procesado",
-    "https://www.aciprensa.com/noticias/127571/convocan-a-una-colecta-nacional-para-la-visita-del-papa-leon-xiv-a-argentina": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127571/convocan-a-una-colecta-nacional-para-la-visita-del-papa-leon-xiv-a-argentina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127575/lanzan-concurso-para-crear-la-cancion-oficial-de-la-visita-de-leon-xiv-a-argentina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127573/muere-a-los-108-anos-el-ultimo-monje-trapense-chino-que-sobrevivio-a-la-persecucion-maoista": "descartado_palabras",
+    "https://morningstarnews.org/?p=18250": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Mon, 10 Aug 2026 17:15:22 GMT"
+      "modified": "Mon, 10 Aug 2026 19:11:54 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"80a3ff75195d3f6ac1ba216b5139d409\"",
@@ -182,10 +185,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-E3REvBlSRTS67gzbgmcf07cn7zM\""
+      "etag": "W/\"84d8-u8S1XZJaZTcyj7S9oW0LZomlACg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 18:07:25 GMT"
+      "modified": "Mon, 10 Aug 2026 19:17:00 GMT"
     }
   },
   "pendientes": {
@@ -416,6 +419,17 @@
       "fuente": "ACI Prensa",
       "titulo": "Curación de un hombre con cáncer podría impulsar la canonización de una monja mártir del comunismo",
       "creado": 1786382015.0758996
+    },
+    "22": {
+      "texto": "🚨 <b>SUDÁN</b> 🇸🇩\n\n<b>Dos líderes de la iglesia secuestrados en Sudán son liberados</b>\n\nNAIROBI, Kenia (Morning Star News) – Dos líderes de la iglesia secuestrados en las montañas Nuba de Sudán han sido liberados, dijeron fuentes locales. El reverendo Yaqob Ibrahim Tia y Zakaria Suliman Jana, ambos líderes prominentes de una congregación sudanesa de la Iglesia de Cristo (SCOC) en Heiban, estado de Kordofán del Sur, fueron liberados el 28 de julio y el 28 de agosto.\n\n➖➖➖\n🇬🇧 <b>Two Church Leaders Abducted in Sudan Are Freed</b>\n\n<i>NAIROBI, Kenya (Morning Star News) – Two church leaders abducted in Sudan’s Nuba Mountains have been released, local sources said. The Rev. Yaqob Ibrahim Tia and Zakaria Suliman Jana, both prominent leaders of a Sudanese Church of Christ (SCOC) congregation in Heiban, South Kordofan state, were freed on July 28 and Aug.</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/two-church-leaders-abducted-in-sudan-are-freed/\">Fuente: Morning Star News</a>\n#Sudan #Africa #Secuestro #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/Members-of-the-SPLA-in-Nuba-Mountains-in-video-recording-from-2014.-Screenshot-from-Nuba-Mountains-Shamson-300x180.png"
+      },
+      "msg_id": 30,
+      "fuente": "Morning Star News",
+      "titulo": "Two Church Leaders Abducted in Sudan Are Freed",
+      "creado": 1786389423.6984825
     }
   },
   "editando": null
