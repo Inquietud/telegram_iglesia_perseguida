@@ -156,7 +156,8 @@
     "https://www.aciprensa.com/noticias/127557/obispo-mazatlan-pide-cese-tragica-violencia-sinaloa": "procesado",
     "https://www.aciprensa.com/noticias/56609/hoy-se-celebra-a-san-lorenzo-martir-patrono-de-los-diaconos-archivistas-y-tesoreros": "descartado_palabras",
     "https://www.aciprensa.com/noticias/95133/11-datos-sobre-el-monasterio-de-san-lorenzo-de-el-escorial-fundado-por-un-emperador": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/61050/hoy-la-iglesia-celebra-el-dia-de-los-diaconos-permanentes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/61050/hoy-la-iglesia-celebra-el-dia-de-los-diaconos-permanentes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127559/mons-ramon-valdivia-convoca-una-vigilia-por-la-paz-la-estabilidad-y-la-justicia-en-ceuta": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -174,10 +175,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-ILq4lPn0yMDceMroE7NHhXp/XdU\""
+      "etag": "W/\"84d8-90Qu6J0BwyBHHTYVaystCLhhxOk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 10 Aug 2026 11:48:36 GMT"
+      "modified": "Mon, 10 Aug 2026 12:42:02 GMT"
     }
   },
   "pendientes": {
