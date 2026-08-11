@@ -181,15 +181,17 @@
     "https://www.aciprensa.com/noticias/127599/huellas-de-pastor-el-libro-que-revela-el-corazon-pastoral-del-papa-leon-xiv-en-el-norte-del-peru": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127597/terremoto-en-colombia-afecto-10-comunidades-salesianas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127601/fe-cultura-y-tradicion-los-bolivianos-celebran-a-la-virgen-de-urkupina": "descartado_palabras",
-    "https://persecution.org/?p=4495423": "procesado"
+    "https://persecution.org/?p=4495423": "procesado",
+    "https://www.aciprensa.com/noticias/127605/medico-se-convierte-en-heroe-al-salvar-a-dos-recien-nacidos-durante-terremoto-en-colombia": "descartado_palabras",
+    "https://persecution.org/?p=4495429": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"10f93a7776a942ad91ed2c7e55d012b6\"",
-      "modified": "Tue, 11 Aug 2026 17:20:22 GMT"
+      "etag": "W/\"ee8324bd5457bf680b35869b46f0cf54\"",
+      "modified": "Tue, 11 Aug 2026 18:50:42 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3b35dee3d71604e661a8fac1e16a6488\"",
@@ -199,10 +201,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-LMoFDkTrbkBJgEdmqUYzTPIjmyw\""
+      "etag": "W/\"84d8-FecclKoVZFY7wsuG2Y4KgyVNlLs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 11 Aug 2026 18:12:22 GMT"
+      "modified": "Tue, 11 Aug 2026 19:29:17 GMT"
     }
   },
   "pendientes": {
@@ -455,6 +457,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Montagnard Pastor Gets 7-Year Prison Sentence in Vietnam",
       "creado": 1786471946.4113002
+    },
+    "24": {
+      "texto": "🚨 <b>SUDÁN</b> 🇸🇩\n\n<b>Los cristianos de Sudán se enfrentan a una creciente persecución mientras la guerra devasta las iglesias</b>\n\nUn pastor en las montañas Nuba de Sudán fue ejecutado recientemente junto con otras seis personas después de ser detenido por una facción armada. Otro líder de la iglesia fue secuestrado de la misma región días después. Los ataques son parte de una creciente ola de violencia contra líderes y comunidades cristianas a medida que la guerra civil de Sudán entra en su cuarto año.\n\n➖➖➖\n🇬🇧 <b>Sudan’s Christians Face Rising Persecution as War Devastates Churches</b>\n\n<i>A pastor in Sudan’s Nuba Mountains was recently executed alongside six other people after being detained by an armed faction. Another church leader was abducted from the same region days later. The attacks are part of a growing wave of violence against Christian leaders and communities as Sudan’s civil war enters its fourth year.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/11/sudans-christians-face-rising-persecution-as-war-devastates-churches/\">Fuente: International Christian Concern</a>\n#Sudan #Africa #Secuestro #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2025/07/Church-in-Sudan.jpg"
+      },
+      "msg_id": 32,
+      "fuente": "International Christian Concern",
+      "titulo": "Sudan’s Christians Face Rising Persecution as War Devastates Churches",
+      "creado": 1786476560.8432612
     }
   },
   "editando": null
