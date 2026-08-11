@@ -179,15 +179,17 @@
     "https://www.aciprensa.com/noticias/127589/jornada-mundial-de-la-paz-desarmar-la-tecnologia-y-alentar-la-responsabilidad-politica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127595/sacerdote-espanol-logra-que-1-280-solteros-contraigan-matrimonio-en-15-anos-utilizando-whatsapp": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127599/huellas-de-pastor-el-libro-que-revela-el-corazon-pastoral-del-papa-leon-xiv-en-el-norte-del-peru": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127597/terremoto-en-colombia-afecto-10-comunidades-salesianas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127597/terremoto-en-colombia-afecto-10-comunidades-salesianas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127601/fe-cultura-y-tradicion-los-bolivianos-celebran-a-la-virgen-de-urkupina": "descartado_palabras",
+    "https://persecution.org/?p=4495423": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"5e093e5a02570f20a3a2b6ddd351e719\"",
-      "modified": "Tue, 11 Aug 2026 13:29:54 GMT"
+      "etag": "W/\"10f93a7776a942ad91ed2c7e55d012b6\"",
+      "modified": "Tue, 11 Aug 2026 17:20:22 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3b35dee3d71604e661a8fac1e16a6488\"",
@@ -197,10 +199,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-eCya5rAanI1rVAT2h/r+n+HS7zM\""
+      "etag": "W/\"84d8-LMoFDkTrbkBJgEdmqUYzTPIjmyw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 11 Aug 2026 17:16:55 GMT"
+      "modified": "Tue, 11 Aug 2026 18:12:22 GMT"
     }
   },
   "pendientes": {
@@ -442,6 +444,17 @@
       "fuente": "Morning Star News",
       "titulo": "Two Church Leaders Abducted in Sudan Are Freed",
       "creado": 1786389423.6984825
+    },
+    "23": {
+      "texto": "⚠️ <b>VIETNAM</b> 🇻🇳\n\n<b>Pastor de Montagnard recibe una sentencia de 7 años de prisión en Vietnam</b>\n\nEl pastor Y Nuen Ayun, miembro del grupo étnico Montagnard y Ede, ha sido condenado a siete años y medio de prisión y cuatro años adicionales de libertad condicional. Las autoridades lo arrestaron en octubre de 2025 por liderar y pastorear la Iglesia Evangélica de Cristo Central Highlands en la provincia de Dak Lak. El comunista vietnamita... El post Montagnard Pastor Gets 7-Year Prison Sentence in Vietnam apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Montagnard Pastor Gets 7-Year Prison Sentence in Vietnam</b>\n\n<i>Pastor Y Nuen Ayun, a member of the Montagnard and Ede people group, has been sentenced to seven and a half years in prison and an additional four years of probation. Authorities arrested him in October 2025 for leading and pastoring the Central Highlands Evangelical Church of Christ in Dak Lak Province. The Vietnamese Communist… The post Montagnard Pastor Gets 7-Year Prison Sentence in Vietnam first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/11/montagnard-pastor-gets-7-year-prison-sentence-in-vietnam/\">Fuente: International Christian Concern</a>\n#Vietnam #Asia #Detenciones #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Pastor-Y-Nuen-Ayun-Vietnam-2-300x225.jpg"
+      },
+      "msg_id": 31,
+      "fuente": "International Christian Concern",
+      "titulo": "Montagnard Pastor Gets 7-Year Prison Sentence in Vietnam",
+      "creado": 1786471946.4113002
     }
   },
   "editando": null
