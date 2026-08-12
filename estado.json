@@ -200,15 +200,16 @@
     "https://www.aciprensa.com/noticias/127631/gobierno-de-colombia-restaurara-la-catedral-de-manizales-danada-por-el-terremoto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127637/arquidiocesis-de-bogota-organiza-curso-de-capacitacion-para-pastoral-con-personas-con-discapacidades": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127633/iglesia-catolica-en-venezuela-catedral-de-caracas-celebra-159-anos-de-consagracion": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127635/fallecio-mons-tulio-ramirez-padilla-obispo-venezolano-de-entrega-generosa-y-servicio-abnegado": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127635/fallecio-mons-tulio-ramirez-padilla-obispo-venezolano-de-entrega-generosa-y-servicio-abnegado": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127639/inauguran-un-gran-monumento-en-honor-a-la-virgen-patrona-de-asuncion": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"8ba9899920c81c74b713403574170c19\"",
-      "modified": "Wed, 12 Aug 2026 17:46:06 GMT"
+      "etag": "W/\"8a30fee64401815db1740a6023bd5320\"",
+      "modified": "Wed, 12 Aug 2026 21:14:33 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"65a93b444c153f9c2c80e6875267f204\"",
@@ -218,10 +219,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-mFSUBMrRYuhYYWjc84OfMbSPPzs\""
+      "etag": "W/\"84d8-WNKuuDbLV/H+rlj80h5IL0bVcEM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 12 Aug 2026 20:40:38 GMT"
+      "modified": "Wed, 12 Aug 2026 21:30:22 GMT"
     }
   },
   "pendientes": {
