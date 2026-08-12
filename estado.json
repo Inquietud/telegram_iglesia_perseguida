@@ -196,15 +196,16 @@
     "https://www.aciprensa.com/noticias/127623/programa-completo-del-viaje-apostolico-del-papa-leon-xiv-a-san-marino": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127625/expectacion-ante-un-eclipse-solar-en-espana-pistas-para-vivirlo-en-clave-cristiana": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127627/papa-leon-xiv-dona-cien-mil-euros-a-la-iglesia-en-colombia-para-ayudar-a-damnificados-del-terremoto": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127629/llega-a-los-cines-de-chile-la-pelicula-sagrado-corazon-su-reino-no-tendra-fin": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127629/llega-a-los-cines-de-chile-la-pelicula-sagrado-corazon-su-reino-no-tendra-fin": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127631/gobierno-de-colombia-restaurara-la-catedral-de-manizales-danada-por-el-terremoto": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"249c8960973f9b5f463e949c5d5079b6\"",
-      "modified": "Wed, 12 Aug 2026 16:42:01 GMT"
+      "etag": "W/\"8ba9899920c81c74b713403574170c19\"",
+      "modified": "Wed, 12 Aug 2026 17:46:06 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"65a93b444c153f9c2c80e6875267f204\"",
@@ -214,10 +215,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-+Xmffu5Zqb5okQ5I3CumCisPUYY\""
+      "etag": "W/\"84d8-WLM9LGuL9DX8hGke+VW7TLSo9I8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 12 Aug 2026 17:45:11 GMT"
+      "modified": "Wed, 12 Aug 2026 18:40:48 GMT"
     }
   },
   "pendientes": {
