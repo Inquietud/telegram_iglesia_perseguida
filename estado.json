@@ -202,15 +202,18 @@
     "https://www.aciprensa.com/noticias/127633/iglesia-catolica-en-venezuela-catedral-de-caracas-celebra-159-anos-de-consagracion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127635/fallecio-mons-tulio-ramirez-padilla-obispo-venezolano-de-entrega-generosa-y-servicio-abnegado": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127639/inauguran-un-gran-monumento-en-honor-a-la-virgen-patrona-de-asuncion": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127641/papa-leon-xiv-las-mujeres-y-los-hombres-en-la-vida-religiosa-estan-llamados-a-convertirse-en": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127641/papa-leon-xiv-las-mujeres-y-los-hombres-en-la-vida-religiosa-estan-llamados-a-convertirse-en": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/93590/3-cosas-que-todo-catolico-debe-saber-sobre-los-dogmas-marianos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127643/iglesia-catolica-colombia-convoca-jornada-nacional-de-oracion-por-victimas-terremoto": "descartado_palabras",
+    "https://persecution.org/?p=4495439": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
       "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"8a30fee64401815db1740a6023bd5320\"",
-      "modified": "Wed, 12 Aug 2026 21:14:33 GMT"
+      "etag": "W/\"a502516b53865b32da651c6912ace72f\"",
+      "modified": "Wed, 12 Aug 2026 23:05:55 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"65a93b444c153f9c2c80e6875267f204\"",
@@ -220,10 +223,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-1naKzThxMXM7beumqrey4kxEbLo\""
+      "etag": "W/\"84d8-c0vxivaMoWDfJ8qdevCMMrMhR6I\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 12 Aug 2026 22:21:34 GMT"
+      "modified": "Wed, 12 Aug 2026 23:10:32 GMT"
     }
   },
   "pendientes": {
@@ -487,6 +490,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Sudan’s Christians Face Rising Persecution as War Devastates Churches",
       "creado": 1786476560.8432612
+    },
+    "25": {
+      "texto": "📄 <b>ARMENIA</b> 🇦🇲\n\n<b>El líder de la iglesia armenia se enfrenta a un juicio a medida que aumenta la presión del gobierno</b>\n\nLa confrontación del gobierno armenio con la Iglesia Apostólica Armenia ha llegado a un punto sin precedentes, con el Catholicos de Todos los Armenios Karekin II compareciendo ante el tribunal por cargos penales la semana pasada, mientras que el parlamento recién elegido abrió sin el Catholicos por primera vez desde que Armenia recuperó su independencia.\n\n➖➖➖\n🇬🇧 <b>Armenian Church Leader Faces Trial as Government Pressure Escalates</b>\n\n<i>The Armenian government’s confrontation with the Armenian Apostolic Church has reached an unprecedented point, with Catholicos of All Armenians Karekin II appearing in court on criminal charges last week while the newly elected parliament opened without the Catholicos for the first time since Armenia regained independence.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/12/armenian-church-leader-faces-trial-as-government-pressure-escalates/\">Fuente: International Christian Concern</a>\n#Armenia #Europa #Juicio #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/02/Catholicos-of-All-Armenians-Karekin-II.jpg"
+      },
+      "msg_id": 33,
+      "fuente": "International Christian Concern",
+      "titulo": "Armenian Church Leader Faces Trial as Government Pressure Escalates",
+      "creado": 1786576235.7377713
     }
   },
   "editando": null
