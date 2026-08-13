@@ -206,7 +206,10 @@
     "https://www.aciprensa.com/noticias/93590/3-cosas-que-todo-catolico-debe-saber-sobre-los-dogmas-marianos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127643/iglesia-catolica-colombia-convoca-jornada-nacional-de-oracion-por-victimas-terremoto": "descartado_palabras",
     "https://persecution.org/?p=4495439": "procesado",
-    "https://www.aciprensa.com/noticias/127647/iglesia-catolica-se-prepara-ante-posibles-emergencias-por-lluvias-y-sismos-en-guerrero-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127647/iglesia-catolica-se-prepara-ante-posibles-emergencias-por-lluvias-y-sismos-en-guerrero-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127645/batalla-internacional-cristeros-catolicos-estados-unidos-apoyo-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127649/la-iglesia-en-quito-asumira-la-formacion-de-sus-futuros-sacerdotes-en-el-seminario-san-jose": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127651/iglesia-catolica-llevara-al-papa-leon-xiv-fotos-y-nombres-de-victimas-de-la-violencia-en-mexico": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -224,10 +227,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-rsCBYGkh+1vmaV+HFY62qDpZ29k\""
+      "etag": "W/\"84d8-AaM08LFOlFbRbicr/TrPgUgVun8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 00:00:40 GMT"
+      "modified": "Thu, 13 Aug 2026 02:41:51 GMT"
     }
   },
   "pendientes": {
@@ -502,6 +505,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Armenian Church Leader Faces Trial as Government Pressure Escalates",
       "creado": 1786576235.7377713
+    },
+    "26": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Iglesia Católica en México llevará al Papa León XIV fotos y nombres de víctimas de la violencia</b>\n\nLa Iglesia Católica en México prepara un documento con los nombres y fotografías de víctimas de la violencia en el país que será entregado al Papa León XIV.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127651/iglesia-catolica-llevara-al-papa-leon-xiv-fotos-y-nombres-de-victimas-de-la-violencia-en-mexico\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1785448550/ewtn-news/es/DESAPARECIDOS30726_3_xbqivf.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 34,
+      "fuente": "ACI Prensa",
+      "titulo": "Iglesia Católica en México llevará al Papa León XIV fotos y nombres de víctimas de la violencia",
+      "creado": 1786588911.7376313
     }
   },
   "editando": null
