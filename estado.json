@@ -229,7 +229,8 @@
     "https://persecution.org/?p=4495468": "procesado",
     "https://www.aciprensa.com/noticias/127669/white-sox-homenaje-papa-leon-xiv-noche-del-papa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127675/la-imagen-peregrina-de-maria-de-nazareth-y-una-reliquia-de-tierra-santa-recorren-bolivia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127677/caballeros-de-colon-entregan-sillas-de-ruedas-a-personas-con-movilidad-limitada-en-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127677/caballeros-de-colon-entregan-sillas-de-ruedas-a-personas-con-movilidad-limitada-en-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127679/estas-son-las-actividades-con-la-que-los-venezolanos-podran-celebrar-a-la-virgen-de-coromoto": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -248,10 +249,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-1YRLzOu0SAB/qMx0ePZNC6gRnUA\""
+      "etag": "W/\"84d8-JoPs/dhVKuCQyZRmWLrxilj4mow\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 22:56:17 GMT"
+      "modified": "Thu, 13 Aug 2026 23:51:54 GMT"
     }
   },
   "pendientes": {
