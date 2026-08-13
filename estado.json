@@ -215,7 +215,11 @@
     "https://www.aciprensa.com/noticias/127653/obispo-de-haiti-denuncia-ataques-de-pandillas-contra-la-iglesia-y-cierre-de-parroquias-y": "procesado",
     "https://www.aciprensa.com/noticias/127657/el-familion-de-la-diocesis-de-getafe-cumple-20-anos-vacaciones-con-dios-en-el-centro": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127659/torreciudad-obispo-barbastro-ordena-traslado-de-virgen-a-ermita": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127661/cardenal-recuerda-jovenes-dios-los-ama": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127661/cardenal-recuerda-jovenes-dios-los-ama": "descartado_palabras",
+    "https://persecution.org/?p=4495451": "descartado_palabras",
+    "https://persecution.org/?p=4495446": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127665/gobierno-peru-interes-nacional-visita-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127663/obispo-aleman-cuestiona-vaticano-predicacion-laicos-misa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -223,8 +227,8 @@
       "modified": "Thu, 13 Aug 2026 15:17:14 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"a502516b53865b32da651c6912ace72f\"",
-      "modified": "Wed, 12 Aug 2026 23:05:55 GMT"
+      "etag": "W/\"a3331dcf9e9b65426e3502f4794a6b4b\"",
+      "modified": "Thu, 13 Aug 2026 18:01:21 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a3675a4c9f4734e6730d9123b7104ca2\"",
@@ -234,10 +238,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-kxNZPDtYv5LKlSmfpfwnmSK7yLI\""
+      "etag": "W/\"84d8-wfWSeekq9b7glP4V48+hvi/NNLI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 17:10:30 GMT"
+      "modified": "Thu, 13 Aug 2026 18:08:55 GMT"
     }
   },
   "pendientes": {
