@@ -219,7 +219,11 @@
     "https://persecution.org/?p=4495451": "descartado_palabras",
     "https://persecution.org/?p=4495446": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127665/gobierno-peru-interes-nacional-visita-papa-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127663/obispo-aleman-cuestiona-vaticano-predicacion-laicos-misa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127663/obispo-aleman-cuestiona-vaticano-predicacion-laicos-misa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127673/el-presidente-kast-anuncio-que-no-avanzara-con-el-proyecto-de-ley-escucha-su-corazon-en-chile": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127667/santuario-de-fatima-y-diocesis-de-asis-rezan-por-victimas-terremoto-colombia": "descartado_palabras",
+    "https://persecution.org/?p=4495464": "procesado",
+    "https://persecution.org/?p=4495458": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -227,8 +231,8 @@
       "modified": "Thu, 13 Aug 2026 15:17:14 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"a3331dcf9e9b65426e3502f4794a6b4b\"",
-      "modified": "Thu, 13 Aug 2026 18:01:21 GMT"
+      "etag": "W/\"847cc6799ebe7dc23c862b03e49f9591\"",
+      "modified": "Thu, 13 Aug 2026 18:58:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a3675a4c9f4734e6730d9123b7104ca2\"",
@@ -238,10 +242,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-wfWSeekq9b7glP4V48+hvi/NNLI\""
+      "etag": "W/\"84d8-IyqXHsPBJQvbS91e3/oSraf/no0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 18:08:55 GMT"
+      "modified": "Thu, 13 Aug 2026 19:27:22 GMT"
     }
   },
   "pendientes": {
@@ -549,6 +553,25 @@
       "fuente": "ACI Prensa",
       "titulo": "Obispo de Haití denuncia ataques de pandillas contra la Iglesia y cierre de parroquias y escuelas",
       "creado": 1786629113.1588686
+    },
+    "29": {
+      "texto": "⚠️ <b>SUDÁN</b> 🇸🇩\n\n<b>Cristiano sudanés encuentra esperanza tras huir a Sudán del Sur</b>\n\nCuando una milicia islámica atacó la aldea de Saleh en Sudán, todo lo que había construido se derrumbó en un solo día. Como nuevo convertido al cristianismo, la decisión de seguir a Jesús ya había tenido un alto costo. Los lazos familiares estaban rotos.\n\n➖➖➖\n🇬🇧 <b>Sudanese Christian Finds Hope After Fleeing to South Sudan</b>\n\n<i>When an Islamic militia attacked Saleh’s village in Sudan, everything he had built collapsed in a single day. As a new convert to Christianity, the decision to follow Jesus had already come at a high cost. Family ties were broken.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/13/sudanese-christian-finds-hope-after-fleeing-to-south-sudan/\">Fuente: International Christian Concern</a>\n#Sudan #Africa #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Website-Photo-Resize-2-11.jpg"
+      },
+      "msg_id": 37,
+      "fuente": "International Christian Concern",
+      "titulo": "Sudanese Christian Finds Hope After Fleeing to South Sudan",
+      "creado": 1786649245.2627559
+    },
+    "30": {
+      "texto": "⚠️ <b>NIGERIA</b> 🇳🇬\n\n<b>La Comisión de Derechos Humanos de Nigeria pide el arresto de un clérigo islámico por sus comentarios contra los cristianos</b>\n\nSheikh Muhammadu Sani Yahaya Jingir, un prominente clérigo islámico en el norte de Nigeria, enfrenta llamados a arresto y enjuiciamiento después de que describió a los cristianos y otros no musulmanes como \"infieles\" e instó a los musulmanes a usar sus votos para preservar el control político musulmán. En una declaración publicada en X el martes\n\n➖➖➖\n🇬🇧 <b>Nigerian Rights Commission Calls for Arrest of Islamic Cleric Over Remarks Against Christians</b>\n\n<i>Sheikh Muhammadu Sani Yahaya Jingir, a prominent Islamic cleric in northern Nigeria, faces calls for arrest and prosecution after he described Christians and other non-Muslims as “infidels” and urged Muslims to use their votes to preserve Muslim political control. In a statement posted on X on Tuesday, Aug.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": null,
+      "msg_id": 38,
+      "fuente": "International Christian Concern",
+      "titulo": "Nigerian Rights Commission Calls for Arrest of Islamic Cleric Over Remarks Against Christians",
+      "creado": 1786649249.981458
     }
   },
   "editando": null
