@@ -228,7 +228,8 @@
     "https://www.aciprensa.com/noticias/71463/7-ciudades-de-america-que-deben-su-nombre-a-la-virgen-maria": "descartado_palabras",
     "https://persecution.org/?p=4495468": "procesado",
     "https://www.aciprensa.com/noticias/127669/white-sox-homenaje-papa-leon-xiv-noche-del-papa": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127675/la-imagen-peregrina-de-maria-de-nazareth-y-una-reliquia-de-tierra-santa-recorren-bolivia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127675/la-imagen-peregrina-de-maria-de-nazareth-y-una-reliquia-de-tierra-santa-recorren-bolivia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127677/caballeros-de-colon-entregan-sillas-de-ruedas-a-personas-con-movilidad-limitada-en-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -247,10 +248,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Np1FmTVREiLR4OmOQX8fY2TCavM\""
+      "etag": "W/\"84d8-1YRLzOu0SAB/qMx0ePZNC6gRnUA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 21:59:47 GMT"
+      "modified": "Thu, 13 Aug 2026 22:56:17 GMT"
     }
   },
   "pendientes": {
