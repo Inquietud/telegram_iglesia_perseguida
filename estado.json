@@ -223,7 +223,10 @@
     "https://www.aciprensa.com/noticias/127673/el-presidente-kast-anuncio-que-no-avanzara-con-el-proyecto-de-ley-escucha-su-corazon-en-chile": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127667/santuario-de-fatima-y-diocesis-de-asis-rezan-por-victimas-terremoto-colombia": "descartado_palabras",
     "https://persecution.org/?p=4495464": "procesado",
-    "https://persecution.org/?p=4495458": "procesado"
+    "https://persecution.org/?p=4495458": "procesado",
+    "https://www.aciprensa.com/noticias/127671/estoy-excomulgado-si-asisto-a-una-boda-de-la-fsspx": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/71463/7-ciudades-de-america-que-deben-su-nombre-a-la-virgen-maria": "descartado_palabras",
+    "https://persecution.org/?p=4495468": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -231,8 +234,8 @@
       "modified": "Thu, 13 Aug 2026 15:17:14 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"847cc6799ebe7dc23c862b03e49f9591\"",
-      "modified": "Thu, 13 Aug 2026 18:58:25 GMT"
+      "etag": "W/\"e8893a4eb6da49e49201557634dd5e67\"",
+      "modified": "Thu, 13 Aug 2026 19:52:13 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a3675a4c9f4734e6730d9123b7104ca2\"",
@@ -242,10 +245,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-IyqXHsPBJQvbS91e3/oSraf/no0\""
+      "etag": "W/\"84d8-lnI38YPWvcLNKHSX2woemCyQx9E\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 19:27:22 GMT"
+      "modified": "Thu, 13 Aug 2026 20:07:03 GMT"
     }
   },
   "pendientes": {
@@ -572,6 +575,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Nigerian Rights Commission Calls for Arrest of Islamic Cleric Over Remarks Against Christians",
       "creado": 1786649249.981458
+    },
+    "31": {
+      "texto": "🚨 <b>UGANDA</b> 🇺🇬\n\n<b>El capítulo final del trágico asesinato de Susan Magara</b>\n\nEl 5 de agosto, un tribunal ugandés presidido por el juez del Tribunal Superior Alex Mackay Ajiji condenó a muerte a dos musulmanas, Hajarah Nakandi y Abas Musa, por el asesinato de una mujer cristiana inocente, Susan Magara. Los otros siete convictos, Yusuf Lubega, Mahad Kisalita, Ismail Bukenya, Abubaker Kyewokya, Hassan Wasswa, Hussein Kato Miiro y Muzamir Ssali,... El post El capítulo final del trágico asesinato de Susan Magara apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>The Final Chapter in the Tragic Murder of Susan Magara</b>\n\n<i>On Aug. 5, a Ugandan court presided over by High Court Judge Alex Mackay Ajiji sentenced two Muslims, Hajarah Nakandi and Abas Musa, to death for the killing of an innocent Christian woman, Susan Magara. The other seven convicts, Yusuf Lubega, Mahad Kisalita, Ismail Bukenya, Abubaker Kyewokya, Hassan Wasswa, Hussein Kato Miiro, and Muzamir Ssali,… The post The Final Chapter in the Tragic Murder of Susan Magara first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/13/the-final-chapter-in-the-tragic-murder-of-susan-magara/\">Fuente: International Christian Concern</a>\n#Uganda #Africa #Asesinato #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Website-Photo-Resize-2-12.jpg"
+      },
+      "msg_id": 39,
+      "fuente": "International Christian Concern",
+      "titulo": "The Final Chapter in the Tragic Murder of Susan Magara",
+      "creado": 1786651634.5157533
     }
   },
   "editando": null
