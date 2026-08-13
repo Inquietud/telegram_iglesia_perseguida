@@ -214,7 +214,8 @@
     "https://morningstarnews.org/?p=18264": "procesado",
     "https://www.aciprensa.com/noticias/127653/obispo-de-haiti-denuncia-ataques-de-pandillas-contra-la-iglesia-y-cierre-de-parroquias-y": "procesado",
     "https://www.aciprensa.com/noticias/127657/el-familion-de-la-diocesis-de-getafe-cumple-20-anos-vacaciones-con-dios-en-el-centro": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127659/torreciudad-obispo-barbastro-ordena-traslado-de-virgen-a-ermita": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127659/torreciudad-obispo-barbastro-ordena-traslado-de-virgen-a-ermita": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127661/cardenal-recuerda-jovenes-dios-los-ama": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -226,17 +227,17 @@
       "modified": "Wed, 12 Aug 2026 23:05:55 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"450e4400fdbbdee5e5592f8e0825a1b0\"",
-      "modified": "Thu, 13 Aug 2026 15:55:00 GMT"
+      "etag": "\"a3675a4c9f4734e6730d9123b7104ca2\"",
+      "modified": "Thu, 13 Aug 2026 16:27:56 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-o+xc1bAmz426ycVgY6xwVPPXXIU\""
+      "etag": "W/\"84d8-kxNZPDtYv5LKlSmfpfwnmSK7yLI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 16:04:14 GMT"
+      "modified": "Thu, 13 Aug 2026 17:10:30 GMT"
     }
   },
   "pendientes": {
