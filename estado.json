@@ -209,11 +209,15 @@
     "https://www.aciprensa.com/noticias/127647/iglesia-catolica-se-prepara-ante-posibles-emergencias-por-lluvias-y-sismos-en-guerrero-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127645/batalla-internacional-cristeros-catolicos-estados-unidos-apoyo-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127649/la-iglesia-en-quito-asumira-la-formacion-de-sus-futuros-sacerdotes-en-el-seminario-san-jose": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127651/iglesia-catolica-llevara-al-papa-leon-xiv-fotos-y-nombres-de-victimas-de-la-violencia-en-mexico": "procesado"
+    "https://www.aciprensa.com/noticias/127651/iglesia-catolica-llevara-al-papa-leon-xiv-fotos-y-nombres-de-victimas-de-la-violencia-en-mexico": "procesado",
+    "https://www.aciprensa.com/noticias/127655/el-derecho-canonico-y-como-se-aplica-a-los-catolicos": "descartado_palabras",
+    "https://morningstarnews.org/?p=18264": "procesado",
+    "https://www.aciprensa.com/noticias/127653/obispo-de-haiti-denuncia-ataques-de-pandillas-contra-la-iglesia-y-cierre-de-parroquias-y": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "modified": "Mon, 10 Aug 2026 19:38:37 GMT"
+      "etag": "W/\"bbe38dbf1fee8361841e1f5ce289ef4d\"",
+      "modified": "Thu, 13 Aug 2026 13:17:29 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"a502516b53865b32da651c6912ace72f\"",
@@ -227,10 +231,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-wNZgLo+jGsHA3D1eH3OmNZ754MU\""
+      "etag": "W/\"84d8-c1jDX6UiCGpX9BFs8SvYxnHFejM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 13 Aug 2026 12:11:17 GMT"
+      "modified": "Thu, 13 Aug 2026 13:51:44 GMT"
     }
   },
   "pendientes": {
@@ -516,6 +520,28 @@
       "fuente": "ACI Prensa",
       "titulo": "Iglesia Católica en México llevará al Papa León XIV fotos y nombres de víctimas de la violencia",
       "creado": 1786588911.7376313
+    },
+    "27": {
+      "texto": "⚠️ <b>INDONESIA</b> 🇮🇩\n\n<b>Pastor sentenciado a dos años de prisión en Indonesia</b>\n\nSURABAYA, Indonesia (Morning Star News) – Un pastor cristiano ha sido condenado a dos años de prisión por violar la ley de Indonesia contra la blasfemia y el discurso de odio en un caso que ha provocado un escrutinio sobre la velocidad de su arresto y juicio. Un panel de jueces en el Tribunal de Banda Aceh el 10 de julio dictó la sentencia [...]\n\n➖➖➖\n🇬🇧 <b>Pastor Sentenced to Two Years in Prison in Indonesia</b>\n\n<i>SURABAYA, Indonesia (Morning Star News) – A Christian pastor has been sentenced to prison for two years for violating Indonesia’s law against blasphemy and hate speech in a case that has drawn scrutiny over the speed of his arrest and trial. A panel of judges at Banda Aceh Court on July 10 handed down the sentence […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/pastor-sentenced-to-two-years-in-prison-in-indonesia/\">Fuente: Morning Star News</a>\n#Indonesia #Asia #Detenciones #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/Pastor-Dedi-Saputra-was-sentenced-to-prison-in-July-2026-under-Indonesias-blasphemy-law.-USCIRF-300x278.png"
+      },
+      "msg_id": 35,
+      "fuente": "Morning Star News",
+      "titulo": "Pastor Sentenced to Two Years in Prison in Indonesia",
+      "creado": 1786629111.3298938
+    },
+    "28": {
+      "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Obispo de Haití denuncia ataques de pandillas contra la Iglesia y cierre de parroquias y escuelas</b>\n\nEl Obispo de Jérémie, Haití, Mons. Joseph Gontrand Décoste, detalló la situación de violencia que continúa afectando al país y advirtió que la Iglesia se ha convertido en un objetivo de las pandillas.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127653/obispo-de-haiti-denuncia-ataques-de-pandillas-contra-la-iglesia-y-cierre-de-parroquias-y\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786623956/ewtn-news/es/HaitiMilicia_130826_lgr6ul.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 36,
+      "fuente": "ACI Prensa",
+      "titulo": "Obispo de Haití denuncia ataques de pandillas contra la Iglesia y cierre de parroquias y escuelas",
+      "creado": 1786629113.1588686
     }
   },
   "editando": null
