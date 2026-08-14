@@ -239,7 +239,11 @@
     "https://www.aciprensa.com/noticias/127689/papa-pide-superar-indiferencia-y-acoger-como-hijos-propios-a-menores-migrantes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127695/arzobispado-de-buenos-aires-aclara-que-no-autorizo-bautismos-frente-a-la-casa-de-cristina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127693/por-que-la-iglesia-catolica-deberia-impulsar-el-turismo-religioso-un-experto-explica-sus": "descartado_palabras",
-    "https://morningstarnews.org/?p=18270": "procesado"
+    "https://morningstarnews.org/?p=18270": "procesado",
+    "https://www.aciprensa.com/noticias/127699/nicaragua-difunden-imagenes-del-obispo-mata-tras-mas-de-40-dias-de-desaparicion-forzada": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127697/asociacion-cristiana-llama-a-los-empresarios-a-construir-un-futuro-humano-y-sostenible": "descartado_palabras",
+    "https://persecution.org/?p=4495474": "procesado",
+    "https://persecution.org/?p=4495478": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -247,8 +251,8 @@
       "modified": "Fri, 14 Aug 2026 16:50:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"e8893a4eb6da49e49201557634dd5e67\"",
-      "modified": "Thu, 13 Aug 2026 19:52:13 GMT"
+      "etag": "W/\"5d2e4d7fd5495e76ec0938f0b8404a03\"",
+      "modified": "Fri, 14 Aug 2026 19:12:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3fd64e28fe2decd93b1b01f3f9cac833\"",
@@ -258,10 +262,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-NE1VFZsPYw8FbAUepoZWkKP61Aw\""
+      "etag": "W/\"84d8-L2bZui8jPHZaV/fe2OLt/DYicTw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 14 Aug 2026 18:05:57 GMT"
+      "modified": "Fri, 14 Aug 2026 19:13:05 GMT"
     }
   },
   "pendientes": {
@@ -607,6 +611,28 @@
       "fuente": "Morning Star News",
       "titulo": "Herdsmen Kill at Least 31 Christians in Central Nigeria",
       "creado": 1786727274.629245
+    },
+    "33": {
+      "texto": "⚠️ <b>CHINA</b> 🇨🇳\n\n<b>El diagnóstico de cáncer aumenta los riesgos para el pastor chino John Cao</b>\n\nEl pastor John Cao, un líder cristiano chino que completó una sentencia de prisión de siete años en 2024, ha sido diagnosticado con cáncer de próstata en etapa tardía y un tumor espinal, según informes de organizaciones de defensa cristiana. Su diagnóstico ha renovado las preocupaciones sobre su continua incapacidad para salir de China y reunirse con su familia en los Estados Unidos.\n\n➖➖➖\n🇬🇧 <b>Cancer Diagnosis Raises Stakes for Chinese Pastor John Cao</b>\n\n<i>Pastor John Cao, a Chinese Christian leader who completed a seven-year prison sentence in 2024, has been diagnosed with late-stage prostate cancer and a spinal tumor, according to reports from Christian advocacy organizations. His diagnosis has renewed concerns about his continued inability to leave China and reunite with his family in the United States.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/\">Fuente: International Christian Concern</a>\n#China #Asia #Juicio #Informe #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Pastor-John-Cao-China.jpg"
+      },
+      "msg_id": 45,
+      "fuente": "International Christian Concern",
+      "titulo": "Cancer Diagnosis Raises Stakes for Chinese Pastor John Cao",
+      "creado": 1786734828.7193024
+    },
+    "34": {
+      "texto": "⚠️ <b>SIRIA</b> 🇸🇾\n\n<b>Pastor bautista liberado de detención en Siria</b>\n\nUn pastor kurdo ha sido liberado de una prisión siria después de haber estado detenido durante dos semanas sin cargos oficiales. El pastor Nihad Hassan estaba visitando a su familia en Afrin, Siria, cuando las autoridades lo arrestaron el 20 de julio. Según los informes, fue detenido porque el gobierno consideró que sus comentarios sobre el Islam en las redes sociales eran ofensivos.\n\n➖➖➖\n🇬🇧 <b>Baptist Pastor Released from Detention in Syria</b>\n\n<i>A Kurdish pastor has been released from a Syrian prison after being detained for two weeks without an official charge. Pastor Nihad Hassan was visiting family in Afrin, Syria, when authorities arrested him on July 20. He was reportedly detained because the government deemed his comments about Islam on social media were offensive.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/14/baptist-pastor-released-from-detention-in-syria/\">Fuente: International Christian Concern</a>\n#Siria #OrienteMedio #Detenciones #Informe #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Website-Photo-Resize-2-13.jpg"
+      },
+      "msg_id": 47,
+      "fuente": "International Christian Concern",
+      "titulo": "Baptist Pastor Released from Detention in Syria",
+      "creado": 1786734833.4751675
     }
   },
   "editando": null
