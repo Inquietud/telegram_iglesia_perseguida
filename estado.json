@@ -244,7 +244,8 @@
     "https://www.aciprensa.com/noticias/127697/asociacion-cristiana-llama-a-los-empresarios-a-construir-un-futuro-humano-y-sostenible": "descartado_palabras",
     "https://persecution.org/?p=4495474": "procesado",
     "https://persecution.org/?p=4495478": "procesado",
-    "https://www.aciprensa.com/noticias/127701/seminario-desafios-hispanoamerica-doctrina-social-iglesia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127701/seminario-desafios-hispanoamerica-doctrina-social-iglesia": "descartado_palabras",
+    "https://persecution.org/?p=4495484": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -252,8 +253,8 @@
       "modified": "Fri, 14 Aug 2026 16:50:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"5d2e4d7fd5495e76ec0938f0b8404a03\"",
-      "modified": "Fri, 14 Aug 2026 19:12:59 GMT"
+      "etag": "W/\"75a201f9027fb75573d02867835ce2fa\"",
+      "modified": "Fri, 14 Aug 2026 20:39:44 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3fd64e28fe2decd93b1b01f3f9cac833\"",
@@ -263,10 +264,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-NI/xkZcw3ICXzgusMBT9LV6Hx00\""
+      "etag": "W/\"84d8-y2IUOIDWfK3wvkL+7jWrjCBPtOg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 14 Aug 2026 19:59:29 GMT"
+      "modified": "Fri, 14 Aug 2026 20:39:59 GMT"
     }
   },
   "pendientes": {
