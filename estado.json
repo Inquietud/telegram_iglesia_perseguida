@@ -236,12 +236,15 @@
     "https://www.aciprensa.com/noticias/127685/que-es-el-cielo-responde-un-sacerdote-que-cumple-100-anos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127683/bajo-la-atenta-mirada-de-la-iglesia-chavismo-y-oposicion-acuerdan-renovar-la-justicia-en": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127691/leon-xiv-ofrece-claves-para-impulsar-la-formacion-liturgica-de-todo-el-pueblo-de-dios": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127689/papa-pide-superar-indiferencia-y-acoger-como-hijos-propios-a-menores-migrantes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127689/papa-pide-superar-indiferencia-y-acoger-como-hijos-propios-a-menores-migrantes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127695/arzobispado-de-buenos-aires-aclara-que-no-autorizo-bautismos-frente-a-la-casa-de-cristina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127693/por-que-la-iglesia-catolica-deberia-impulsar-el-turismo-religioso-un-experto-explica-sus": "descartado_palabras",
+    "https://morningstarnews.org/?p=18270": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"260ae1e526ed1878ad82711ecfa9f3af\"",
-      "modified": "Thu, 13 Aug 2026 15:17:14 GMT"
+      "etag": "W/\"d83c5b7e1187d5b4b1bd294aefacefb1\"",
+      "modified": "Fri, 14 Aug 2026 16:50:03 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"e8893a4eb6da49e49201557634dd5e67\"",
@@ -255,10 +258,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Vk1wz8SVafkpfuA/slLX1wzKYMg\""
+      "etag": "W/\"84d8-NEZp1LVAucnX/807Ah3GBt2iywA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 14 Aug 2026 16:02:22 GMT"
+      "modified": "Fri, 14 Aug 2026 17:07:07 GMT"
     }
   },
   "pendientes": {
@@ -596,6 +599,14 @@
       "fuente": "International Christian Concern",
       "titulo": "The Final Chapter in the Tragic Murder of Susan Magara",
       "creado": 1786651634.5157533
+    },
+    "32": {
+      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Pastores matan al menos a 31 cristianos en el centro de Nigeria</b>\n\nABUJA, Nigeria (Christian Daily International-Morning Star News) – Los pastores fulani han matado a 16 cristianos en el estado de Plateau, Nigeria, desde el 2 de agosto, además de matanzas en otros dos estados, dijeron las fuentes. Los pastores armados invadieron cinco aldeas predominantemente cristianas en el área de Riyom al suroeste de Jos en las últimas dos semanas, dijeron.\n\n➖➖➖\n🇬🇧 <b>Herdsmen Kill at Least 31 Christians in Central Nigeria</b>\n\n<i>ABUJA, Nigeria (Christian Daily International–Morning Star News) – Fulani herdsmen have killed 16 Christians in Plateau state, Nigeria since Aug. 2, in addition to slaughters in two other states, sources said. The armed herdsmen overran five predominantly Christian villages in the Riyom area southwest of Jos over the past two weeks, they said.</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/\">Fuente: Morning Star News</a>\n#Nigeria #Africa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": null,
+      "msg_id": 43,
+      "fuente": "Morning Star News",
+      "titulo": "Herdsmen Kill at Least 31 Christians in Central Nigeria",
+      "creado": 1786727274.629245
     }
   },
   "editando": null
