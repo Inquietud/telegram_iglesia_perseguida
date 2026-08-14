@@ -213,19 +213,29 @@ class Telegram:
     def __init__(self, token):
         self.token = token
         self.offset = None
+        self.ultimo_error = ""
 
     def _call(self, method, **params):
+        self.ultimo_error = ""
         try:
             r = requests.post(TG.format(token=self.token, method=method),
                               json=params, timeout=60)
             data = r.json()
             if not data.get("ok"):
-                log(f"Telegram {method} error: {data.get('description')}")
+                self.ultimo_error = f"{method}: {data.get('description')}"
+                log(f"Telegram {self.ultimo_error}")
                 return None
             return data["result"]
         except Exception as e:
-            log(f"Telegram {method} excepcion: {e}")
+            self.ultimo_error = f"{method}: {e}"
+            log(f"Telegram excepcion {self.ultimo_error}")
             return None
+
+    def copiar(self, chat_id, from_chat_id, message_id):
+        """Copia un mensaje tal cual (texto, formato y foto) a otro chat.
+        No lleva 'reenviado de' ni los botones del original."""
+        return self._call("copyMessage", chat_id=chat_id,
+                          from_chat_id=from_chat_id, message_id=message_id)
 
     def enviar_post(self, chat_id, texto, media=None, botones=None):
         """Publica el post con su foto o video.
@@ -570,14 +580,18 @@ class Bot:
                  (f"hace {edad:.1f} h" if edad is not None else "sin fecha")
         icono = {"foto": "🖼", "video": "🎬", "youtube": "🎥"}.get(
             media["tipo"] if media else "", "📄")
-        cab = (f"📝 <b>BORRADOR</b> · {esc(noticia['fuente'])} · {cuando} · {icono}\n"
-               "➖➖➖\n\n")
+
+        # La cabecera va en un mensaje aparte: asi el mensaje del borrador es
+        # exactamente el post final y se puede copiar tal cual al canal.
+        self.tg.enviar(self.admin,
+                       f"📝 <b>BORRADOR</b> · {esc(noticia['fuente'])} · {cuando} · {icono}")
+
         botones = [[
             {"text": "✅ Publicar", "callback_data": f"pub:{pid}"},
             {"text": "✏️ Editar", "callback_data": f"edit:{pid}"},
             {"text": "🗑 Descartar", "callback_data": f"del:{pid}"},
         ]]
-        res = self.tg.enviar_post(self.admin, cab + texto, media=media, botones=botones)
+        res = self.tg.enviar_post(self.admin, texto, media=media, botones=botones)
         if res:
             self.pendientes[pid] = {"texto": texto, "media": media,
                                     "msg_id": res["message_id"],
@@ -588,17 +602,47 @@ class Bot:
 
     # ---------------- interaccion ----------------
 
-    def publicar(self, pid):
+    def publicar(self, pid, msg_id=None, preferir_texto=False):
+        """Publica en el canal.
+
+        Via principal: copiar el propio mensaje del borrador (copyMessage). No
+        depende de nada guardado, asi que funciona aunque el estado se pierda.
+        Via de respaldo: reenviar el texto guardado en estado.json.
+        """
         p = self.pendientes.get(pid)
-        if not p:
-            return False
-        res = self.tg.enviar_post(self.canal, p["texto"], media=p["media"])
+        msg_id = msg_id or (p or {}).get("msg_id")
+        errores = []
+
+        res = None
+        # 1) el texto guardado, que sale limpio (sin la cabecera del borrador)
+        if p and p.get("texto"):
+            res = self.tg.enviar_post(self.canal, p["texto"], media=p.get("media"))
+            if not res:
+                errores.append(self.tg.ultimo_error)
+
+        # 2) si eso falla o no hay estado, copiar el propio mensaje del borrador
+        if not res and msg_id and not preferir_texto:
+            res = self.tg.copiar(self.canal, self.admin, msg_id)
+            if not res:
+                errores.append(self.tg.ultimo_error)
+
         if res:
-            self.tg.quitar_botones(self.admin, p["msg_id"], "✅ Publicado en el canal")
-            del self.pendientes[pid]
+            if msg_id:
+                self.tg.quitar_botones(self.admin, msg_id, "✅ Publicado en el canal")
+            if pid in self.pendientes:
+                del self.pendientes[pid]
             self.guardar_estado()
             log("Publicado en el canal")
             return True
+
+        if not msg_id and not p:
+            errores.append("no encuentro ese borrador ni su mensaje")
+        log("Fallo al publicar: " + " | ".join(errores))
+        self.tg.enviar(self.admin,
+                       "❌ <b>No he podido publicar en el canal.</b>\n\n"
+                       f"Canal configurado: <code>{esc(str(self.canal))}</code>\n"
+                       f"Error de Telegram: <code>{esc(' | '.join(errores) or 'desconocido')}</code>\n\n"
+                       "Manda /probar para un diagnostico completo.")
         return False
 
     def manejar_callback(self, cq):
@@ -607,27 +651,29 @@ class Bot:
             self.tg.responder_callback(cq["id"])
             return
         accion, pid = data.split(":", 1)
-        if pid not in self.pendientes:
-            self.tg.responder_callback(
-                cq["id"], "Ese borrador ya no esta disponible (caducado o ya decidido)")
-            return
-        self.tg.responder_callback(cq["id"])
+        # el id del mensaje viene en la propia pulsacion: no dependemos del estado
+        msg_id = (cq.get("message") or {}).get("message_id")
+        self.tg.responder_callback(cq["id"], {"pub": "Publicando...",
+                                              "del": "Descartado",
+                                              "edit": "Mandame el texto"}.get(accion, ""))
 
         if accion == "pub":
-            if not self.publicar(pid):
-                self.tg.enviar(self.admin, "❌ No he podido publicar. Comprueba que el bot es administrador del canal con permiso de publicar.")
+            self.publicar(pid, msg_id)
         elif accion == "del":
-            p = self.pendientes.pop(pid, None)
+            self.pendientes.pop(pid, None)
             self.guardar_estado()
-            if p:
-                self.tg.quitar_botones(self.admin, p["msg_id"], "🗑 Descartado")
+            if msg_id:
+                self.tg.quitar_botones(self.admin, msg_id, "🗑 Descartado")
         elif accion == "edit":
-            if pid in self.pendientes:
-                self.editando = pid
-                self.tg.enviar(self.admin,
-                               "✏️ Mandame el texto corregido tal cual quieres que salga "
-                               "(puedes usar <b>negrita</b> con etiquetas HTML). La foto o "
-                               "el video se mantienen. /cancelar para dejarlo.")
+            self.editando = pid
+            if msg_id and pid not in self.pendientes:
+                self.pendientes[pid] = {"msg_id": msg_id, "texto": "", "media": None,
+                                        "fuente": "", "titulo": "", "creado": time.time()}
+            self.guardar_estado()
+            self.tg.enviar(self.admin,
+                           "✏️ Mandame el texto corregido tal cual quieres que salga "
+                           "(puedes usar <b>negrita</b> con etiquetas HTML). "
+                           "/cancelar para dejarlo.")
 
     def manejar_mensaje(self, msg):
         chat_id = msg["chat"]["id"]
@@ -641,8 +687,9 @@ class Bot:
             pid, self.editando = self.editando, None
             if pid in self.pendientes:
                 self.pendientes[pid]["texto"] = texto
-                if self.publicar(pid):
+                if self.publicar(pid, preferir_texto=True):
                     self.tg.enviar(self.admin, "✅ Publicado con tus cambios.")
+            self.guardar_estado()
             return
 
         cmd = texto.split()[0].lower() if texto else ""
@@ -650,10 +697,13 @@ class Bot:
             self.tg.enviar(chat_id,
                            f"Bot activo.\nTu chat id: <code>{chat_id}</code>\n\n"
                            "/chequear · buscar noticias ahora\n"
+                           "/probar · comprobar que puede publicar\n"
                            "/pendientes · borradores sin decidir\n"
                            "/estado · ver estado\n"
                            "/pausa y /reanudar\n"
                            "/cancelar · cancelar edicion")
+        elif cmd == "/probar":
+            self.diagnostico(chat_id)
         elif cmd == "/pendientes":
             if not self.pendientes:
                 self.tg.enviar(chat_id, "No hay borradores pendientes.")
@@ -690,6 +740,48 @@ class Bot:
             self.editando = None
             self.tg.enviar(chat_id, "Edicion cancelada.")
 
+    # ---------------- diagnostico ----------------
+
+    def diagnostico(self, chat_id):
+        """Comprueba de verdad si el bot puede publicar en el canal y lo cuenta."""
+        lineas = ["🔎 <b>DIAGNOSTICO</b>", ""]
+
+        yo = self.tg._call("getMe")
+        lineas.append(f"Bot: @{yo['username']}" if yo else
+                      f"❌ Token: {esc(self.tg.ultimo_error)}")
+
+        lineas.append(f"Canal configurado: <code>{esc(str(self.canal))}</code>")
+        chat = self.tg._call("getChat", chat_id=self.canal)
+        if not chat:
+            lineas.append(f"❌ No encuentro el canal: <code>{esc(self.tg.ultimo_error)}</code>")
+            self.tg.enviar(chat_id, "\n".join(lineas))
+            return
+        lineas.append(f"✅ Canal encontrado: {esc(str(chat.get('title')))}")
+
+        if yo:
+            miembro = self.tg._call("getChatMember", chat_id=self.canal, user_id=yo["id"])
+            if not miembro:
+                lineas.append(f"❌ El bot no esta en el canal: <code>{esc(self.tg.ultimo_error)}</code>")
+            else:
+                estado = miembro.get("status")
+                puede = miembro.get("can_post_messages")
+                lineas.append(f"Rol en el canal: <b>{esc(str(estado))}</b>")
+                if estado != "administrator":
+                    lineas.append("❌ Tiene que ser <b>administrador</b>.")
+                elif not puede:
+                    lineas.append("❌ Le falta el permiso <b>Publicar mensajes</b>.")
+                else:
+                    lineas.append("✅ Es administrador y puede publicar")
+
+        prueba = self.tg.enviar(self.canal, "🔎 Prueba del bot. Puedes borrar este mensaje.")
+        if prueba:
+            lineas.append("✅ <b>Mensaje de prueba publicado en el canal</b>")
+        else:
+            lineas.append(f"❌ No he podido publicar: <code>{esc(self.tg.ultimo_error)}</code>")
+
+        lineas += ["", f"Borradores pendientes: {len(self.pendientes)}"]
+        self.tg.enviar(chat_id, "\n".join(lineas))
+
     # ---------------- una sola pasada (hosting gratuito) ----------------
 
     def run_once(self, segundos_escucha=20):
@@ -701,15 +793,19 @@ class Bot:
         """
         log("Pasada unica")
         fin = time.time() + segundos_escucha
+        total = 0
         while time.time() < fin:
             ups = self.tg.actualizaciones(timeout=5)
             if not ups:
                 break
+            total += len(ups)
             for up in ups:
                 if "callback_query" in up:
+                    log(f"Pulsacion recibida: {up['callback_query'].get('data')}")
                     self.manejar_callback(up["callback_query"])
                 elif "message" in up:
                     self.manejar_mensaje(up["message"])
+        log(f"Actualizaciones procesadas: {total}")
         self.tg.actualizaciones(timeout=0)   # confirma lo procesado
         self.ciclo_feeds(forzar=True)
         self.guardar_estado()
