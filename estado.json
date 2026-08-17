@@ -276,7 +276,8 @@
     "https://persecution.org/?p=4495498": "procesado",
     "https://www.aciprensa.com/noticias/127751/seminarista-catolico-secuestrado-en-nigeria-escapa-de-sus-captores-y-regresa-ileso-a-casa": "procesado",
     "https://persecution.org/?p=4495503": "descartado_palabras",
-    "https://persecution.org/?p=4495509": "procesado"
+    "https://persecution.org/?p=4495509": "procesado",
+    "https://www.aciprensa.com/noticias/127753/catolicos-de-india-son-liberados-tras-pasar-104-dias-en-prision-bajo-una-ley-contra-las": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -295,10 +296,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-qCa3TnW7PYSln6LveQr7AEG2iZ4\""
+      "etag": "W/\"84d8-XnsJScG5K6gQRePaDGX1Jbs3C+c\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 21:36:55 GMT"
+      "modified": "Mon, 17 Aug 2026 21:59:08 GMT"
     }
   },
   "pendientes": {
