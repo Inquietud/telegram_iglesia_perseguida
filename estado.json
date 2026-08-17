@@ -268,7 +268,8 @@
     "https://www.aciprensa.com/noticias/127735/iglesia-catolica-en-ecuador-lamenta-muerte-del-hijo-del-presidente-daniel-noboa": "procesado",
     "https://www.aciprensa.com/noticias/127737/colombianos-convierten-plazas-y-parques-en-iglesias-para-celebrar-la-misa-tras-el-terremoto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127739/sacerdote-y-religiosa-recogen-en-una-capilla-de-colombia-hostias-que-terremoto-dejo-en-el-suelo": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127741/como-se-elaboran-hostias-comunion-catolica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127741/como-se-elaboran-hostias-comunion-catolica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127743/leon-xiv-ayuda-humanitaria-terremoto-indonesia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -287,10 +288,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-AnOhEt49t/c7TO+Mnxam9Usebso\""
+      "etag": "W/\"84d8-+GLXlZjMJh7pz9GQmGge2jL/Lrs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 10:29:59 GMT"
+      "modified": "Mon, 17 Aug 2026 11:00:24 GMT"
     }
   },
   "pendientes": {
