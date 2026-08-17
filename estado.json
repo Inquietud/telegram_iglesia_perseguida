@@ -275,7 +275,8 @@
     "https://www.aciprensa.com/noticias/127749/obispos-del-peru-presentan-la-oracion-por-la-visita-del-papa-leon-xiv": "descartado_palabras",
     "https://persecution.org/?p=4495498": "procesado",
     "https://www.aciprensa.com/noticias/127751/seminarista-catolico-secuestrado-en-nigeria-escapa-de-sus-captores-y-regresa-ileso-a-casa": "procesado",
-    "https://persecution.org/?p=4495503": "descartado_palabras"
+    "https://persecution.org/?p=4495503": "descartado_palabras",
+    "https://persecution.org/?p=4495509": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -283,8 +284,8 @@
       "modified": "Fri, 14 Aug 2026 16:50:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"86baceb35d55fb9b221519157cb8f288\"",
-      "modified": "Mon, 17 Aug 2026 20:35:10 GMT"
+      "etag": "W/\"ba8f222ddd9c29deeaf38ab8700d20be\"",
+      "modified": "Mon, 17 Aug 2026 21:02:34 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6cf4e38d0ad1c89397225c2b574b06a3\"",
@@ -294,10 +295,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-0Qzq2xQGozoI8+j97XeEXcNFDDk\""
+      "etag": "W/\"84d8-EqSJvswB5HEpp7jNrhpDYA1s59c\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 20:37:13 GMT"
+      "modified": "Mon, 17 Aug 2026 21:02:48 GMT"
     }
   },
   "pendientes": {
@@ -709,6 +710,17 @@
       "fuente": "ACI Prensa",
       "titulo": "Seminarista católico secuestrado en Nigeria escapa de sus captores y regresa ileso a casa",
       "creado": 1786996698.6826365
+    },
+    "39": {
+      "texto": "⚠️ <b>RUSIA</b> 🇷🇺\n\n<b>Una misionera coreana se enfrenta a 17 años de prisión en Rusia</b>\n\nEl juicio del misionero coreano Park Tae-Yeon, de 69 años, se reanudó recientemente en Rusia. Missionary Park fue arrestada en enero de 2026, una semana antes de regresar a Corea del Sur para jubilarse después de 33 años de ministerio en Rusia. Fue arrestada por violaciones de inmigración, pero también hubo investigaciones sobre los \"campamentos religiosos\" en los que ella... The post Korean Missionary Faces 17-Year Imprisonment in Russia apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Korean Missionary Faces 17-Year Imprisonment in Russia</b>\n\n<i>The trial of Korean missionary Park Tae-Yeon, 69, resumed recently in Russia. Missionary Park was arrested in January 2026, one week before she was due to return to South Korea to retire after 33 years of ministry in Russia. She was arrested for immigration violations, but there were also investigations into “religious camps” she… The post Korean Missionary Faces 17-Year Imprisonment in Russia first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/17/korean-missionary-faces-17-year-imprisonment-in-russia/\">Fuente: International Christian Concern</a>\n#Rusia #Europa #Detenciones #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Park-Tae-Yeon.jpg"
+      },
+      "msg_id": 57,
+      "fuente": "International Christian Concern",
+      "titulo": "Korean Missionary Faces 17-Year Imprisonment in Russia",
+      "creado": 1787000574.0966306
     }
   },
   "editando": null
