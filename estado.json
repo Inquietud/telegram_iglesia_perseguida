@@ -272,7 +272,9 @@
     "https://www.aciprensa.com/noticias/127743/leon-xiv-ayuda-humanitaria-terremoto-indonesia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127745/10-datos-san-marino-visita-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127747/los-315-anos-de-la-virgen-de-torcoroma-transmiten-a-colombia-la-cercania-de-dios-afirma-obispo": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127749/obispos-del-peru-presentan-la-oracion-por-la-visita-del-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127749/obispos-del-peru-presentan-la-oracion-por-la-visita-del-papa-leon-xiv": "descartado_palabras",
+    "https://persecution.org/?p=4495498": "procesado",
+    "https://www.aciprensa.com/noticias/127751/seminarista-catolico-secuestrado-en-nigeria-escapa-de-sus-captores-y-regresa-ileso-a-casa": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -280,8 +282,8 @@
       "modified": "Fri, 14 Aug 2026 16:50:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"0b704c9b41665fd2df910f78515ac8d9\"",
-      "modified": "Fri, 14 Aug 2026 21:02:33 GMT"
+      "etag": "W/\"d2859e6caaa8961689eca74b249bf4c8\"",
+      "modified": "Mon, 17 Aug 2026 19:42:15 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6cf4e38d0ad1c89397225c2b574b06a3\"",
@@ -291,10 +293,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-LKbZoQQtWQryrt48MUkvXiJRFdo\""
+      "etag": "W/\"84d8-j+iF9A82ODYLeXVHdWGX24Jm+bM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 19:34:53 GMT"
+      "modified": "Mon, 17 Aug 2026 19:58:12 GMT"
     }
   },
   "pendientes": {
@@ -684,6 +686,28 @@
       "fuente": "ACI Prensa",
       "titulo": "La Iglesia en Ecuador envía un mensaje de consuelo al presidente Noboa por la muerte de su hijo",
       "creado": 1786896008.2643297
+    },
+    "37": {
+      "texto": "🚨 <b>NÍGER</b> 🇳🇪\n\n<b>Liberan a piloto misionero estadounidense secuestrado en Níger</b>\n\nKevin Rideout, un piloto misionero estadounidense con sede en Niamey, Níger, fue liberado recientemente después de pasar nueve meses en cautiverio. Tres hombres armados secuestraron a Rideout fuera de su casa el 21 de octubre de 2025.\n\n➖➖➖\n🇬🇧 <b>Kidnapped U.S. Missionary Pilot Freed in Niger</b>\n\n<i>Kevin Rideout, an American missionary pilot based in Niamey, Niger, was recently released after spending nine months in captivity. Three armed men kidnapped Rideout from outside his home on Oct. 21, 2025.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/17/kidnapped-u-s-missionary-pilot-freed-in-niger/\">Fuente: International Christian Concern</a>\n#Niger #Africa #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Kevin-Rideout-Niger-2-300x225.jpg"
+      },
+      "msg_id": 53,
+      "fuente": "International Christian Concern",
+      "titulo": "Kidnapped U.S. Missionary Pilot Freed in Niger",
+      "creado": 1786996696.2174416
+    },
+    "38": {
+      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Seminarista católico secuestrado en Nigeria escapa de sus captores y regresa ileso a casa</b>\n\nUn seminarista que fue secuestrado el 29 de julio de la residencia del obispo de la Diócesis de Otukpo, en Nigeria, logró escapar de sus captores y regresar a casa ileso.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127751/seminarista-catolico-secuestrado-en-nigeria-escapa-de-sus-captores-y-regresa-ileso-a-casa\">Fuente: ACI Prensa</a>\n#Nigeria #Africa #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786994881/ewtn-news/es/SeminaristaNigeria_170826_e4nb0p.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 55,
+      "fuente": "ACI Prensa",
+      "titulo": "Seminarista católico secuestrado en Nigeria escapa de sus captores y regresa ileso a casa",
+      "creado": 1786996698.6826365
     }
   },
   "editando": null
