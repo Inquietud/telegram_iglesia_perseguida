@@ -271,7 +271,8 @@
     "https://www.aciprensa.com/noticias/127741/como-se-elaboran-hostias-comunion-catolica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127743/leon-xiv-ayuda-humanitaria-terremoto-indonesia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127745/10-datos-san-marino-visita-papa-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127747/los-315-anos-de-la-virgen-de-torcoroma-transmiten-a-colombia-la-cercania-de-dios-afirma-obispo": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127747/los-315-anos-de-la-virgen-de-torcoroma-transmiten-a-colombia-la-cercania-de-dios-afirma-obispo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127749/obispos-del-peru-presentan-la-oracion-por-la-visita-del-papa-leon-xiv": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -290,10 +291,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-STc5W3MjIGNMjEOgL4PgLdPSSZo\""
+      "etag": "W/\"84d8-0WtdJyGFeX42srzwsi1MaLLq+eU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 18:04:14 GMT"
+      "modified": "Mon, 17 Aug 2026 18:55:49 GMT"
     }
   },
   "pendientes": {
