@@ -294,7 +294,9 @@
     "https://www.aciprensa.com/noticias/127779/cardenal-venezolano-diego-padron-sufrio-un-acv-se-ha-mantenido-estable-informan-los-obispos": "descartado_palabras",
     "https://persecution.org/?p=4495514": "descartado_palabras",
     "https://persecution.org/?p=4495517": "procesado",
-    "https://www.aciprensa.com/noticias/127781/carlota-valenzuela-estrena-en-argentina-el-programa-televisivo-quiero-ser-santa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127781/carlota-valenzuela-estrena-en-argentina-el-programa-televisivo-quiero-ser-santa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127783/desde-la-zona-del-desastre-en-venezuela-obispos-de-colombia-piden-que-la-esperanza-nunca-decaiga": "descartado_palabras",
+    "https://persecution.org/?p=4495519": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -302,8 +304,8 @@
       "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"912b11e8ec1a57d79dcd5340fc0648f1\"",
-      "modified": "Tue, 18 Aug 2026 20:56:11 GMT"
+      "etag": "W/\"7db82d5ce97d4ffaa1e518f1bfa38faf\"",
+      "modified": "Tue, 18 Aug 2026 22:02:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3005ea84512fc8dd1f4057da04aa6557\"",
@@ -313,10 +315,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-GiuIlEsHUoMBgf2lVQqsLn9mJZI\""
+      "etag": "W/\"84d8-KmVY/vejewjs3SQ1Qj1JeL2pCCs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 21:57:35 GMT"
+      "modified": "Tue, 18 Aug 2026 22:32:19 GMT"
     }
   },
   "pendientes": {
@@ -687,6 +689,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Church in India Opposes Singing of Controversial National Song",
       "creado": 1787086813.3580437
+    },
+    "43": {
+      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Milicias fulani matan a 24 cristianos en el condado del gobernador Mutfwang</b>\n\nAl menos 24 cristianos murieron en un ataque nocturno contra la comunidad de Bin Mper en el distrito de Kombun del condado de Mangu, estado de Plateau, condado del gobernador Caleb Mutfwang, según líderes comunitarios locales, mientras las familias se reunían el martes para enterrar a las víctimas del asalto. El ataque, que ocurrió en la madrugada del martes, 18,... La publicación Fulani Militias Kill 24 Christians in Governor Mutfwang's County apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Fulani Militias Kill 24 Christians in Governor Mutfwang’s County</b>\n\n<i>At least 24 Christians were killed in an overnight attack on Bin Mper community in Kombun District of Mangu County, Plateau state, the county of Governor Caleb Mutfwang, according to local community leaders, as families gathered Tuesday to bury victims of the assault. The attack, which occurred in the early hours of Tuesday, Aug. 18,… The post Fulani Militias Kill 24 Christians in Governor Mutfwang’s County first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Nigeria-Plateau-attack-2-300x225.jpg"
+      },
+      "msg_id": 65,
+      "fuente": "International Christian Concern",
+      "titulo": "Fulani Militias Kill 24 Christians in Governor Mutfwang’s County",
+      "creado": 1787092400.7093678
     }
   },
   "editando": null
