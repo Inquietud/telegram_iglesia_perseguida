@@ -290,8 +290,8 @@
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"3ea5c415e20f0d40dccee2a1ae3d0cc6\"",
-      "modified": "Tue, 18 Aug 2026 16:00:56 GMT"
+      "etag": "W/\"1bc7748d7658aedf862aa815643ed013\"",
+      "modified": "Tue, 18 Aug 2026 16:35:53 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"ba8f222ddd9c29deeaf38ab8700d20be\"",
@@ -305,10 +305,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-x++wgrfmG/UY0sy762Gg1UBRc10\""
+      "etag": "W/\"84d8-hNynfK2STgl+4/SeE4hv9rhw4h8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 16:03:35 GMT"
+      "modified": "Tue, 18 Aug 2026 16:46:01 GMT"
     }
   },
   "pendientes": {
