@@ -279,7 +279,10 @@
     "https://persecution.org/?p=4495509": "procesado",
     "https://www.aciprensa.com/noticias/127753/catolicos-de-india-son-liberados-tras-pasar-104-dias-en-prision-bajo-una-ley-contra-las": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127755/arquidiocesis-pide-espacios-para-darle-sepultura-digna-a-bebes-abortados-o-abandonados-en-mexico": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127757/medjugorje-y-una-confesion-despues-de-30-anos-que-dio-origen-a-una-pelicula": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127757/medjugorje-y-una-confesion-despues-de-30-anos-que-dio-origen-a-una-pelicula": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127763/obispo-baez-de-nicaragua-detras-de-los-regimenes-que-arrebatan-la-dignidad-hay-mentes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127761/el-94-de-los-cubanos-vive-en-extrema-pobreza-es-un-pais-que-esta-muriendo-cada-dia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -298,10 +301,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-ktQLQ92GE9X6ulMqLyVjPdrL088\""
+      "etag": "W/\"84d8-8cmG3qImxE6aFOEvQmV+iOHfOjQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 17 Aug 2026 23:56:05 GMT"
+      "modified": "Tue, 18 Aug 2026 01:44:18 GMT"
     }
   },
   "pendientes": {
@@ -724,6 +727,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Korean Missionary Faces 17-Year Imprisonment in Russia",
       "creado": 1787000574.0966306
+    },
+    "40": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>15.000 fieles y el representante del Papa conmemoran el centenario de cuatro mártires mexicanos</b>\n\nUnos 15.000 fieles y el Nuncio Apostólico en México conmemoraron los 100 años del martirio de San Luis Bátis y tres laicos en la Arquidiócesis de Durango.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787004468/ewtn-news/es/Misa-centenario-martires-Durango-1-170826_y7wddo.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 59,
+      "fuente": "ACI Prensa",
+      "titulo": "15.000 fieles y el representante del Papa conmemoran el centenario de cuatro mártires mexicanos",
+      "creado": 1787017459.4569354
     }
   },
   "editando": null
