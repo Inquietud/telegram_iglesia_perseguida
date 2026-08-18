@@ -291,7 +291,9 @@
     "https://www.aciprensa.com/noticias/127773/archidiocesis-de-granada-cierra-al-culto-5-grandes-iglesias-tras-nuevo-sismo-en-espana": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127775/mater-fatima-nueva-etapa-mensaje-virgen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127777/argentina-pastoral-de-la-salud-llama-a-responder-al-dolor-con-cuidado-presencia-y-alivio": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127779/cardenal-venezolano-diego-padron-sufrio-un-acv-se-ha-mantenido-estable-informan-los-obispos": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127779/cardenal-venezolano-diego-padron-sufrio-un-acv-se-ha-mantenido-estable-informan-los-obispos": "descartado_palabras",
+    "https://persecution.org/?p=4495514": "descartado_palabras",
+    "https://persecution.org/?p=4495517": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -299,8 +301,8 @@
       "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"ba8f222ddd9c29deeaf38ab8700d20be\"",
-      "modified": "Mon, 17 Aug 2026 21:02:34 GMT"
+      "etag": "W/\"912b11e8ec1a57d79dcd5340fc0648f1\"",
+      "modified": "Tue, 18 Aug 2026 20:56:11 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"3005ea84512fc8dd1f4057da04aa6557\"",
@@ -310,10 +312,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-iUl5oaNZOfCYAhoYwZXVz3x/osM\""
+      "etag": "W/\"84d8-eNEwOr9ScF/8mZl0FXULYOkn0YM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 20:36:03 GMT"
+      "modified": "Tue, 18 Aug 2026 21:00:07 GMT"
     }
   },
   "pendientes": {
@@ -684,6 +686,17 @@
       "fuente": "Morning Star News",
       "titulo": "Details Given in Acquittal in Killing of Christian Couple in Pakistan",
       "creado": 1787069019.7946322
+    },
+    "42": {
+      "texto": "📄 <b>INDIA</b> 🇮🇳\n\n<b>La iglesia en la India se opone al canto de la controvertida canción nacional</b>\n\nEl 13 de agosto, el Consejo de la Iglesia Bautista de Nagaland (NBCC) dijo que se oponía a las directivas que requerían cantar o tocar la canción nacionalista hindú \"Vande Mataram\" en eventos oficiales en la India. La NBCC, del estado mayoritariamente cristiano de Nagaland, se une a un coro de líderes de otras religiones minoritarias en la India que se oponen a la medida del nacionalista hindú... La Iglesia post en la India se opone al canto de la controvertida canción nacional apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Church in India Opposes Singing of Controversial National Song</b>\n\n<i>On Aug. 13, the Nagaland Baptist Church Council (NBCC) said it opposed directives requiring the singing or playing of the Hindu-nationalist song “Vande Mataram” at official events in India. The NBCC, from the majority Christian state of Nagaland, joins a chorus of leaders from other minority religions in India opposing the move by the Hindu-nationalist… The post Church in India Opposes Singing of Controversial National Song first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/\">Fuente: International Christian Concern</a>\n#India #Asia #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2025/06/Con-India17-1.jpg"
+      },
+      "msg_id": 63,
+      "fuente": "International Christian Concern",
+      "titulo": "Church in India Opposes Singing of Controversial National Song",
+      "creado": 1787086813.3580437
     }
   },
   "editando": null
