@@ -287,12 +287,13 @@
     "https://www.aciprensa.com/noticias/127767/diocesis-estados-unidos-numerosas-ordenaciones-sacerdotales": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127769/reliquias-santa-bernardita-recorreran-estados-unidos": "descartado_palabras",
     "https://morningstarnews.org/?p=18282": "procesado",
-    "https://www.aciprensa.com/noticias/127771/leon-xiv-nombra-a-2-profesores-de-notre-dame-consultores-de-desarrollo-humano-integral-del": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127771/leon-xiv-nombra-a-2-profesores-de-notre-dame-consultores-de-desarrollo-humano-integral-del": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127773/archidiocesis-de-granada-cierra-al-culto-5-grandes-iglesias-tras-nuevo-sismo-en-espana": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"1bc7748d7658aedf862aa815643ed013\"",
-      "modified": "Tue, 18 Aug 2026 16:35:53 GMT"
+      "etag": "W/\"f525e154d6705fdc07307482c25b4f5a\"",
+      "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"ba8f222ddd9c29deeaf38ab8700d20be\"",
@@ -306,10 +307,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-YI99/pu5KqGn1zmq9mLFp39R+wU\""
+      "etag": "W/\"84d8-rl65veziUv1utq7fxfdNk+R54/k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 17:15:00 GMT"
+      "modified": "Tue, 18 Aug 2026 17:48:50 GMT"
     }
   },
   "pendientes": {
