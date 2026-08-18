@@ -293,7 +293,8 @@
     "https://www.aciprensa.com/noticias/127777/argentina-pastoral-de-la-salud-llama-a-responder-al-dolor-con-cuidado-presencia-y-alivio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127779/cardenal-venezolano-diego-padron-sufrio-un-acv-se-ha-mantenido-estable-informan-los-obispos": "descartado_palabras",
     "https://persecution.org/?p=4495514": "descartado_palabras",
-    "https://persecution.org/?p=4495517": "procesado"
+    "https://persecution.org/?p=4495517": "procesado",
+    "https://www.aciprensa.com/noticias/127781/carlota-valenzuela-estrena-en-argentina-el-programa-televisivo-quiero-ser-santa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -312,24 +313,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-eNEwOr9ScF/8mZl0FXULYOkn0YM\""
+      "etag": "W/\"84d8-8KHnSaLhmqTqS4ynpljehDrhUQ8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 21:00:07 GMT"
+      "modified": "Tue, 18 Aug 2026 21:34:25 GMT"
     }
   },
   "pendientes": {
-    "8": {
-      "texto": "📄 <b>NIGERIA</b> 🇳🇬\n\n<b>El cambio climático no es persecución cristiana, entonces, ¿por qué importa?</b>\n\nParte 1 de la serie, \"Cuando la creación gime\" Por Lisa Navarrette, becaria de ICC La primera luz del amanecer se extiende a través de un pueblo agrícola en el Cinturón Medio de Nigeria mientras Samuel camina lentamente por el campo que su padre una vez cultivó antes que él. Se arrodilla y recoge un puñado de tierra seca en la palma de su mano. Otra temporada de lluvias... El cambio climático posterior no es persecución cristiana, ¿por qué importa?\n\n➖➖➖\n🇬🇧 <b>Climate Change Is Not Christian Persecution, So Why Does It Matter?</b>\n\n<i>Part 1 of the series, “When Creation Groans” By ICC Fellow Lisa Navarrette The first light of dawn stretches across a farming village in Nigeria’s Middle Belt as Samuel walks slowly through the field his father once cultivated before him. He kneels and scoops a handful of dry soil into his palm. Another rainy season… The post Climate Change Is Not Christian Persecution, So Why Does It Matter?</i>\n\n📎 <a href=\"https://persecution.org/2026/08/04/climate-change-is-not-christian-persecution-so-why-does-it-matter/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2025/07/Nigerian-farmers-1.png"
-      },
-      "msg_id": 16,
-      "fuente": "International Christian Concern",
-      "titulo": "Climate Change Is Not Christian Persecution, So Why Does It Matter?",
-      "creado": 1785878066.9379792
-    },
     "9": {
       "texto": "🚨 <b>INTERNACIONAL</b> 🌍\n\n<b>León XIV lamenta la muerte del Cardenal Duarte Langa y destaca su sencillez y celo pastoral</b>\n\nLeón XIV expresó su profundo pesar por la muerte del Cardenal Júlio Duarte Langa, fallecido el 3 de agosto a los 98 años; y destacó su sencillez, celo y entrega “al rebaño que le fue confiado”.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127423/leon-xiv-lamenta-la-muerte-del-cardenal-duarte-langa-y-destaca-su-sencillez-y-celo-pastoral\">Fuente: ACI Prensa</a>\n#Mundo #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
