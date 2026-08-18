@@ -282,7 +282,8 @@
     "https://www.aciprensa.com/noticias/127757/medjugorje-y-una-confesion-despues-de-30-anos-que-dio-origen-a-una-pelicula": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127763/obispo-baez-de-nicaragua-detras-de-los-regimenes-que-arrebatan-la-dignidad-hay-mentes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127761/el-94-de-los-cubanos-vive-en-extrema-pobreza-es-un-pais-que-esta-muriendo-cada-dia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos": "procesado"
+    "https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos": "procesado",
+    "https://www.aciprensa.com/noticias/127765/leon-xiv-reza-victimas-naufragio-ferry-zimbabue": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -301,10 +302,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-zKdRG3qxF0G/XM78OxtMNuB0E7E\""
+      "etag": "W/\"84d8-1a8GDc+2o3+5CY8nk7vbufS9v3A\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 10:15:58 GMT"
+      "modified": "Tue, 18 Aug 2026 10:51:21 GMT"
     }
   },
   "pendientes": {
