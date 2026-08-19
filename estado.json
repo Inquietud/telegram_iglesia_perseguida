@@ -303,7 +303,8 @@
     "https://www.aciprensa.com/noticias/127791/la-iglesia-catolica-tiene-que-prepararse-para-la-batalla-contra-la-desesperanza": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127793/leon-xiv-musica-liturgica-modas-sensibilidades-particulares": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127795/texto-completo-catequesis-papa-leon-xiv-musica-sacra": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127797/funerales-catolicos-cancelados-tensiones-iglesia-masoneria-italia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127797/funerales-catolicos-cancelados-tensiones-iglesia-masoneria-italia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127799/cardenal-y-sacerdotes-de-bogota-llevan-primeros-auxilios-espirituales-a-zonas-golpeadas-por": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -322,10 +323,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-KJ9d1HkCQdJLU3QzuGEgOZc/YP4\""
+      "etag": "W/\"84d8-dhMVm93mJLptwXNQI51MWntcVBI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 19 Aug 2026 15:51:00 GMT"
+      "modified": "Wed, 19 Aug 2026 16:29:48 GMT"
     }
   },
   "pendientes": {
@@ -696,6 +697,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Fulani Militias Kill 24 Christians in Governor Mutfwang’s County",
       "creado": 1787092400.7093678
+    },
+    "44": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Cardenal y sacerdotes de Bogotá llevan “primeros auxilios espirituales” a zonas golpeadas por sismo</b>\n\nSe trata de 80 sacerdotes voluntarios de la Arquidiócesis de Bogotá que fueron divididos en seis grupos para cubrir las ciudades de Buenaventura, Buga, Cali, Cartago, Palmira y Pereira.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127799/cardenal-y-sacerdotes-de-bogota-llevan-primeros-auxilios-espirituales-a-zonas-golpeadas-por\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786568870/ewtn-news/es/Mano-cruz_PUWADON-SANG-Shutterstock_150825_s8m0bq.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 67,
+      "fuente": "ACI Prensa",
+      "titulo": "Cardenal y sacerdotes de Bogotá llevan “primeros auxilios espirituales” a zonas golpeadas por sismo",
+      "creado": 1787156989.8182087
     }
   },
   "editando": null
