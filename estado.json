@@ -305,7 +305,8 @@
     "https://www.aciprensa.com/noticias/127795/texto-completo-catequesis-papa-leon-xiv-musica-sacra": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127797/funerales-catolicos-cancelados-tensiones-iglesia-masoneria-italia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127799/cardenal-y-sacerdotes-de-bogota-llevan-primeros-auxilios-espirituales-a-zonas-golpeadas-por": "procesado",
-    "https://www.aciprensa.com/noticias/127801/el-episcopado-argentino-y-el-gobierno-avanzan-en-la-preparacion-de-la-visita-del-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127801/el-episcopado-argentino-y-el-gobierno-avanzan-en-la-preparacion-de-la-visita-del-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127805/renuncia-inesperadamente-karl-heinz-wiesemann-obispo-aleman-de-66-anos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -313,8 +314,8 @@
       "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"f8efba32a6c5472c0fe1c087b082d8cf\"",
-      "modified": "Wed, 19 Aug 2026 17:53:08 GMT"
+      "etag": "\"6085faba250a90995eba3e10077d157c\"",
+      "modified": "Wed, 19 Aug 2026 18:17:35 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"286490b60019a0801cb24fbd8c560cfd\"",
@@ -324,10 +325,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-hhNxhpThwgeTrVKQoSKmEB3bOAE\""
+      "etag": "W/\"84d8-QpfTlcepaKgl6LXdoru/zwfGM8I\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 19 Aug 2026 17:58:57 GMT"
+      "modified": "Wed, 19 Aug 2026 18:49:08 GMT"
     }
   },
   "pendientes": {
