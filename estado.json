@@ -309,7 +309,9 @@
     "https://www.aciprensa.com/noticias/127805/renuncia-inesperadamente-karl-heinz-wiesemann-obispo-aleman-de-66-anos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127807/segundo-tiroteo-escolar-en-filipinas-en-dos-meses-golpea-a-una-universidad-jesuita": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127809/con-esta-novena-puedes-preparar-tu-corazon-de-cara-al-dia-de-la-virgen-de-coromoto": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127811/fallece-el-sacerdote-italiano-pedro-bono-reconocido-misionero-en-chile-y-argentina": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127811/fallece-el-sacerdote-italiano-pedro-bono-reconocido-misionero-en-chile-y-argentina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127803/el-comite-nacional-para-la-visita-del-papa-a-argentina-trabaja-para-ofrecerle-lo-mejor": "descartado_palabras",
+    "https://persecution.org/?p=4495528": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -317,8 +319,8 @@
       "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"6085faba250a90995eba3e10077d157c\"",
-      "modified": "Wed, 19 Aug 2026 18:17:35 GMT"
+      "etag": "W/\"b2fb8dc86eadbbed771991f843ea89b8\"",
+      "modified": "Wed, 19 Aug 2026 21:13:17 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"286490b60019a0801cb24fbd8c560cfd\"",
@@ -328,10 +330,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Xo7raivVh4eOOxCM3FmP//QlBj0\""
+      "etag": "W/\"84d8-6aif8AUXNi7v1uV4t4BWnA7t/aY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 19 Aug 2026 20:47:58 GMT"
+      "modified": "Wed, 19 Aug 2026 21:14:01 GMT"
     }
   },
   "pendientes": {
@@ -702,6 +704,17 @@
       "fuente": "ACI Prensa",
       "titulo": "Cardenal y sacerdotes de Bogotá llevan “primeros auxilios espirituales” a zonas golpeadas por sismo",
       "creado": 1787156989.8182087
+    },
+    "45": {
+      "texto": "⚠️ <b>CHINA</b> 🇨🇳\n\n<b>Se lanza una petición para traer a casa a un pastor encarcelado en China</b>\n\nChinaAid, una organización internacional que apoya a los cristianos perseguidos dentro de China, ha lanzado una petición y una campaña de defensa para que el pastor John Cao regrese a su hogar en los EE. UU. El pastor John ha estado encarcelado en China durante siete años por su trabajo misionero en la frontera entre China y Myanmar, ayudando a establecer 16 escuelas que sirven a miles de locales... La petición post lanzada para traer a casa al pastor encarcelado en China apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Petition Launched to Bring Home Pastor Imprisoned in China</b>\n\n<i>ChinaAid, an international organization supporting persecuted Christians inside China, has launched a petition and advocacy campaign to bring Pastor John Cao back to his home in the U.S. Pastor John has been imprisoned in China for seven years for his missionary work on the China-Myanmar border, helping establish 16 schools that serve thousands of local… The post Petition Launched to Bring Home Pastor Imprisoned in China first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/\">Fuente: International Christian Concern</a>\n#China #Asia #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Pastor-John-Cao-China.jpg"
+      },
+      "msg_id": 69,
+      "fuente": "International Christian Concern",
+      "titulo": "Petition Launched to Bring Home Pastor Imprisoned in China",
+      "creado": 1787174090.6270442
     }
   },
   "editando": null
