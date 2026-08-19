@@ -298,7 +298,8 @@
     "https://www.aciprensa.com/noticias/127783/desde-la-zona-del-desastre-en-venezuela-obispos-de-colombia-piden-que-la-esperanza-nunca-decaiga": "descartado_palabras",
     "https://persecution.org/?p=4495519": "procesado",
     "https://www.aciprensa.com/noticias/127785/arquidiocesis-de-quebec-pagara-mas-de-30-millones-de-dolares-para-compensar-a-victimas-de-abusos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127787/12-peregrinos-mueren-en-accidente-de-autobus-tras-peregrinacion-a-medjugorje": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127787/12-peregrinos-mueren-en-accidente-de-autobus-tras-peregrinacion-a-medjugorje": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127789/catholic-relief-services-recibe-ususd50-millones-de-ayuda-de-estados-unidos-para-africa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -317,10 +318,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-ygtUDDY87CrobGje7jf41kFlKSM\""
+      "etag": "W/\"84d8-D1Sh1ZvPeY8AzL2NJI0+zfd/05o\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 18 Aug 2026 23:54:46 GMT"
+      "modified": "Wed, 19 Aug 2026 01:39:56 GMT"
     }
   },
   "pendientes": {
