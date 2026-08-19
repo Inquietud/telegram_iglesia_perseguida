@@ -312,7 +312,9 @@
     "https://www.aciprensa.com/noticias/127811/fallece-el-sacerdote-italiano-pedro-bono-reconocido-misionero-en-chile-y-argentina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127803/el-comite-nacional-para-la-visita-del-papa-a-argentina-trabaja-para-ofrecerle-lo-mejor": "descartado_palabras",
     "https://persecution.org/?p=4495528": "procesado",
-    "https://www.aciprensa.com/noticias/127813/en-espana-se-juega-otro-mundial-la-copa-nacional-de-seminarios-comienza-el-31-de-agosto": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127813/en-espana-se-juega-otro-mundial-la-copa-nacional-de-seminarios-comienza-el-31-de-agosto": "descartado_palabras",
+    "https://persecution.org/?p=4495532": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127815/bancada-provida-presenta-proyecto-para-prohibir-la-maternidad-subrogada-de-colombia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -320,8 +322,8 @@
       "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"c79766334573562f20c76931cf0b071a\"",
-      "modified": "Wed, 19 Aug 2026 21:14:29 GMT"
+      "etag": "W/\"8c7bce899659648c68560e7c8f728f31\"",
+      "modified": "Wed, 19 Aug 2026 22:26:47 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"286490b60019a0801cb24fbd8c560cfd\"",
@@ -331,10 +333,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-vfSPfNaPurgoCCl5FwpMNUJGNvg\""
+      "etag": "W/\"84d8-/9EXR92JYPUnTLorDa7qoFKzxww\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 19 Aug 2026 22:10:13 GMT"
+      "modified": "Wed, 19 Aug 2026 22:43:34 GMT"
     }
   },
   "pendientes": {
