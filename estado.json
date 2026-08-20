@@ -338,7 +338,9 @@
     "https://www.aciprensa.com/noticias/127855/la-iglesia-en-venezuela-sigue-al-frente-de-la-emergencia-de-los-terremotos-los-ninos-son": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127857/ayuda-a-la-iglesia-necesitada-reune-firmas-para-pedir-a-la-onu-y-consejo-europeo-que-protejan-libertad-religiosa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127859/por-primera-vez-una-erudita-judia-fue-elegida-para-dirigir-la-asociacion-biblica-catolica": "descartado_palabras",
-    "https://persecution.org/?p=4495557": "procesado"
+    "https://persecution.org/?p=4495557": "procesado",
+    "https://www.aciprensa.com/noticias/127861/papa-leon-xiv-se-reune-con-presidente-de-libano-para-abordar-crisis-de-seguridad-y-paz": "descartado_palabras",
+    "https://persecution.org/?p=4495566": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -346,8 +348,8 @@
       "modified": "Thu, 20 Aug 2026 18:16:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"7b10a09a8dcfd201a6ad4e6ebab59e00\"",
-      "modified": "Thu, 20 Aug 2026 21:56:23 GMT"
+      "etag": "\"279194da7f5f905d9827baf6fdc05238\"",
+      "modified": "Thu, 20 Aug 2026 22:42:30 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6c7b0ff9e43a7685b1c5cf5467f56e8c\"",
@@ -357,10 +359,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-L7ESima1ZKIWokUbpySVxn8Gj4U\""
+      "etag": "W/\"84d8-lWXsCHmWPvps5BzLdFtroTQUV+A\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 20 Aug 2026 22:49:49 GMT"
+      "modified": "Thu, 20 Aug 2026 23:19:09 GMT"
     }
   },
   "pendientes": {
@@ -731,6 +733,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline",
       "creado": 1787264109.3544178
+    },
+    "47": {
+      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>ADF defiende a los cristianos contra la policía islámica en Nigeria</b>\n\nLa policía nigeriana arrestó a una mujer de 22 años por convertirse al cristianismo desde el Islam. Aunque el Tribunal Superior Federal falló a su favor, la familia cristiana que la ayudó enfrenta cargos falsos de secuestro. En 2025, \"Sarah\" huyó de su casa en el estado de Kano después de que sus hermanos mayores intentaran forzarla a un matrimonio arreglado.\n\n➖➖➖\n🇬🇧 <b>ADF Defends Christians Against Islamic Police in Nigeria</b>\n\n<i>Nigerian police arrested a 22-year-old woman for converting to Christianity from Islam. Though the Federal High Court ruled in her favor, the Christian family that helped her is facing false charges of kidnapping. In 2025, “Sarah” fled from her home in Kano state after her elder siblings tried forcing her into an arranged marriage.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Secuestro #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/08/Sarah-Nigeria.jpg"
+      },
+      "msg_id": 73,
+      "fuente": "International Christian Concern",
+      "titulo": "ADF Defends Christians Against Islamic Police in Nigeria",
+      "creado": 1787267953.4950862
     }
   },
   "editando": null
