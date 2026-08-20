@@ -332,12 +332,14 @@
     "https://www.aciprensa.com/noticias/127847/obispo-prohibe-misas-de-la-fsspx-en-el-santuario-de-lourdes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127851/a-puertas-del-viaje-del-papa-los-obispos-en-peru-reeligen-a-dos-de-sus-autoridades": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127849/sacerdote-diego-meza-es-el-nuevo-director-de-caritas-colombiana": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127853/lourdes-cubrira-mosaicos-rupnik-visita-papa-leon-xiv-francia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127853/lourdes-cubrira-mosaicos-rupnik-visita-papa-leon-xiv-francia": "descartado_palabras",
+    "https://morningstarnews.org/?p=18292": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127845/uruguayos-enviaran-mensajes-al-papa-leon-xiv-para-acercarle-la-voz-del-pais-antes-de-su-visita": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"f525e154d6705fdc07307482c25b4f5a\"",
-      "modified": "Tue, 18 Aug 2026 17:32:04 GMT"
+      "etag": "W/\"6c0bb81c40a850f557f337715d6de7d3\"",
+      "modified": "Thu, 20 Aug 2026 18:16:28 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"8c7bce899659648c68560e7c8f728f31\"",
@@ -351,10 +353,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-qo2bf9yRD4MejS57B97CH86eTms\""
+      "etag": "W/\"84d8-AZ2pF7vLpAE7HyxMqW/izX9rcM4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 20 Aug 2026 18:03:10 GMT"
+      "modified": "Thu, 20 Aug 2026 18:55:23 GMT"
     }
   },
   "pendientes": {
