@@ -329,7 +329,9 @@
     "https://www.aciprensa.com/noticias/127839/papa-leon-xiv-renovar-corazones-paz-cuidado-creacion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127841/oea-convoca-reunion-cancilleres-represion-nicaragua": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127843/derechos-audiencias-mexico-gobierno-preocupacion-iglesia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127847/obispo-prohibe-misas-de-la-fsspx-en-el-santuario-de-lourdes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127847/obispo-prohibe-misas-de-la-fsspx-en-el-santuario-de-lourdes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127851/a-puertas-del-viaje-del-papa-los-obispos-en-peru-reeligen-a-dos-de-sus-autoridades": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127849/sacerdote-diego-meza-es-el-nuevo-director-de-caritas-colombiana": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -348,10 +350,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-/GN3ZZZDdKnLIQIKhwaj2aunm+8\""
+      "etag": "W/\"84d8-E1L6A3+O5eaQJ+DvS8xDV9FeE9w\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 20 Aug 2026 16:14:37 GMT"
+      "modified": "Thu, 20 Aug 2026 16:56:18 GMT"
     }
   },
   "pendientes": {
