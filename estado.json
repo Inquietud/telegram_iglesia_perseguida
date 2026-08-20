@@ -316,7 +316,10 @@
     "https://persecution.org/?p=4495532": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127815/bancada-provida-presenta-proyecto-para-prohibir-la-maternidad-subrogada-de-colombia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127817/adorar-venerar-iglesia-catolica-dios-maria-santos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127819/elecciones-en-brasil-el-futuro-del-pais-y-el-mapa-politico-de-latinoamerica-en-juego": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127819/elecciones-en-brasil-el-futuro-del-pais-y-el-mapa-politico-de-latinoamerica-en-juego": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127825/un-hijo-no-nacido-es-un-hijo-abogado-cuestiona-falta-de-empatia-ante-el-duelo-gestacional": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127823/obispos-de-ee-uu-instan-a-rezar-contra-el-aborto-por-correo-deja-a-las-mujeres-vulnerables": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127821/mujer-que-cayo-en-la-nueva-era-revela-como-esta-practica-termino-destruyendo-su-matrimonio": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -335,10 +338,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-aWVBfmJbOZFdYlKbqB3a5P5KMbA\""
+      "etag": "W/\"84d8-bAbER45xWzSLweB90jWeN1stSAI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 20 Aug 2026 00:00:50 GMT"
+      "modified": "Thu, 20 Aug 2026 01:48:17 GMT"
     }
   },
   "pendientes": {
