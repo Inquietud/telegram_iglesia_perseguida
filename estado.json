@@ -336,7 +336,9 @@
     "https://morningstarnews.org/?p=18292": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127845/uruguayos-enviaran-mensajes-al-papa-leon-xiv-para-acercarle-la-voz-del-pais-antes-de-su-visita": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127855/la-iglesia-en-venezuela-sigue-al-frente-de-la-emergencia-de-los-terremotos-los-ninos-son": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127857/ayuda-a-la-iglesia-necesitada-reune-firmas-para-pedir-a-la-onu-y-consejo-europeo-que-protejan-libertad-religiosa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127857/ayuda-a-la-iglesia-necesitada-reune-firmas-para-pedir-a-la-onu-y-consejo-europeo-que-protejan-libertad-religiosa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127859/por-primera-vez-una-erudita-judia-fue-elegida-para-dirigir-la-asociacion-biblica-catolica": "descartado_palabras",
+    "https://persecution.org/?p=4495557": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -344,8 +346,8 @@
       "modified": "Thu, 20 Aug 2026 18:16:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"8c7bce899659648c68560e7c8f728f31\"",
-      "modified": "Wed, 19 Aug 2026 22:26:47 GMT"
+      "etag": "\"7b10a09a8dcfd201a6ad4e6ebab59e00\"",
+      "modified": "Thu, 20 Aug 2026 21:56:23 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6c7b0ff9e43a7685b1c5cf5467f56e8c\"",
@@ -355,10 +357,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-amrgtV63lEGABXoeYxZyKYUhaFA\""
+      "etag": "W/\"84d8-y9WRdTdxR+VBTOVZeaG7RcAqnMo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 20 Aug 2026 21:47:28 GMT"
+      "modified": "Thu, 20 Aug 2026 22:14:36 GMT"
     }
   },
   "pendientes": {
@@ -718,6 +720,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Petition Launched to Bring Home Pastor Imprisoned in China",
       "creado": 1787174090.6270442
+    },
+    "46": {
+      "texto": "⚠️ <b>PAKISTÁN</b> 🇵🇰\n\n<b>Los cristianos paquistaníes siguen al límite a pesar de que los casos de blasfemia disminuyen</b>\n\nUna multitud de cientos de personas se reunió frente a la casa de una familia cristiana en Karachi el mes pasado después de que las acusaciones de blasfemia comenzaran a extenderse, pero la multitud se dispersó después de que la policía interviniera. Desde entonces, una investigación inicial ha encontrado que la acusación subyacente es falsa. Según Reuters, las cuatro mujeres y un niño dentro del hogar se salvaron en parte porque... los cristianos paquistaníes posteriores permanecen al límite incluso cuando los casos de blasfemia disminuyen apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline</b>\n\n<i>A mob of hundreds gathered outside a Christian family’s home in Karachi last month after blasphemy allegations began to spread, but the crowd dispersed after police intervened. An initial inquiry has since found the underlying allegation to be false. According to Reuters, the four women and one child inside the home were spared partly because… The post Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/\">Fuente: International Christian Concern</a>\n#Pakistan #Asia #Blasfemia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2025/06/Christian-Woman-in-Pakistan-Forced-to-Convert-to-Islam-at-Gunpoint-1-300x196.jpg"
+      },
+      "msg_id": 71,
+      "fuente": "International Christian Concern",
+      "titulo": "Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline",
+      "creado": 1787264109.3544178
     }
   },
   "editando": null
