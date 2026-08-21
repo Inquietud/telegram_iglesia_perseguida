@@ -352,7 +352,8 @@
     "https://www.aciprensa.com/noticias/127881/ministra-de-educacion-afirma-que-revisaran-textos-para-sacar-ideologia-woke-de-escuelas-de": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127883/cardenal-insto-a-las-empresas-de-chile-a-tomar-decisiones-que-conduzcan-a-una-sociedad-mas-justa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127885/iglesia-en-peru-lanza-el-voluntariado-oficial-los-amigos-de-leon-para-la-visita-del-papa-leon": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127887/la-hija-de-un-iman-musulman-en-guinea-bissau-hace-sus-votos-como-monja-catolica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127887/la-hija-de-un-iman-musulman-en-guinea-bissau-hace-sus-votos-como-monja-catolica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127889/representantes-de-la-onu-y-ue-piden-a-los-paises-actuar-contra-la-discriminacion-religiosa": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -371,10 +372,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-eJMVfPVvIbW2aLFRHeo6g+FPjz8\""
+      "etag": "W/\"84d8-yxHwKQb9tnXORYvmulICbhKMpiM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 21 Aug 2026 22:35:36 GMT"
+      "modified": "Fri, 21 Aug 2026 22:59:38 GMT"
     }
   },
   "pendientes": {
@@ -701,6 +702,17 @@
       "fuente": "International Christian Concern",
       "titulo": "ADF Defends Christians Against Islamic Police in Nigeria",
       "creado": 1787267953.4950862
+    },
+    "48": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Representantes de la ONU y UE piden a los países actuar contra la discriminación religiosa</b>\n\nLos pronunciamientos tuvieron lugar con ocasión del Día Internacional en Conmemoración de las Víctimas de Actos de Violencia basados en la Religión o las Creencias, que se celebra el 22 de agosto.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127889/representantes-de-la-onu-y-ue-piden-a-los-paises-actuar-contra-la-discriminacion-religiosa\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787345527/ewtn-news/es/Rosario_Karolina-Grabowska-Pexels_230125_exdxnd.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 75,
+      "fuente": "ACI Prensa",
+      "titulo": "Representantes de la ONU y UE piden a los países actuar contra la discriminación religiosa",
+      "creado": 1787353212.2165256
     }
   },
   "editando": null
