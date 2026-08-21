@@ -341,7 +341,8 @@
     "https://persecution.org/?p=4495557": "procesado",
     "https://www.aciprensa.com/noticias/127861/papa-leon-xiv-se-reune-con-presidente-de-libano-para-abordar-crisis-de-seguridad-y-paz": "descartado_palabras",
     "https://persecution.org/?p=4495566": "procesado",
-    "https://www.aciprensa.com/noticias/127863/arzobispo-pide-rezar-por-la-salvacion-de-quien-robo-hostias-consagradas-en-san-luis-potosi": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127863/arzobispo-pide-rezar-por-la-salvacion-de-quien-robo-hostias-consagradas-en-san-luis-potosi": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127865/presentan-libro-sobre-la-importancia-de-los-textos-liturgicos-y-sus-traducciones-en-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -360,35 +361,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Xb0osTZuUZygSXolTej0OXuNV58\""
+      "etag": "W/\"84d8-ow0KRw2bGQcn3IfQ5mhHNdzrnxU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 21 Aug 2026 00:29:48 GMT"
+      "modified": "Fri, 21 Aug 2026 02:10:44 GMT"
     }
   },
   "pendientes": {
-    "13": {
-      "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Iglesia católica de Nueva York sufre cuarto ataque en 2 años: destruyen estatua de la Virgen</b>\n\nLa Policía investiga el ataque contra la iglesia católica de Santa Rita como un delito de odio, informó la Diócesis de Brooklyn.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127487/iglesia-catolica-nueva-york-cuarto-ataque-destruyen-estatua-virgen\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786058700/ewtn-news/es/Camara-vandalismo-iglesia-NY-060826_apanfo.jpg?w=800&amp;jpg"
-      },
-      "msg_id": 21,
-      "fuente": "ACI Prensa",
-      "titulo": "Iglesia católica de Nueva York sufre cuarto ataque en 2 años: destruyen estatua de la Virgen",
-      "creado": 1786063075.1221778
-    },
-    "14": {
-      "texto": "🚨 <b>PAKISTÁN</b> 🇵🇰\n\n<b>Niña cristiana lucha por anular el matrimonio forzado en Pakistán</b>\n\nLAHORE, Pakistán (Christian Daily International–Morning Star News) – Aneeqa Ishaq, una niña cristiana de 16 años de Lahore, Pakistán, aceptó un trabajo como cajera de un restaurante para la supervivencia de su familia, pero terminó con un compañero de trabajo secuestrándola, obligándola a convertirse al Islam y obligándola a casarse con él, dijo. \"Solo quería ayudar a mi [...]\n\n➖➖➖\n🇬🇧 <b>Christian Girl Struggles to Void Forced Marriage in Pakistan</b>\n\n<i>LAHORE, Pakistan (Christian Daily International–Morning Star News) – Aneeqa Ishaq, a 16-year-old Christian girl in Lahore, Pakistan, took a job as a restaurant cashier for her family’s survival, but it ended with a coworker abducting her, forcing her to convert to Islam and coercing her to marry him, she said. “I only wanted to help my […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/christian-girl-struggles-to-void-forced-marriage-in-pakistan/\">Fuente: Morning Star News</a>\n#Pakistan #Asia #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/In-one-study-the-average-age-of-girls-forced-to-marry-and-convert-to-Islam-in-Pakistan-was-12.8-years-old-according-to-Jubilee-Campaign.-Screenshot-from-Black-Stone-documentary-259x300.png"
-      },
-      "msg_id": 22,
-      "fuente": "Morning Star News",
-      "titulo": "Christian Girl Struggles to Void Forced Marriage in Pakistan",
-      "creado": 1786063079.7889087
-    },
     "15": {
       "texto": "🚨 <b>SUDÁN</b> 🇸🇩\n\n<b>Muere un pastor y otro es secuestrado en un ataque en las montañas Nuba de Sudán</b>\n\nEn las colinas de las montañas Nuba de Sudán, el dolor continúa profundizándose a medida que las comunidades cristianas se enfrentan a repetidos ataques contra sus líderes. El 24 de julio, combatientes de una facción separatista del Ejército de Liberación del Pueblo Sudanés-Norte (SPLA-N) irrumpieron en el área de Dabbi del condado de Heiban en Kordofán del Sur.\n\n➖➖➖\n🇬🇧 <b>One Pastor Dies, Another Abducted in Attack in Sudan’s Nuba Mountains</b>\n\n<i>In the hills of Sudan’s Nuba Mountains, grief continues to deepen as Christian communities face repeated attacks on their leaders. On July 24, fighters from a breakaway faction of the Sudan People’s Liberation Army-North (SPLA-N) stormed the Dabbi area of Heiban County in South Kordofan.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/07/one-pastor-dies-another-abducted-in-attack-in-sudans-nuba-mountains/\">Fuente: International Christian Concern</a>\n#Sudan #Africa #Secuestro #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
