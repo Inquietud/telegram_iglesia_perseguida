@@ -355,7 +355,10 @@
     "https://www.aciprensa.com/noticias/127887/la-hija-de-un-iman-musulman-en-guinea-bissau-hace-sus-votos-como-monja-catolica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127889/representantes-de-la-onu-y-ue-piden-a-los-paises-actuar-contra-la-discriminacion-religiosa": "procesado",
     "https://www.aciprensa.com/noticias/127891/obispo-de-getafe-a-participantes-del-familion-la-primera-llamada-de-dios-es-a-ser-esposos-y": "descartado_palabras",
-    "https://persecution.org/?p=4495574": "procesado"
+    "https://persecution.org/?p=4495574": "procesado",
+    "https://www.aciprensa.com/noticias/100727/quieres-hacerle-un-vestido-a-maria-reina-aqui-el-secreto-dado-por-un-santo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127875/asi-se-conserva-el-craneo-de-santa-rosa-de-lima": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127893/mujeres-red-secreta-guerra-cristera": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -374,10 +377,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-CTjbUvNtYHasfP3QfIp11lKynXg\""
+      "etag": "W/\"84d8-FcmhsV28kBC/T8sd8dX8iBnaeHo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 21 Aug 2026 23:58:26 GMT"
+      "modified": "Sat, 22 Aug 2026 01:45:40 GMT"
     }
   },
   "pendientes": {
