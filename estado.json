@@ -367,7 +367,9 @@
     "https://www.aciprensa.com/noticias/127905/leon-xiv-todo-somos-tenemos-don-dios-bien-todos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127907/madre-subrogada-demanda-negarse-abortar-bebe": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127909/roberto-carlos-niega-conversion-islam-tras-casarse-musulmana": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/95341/por-que-algunos-celebran-a-santa-rosa-de-lima-el-23-de-agosto-y-otros-el-30": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/95341/por-que-algunos-celebran-a-santa-rosa-de-lima-el-23-de-agosto-y-otros-el-30": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127913/leon-xiv-pide-respuesta-internacional-ante-el-avance-del-ebola-en-republica-democratica-del": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127911/papa-leon-xiv-invita-a-los-catolicos-a-preguntarse-quien-es-jesus-en-sus-vidas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -386,10 +388,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-NJa1yJdPuCYqA27T85+TglKQxGs\""
+      "etag": "W/\"84d8-W87bMgFModrhO5WTK0MCbWXA+7A\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 23 Aug 2026 14:01:47 GMT"
+      "modified": "Sun, 23 Aug 2026 14:35:55 GMT"
     }
   },
   "pendientes": {
