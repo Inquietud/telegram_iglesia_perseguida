@@ -376,29 +376,31 @@
     "https://www.aciprensa.com/noticias/127919/obispo-boxie-de-abogado-de-harvard-a-ser-el-obispo-mas-joven-de-estados-unidos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/95353/el-diablo-anda-suelto-en-el-mundo-cada-24-de-agosto-en-el-dia-de-san-bartolo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127921/alto-representante-del-vaticano-se-reunira-en-rusia-con-asesor-de-putin": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127923/el-papa-leon-xiv-invita-a-reconocer-la-mirada-de-cristo-en-los-mas-debiles-para-crecer-como": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127923/el-papa-leon-xiv-invita-a-reconocer-la-mirada-de-cristo-en-los-mas-debiles-para-crecer-como": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127925/el-papa-leon-xiv-anima-a-los-militares-a-fortalecerse-en-cristo-como-el-centurion-del-evangelio": "descartado_palabras",
+    "https://morningstarnews.org/?p=18297": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"6c0bb81c40a850f557f337715d6de7d3\"",
-      "modified": "Thu, 20 Aug 2026 18:16:28 GMT"
+      "etag": "W/\"da3fe890a46178c35d6d7d05ec6cefd0\"",
+      "modified": "Mon, 24 Aug 2026 15:27:45 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"6041532000d5d1eb81530384de1995dc\"",
       "modified": "Fri, 21 Aug 2026 23:41:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"9ff32f8fb91315fe8ddb1611b235f405\"",
-      "modified": "Mon, 24 Aug 2026 14:46:17 GMT"
+      "etag": "\"bf02bddc39157be172bd80bb89a76f3d\"",
+      "modified": "Mon, 24 Aug 2026 15:12:53 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-d9z2zhwrjw4Nw/bNDQLDQNM2IkM\""
+      "etag": "W/\"84d8-ZXFp8bm09I24JZojiejNqy9FWKk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 24 Aug 2026 14:53:52 GMT"
+      "modified": "Mon, 24 Aug 2026 15:41:58 GMT"
     }
   },
   "pendientes": {
@@ -736,6 +738,17 @@
       "fuente": "International Christian Concern",
       "titulo": "Pastor Sentenced to Prison in Indonesia",
       "creado": 1787356710.4524786
+    },
+    "50": {
+      "texto": "⚠️ <b>SUDÁN</b> 🇸🇩\n\n<b>Obrero cristiano de socorro detenido en las montañas Nuba de Sudán</b>\n\nNAIROBI, Kenia (Morning Star News) – Una trabajadora humanitaria cristiana arrestada por militantes rebeldes en las montañas Nuba de Sudán hace cinco meses sigue cautiva, dijo su familia. En el estado de Kordofán del Sur, la familia está haciendo un llamamiento urgente para la liberación de Najwa Musa Konda, cuya hermana Zaki Musa Konda fue una de las cuatro ayudantes de Samaritan's Purse [...]\n\n➖➖➖\n🇬🇧 <b>Christian Relief Worker Detained in Sudan’s Nuba Mountains</b>\n\n<i>NAIROBI, Kenya (Morning Star News) – A Christian relief worker arrested by rebel militants in Sudan’s Nuba Mountains five months ago remains captive, her family said. In South Kordofan state, the family is making an urgent appeal for the release of Najwa Musa Konda, whose sister Zaki Musa Konda was one of four Samaritan’s Purse aid […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/\">Fuente: Morning Star News</a>\n#Sudan #Africa #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/Location-of-South-Kordofan-state-in-Sudan.-TUBS-Creative-Commons-300x263.png"
+      },
+      "msg_id": 79,
+      "fuente": "Morning Star News",
+      "titulo": "Christian Relief Worker Detained in Sudan’s Nuba Mountains",
+      "creado": 1787586122.4235375
     }
   },
   "editando": null
