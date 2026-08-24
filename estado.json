@@ -383,7 +383,8 @@
     "https://www.aciprensa.com/noticias/127929/ex-preso-politico-reunion-sobre-nicaragua-pondra-a-prueba-el-rol-de-la-oea-por-la-democracia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127931/vaticano-envia-carta-sobre-guia-de-educacion-sexual-en-escuelas-catolicas-de-hamburgo-en": "descartado_palabras",
     "https://persecution.org/?p=4495587": "descartado_palabras",
-    "https://persecution.org/?p=4495580": "descartado_palabras"
+    "https://persecution.org/?p=4495580": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127933/obispo-detalla-el-programa-del-papa-leon-xiv-en-su-querida-diocesis-de-chiclayo-en-peru": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -402,10 +403,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-tFLyaIXCIs8zsz8mAjQyDBOcd1g\""
+      "etag": "W/\"84d8-FnVg+c92k+NeFIeLTTnnppXHTQU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 24 Aug 2026 23:31:31 GMT"
+      "modified": "Mon, 24 Aug 2026 23:54:09 GMT"
     }
   },
   "pendientes": {
