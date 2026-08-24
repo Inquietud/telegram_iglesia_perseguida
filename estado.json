@@ -378,7 +378,8 @@
     "https://www.aciprensa.com/noticias/127921/alto-representante-del-vaticano-se-reunira-en-rusia-con-asesor-de-putin": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127923/el-papa-leon-xiv-invita-a-reconocer-la-mirada-de-cristo-en-los-mas-debiles-para-crecer-como": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127925/el-papa-leon-xiv-anima-a-los-militares-a-fortalecerse-en-cristo-como-el-centurion-del-evangelio": "descartado_palabras",
-    "https://morningstarnews.org/?p=18297": "procesado"
+    "https://morningstarnews.org/?p=18297": "procesado",
+    "https://www.aciprensa.com/noticias/127927/iglesia-apoyo-cuidadores-enfermos-eutanasia": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -397,10 +398,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-HeB9pZiwe2ekBQoW9oUUDNYOddM\""
+      "etag": "W/\"84d8-AfSt1Q8Br4C6xEHY6PUtcFWyXGk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 24 Aug 2026 18:16:27 GMT"
+      "modified": "Mon, 24 Aug 2026 19:07:02 GMT"
     }
   },
   "pendientes": {
@@ -716,6 +717,17 @@
       "fuente": "Morning Star News",
       "titulo": "Christian Relief Worker Detained in Sudan’s Nuba Mountains",
       "creado": 1787586122.4235375
+    },
+    "51": {
+      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Ante la amenaza de la eutanasia, la Iglesia pide no desatender a quienes cuidan a los enfermos</b>\n\nLa Arquidiócesis Primada de México pidió “ayudar y apoyar a los cuidadores” de los enfermos, pues también enfrentan cansancio y estrés emocional.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127927/iglesia-apoyo-cuidadores-enfermos-eutanasia\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787597641/ewtn-news/es/Enfermo-cuidador-Shutterstock-240826_h4mpqk.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 81,
+      "fuente": "ACI Prensa",
+      "titulo": "Ante la amenaza de la eutanasia, la Iglesia pide no desatender a quienes cuidan a los enfermos",
+      "creado": 1787598438.303367
     }
   },
   "editando": null
