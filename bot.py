@@ -287,6 +287,23 @@ class Telegram:
         return self._call("answerCallbackQuery", callback_query_id=callback_id,
                           text=texto)
 
+    def asegurar_polling(self):
+        """Comprueba que nada impide recibir pulsaciones.
+
+        Si hay un webhook puesto, getUpdates devuelve error 409 y el bot deja de
+        enterarse de los botones (pero sigue pudiendo enviar mensajes, que es
+        justo el sintoma dificil de diagnosticar). Aqui lo detectamos y lo
+        quitamos, conservando las pulsaciones que estan en cola.
+        """
+        info = self._call("getWebhookInfo") or {}
+        pendientes = info.get("pending_update_count", 0)
+        if info.get("url"):
+            log(f"⚠️ Webhook activo en {info['url']} — lo quito para poder recibir pulsaciones")
+            self._call("deleteWebhook", drop_pending_updates=False)
+            return f"webhook eliminado ({pendientes} actualizaciones en cola)"
+        log(f"Sin webhook. Actualizaciones en cola: {pendientes}")
+        return f"sin webhook, {pendientes} en cola"
+
     def actualizaciones(self, timeout=10):
         params = {"timeout": timeout, "allowed_updates": ["message", "callback_query"]}
         if self.offset is not None:
@@ -295,9 +312,16 @@ class Telegram:
             r = requests.post(TG.format(token=self.token, method="getUpdates"),
                               json=params, timeout=timeout + 20)
             data = r.json()
-        except Exception:
+        except Exception as e:
+            self.ultimo_error = f"getUpdates: {e}"
+            log(f"❌ {self.ultimo_error}")
             return []
         if not data.get("ok"):
+            self.ultimo_error = f"getUpdates: {data.get('description')}"
+            log(f"❌ {self.ultimo_error}")
+            if data.get("error_code") == 409:
+                log("   409 = hay otra copia del bot escuchando, o un webhook activo. "
+                    "Cierra ARRANCAR.bat si lo tienes abierto.")
             return []
         ups = data["result"]
         if ups:
@@ -773,6 +797,15 @@ class Bot:
                 else:
                     lineas.append("✅ Es administrador y puede publicar")
 
+        info = self.tg._call("getWebhookInfo") or {}
+        if info.get("url"):
+            lineas.append(f"⚠️ <b>Webhook activo</b> ({esc(info['url'])}): bloquea la "
+                          "recepcion de pulsaciones. Lo quito ahora.")
+            self.tg._call("deleteWebhook", drop_pending_updates=False)
+        else:
+            lineas.append(f"✅ Recepcion de pulsaciones correcta "
+                          f"({info.get('pending_update_count', 0)} en cola)")
+
         prueba = self.tg.enviar(self.canal, "🔎 Prueba del bot. Puedes borrar este mensaje.")
         if prueba:
             lineas.append("✅ <b>Mensaje de prueba publicado en el canal</b>")
@@ -792,6 +825,7 @@ class Bot:
         3) guarda el estado y termina
         """
         log("Pasada unica")
+        self.tg.asegurar_polling()
         fin = time.time() + segundos_escucha
         total = 0
         while time.time() < fin:
@@ -815,6 +849,7 @@ class Bot:
 
     def run(self):
         log("Bot arrancado")
+        self.tg.asegurar_polling()
         if self.admin and not self.primer_arranque:
             aviso = "🟢 Bot en marcha. /chequear para buscar ahora."
             if self.pendientes:
