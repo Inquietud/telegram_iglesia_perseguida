@@ -391,12 +391,14 @@
     "https://www.aciprensa.com/noticias/127941/el-papa-leon-xiv-celebrara-en-castel-gandolfo-la-misa-por-el-cuidado-de-la-creacion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127943/con-una-edicion-itinerante-llega-a-catamarca-el-iii-congreso-academico-beato-mamerto-esquiu": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127945/el-papa-leon-xiv-pide-reforzar-el-valor-de-la-liturgia-en-la-formacion-cristiana": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127947/arte-comunidad-y-solidaridad-llega-a-buenos-aires-expo-arte-pilar-2026": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127947/arte-comunidad-y-solidaridad-llega-a-buenos-aires-expo-arte-pilar-2026": "descartado_palabras",
+    "https://morningstarnews.org/?p=18301": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127949/el-papa-leon-xiv-nombra-al-lider-de-los-caballeros-de-colon-para-un-dicasterio-del-vaticano": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"a3dfdadd52c8886f5953df28eab038d2\"",
-      "modified": "Mon, 24 Aug 2026 19:40:38 GMT"
+      "etag": "W/\"dc337b05ddd3347e16075254cda8f232\"",
+      "modified": "Tue, 25 Aug 2026 17:55:36 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"f2353f4030985609464556a4fd8ee9d5\"",
@@ -410,10 +412,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-mJqf0E3UuBjwFCLLdqZ1+TZTUOg\""
+      "etag": "W/\"84d8-+T9zAADVmc73hcE92tPtYnfkos8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 25 Aug 2026 17:23:12 GMT"
+      "modified": "Tue, 25 Aug 2026 17:56:47 GMT"
     }
   },
   "pendientes": {
