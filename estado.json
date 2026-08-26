@@ -410,7 +410,9 @@
     "https://www.aciprensa.com/noticias/127979/mons-gallagher-afirma-en-rusia-la-guerra-en-ucrania-debe-terminar-y-no-con-medios-militares": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127981/especialistas-congreso-internacional-biblia-chile": "descartado_palabras",
     "https://www.aciprensa.com/noticias/127983/cientos-de-lideres-religiosos-instan-al-gobierno-de-trump-a-extender-el-tps-para-el-salvador": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/127985/vejez-digna-compromiso-de-todos-lanzan-campana-de-ayuda-a-hogares-de-personas-mayores-en-bolivia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/127985/vejez-digna-compromiso-de-todos-lanzan-campana-de-ayuda-a-hogares-de-personas-mayores-en-bolivia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127989/migrantes-y-pobreza-2-desafios-del-peru-que-leon-xiv-conoce-bien-y-que-encontrara-en-su-visita": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/127987/incendio-provocado-destruye-historica-iglesia-catolica-canada": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -429,10 +431,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Eeh3zC4BFdPplshJwh0J6ghOKyE\""
+      "etag": "W/\"84d8-VGls09NMmnmv6rQLtajj6SgClus\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 26 Aug 2026 19:14:18 GMT"
+      "modified": "Wed, 26 Aug 2026 22:19:27 GMT"
     }
   },
   "pendientes": {
@@ -737,6 +739,17 @@
       "fuente": "International Christian Concern",
       "titulo": "ICC, Regent University Center for Global Justice Publish Report on Religious Freedom in Morocco",
       "creado": 1787702539.0132782
+    },
+    "53": {
+      "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Arrestan a sospechoso de provocar incendio que destruyó histórica iglesia católica en Canadá</b>\n\nLas autoridades señalaron que la iglesia católica Saint-Simon, en la península acadiana, quedó “completamente destruida” tras ser consumida por un enorme incendio.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127987/incendio-provocado-destruye-historica-iglesia-catolica-canada\">Fuente: ACI Prensa</a>\n#Mundo #Detenciones #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787769766/ewtn-news/es/Incendio-iglesia-Canada-1-260826_ci5jic.jpg?w=800&amp;jpg"
+      },
+      "msg_id": 85,
+      "fuente": "ACI Prensa",
+      "titulo": "Arrestan a sospechoso de provocar incendio que destruyó histórica iglesia católica en Canadá",
+      "creado": 1787782768.8858626
     }
   },
   "editando": null
