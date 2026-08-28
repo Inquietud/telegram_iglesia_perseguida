@@ -431,7 +431,9 @@
     "https://www.aciprensa.com/noticias/128011/padres-paulistas-proyecto-comunion-polarizacion-toxica-iglesia-eeuu": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128009/el-papa-leon-xiv-recibio-a-obispos-argentinos-y-avanzan-los-preparativos-de-su-visita-apostolica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128007/juez-colombiano-ordena-a-presidente-de-la-espriella-disculparse-por-expresiones-religiosas-en-acto-de-posesion": "descartado_palabras",
-    "https://persecution.org/?p=4495607": "procesado"
+    "https://persecution.org/?p=4495607": "procesado",
+    "https://www.aciprensa.com/noticias/128027/familia-catolica-crea-mirezo-la-app-que-permite-rezar-sin-internet-ni-anuncios": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128025/mexico-escucha-los-retos-de-las-familias-rumbo-a-los-10-anos-de-amoris-laetitia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -450,10 +452,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-dgNcUq36B96NRGJ+CV1Ub28U1IY\""
+      "etag": "W/\"84d8-GrUQwoutA49K90oLCLuibAJt4xM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 27 Aug 2026 23:58:05 GMT"
+      "modified": "Fri, 28 Aug 2026 11:13:19 GMT"
     }
   },
   "pendientes": {
