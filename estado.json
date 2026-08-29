@@ -449,7 +449,8 @@
     "https://www.aciprensa.com/noticias/128053/como-instalar-buzones-de-paz-iglesias-ciudad-de-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128051/obispos-de-california-piden-regular-las-redes-sociales-mientras-meta-paga-multa-de-miles-de": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128049/quienes-serian-los-primeros-cardenales-del-pontificado-de-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128047/puebla-ciudad-angeles-lugar-especial-santa-rosa-lima": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128047/puebla-ciudad-angeles-lugar-especial-santa-rosa-lima": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128055/santa-rosa-no-fue-una-desequilibrada-sino-una-joven-feliz-por-el-amor-de-dios-dice-arzobispo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -457,8 +458,8 @@
       "modified": "Fri, 28 Aug 2026 23:22:24 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"62412c82e703eb852da9370dd467942e\"",
-      "modified": "Fri, 28 Aug 2026 20:07:28 GMT"
+      "etag": "\"0fc84e1d698e1874b511101878e3e471\"",
+      "modified": "Sat, 29 Aug 2026 04:13:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a50a55e7dac4b79b1c778f1453590180\"",
@@ -468,10 +469,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-qL8uPWZzxClHrRDMUnh/QUg98gM\""
+      "etag": "W/\"84d8-hIDKLWGF2VRozAnOyuqTkViMXDk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 29 Aug 2026 03:19:14 GMT"
+      "modified": "Sat, 29 Aug 2026 10:17:13 GMT"
     }
   },
   "pendientes": {
