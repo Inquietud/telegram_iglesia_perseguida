@@ -445,12 +445,16 @@
     "https://www.aciprensa.com/noticias/128029/celebraciones-liturgicas-que-presidira-el-papa-leon-xiv-en-septiembre-y-octubre-de-2026": "descartado_palabras",
     "https://persecution.org/?p=4495622": "procesado",
     "https://persecution.org/?p=4495619": "procesado",
-    "https://morningstarnews.org/?p=18307": "procesado"
+    "https://morningstarnews.org/?p=18307": "procesado",
+    "https://www.aciprensa.com/noticias/128053/como-instalar-buzones-de-paz-iglesias-ciudad-de-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128051/obispos-de-california-piden-regular-las-redes-sociales-mientras-meta-paga-multa-de-miles-de": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128049/quienes-serian-los-primeros-cardenales-del-pontificado-de-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128047/puebla-ciudad-angeles-lugar-especial-santa-rosa-lima": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"ab1a96b5749053f13ee350611991a735\"",
-      "modified": "Fri, 28 Aug 2026 16:27:55 GMT"
+      "etag": "W/\"8ab16a4738373efa27a88a1ab4060cb4\"",
+      "modified": "Fri, 28 Aug 2026 23:22:24 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"62412c82e703eb852da9370dd467942e\"",
@@ -464,10 +468,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-8SsLQkE9x9CPFj8CRskipn7uYmQ\""
+      "etag": "W/\"84d8-qL8uPWZzxClHrRDMUnh/QUg98gM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 28 Aug 2026 21:27:29 GMT"
+      "modified": "Sat, 29 Aug 2026 03:19:14 GMT"
     }
   },
   "pendientes": {
