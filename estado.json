@@ -469,7 +469,13 @@
     "https://www.aciprensa.com/noticias/128083/el-papa-leon-xiv-nombra-un-nuevo-exarca-apostolico-para-los-fieles-greco-melquitas-en-argentina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128081/de-la-espriella-se-disculpa-por-acto-religioso-en-investidura-y-pide-a-dios-que-bendiga-a": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128079/mons-gallagher-fuimos-a-moscu-para-hablar-de-paz": "descartado_palabras",
-    "https://morningstarnews.org/?p=18319": "procesado"
+    "https://morningstarnews.org/?p=18319": "procesado",
+    "https://persecution.org/?p=4495653": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/116817/santos-y-festividades-catolicas-destacadas-del-mes-de-septiembre-2025-segun-el-calendario-liturgico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128097/inundaciones-en-nepal-caritas-ayuda-a-miles-de-familias-mientras-los-muertos-superan-los-900": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128095/las-dictaduras-desgastadas-jamas-hablan-de-la-cruz-advierte-el-obispo-baez-de-nicaragua": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128093/festejos-en-honor-al-beato-ceferino-namuncura-convocaron-a-una-multitud-en-chimpay": "descartado_palabras",
+    "https://persecution.org/?p=4495650": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -477,8 +483,8 @@
       "modified": "Mon, 31 Aug 2026 19:04:38 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"bbc48f82af53a23f8973edb03602b52a\"",
-      "modified": "Mon, 31 Aug 2026 19:46:36 GMT"
+      "etag": "\"c6ad76409f246c9d1a833cd70a0ac935\"",
+      "modified": "Mon, 31 Aug 2026 23:03:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a50a55e7dac4b79b1c778f1453590180\"",
@@ -488,24 +494,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-h8R2Pl39jIX/5YjqaUGBOaTdchg\""
+      "etag": "W/\"84d8-QQ2lmmXb8LEiGsMeGd3KnRf1aWs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 31 Aug 2026 20:24:54 GMT"
+      "modified": "Tue, 01 Sep 2026 00:02:33 GMT"
     }
   },
   "pendientes": {
-    "39": {
-      "texto": "⚠️ <b>RUSIA</b> 🇷🇺\n\n<b>Una misionera coreana se enfrenta a 17 años de prisión en Rusia</b>\n\nEl juicio del misionero coreano Park Tae-Yeon, de 69 años, se reanudó recientemente en Rusia. Missionary Park fue arrestada en enero de 2026, una semana antes de regresar a Corea del Sur para jubilarse después de 33 años de ministerio en Rusia. Fue arrestada por violaciones de inmigración, pero también hubo investigaciones sobre los \"campamentos religiosos\" en los que ella... The post Korean Missionary Faces 17-Year Imprisonment in Russia apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Korean Missionary Faces 17-Year Imprisonment in Russia</b>\n\n<i>The trial of Korean missionary Park Tae-Yeon, 69, resumed recently in Russia. Missionary Park was arrested in January 2026, one week before she was due to return to South Korea to retire after 33 years of ministry in Russia. She was arrested for immigration violations, but there were also investigations into “religious camps” she… The post Korean Missionary Faces 17-Year Imprisonment in Russia first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/17/korean-missionary-faces-17-year-imprisonment-in-russia/\">Fuente: International Christian Concern</a>\n#Rusia #Europa #Detenciones #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Park-Tae-Yeon.jpg"
-      },
-      "msg_id": 57,
-      "fuente": "International Christian Concern",
-      "titulo": "Korean Missionary Faces 17-Year Imprisonment in Russia",
-      "creado": 1787000574.0966306
-    },
     "40": {
       "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>15.000 fieles y el representante del Papa conmemoran el centenario de cuatro mártires mexicanos</b>\n\nUnos 15.000 fieles y el Nuncio Apostólico en México conmemoraron los 100 años del martirio de San Luis Bátis y tres laicos en la Arquidiócesis de Durango.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -711,6 +706,14 @@
       "fuente": "Morning Star News",
       "titulo": "Muslim’s Custody of Christian Girl in Pakistan Condemned",
       "creado": 1788207925.762371
+    },
+    "59": {
+      "texto": "📄 <b>IRÁN</b> 🇮🇷\n\n<b>Canadá concede asilo a cristiano iraní deportado de EE.UU.</b>\n\nDespués de ser deportado de los Estados Unidos mientras buscaba asilo, un converso cristiano que huyó de la persecución en Irán tiene un nuevo hogar. Artemis Ghasemzadeh, de 27 años, recibió recientemente asilo a través del programa de reasentamiento de refugiados de Canadá. Llegó a su nuevo hogar en Denman Island, cerca de Vancouver, en julio.\n\n➖➖➖\n🇬🇧 <b>Canada Grants Asylum to Iranian Christian Deported from US</b>\n\n<i>After being deported from the United States while seeking asylum, a Christian convert who fled persecution in Iran has a new home. Artemis Ghasemzadeh, 27, recently received asylum through Canada’s refugee resettlement program. She arrived at her new home on Denman Island near Vancouver in July.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/\">Fuente: International Christian Concern</a>\n#Iran #OrienteMedio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": null,
+      "msg_id": 97,
+      "fuente": "International Christian Concern",
+      "titulo": "Canada Grants Asylum to Iranian Christian Deported from US",
+      "creado": 1788220957.917023
     }
   },
   "editando": null
