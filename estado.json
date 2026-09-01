@@ -478,7 +478,12 @@
     "https://persecution.org/?p=4495650": "procesado",
     "https://www.aciprensa.com/noticias/128103/su-reino-no-tendra-fin-llega-a-mexico-una-pelicula-sobre-el-mensaje-del-sagrado-corazon-de-jesus": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128101/un-arzobispo-en-brasil-establece-normas-para-el-uso-de-ia-en-las-comunicaciones": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128099/una-camioneta-convertida-en-capilla-llevara-a-jesus-eucaristia-por-las-calles-de-monterrey": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128099/una-camioneta-convertida-en-capilla-llevara-a-jesus-eucaristia-por-las-calles-de-monterrey": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128109/papa-leon-xiv-invita-a-rezar-en-septiembre-por-una-gestion-justa-y-sostenible-del-agua": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128107/el-santuario-de-lourdes-ultima-preparativos-para-recibir-al-papa-leon-xiv-y-confirma-150-000": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/56837/hoy-comienza-el-tiempo-de-la-creacion-que-va-hasta-la-fiesta-de-san-francisco": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/95511/hoy-inicia-el-mes-de-la-biblia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128105/canto-catolico-celebra-10-anos-con-gira-europea-que-le-llevara-a-austria-y": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -490,17 +495,17 @@
       "modified": "Mon, 31 Aug 2026 23:03:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f48270cfa5096d97321357261c7e3a57\"",
-      "modified": "Tue, 01 Sep 2026 09:59:31 GMT"
+      "etag": "\"3cc356f4fad9ebd4b2ba4b4c0995409c\"",
+      "modified": "Tue, 01 Sep 2026 14:25:32 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-4+4gDs0weqPmi4lZ+84yQEJo+Ss\""
+      "etag": "W/\"84d8-yB4F1UO/WVEEqah+KDoOuiRuoR0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 01 Sep 2026 10:00:38 GMT"
+      "modified": "Tue, 01 Sep 2026 14:48:28 GMT"
     }
   },
   "pendientes": {
