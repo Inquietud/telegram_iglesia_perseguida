@@ -475,7 +475,10 @@
     "https://www.aciprensa.com/noticias/128097/inundaciones-en-nepal-caritas-ayuda-a-miles-de-familias-mientras-los-muertos-superan-los-900": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128095/las-dictaduras-desgastadas-jamas-hablan-de-la-cruz-advierte-el-obispo-baez-de-nicaragua": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128093/festejos-en-honor-al-beato-ceferino-namuncura-convocaron-a-una-multitud-en-chimpay": "descartado_palabras",
-    "https://persecution.org/?p=4495650": "procesado"
+    "https://persecution.org/?p=4495650": "procesado",
+    "https://www.aciprensa.com/noticias/128103/su-reino-no-tendra-fin-llega-a-mexico-una-pelicula-sobre-el-mensaje-del-sagrado-corazon-de-jesus": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128101/un-arzobispo-en-brasil-establece-normas-para-el-uso-de-ia-en-las-comunicaciones": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128099/una-camioneta-convertida-en-capilla-llevara-a-jesus-eucaristia-por-las-calles-de-monterrey": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -494,24 +497,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-QQ2lmmXb8LEiGsMeGd3KnRf1aWs\""
+      "etag": "W/\"84d8-9ZUbN1x1IDlmmqwGW3Y+ODXqi3U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 01 Sep 2026 00:02:33 GMT"
+      "modified": "Tue, 01 Sep 2026 05:00:32 GMT"
     }
   },
   "pendientes": {
-    "40": {
-      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>15.000 fieles y el representante del Papa conmemoran el centenario de cuatro mártires mexicanos</b>\n\nUnos 15.000 fieles y el Nuncio Apostólico en México conmemoraron los 100 años del martirio de San Luis Bátis y tres laicos en la Arquidiócesis de Durango.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127759/15-mil-fieles-representante-papa-centenario-cuatro-martires-mexicanos\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787004468/ewtn-news/es/Misa-centenario-martires-Durango-1-170826_y7wddo.jpg?w=800&amp;jpg"
-      },
-      "msg_id": 59,
-      "fuente": "ACI Prensa",
-      "titulo": "15.000 fieles y el representante del Papa conmemoran el centenario de cuatro mártires mexicanos",
-      "creado": 1787017459.4569354
-    },
     "41": {
       "texto": "🚨 <b>PAKISTÁN</b> 🇵🇰\n\n<b>Detalles dados en la absolución en el asesinato de una pareja cristiana en Pakistán</b>\n\nLAHORE, Pakistán (Christian Daily International-Morning Star News) – La Corte Suprema de Pakistán proporcionó el jueves (13 de agosto) detalles sobre la absolución el 9 de julio de tres musulmanes condenados a muerte por la quema de una pareja cristiana en 2014. Citando contradicciones y lagunas en el caso de la fiscalía y pruebas insuficientes y confiables para sostener las condenas, la [...]\n\n➖➖➖\n🇬🇧 <b>Details Given in Acquittal in Killing of Christian Couple in Pakistan</b>\n\n<i>LAHORE, Pakistan (Christian Daily International–Morning Star News) – Pakistan’s Supreme Court on Thursday (Aug. 13) provided details on the July 9 acquittal of three Muslims sentenced to death for the 2014 burning alive of a Christian couple. Citing contradictions and gaps in the prosecution’s case and insufficient reliable evidence to sustain the convictions, the detailed 26-page […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/\">Fuente: Morning Star News</a>\n#Pakistan #Asia #Asesinato #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
