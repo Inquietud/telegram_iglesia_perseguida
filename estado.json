@@ -485,7 +485,14 @@
     "https://www.aciprensa.com/noticias/95511/hoy-inicia-el-mes-de-la-biblia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128105/canto-catolico-celebra-10-anos-con-gira-europea-que-le-llevara-a-austria-y": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128113/leon-xiv-invita-a-pausar-el-ajetreo-cotidiano-para-escuchar-la-voz-melodiosa-de-la-creacion": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128111/nuevo-proyecto-para-atender-a-religiosos-en-el-vaticano-que-quedan-fuera-de-su-sistema-sanitario": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128111/nuevo-proyecto-para-atender-a-religiosos-en-el-vaticano-que-quedan-fuera-de-su-sistema-sanitario": "descartado_palabras",
+    "https://persecution.org/?p=4495669": "descartado_palabras",
+    "https://persecution.org/?p=4495659": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128123/delegacion-vaticana-confirma-las-pampas-de-pimentel-para-la-misa-de-leon-xiv-en-chiclayo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128121/el-papa-nombra-al-nuevo-obispo-de-fort-liberte-en-haiti": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128119/chile-rescata-el-legado-del-p-esteban-gumucio-a-112-anos-de-su-nacimiento": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128117/presidente-de-colombia-impugna-fallo-que-lo-sanciona-por-acto-religioso-durante-toma-de-posesion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128115/el-premio-papa-francisco-reconocera-iniciativas-transformadoras-de-la-socieda": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -493,8 +500,8 @@
       "modified": "Mon, 31 Aug 2026 19:04:38 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"0010af005badf9645b3796ce627fa887\"",
-      "modified": "Tue, 01 Sep 2026 17:48:25 GMT"
+      "etag": "\"fb8a68719fc9fab1f32baf02a6cafc48\"",
+      "modified": "Tue, 01 Sep 2026 18:37:24 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"1ca2bd31131d44238cff3416afac0647\"",
@@ -504,10 +511,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-nZEj/GJWSRSTWuWrR/euC4bmmg0\""
+      "etag": "W/\"84d8-fTkEWL64EI/YQnT7NCzLzaPqVb0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 01 Sep 2026 18:02:51 GMT"
+      "modified": "Tue, 01 Sep 2026 20:59:03 GMT"
     }
   },
   "pendientes": {
