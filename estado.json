@@ -511,7 +511,9 @@
     "https://persecution.org/?p=4495677": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128157/obispos-de-bolivia-peru-y-chile-abordan-juntos-los-desafios-pastorales-de-la-triple-frontera": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128155/leon-xiv-a-sacerdotes-de-portugal-no-alimenten-miedos-esteriles-ni-entusiasmos-ingenuos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128151/colecta-mas-por-menos-2026-convoca-a-compartir-con-alegria-para-multiplicar-la-esperanza": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128151/colecta-mas-por-menos-2026-convoca-a-compartir-con-alegria-para-multiplicar-la-esperanza": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128159/joe-schmid-uno-de-los-ateos-mas-populares-de-internet-anuncia-su-regreso-a-la-iglesia-catolica": "descartado_palabras",
+    "https://persecution.org/?p=4495688": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -519,8 +521,8 @@
       "modified": "Wed, 02 Sep 2026 17:53:46 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"97ef4f26e1e8870a2125669b77d6bd9b\"",
-      "modified": "Wed, 02 Sep 2026 19:36:57 GMT"
+      "etag": "\"de45aa592948f7c5b0c12f2001e4a7cc\"",
+      "modified": "Wed, 02 Sep 2026 21:43:57 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"542cc7a19d4a5764769db27ae485805b\"",
@@ -530,24 +532,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-aBDQVcXAbSmk6MxG3RGbsHH3At0\""
+      "etag": "W/\"84d8-UbeNDZnHiv4CVgVm9fTuhATA/ZU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 02 Sep 2026 20:59:14 GMT"
+      "modified": "Wed, 02 Sep 2026 23:16:16 GMT"
     }
   },
   "pendientes": {
-    "45": {
-      "texto": "⚠️ <b>CHINA</b> 🇨🇳\n\n<b>Se lanza una petición para traer a casa a un pastor encarcelado en China</b>\n\nChinaAid, una organización internacional que apoya a los cristianos perseguidos dentro de China, ha lanzado una petición y una campaña de defensa para que el pastor John Cao regrese a su hogar en los EE. UU. El pastor John ha estado encarcelado en China durante siete años por su trabajo misionero en la frontera entre China y Myanmar, ayudando a establecer 16 escuelas que sirven a miles de locales... La petición post lanzada para traer a casa al pastor encarcelado en China apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Petition Launched to Bring Home Pastor Imprisoned in China</b>\n\n<i>ChinaAid, an international organization supporting persecuted Christians inside China, has launched a petition and advocacy campaign to bring Pastor John Cao back to his home in the U.S. Pastor John has been imprisoned in China for seven years for his missionary work on the China-Myanmar border, helping establish 16 schools that serve thousands of local… The post Petition Launched to Bring Home Pastor Imprisoned in China first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/\">Fuente: International Christian Concern</a>\n#China #Asia #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Pastor-John-Cao-China.jpg"
-      },
-      "msg_id": 69,
-      "fuente": "International Christian Concern",
-      "titulo": "Petition Launched to Bring Home Pastor Imprisoned in China",
-      "creado": 1787174090.6270442
-    },
     "46": {
       "texto": "⚠️ <b>PAKISTÁN</b> 🇵🇰\n\n<b>Los cristianos paquistaníes siguen al límite a pesar de que los casos de blasfemia disminuyen</b>\n\nUna multitud de cientos de personas se reunió frente a la casa de una familia cristiana en Karachi el mes pasado después de que las acusaciones de blasfemia comenzaran a extenderse, pero la multitud se dispersó después de que la policía interviniera. Desde entonces, una investigación inicial ha encontrado que la acusación subyacente es falsa. Según Reuters, las cuatro mujeres y un niño dentro del hogar se salvaron en parte porque... los cristianos paquistaníes posteriores permanecen al límite incluso cuando los casos de blasfemia disminuyen apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline</b>\n\n<i>A mob of hundreds gathered outside a Christian family’s home in Karachi last month after blasphemy allegations began to spread, but the crowd dispersed after police intervened. An initial inquiry has since found the underlying allegation to be false. According to Reuters, the four women and one child inside the home were spared partly because… The post Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/\">Fuente: International Christian Concern</a>\n#Pakistan #Asia #Blasfemia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -706,6 +697,17 @@
       "fuente": "Morning Star News",
       "titulo": "Two Christians Arrested under Blasphemy Laws in Pakistan",
       "creado": 1788372166.3252397
+    },
+    "61": {
+      "texto": "⚠️ <b>INDIA</b> 🇮🇳\n\n<b>Hindúes cortan el agua y la electricidad para una familia cristiana en Chhattisgarh</b>\n\nUna turba hindú radical atacó recientemente a una familia cristiana en Chhattisgarh después de que se negaron a participar en una ceremonia de reconversión hindú llamada Ghar Wapsi. La turba derribó el techo de la casa de la familia, dejando a siete personas expuestas a las fuertes lluvias del monzón e incapaces de vivir con seguridad en la estructura. Según fuentes locales, alrededor de... El post Hindus Cut Water, Electricity Off for Christian Family en Chhattisgarh apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh</b>\n\n<i>A radical Hindu mob recently attacked a Christian family in Chhattisgarh after they refused to participate in a Hindu reconversion ceremony called Ghar Wapsi. The mob tore down the roof of the family’s home, leaving seven people exposed to heavy monsoon rains and unable to live safely in the structure. According to local sources, around… The post Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/\">Fuente: International Christian Concern</a>\n#India #Asia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
+      "media": {
+        "tipo": "foto",
+        "url": "https://persecution.org/wp-content/uploads/2026/01/Indian-village.jpg"
+      },
+      "msg_id": 101,
+      "fuente": "International Christian Concern",
+      "titulo": "Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh",
+      "creado": 1788390981.9174225
     }
   },
   "editando": null
