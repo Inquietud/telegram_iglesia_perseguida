@@ -507,7 +507,11 @@
     "https://www.aciprensa.com/noticias/128149/proyecto-de-ley-en-colombia-busca-prohibir-tratamientos-de-cambio-de-sexo-a-menores-de-edad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128147/simposio-sobre-exorcismos-aborda-la-existencia-del-diablo-como-parte-de-la-doctrina-catolica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128145/varios-templos-incluida-la-catedral-permanecen-cerrados-tras-los-terremotos-en-granada": "descartado_palabras",
-    "https://morningstarnews.org/?p=18342": "procesado"
+    "https://morningstarnews.org/?p=18342": "procesado",
+    "https://persecution.org/?p=4495677": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128157/obispos-de-bolivia-peru-y-chile-abordan-juntos-los-desafios-pastorales-de-la-triple-frontera": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128155/leon-xiv-a-sacerdotes-de-portugal-no-alimenten-miedos-esteriles-ni-entusiasmos-ingenuos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128151/colecta-mas-por-menos-2026-convoca-a-compartir-con-alegria-para-multiplicar-la-esperanza": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -515,8 +519,8 @@
       "modified": "Wed, 02 Sep 2026 17:53:46 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"a3e2dfa995e8da9fc67cb42e30062872\"",
-      "modified": "Wed, 02 Sep 2026 14:47:43 GMT"
+      "etag": "\"97ef4f26e1e8870a2125669b77d6bd9b\"",
+      "modified": "Wed, 02 Sep 2026 19:36:57 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"542cc7a19d4a5764769db27ae485805b\"",
@@ -526,10 +530,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-LOsAgQymtFzt52s+EwatG/5waYc\""
+      "etag": "W/\"84d8-aBDQVcXAbSmk6MxG3RGbsHH3At0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 02 Sep 2026 18:02:41 GMT"
+      "modified": "Wed, 02 Sep 2026 20:59:14 GMT"
     }
   },
   "pendientes": {
