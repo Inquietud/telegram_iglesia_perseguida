@@ -522,7 +522,12 @@
     "https://www.aciprensa.com/noticias/128175/opus-dei-el-obispo-de-barbastro-hizo-una-acusacion-ofensiva-sin-fundamento-sobre-torreciudad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128173/obispo-cubano-es-internado-en-uci-iglesia-pide-oraciones-por-su-salud": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128171/papa-leon-xiv-a-los-seminaristas-al-contemplar-a-cada-uno-de-ustedes-veo-la-maravilla-de-dios": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128169/leon-xiv-recuerda-ante-obispos-de-regiones-arabes-que-es-lo-esencial-de-la-vida-cristiana": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128169/leon-xiv-recuerda-ante-obispos-de-regiones-arabes-que-es-lo-esencial-de-la-vida-cristiana": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128185/la-iglesia-en-argentina-celebra-el-mes-de-la-educacion-con-tres-consejos-de-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128183/reforma-constitucional-de-nicaragua-genera-rechazo-no-pueden-cancelar-la-democracia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128181/a-la-espera-de-confirmacion-vaticana-cual-sera-la-agenda-del-papa-en-argentina-y-uruguay": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128179/acn-colombia-moviliza-apoyo-para-atender-a-comunidades-afectadas-por-terremoto-en-choco": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128177/los-abusos-y-la-liturgia-centran-los-cursos-formativos-de-mas-de-140-nuevos-obispos-reunidos-en": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -541,10 +546,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-hzoj5SJVsbzXB1JqsrxcuY4XSjc\""
+      "etag": "W/\"84d8-/2a2KxdHT6decKHbShxor90wBDw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 03 Sep 2026 14:57:43 GMT"
+      "modified": "Thu, 03 Sep 2026 18:31:58 GMT"
     }
   },
   "pendientes": {
@@ -722,7 +727,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-03 14:57",
+    "ultima_pasada_utc": "2026-09-03 18:32",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
