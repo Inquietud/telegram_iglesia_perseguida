@@ -527,29 +527,35 @@
     "https://www.aciprensa.com/noticias/128183/reforma-constitucional-de-nicaragua-genera-rechazo-no-pueden-cancelar-la-democracia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128181/a-la-espera-de-confirmacion-vaticana-cual-sera-la-agenda-del-papa-en-argentina-y-uruguay": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128179/acn-colombia-moviliza-apoyo-para-atender-a-comunidades-afectadas-por-terremoto-en-choco": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128177/los-abusos-y-la-liturgia-centran-los-cursos-formativos-de-mas-de-140-nuevos-obispos-reunidos-en": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128177/los-abusos-y-la-liturgia-centran-los-cursos-formativos-de-mas-de-140-nuevos-obispos-reunidos-en": "descartado_palabras",
+    "https://morningstarnews.org/?p=18351": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128191/en-el-mes-de-la-biblia-la-arquidiocesis-de-santiago-lleva-la-palabra-a-la-ciudad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128187/jonathan-roumie-y-el-obispo-robert-barron-encabezaran-los-primeros-premios-sheen": "descartado_palabras",
+    "https://morningstarnews.org/?p=18354": "procesado",
+    "https://persecution.org/?p=4495701": "procesado",
+    "https://www.aciprensa.com/noticias/128189/universidad-catolica-uniminuto-organiza-semana-social-2026-sobre-democracia-y-la-amenaza-del-populismo": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"6e45a69fff6169db31ad22198c79b786\"",
-      "modified": "Wed, 02 Sep 2026 17:53:46 GMT"
+      "etag": "W/\"29fcfb7e64a585c622d02f51b8ad2d5a\"",
+      "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"cb2e2ec0f0dd935e0bc8591ac0f748c1\"",
-      "modified": "Thu, 03 Sep 2026 14:09:30 GMT"
+      "etag": "\"b21b9ed797719381bb9c096a06582295\"",
+      "modified": "Thu, 03 Sep 2026 20:21:42 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"8c6024e5213c6e093c62c070b4168ee8\"",
-      "modified": "Thu, 03 Sep 2026 14:42:44 GMT"
+      "etag": "\"13d90737f285d8589baecafab148b987\"",
+      "modified": "Thu, 03 Sep 2026 17:34:31 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-/2a2KxdHT6decKHbShxor90wBDw\""
+      "etag": "W/\"84d8-zB0g9Jtbddlp6ZBK6ENlO7D0mGw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 03 Sep 2026 18:31:58 GMT"
+      "modified": "Thu, 03 Sep 2026 21:19:29 GMT"
     }
   },
   "pendientes": {
@@ -727,7 +733,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-03 18:32",
+    "ultima_pasada_utc": "2026-09-03 21:19",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -735,6 +741,7 @@
     ],
     "updates_recibidos": 0,
     "pulsaciones": [],
-    "mensajes": []
+    "mensajes": [],
+    "publicados_ultima_pasada": 3
   }
 }
