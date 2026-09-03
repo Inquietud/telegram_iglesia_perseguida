@@ -38,6 +38,9 @@ jobs:
           EMAIL_TRADUCTOR: ${{ secrets.EMAIL_TRADUCTOR }}
           TRADUCIR: "true"
           MAX_ANTIGUEDAD_HORAS: "48"
+          # "true"  = publica solo en el canal (no hace falta aprobar nada)
+          # "false" = te manda borradores y apruebas con /publicar N
+          PUBLICAR_AUTOMATICO: "true"
           HASHTAG_FIJO: "#IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross"
         run: python bot.py --una-vez
 

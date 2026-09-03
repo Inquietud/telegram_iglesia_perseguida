@@ -480,6 +480,8 @@ def config_desde_entorno(cfg):
         "EMAIL_TRADUCTOR": ("email_traductor", str),
         "MAX_ANTIGUEDAD_HORAS": ("max_antiguedad_horas", int),
         "HASHTAG_FIJO": ("hashtag_fijo", str),
+        "PUBLICAR_AUTOMATICO": ("publicar_automatico",
+                                lambda v: v.lower() in ("1", "true", "si", "s")),
     }
     for env, (clave, tipo) in mapa.items():
         valor = os.environ.get(env, "").strip()
@@ -513,6 +515,7 @@ class Bot:
         self.contador = max([int(k) for k in self.pendientes if k.isdigit()] or [0])
 
         self.editando = estado.get("editando")
+        self.diag = estado.get("diagnostico", {})
         self.pausado = False
         self.ultimo_chequeo = 0
 
@@ -530,7 +533,14 @@ class Bot:
         items = list(self.vistos.items())[-5000:]
         guardar_json(ESTADO_PATH, {"vistos": dict(items), "cache": self.cache,
                                    "pendientes": self.pendientes,
-                                   "editando": self.editando})
+                                   "editando": self.editando,
+                                   "diagnostico": self.diag})
+
+    def apuntar(self, clave, valor):
+        """Telemetria que viaja en estado.json, para poder auditar que pasa
+        sin necesidad de leer los registros de GitHub."""
+        self.diag[clave] = valor
+        self.diag["ultima_pasada_utc"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 
     # ---------------- ciclo de feeds ----------------
 
@@ -568,8 +578,9 @@ class Bot:
             return
         log(f"{len(nuevos)} noticias nuevas")
 
+        automatico = self.cfg.get("publicar_automatico", False)
         maximo = self.cfg.get("max_borradores_por_ciclo", 6)
-        enviados = 0
+        enviados, publicados, fallos = 0, 0, []
         for n in nuevos:
             if enviados >= maximo:
                 break
@@ -591,9 +602,31 @@ class Bot:
                                          media=media)
             else:
                 texto = formatear(post, n["enlace"], n["fuente"], self.cfg, media)
-            self.enviar_borrador(texto, n, media)
+
+            if automatico:
+                # va directo al canal: no depende de botones ni de comandos
+                if self.tg.enviar_post(self.canal, texto, media=media):
+                    publicados += 1
+                    log(f"Publicado automaticamente: {n['titulo'][:60]}")
+                else:
+                    fallos.append(self.tg.ultimo_error)
+                    log(f"Fallo al publicar automaticamente: {self.tg.ultimo_error}")
+            else:
+                self.enviar_borrador(texto, n, media)
             enviados += 1
             time.sleep(1.5)
+
+        if automatico and self.admin and (publicados or fallos):
+            aviso = f"📢 Publicadas <b>{publicados}</b> noticias en el canal."
+            if fallos:
+                aviso += (f"\n\n❌ Fallaron {len(fallos)}:\n<code>"
+                          f"{esc(fallos[0])}</code>")
+            aviso += "\n\nSi alguna no te gusta, borrala tu mismo en el canal."
+            self.tg.enviar(self.admin, aviso)
+
+        self.apuntar("publicados_ultima_pasada", publicados)
+        if fallos:
+            self.apuntar("ultimo_error_publicando", fallos[0])
         self.guardar_estado()
 
     def enviar_borrador(self, texto, noticia, media):
@@ -720,14 +753,24 @@ class Bot:
         if cmd in ("/start", "/id"):
             self.tg.enviar(chat_id,
                            f"Bot activo.\nTu chat id: <code>{chat_id}</code>\n\n"
+                           "<b>Publicar sin botones:</b>\n"
+                           "/lista · borradores numerados\n"
+                           "/publicar 5 · publica el numero 5\n"
+                           "/publicar todo · publica todos\n"
+                           "/descartar 5 · tira el numero 5\n\n"
+                           "<b>Otros:</b>\n"
                            "/chequear · buscar noticias ahora\n"
                            "/probar · comprobar que puede publicar\n"
-                           "/pendientes · borradores sin decidir\n"
                            "/estado · ver estado\n"
-                           "/pausa y /reanudar\n"
-                           "/cancelar · cancelar edicion")
+                           "/pausa y /reanudar")
         elif cmd == "/probar":
             self.diagnostico(chat_id)
+        elif cmd in ("/lista", "/l"):
+            self.mostrar_lista(chat_id)
+        elif cmd in ("/publicar", "/p"):
+            self.publicar_por_comando(chat_id, texto)
+        elif cmd in ("/descartar", "/d"):
+            self.descartar_por_comando(chat_id, texto)
         elif cmd == "/pendientes":
             if not self.pendientes:
                 self.tg.enviar(chat_id, "No hay borradores pendientes.")
@@ -763,6 +806,74 @@ class Bot:
         elif cmd == "/cancelar":
             self.editando = None
             self.tg.enviar(chat_id, "Edicion cancelada.")
+
+    # ---------------- publicar sin botones ----------------
+
+    def _ordenados(self):
+        return sorted(self.pendientes.items(), key=lambda x: x[1].get("creado", 0))
+
+    def mostrar_lista(self, chat_id):
+        """Lista numerada de borradores para publicarlos con /publicar N."""
+        if not self.pendientes:
+            self.tg.enviar(chat_id, "No hay borradores pendientes.")
+            return
+        lineas = [f"📋 <b>{len(self.pendientes)} borradores</b>",
+                  "Publica con <code>/publicar N</code> · descarta con <code>/descartar N</code>",
+                  "<code>/publicar todo</code> los publica todos", ""]
+        for pid, p in self._ordenados():
+            titulo = esc(p.get("titulo", "(sin titulo)")[:60])
+            lineas.append(f"<b>{pid}</b> · {titulo} — {esc(p.get('fuente', ''))}")
+        # Telegram corta en 4096 caracteres
+        texto = "\n".join(lineas)
+        while texto:
+            self.tg.enviar(chat_id, texto[:3900])
+            texto = texto[3900:]
+
+    def publicar_por_comando(self, chat_id, texto):
+        partes = texto.split()
+        if len(partes) < 2:
+            self.tg.enviar(chat_id, "Uso: <code>/publicar 5</code> · "
+                                    "<code>/publicar 5 7 9</code> · <code>/publicar todo</code>\n"
+                                    "Mira los numeros con /lista")
+            return
+
+        if partes[1].lower() in ("todo", "todos", "all"):
+            ids = [pid for pid, _ in self._ordenados()]
+            self.tg.enviar(chat_id, f"Publicando {len(ids)} borradores...")
+        else:
+            ids = [p for p in partes[1:] if p.isdigit()]
+
+        bien, mal = 0, 0
+        for pid in ids:
+            if pid not in self.pendientes:
+                mal += 1
+                continue
+            if self.publicar(pid):
+                bien += 1
+            else:
+                mal += 1
+            time.sleep(1.5)
+        self.tg.enviar(chat_id,
+                       f"✅ Publicados: {bien}" + (f"\n❌ Fallidos o inexistentes: {mal}" if mal else "")
+                       + f"\nQuedan {len(self.pendientes)} pendientes.")
+
+    def descartar_por_comando(self, chat_id, texto):
+        partes = texto.split()
+        if len(partes) < 2:
+            self.tg.enviar(chat_id, "Uso: <code>/descartar 5</code> o <code>/descartar todo</code>")
+            return
+        if partes[1].lower() in ("todo", "todos", "all"):
+            n = len(self.pendientes)
+            self.pendientes = {}
+            self.guardar_estado()
+            self.tg.enviar(chat_id, f"🗑 Descartados los {n} borradores.")
+            return
+        n = 0
+        for pid in partes[1:]:
+            if self.pendientes.pop(pid, None):
+                n += 1
+        self.guardar_estado()
+        self.tg.enviar(chat_id, f"🗑 Descartados: {n}. Quedan {len(self.pendientes)}.")
 
     # ---------------- diagnostico ----------------
 
@@ -825,9 +936,17 @@ class Bot:
         3) guarda el estado y termina
         """
         log("Pasada unica")
-        self.tg.asegurar_polling()
+
+        info = self.tg._call("getWebhookInfo") or {}
+        self.apuntar("webhook", info.get("url") or "ninguno")
+        self.apuntar("en_cola_al_empezar", info.get("pending_update_count", 0))
+        self.apuntar("tipos_permitidos", info.get("allowed_updates", "todos"))
+        if info.get("url"):
+            log(f"⚠️ Webhook activo en {info['url']} — lo quito")
+            self.tg._call("deleteWebhook", drop_pending_updates=False)
+
         fin = time.time() + segundos_escucha
-        total = 0
+        total, pulsaciones, mensajes = 0, [], []
         while time.time() < fin:
             ups = self.tg.actualizaciones(timeout=5)
             if not ups:
@@ -835,11 +954,20 @@ class Bot:
             total += len(ups)
             for up in ups:
                 if "callback_query" in up:
-                    log(f"Pulsacion recibida: {up['callback_query'].get('data')}")
+                    d = up["callback_query"].get("data")
+                    pulsaciones.append(d)
+                    log(f"Pulsacion recibida: {d}")
                     self.manejar_callback(up["callback_query"])
                 elif "message" in up:
+                    mensajes.append((up["message"].get("text") or "")[:40])
                     self.manejar_mensaje(up["message"])
+
         log(f"Actualizaciones procesadas: {total}")
+        self.apuntar("updates_recibidos", total)
+        self.apuntar("pulsaciones", pulsaciones)
+        self.apuntar("mensajes", mensajes)
+        if self.tg.ultimo_error:
+            self.apuntar("ultimo_error_telegram", self.tg.ultimo_error)
         self.tg.actualizaciones(timeout=0)   # confirma lo procesado
         self.ciclo_feeds(forzar=True)
         self.guardar_estado()
