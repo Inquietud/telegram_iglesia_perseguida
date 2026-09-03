@@ -533,7 +533,8 @@
     "https://www.aciprensa.com/noticias/128187/jonathan-roumie-y-el-obispo-robert-barron-encabezaran-los-primeros-premios-sheen": "descartado_palabras",
     "https://morningstarnews.org/?p=18354": "procesado",
     "https://persecution.org/?p=4495701": "procesado",
-    "https://www.aciprensa.com/noticias/128189/universidad-catolica-uniminuto-organiza-semana-social-2026-sobre-democracia-y-la-amenaza-del-populismo": "procesado"
+    "https://www.aciprensa.com/noticias/128189/universidad-catolica-uniminuto-organiza-semana-social-2026-sobre-democracia-y-la-amenaza-del-populismo": "procesado",
+    "https://persecution.org/?p=4495705": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -541,8 +542,8 @@
       "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"b21b9ed797719381bb9c096a06582295\"",
-      "modified": "Thu, 03 Sep 2026 20:21:42 GMT"
+      "etag": "\"7e338d0b7840146e9e5a64cc3bbffcb8\"",
+      "modified": "Thu, 03 Sep 2026 21:17:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"13d90737f285d8589baecafab148b987\"",
@@ -552,35 +553,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-zB0g9Jtbddlp6ZBK6ENlO7D0mGw\""
+      "etag": "W/\"84d8-YqpijD+CPaqCU+RnV7EQPC8Hyb8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 03 Sep 2026 21:19:29 GMT"
+      "modified": "Thu, 03 Sep 2026 23:22:18 GMT"
     }
   },
   "pendientes": {
-    "46": {
-      "texto": "⚠️ <b>PAKISTÁN</b> 🇵🇰\n\n<b>Los cristianos paquistaníes siguen al límite a pesar de que los casos de blasfemia disminuyen</b>\n\nUna multitud de cientos de personas se reunió frente a la casa de una familia cristiana en Karachi el mes pasado después de que las acusaciones de blasfemia comenzaran a extenderse, pero la multitud se dispersó después de que la policía interviniera. Desde entonces, una investigación inicial ha encontrado que la acusación subyacente es falsa. Según Reuters, las cuatro mujeres y un niño dentro del hogar se salvaron en parte porque... los cristianos paquistaníes posteriores permanecen al límite incluso cuando los casos de blasfemia disminuyen apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline</b>\n\n<i>A mob of hundreds gathered outside a Christian family’s home in Karachi last month after blasphemy allegations began to spread, but the crowd dispersed after police intervened. An initial inquiry has since found the underlying allegation to be false. According to Reuters, the four women and one child inside the home were spared partly because… The post Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/\">Fuente: International Christian Concern</a>\n#Pakistan #Asia #Blasfemia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2025/06/Christian-Woman-in-Pakistan-Forced-to-Convert-to-Islam-at-Gunpoint-1-300x196.jpg"
-      },
-      "msg_id": 71,
-      "fuente": "International Christian Concern",
-      "titulo": "Pakistani Christians Remain on Edge Even as Blasphemy Cases Decline",
-      "creado": 1787264109.3544178
-    },
-    "47": {
-      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>ADF defiende a los cristianos contra la policía islámica en Nigeria</b>\n\nLa policía nigeriana arrestó a una mujer de 22 años por convertirse al cristianismo desde el Islam. Aunque el Tribunal Superior Federal falló a su favor, la familia cristiana que la ayudó enfrenta cargos falsos de secuestro. En 2025, \"Sarah\" huyó de su casa en el estado de Kano después de que sus hermanos mayores intentaran forzarla a un matrimonio arreglado.\n\n➖➖➖\n🇬🇧 <b>ADF Defends Christians Against Islamic Police in Nigeria</b>\n\n<i>Nigerian police arrested a 22-year-old woman for converting to Christianity from Islam. Though the Federal High Court ruled in her favor, the Christian family that helped her is facing false charges of kidnapping. In 2025, “Sarah” fled from her home in Kano state after her elder siblings tried forcing her into an arranged marriage.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Secuestro #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Sarah-Nigeria.jpg"
-      },
-      "msg_id": 73,
-      "fuente": "International Christian Concern",
-      "titulo": "ADF Defends Christians Against Islamic Police in Nigeria",
-      "creado": 1787267953.4950862
-    },
     "48": {
       "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Representantes de la ONU y UE piden a los países actuar contra la discriminación religiosa</b>\n\nLos pronunciamientos tuvieron lugar con ocasión del Día Internacional en Conmemoración de las Víctimas de Actos de Violencia basados en la Religión o las Creencias, que se celebra el 22 de agosto.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127889/representantes-de-la-onu-y-ue-piden-a-los-paises-actuar-contra-la-discriminacion-religiosa\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -733,7 +712,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-03 21:19",
+    "ultima_pasada_utc": "2026-09-03 23:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -742,6 +721,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 3
+    "publicados_ultima_pasada": 1
   }
 }
