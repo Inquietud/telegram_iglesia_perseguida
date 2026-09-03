@@ -517,7 +517,8 @@
     "https://www.aciprensa.com/noticias/128163/obispo-salvadoreno-en-ee-uu-nombra-sacerdotes-para-coordinar-la-misa-tradicional-en-latin": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128161/diocesis-de-ee-uu-impulsa-consagracion-de-empresas-al-sagrado-corazon-de-jesus": "descartado_palabras",
     "https://www.aciprensa.com/noticias/106385/madre-teresa-de-calcuta-asi-puedes-mandar-tu-pedido-de-oracion-a-su-tumba": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128165/fieles-se-consagran-al-sagrado-corazon-de-jesus-tras-estreno-de-pelicula-en-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128165/fieles-se-consagran-al-sagrado-corazon-de-jesus-tras-estreno-de-pelicula-en-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128167/diocesis-de-alcala-de-henares-lanza-los-grupos-frassati-para-impulsar-la-iniciacion-cristiana": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -529,17 +530,17 @@
       "modified": "Wed, 02 Sep 2026 21:43:57 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"542cc7a19d4a5764769db27ae485805b\"",
-      "modified": "Wed, 02 Sep 2026 14:12:31 GMT"
+      "etag": "\"3b4eabaea947d41ddd1c8e3440b4eb8d\"",
+      "modified": "Thu, 03 Sep 2026 09:51:04 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-CzPNHWfifBjtizHcQtaAYzaxpqg\""
+      "etag": "W/\"84d8-SyTecvFzvvu1oY6iaH2Px1nkuts\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 03 Sep 2026 05:54:37 GMT"
+      "modified": "Thu, 03 Sep 2026 10:59:35 GMT"
     }
   },
   "pendientes": {
@@ -714,5 +715,17 @@
       "creado": 1788390981.9174225
     }
   },
-  "editando": null
+  "editando": null,
+  "diagnostico": {
+    "webhook": "ninguno",
+    "ultima_pasada_utc": "2026-09-03 10:59",
+    "en_cola_al_empezar": 0,
+    "tipos_permitidos": [
+      "message",
+      "callback_query"
+    ],
+    "updates_recibidos": 0,
+    "pulsaciones": [],
+    "mensajes": []
+  }
 }
