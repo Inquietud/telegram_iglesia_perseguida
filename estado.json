@@ -518,7 +518,11 @@
     "https://www.aciprensa.com/noticias/128161/diocesis-de-ee-uu-impulsa-consagracion-de-empresas-al-sagrado-corazon-de-jesus": "descartado_palabras",
     "https://www.aciprensa.com/noticias/106385/madre-teresa-de-calcuta-asi-puedes-mandar-tu-pedido-de-oracion-a-su-tumba": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128165/fieles-se-consagran-al-sagrado-corazon-de-jesus-tras-estreno-de-pelicula-en-mexico": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128167/diocesis-de-alcala-de-henares-lanza-los-grupos-frassati-para-impulsar-la-iniciacion-cristiana": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128167/diocesis-de-alcala-de-henares-lanza-los-grupos-frassati-para-impulsar-la-iniciacion-cristiana": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128175/opus-dei-el-obispo-de-barbastro-hizo-una-acusacion-ofensiva-sin-fundamento-sobre-torreciudad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128173/obispo-cubano-es-internado-en-uci-iglesia-pide-oraciones-por-su-salud": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128171/papa-leon-xiv-a-los-seminaristas-al-contemplar-a-cada-uno-de-ustedes-veo-la-maravilla-de-dios": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128169/leon-xiv-recuerda-ante-obispos-de-regiones-arabes-que-es-lo-esencial-de-la-vida-cristiana": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -526,21 +530,21 @@
       "modified": "Wed, 02 Sep 2026 17:53:46 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"de45aa592948f7c5b0c12f2001e4a7cc\"",
-      "modified": "Wed, 02 Sep 2026 21:43:57 GMT"
+      "etag": "\"cb2e2ec0f0dd935e0bc8591ac0f748c1\"",
+      "modified": "Thu, 03 Sep 2026 14:09:30 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"3b4eabaea947d41ddd1c8e3440b4eb8d\"",
-      "modified": "Thu, 03 Sep 2026 09:51:04 GMT"
+      "etag": "\"8c6024e5213c6e093c62c070b4168ee8\"",
+      "modified": "Thu, 03 Sep 2026 14:42:44 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-SyTecvFzvvu1oY6iaH2Px1nkuts\""
+      "etag": "W/\"84d8-hzoj5SJVsbzXB1JqsrxcuY4XSjc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 03 Sep 2026 10:59:35 GMT"
+      "modified": "Thu, 03 Sep 2026 14:57:43 GMT"
     }
   },
   "pendientes": {
@@ -718,7 +722,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-03 10:59",
+    "ultima_pasada_utc": "2026-09-03 14:57",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
