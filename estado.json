@@ -540,7 +540,12 @@
     "https://www.aciprensa.com/noticias/128203/obispo-cubano-domingo-oropesa-responde-favorablemente-al-tratamiento-en-uci-informa-diocesis-cienfuegos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128201/el-obispo-de-bilbao-vuelve-a-ecuador-para-homenajear-a-un-misionero-pionero-en-el-pais": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128199/leon-xiv-presenta-a-san-john-henry-newman-como-modelo-para-una-educacion-que-una-fe-y-razon": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128197/la-guerra-en-ucrania-centra-las-conversaciones-del-primer-ministro-de-letonia-en-el-vaticano": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128197/la-guerra-en-ucrania-centra-las-conversaciones-del-primer-ministro-de-letonia-en-el-vaticano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128215/el-santuario-de-la-virgen-del-cobre-estrena-nueva-iluminacion-en-su-cruz-mas-alta": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128211/jueces-de-hong-kong-ratifican-condena-del-cardenal-zen-por-el-fondo-de-ayuda-a-los-manifestantes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128209/el-futbol-unira-a-900-sacerdotes-de-cinco-paises-en-la-copa-de-la-fe-2026": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128207/10-anos-de-santidad-la-verdad-sobre-los-cuidados-de-la-madre-teresa-a-los-moribundos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128205/los-obispos-europeos-defienden-no-borrar-los-registros-bautismales-de-los-apostatas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -559,10 +564,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-VYFzX2ASqt/BPMcWMs3EnhfQyWc\""
+      "etag": "W/\"84d8-YKbMbeO2zpgGzv4eGAwJdxEPOw4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 04 Sep 2026 14:57:56 GMT"
+      "modified": "Fri, 04 Sep 2026 18:19:17 GMT"
     }
   },
   "pendientes": {
@@ -718,7 +723,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-04 14:58",
+    "ultima_pasada_utc": "2026-09-04 18:19",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
