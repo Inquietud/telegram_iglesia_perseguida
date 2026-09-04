@@ -536,7 +536,11 @@
     "https://www.aciprensa.com/noticias/128189/universidad-catolica-uniminuto-organiza-semana-social-2026-sobre-democracia-y-la-amenaza-del-populismo": "procesado",
     "https://persecution.org/?p=4495705": "procesado",
     "https://www.aciprensa.com/noticias/128195/iglesia-en-peru-anuncia-gran-colecta-nacional-para-preparar-la-visita-del-papa-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128193/tres-sacerdotes-irlandeses-llevan-la-musica-sacra-al-mundo-con-su-grupo-the-priests": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128193/tres-sacerdotes-irlandeses-llevan-la-musica-sacra-al-mundo-con-su-grupo-the-priests": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128203/obispo-cubano-domingo-oropesa-responde-favorablemente-al-tratamiento-en-uci-informa-diocesis-cienfuegos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128201/el-obispo-de-bilbao-vuelve-a-ecuador-para-homenajear-a-un-misionero-pionero-en-el-pais": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128199/leon-xiv-presenta-a-san-john-henry-newman-como-modelo-para-una-educacion-que-una-fe-y-razon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128197/la-guerra-en-ucrania-centra-las-conversaciones-del-primer-ministro-de-letonia-en-el-vaticano": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -544,21 +548,21 @@
       "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"7e338d0b7840146e9e5a64cc3bbffcb8\"",
-      "modified": "Thu, 03 Sep 2026 21:17:25 GMT"
+      "etag": "\"5fa00a1345f6b21366141aff99495ebe\"",
+      "modified": "Fri, 04 Sep 2026 14:41:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"13d90737f285d8589baecafab148b987\"",
-      "modified": "Thu, 03 Sep 2026 17:34:31 GMT"
+      "etag": "\"5fcb1f499c81f4fa4afe4e7a50dd7a01\"",
+      "modified": "Fri, 04 Sep 2026 11:32:37 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-gbdoBD3QoMFmFpRX+P4dyaM/Hs8\""
+      "etag": "W/\"84d8-VYFzX2ASqt/BPMcWMs3EnhfQyWc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 04 Sep 2026 11:08:07 GMT"
+      "modified": "Fri, 04 Sep 2026 14:57:56 GMT"
     }
   },
   "pendientes": {
@@ -714,7 +718,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-04 11:08",
+    "ultima_pasada_utc": "2026-09-04 14:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
