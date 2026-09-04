@@ -547,7 +547,9 @@
     "https://www.aciprensa.com/noticias/128207/10-anos-de-santidad-la-verdad-sobre-los-cuidados-de-la-madre-teresa-a-los-moribundos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128205/los-obispos-europeos-defienden-no-borrar-los-registros-bautismales-de-los-apostatas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128219/obispos-de-ee-uu-alertan-sobre-el-impacto-de-la-inteligencia-artificial-en-el-trabajo-y-los": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128217/cordoba-espera-mas-de-un-millon-de-personas-para-la-visita-del-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128217/cordoba-espera-mas-de-un-millon-de-personas-para-la-visita-del-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128221/callao-alista-una-estatua-del-papa-leon-xiv-de-14-metros-la-mas-alta-de-un-pontifice-en-peru": "descartado_palabras",
+    "https://persecution.org/?p=4495715": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -555,8 +557,8 @@
       "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"386932f609cc544a2c6e937e0cf668a9\"",
-      "modified": "Fri, 04 Sep 2026 19:19:45 GMT"
+      "etag": "\"44747d1e257132a9fb1ee4e3d1768000\"",
+      "modified": "Fri, 04 Sep 2026 21:44:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5fcb1f499c81f4fa4afe4e7a50dd7a01\"",
@@ -566,10 +568,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-kXx346R9+PuEPgD5Hgj02ZnAnuI\""
+      "etag": "W/\"84d8-kq0m3mN8Gq7YKBOAS+Mf0fy38Ro\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 04 Sep 2026 20:53:04 GMT"
+      "modified": "Fri, 04 Sep 2026 22:53:06 GMT"
     }
   },
   "pendientes": {
@@ -725,7 +727,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-04 20:53",
+    "ultima_pasada_utc": "2026-09-04 22:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
