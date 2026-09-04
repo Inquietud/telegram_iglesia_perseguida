@@ -545,7 +545,9 @@
     "https://www.aciprensa.com/noticias/128211/jueces-de-hong-kong-ratifican-condena-del-cardenal-zen-por-el-fondo-de-ayuda-a-los-manifestantes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128209/el-futbol-unira-a-900-sacerdotes-de-cinco-paises-en-la-copa-de-la-fe-2026": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128207/10-anos-de-santidad-la-verdad-sobre-los-cuidados-de-la-madre-teresa-a-los-moribundos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128205/los-obispos-europeos-defienden-no-borrar-los-registros-bautismales-de-los-apostatas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128205/los-obispos-europeos-defienden-no-borrar-los-registros-bautismales-de-los-apostatas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128219/obispos-de-ee-uu-alertan-sobre-el-impacto-de-la-inteligencia-artificial-en-el-trabajo-y-los": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128217/cordoba-espera-mas-de-un-millon-de-personas-para-la-visita-del-papa-leon-xiv": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -553,8 +555,8 @@
       "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"5fa00a1345f6b21366141aff99495ebe\"",
-      "modified": "Fri, 04 Sep 2026 14:41:02 GMT"
+      "etag": "\"386932f609cc544a2c6e937e0cf668a9\"",
+      "modified": "Fri, 04 Sep 2026 19:19:45 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5fcb1f499c81f4fa4afe4e7a50dd7a01\"",
@@ -564,10 +566,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-YKbMbeO2zpgGzv4eGAwJdxEPOw4\""
+      "etag": "W/\"84d8-kXx346R9+PuEPgD5Hgj02ZnAnuI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 04 Sep 2026 18:19:17 GMT"
+      "modified": "Fri, 04 Sep 2026 20:53:04 GMT"
     }
   },
   "pendientes": {
@@ -723,7 +725,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-04 18:19",
+    "ultima_pasada_utc": "2026-09-04 20:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
