@@ -551,7 +551,8 @@
     "https://www.aciprensa.com/noticias/128221/callao-alista-una-estatua-del-papa-leon-xiv-de-14-metros-la-mas-alta-de-un-pontifice-en-peru": "descartado_palabras",
     "https://persecution.org/?p=4495715": "procesado",
     "https://www.aciprensa.com/noticias/128225/obispos-de-norteamerica-se-unen-para-servir-mejor-a-la-iglesia-mas-alla-de-las-fronteras": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128223/obispos-respaldan-a-medica-que-objeto-participar-en-procedimientos-abortivos-en-costa-rica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128223/obispos-respaldan-a-medica-que-objeto-participar-en-procedimientos-abortivos-en-costa-rica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128213/caritas-ha-sido-una-bendicion-la-iglesia-ayuda-a-140-familias-a-luchar-por-sus-suenos-en-ecuador": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -570,10 +571,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-bHCYPsfx2Yy9OSKnbpE7LGvTxnA\""
+      "etag": "W/\"84d8-8ktTOg9+mUj2X+j/c+FyOkVfoFY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 05 Sep 2026 00:40:27 GMT"
+      "modified": "Sat, 05 Sep 2026 04:58:15 GMT"
     }
   },
   "pendientes": {
@@ -707,7 +708,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-05 00:40",
+    "ultima_pasada_utc": "2026-09-05 04:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
