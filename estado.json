@@ -554,7 +554,9 @@
     "https://www.aciprensa.com/noticias/128223/obispos-respaldan-a-medica-que-objeto-participar-en-procedimientos-abortivos-en-costa-rica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128213/caritas-ha-sido-una-bendicion-la-iglesia-ayuda-a-140-familias-a-luchar-por-sus-suenos-en-ecuador": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128229/sean-tejedoras-de-comunion-alienta-leon-xiv-a-monjas-de-clausura-que-adoran-el-santisimo-siempre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128227/torreciudad-el-obispo-de-barbastro-apela-a-la-unidad-pero-mantiene-su-posicion-sobre-la-virgen": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128227/torreciudad-el-obispo-de-barbastro-apela-a-la-unidad-pero-mantiene-su-posicion-sobre-la-virgen": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128233/el-papa-leon-recibe-al-nuncio-georg-gaenswein-exsecretario-de-benedicto-xvi": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128231/sacerdote-herido-en-balacera-en-peru-la-iglesia-en-el-callao-llama-a-desterrar-la-cultura-de": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -573,10 +575,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-CbkH1zbuFpSOCAvQT8LnIcPnfRo\""
+      "etag": "W/\"84d8-aypynAbHMTWyoyIhZKKDbbKYThc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 05 Sep 2026 12:37:17 GMT"
+      "modified": "Sat, 05 Sep 2026 15:34:14 GMT"
     }
   },
   "pendientes": {
@@ -710,7 +712,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-05 12:37",
+    "ultima_pasada_utc": "2026-09-05 15:34",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
