@@ -549,7 +549,9 @@
     "https://www.aciprensa.com/noticias/128219/obispos-de-ee-uu-alertan-sobre-el-impacto-de-la-inteligencia-artificial-en-el-trabajo-y-los": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128217/cordoba-espera-mas-de-un-millon-de-personas-para-la-visita-del-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128221/callao-alista-una-estatua-del-papa-leon-xiv-de-14-metros-la-mas-alta-de-un-pontifice-en-peru": "descartado_palabras",
-    "https://persecution.org/?p=4495715": "procesado"
+    "https://persecution.org/?p=4495715": "procesado",
+    "https://www.aciprensa.com/noticias/128225/obispos-de-norteamerica-se-unen-para-servir-mejor-a-la-iglesia-mas-alla-de-las-fronteras": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128223/obispos-respaldan-a-medica-que-objeto-participar-en-procedimientos-abortivos-en-costa-rica": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -568,35 +570,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-kq0m3mN8Gq7YKBOAS+Mf0fy38Ro\""
+      "etag": "W/\"84d8-bHCYPsfx2Yy9OSKnbpE7LGvTxnA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 04 Sep 2026 22:53:06 GMT"
+      "modified": "Sat, 05 Sep 2026 00:40:27 GMT"
     }
   },
   "pendientes": {
-    "48": {
-      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Representantes de la ONU y UE piden a los países actuar contra la discriminación religiosa</b>\n\nLos pronunciamientos tuvieron lugar con ocasión del Día Internacional en Conmemoración de las Víctimas de Actos de Violencia basados en la Religión o las Creencias, que se celebra el 22 de agosto.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127889/representantes-de-la-onu-y-ue-piden-a-los-paises-actuar-contra-la-discriminacion-religiosa\">Fuente: ACI Prensa</a>\n#Mundo #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787345527/ewtn-news/es/Rosario_Karolina-Grabowska-Pexels_230125_exdxnd.jpg?w=800&amp;jpg"
-      },
-      "msg_id": 75,
-      "fuente": "ACI Prensa",
-      "titulo": "Representantes de la ONU y UE piden a los países actuar contra la discriminación religiosa",
-      "creado": 1787353212.2165256
-    },
-    "49": {
-      "texto": "⚠️ <b>INDONESIA</b> 🇮🇩\n\n<b>Pastor sentenciado a prisión en Indonesia</b>\n\nEl arresto y la detención del pastor Dedi Saputra en febrero de 2026 han seguido provocando un prolongado debate público en Indonesia. Saputra es un nativo de Aceh que se convirtió al cristianismo y reside en Bengkayang, Kalimantan Occidental. La Policía Regional de Aceh lo arrestó por acusaciones de blasfemia y discurso de odio dirigido a la gente de Aceh a través de... La publicación Pastor Sentenced to Prison in Indonesia apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Pastor Sentenced to Prison in Indonesia</b>\n\n<i>The arrest and detention of Pastor Dedi Saputra in February 2026 have continued to spark prolonged public debate in Indonesia. Saputra is an Aceh native who converted to Christianity and resides in Bengkayang, West Kalimantan. The Aceh Regional Police arrested him on allegations of blasphemy and hate speech directed at the people of Aceh via… The post Pastor Sentenced to Prison in Indonesia first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/08/21/pastor-sentenced-to-prison-in-indonesia/\">Fuente: International Christian Concern</a>\n#Indonesia #Asia #Detenciones #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Dedi-Saputras-arrest-Indonesia.jpg"
-      },
-      "msg_id": 77,
-      "fuente": "International Christian Concern",
-      "titulo": "Pastor Sentenced to Prison in Indonesia",
-      "creado": 1787356710.4524786
-    },
     "50": {
       "texto": "⚠️ <b>SUDÁN</b> 🇸🇩\n\n<b>Obrero cristiano de socorro detenido en las montañas Nuba de Sudán</b>\n\nNAIROBI, Kenia (Morning Star News) – Una trabajadora humanitaria cristiana arrestada por militantes rebeldes en las montañas Nuba de Sudán hace cinco meses sigue cautiva, dijo su familia. En el estado de Kordofán del Sur, la familia está haciendo un llamamiento urgente para la liberación de Najwa Musa Konda, cuya hermana Zaki Musa Konda fue una de las cuatro ayudantes de Samaritan's Purse [...]\n\n➖➖➖\n🇬🇧 <b>Christian Relief Worker Detained in Sudan’s Nuba Mountains</b>\n\n<i>NAIROBI, Kenya (Morning Star News) – A Christian relief worker arrested by rebel militants in Sudan’s Nuba Mountains five months ago remains captive, her family said. In South Kordofan state, the family is making an urgent appeal for the release of Najwa Musa Konda, whose sister Zaki Musa Konda was one of four Samaritan’s Purse aid […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/\">Fuente: Morning Star News</a>\n#Sudan #Africa #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -727,7 +707,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-04 22:53",
+    "ultima_pasada_utc": "2026-09-05 00:40",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
