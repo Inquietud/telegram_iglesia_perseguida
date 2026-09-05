@@ -558,7 +558,8 @@
     "https://www.aciprensa.com/noticias/128233/el-papa-leon-recibe-al-nuncio-georg-gaenswein-exsecretario-de-benedicto-xvi": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128231/sacerdote-herido-en-balacera-en-peru-la-iglesia-en-el-callao-llama-a-desterrar-la-cultura-de": "procesado",
     "https://www.aciprensa.com/noticias/128235/cardenal-burke-presidira-concentracion-internacional-del-rosario-en-amsterdam": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128237/peru-destina-18-8-millones-de-dolares-para-financiar-la-visita-del-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128237/peru-destina-18-8-millones-de-dolares-para-financiar-la-visita-del-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128239/el-papa-leon-xiv-a-las-familias-en-el-vaticano-son-un-gran-milagro-que-da-amor-y-vida": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -577,10 +578,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-6XdBqdCkNJ6g9rDadn5hpUHrcwA\""
+      "etag": "W/\"84d8-Np7q60iit9N5hrynDU20UR5ynjo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 05 Sep 2026 21:40:24 GMT"
+      "modified": "Sat, 05 Sep 2026 23:22:40 GMT"
     }
   },
   "pendientes": {
@@ -714,7 +715,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-05 21:40",
+    "ultima_pasada_utc": "2026-09-05 23:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
