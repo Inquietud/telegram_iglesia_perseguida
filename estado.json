@@ -559,7 +559,9 @@
     "https://www.aciprensa.com/noticias/128231/sacerdote-herido-en-balacera-en-peru-la-iglesia-en-el-callao-llama-a-desterrar-la-cultura-de": "procesado",
     "https://www.aciprensa.com/noticias/128235/cardenal-burke-presidira-concentracion-internacional-del-rosario-en-amsterdam": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128237/peru-destina-18-8-millones-de-dolares-para-financiar-la-visita-del-papa-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128239/el-papa-leon-xiv-a-las-familias-en-el-vaticano-son-un-gran-milagro-que-da-amor-y-vida": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128239/el-papa-leon-xiv-a-las-familias-en-el-vaticano-son-un-gran-milagro-que-da-amor-y-vida": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128243/el-papa-pide-que-las-visitas-de-witkoff-y-kushner-a-rusia-y-ucrania-abran-espacio-a-la": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128241/papa-leon-xiv-hablar-mal-de-los-demas-paraliza-la-resolucion-de-los-problemas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -578,10 +580,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-vUNbEvV1BdN3mhT4Fzr5JwU2UdA\""
+      "etag": "W/\"84d8-F/BPdok1yvabWN4oClniJ9nBY+8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 06 Sep 2026 06:02:29 GMT"
+      "modified": "Sun, 06 Sep 2026 10:50:59 GMT"
     }
   },
   "pendientes": {
@@ -715,7 +717,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-06 06:02",
+    "ultima_pasada_utc": "2026-09-06 10:50",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
