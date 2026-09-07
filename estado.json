@@ -565,7 +565,8 @@
     "https://www.aciprensa.com/noticias/128245/el-patriarca-bartolome-expresa-su-deseo-de-que-catolicos-y-ortodoxos-recuperen-la-plena-comunion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128247/explosion-de-pirotecnia-en-parroquia-de-temascalcingo-mexico-deja-9-muertos-y-decenas-de-heridos": "procesado",
     "https://www.aciprensa.com/noticias/128249/iglesia-saluda-adhesion-de-rep-dominicana-al-consenso-de-ginebra-declaracion-provida-y": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128251/no-seamos-pasivos-ante-dictaduras-que-destruyen-la-democracia-pide-el-obispo-baez-de-nicaragua": "procesado"
+    "https://www.aciprensa.com/noticias/128251/no-seamos-pasivos-ante-dictaduras-que-destruyen-la-democracia-pide-el-obispo-baez-de-nicaragua": "procesado",
+    "https://www.aciprensa.com/noticias/128253/peregrinacion-del-divino-nino-del-milagro-sigue-preparando-la-llegada-del-papa-leon-xiv-al-peru": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -584,10 +585,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-IfzZS9jitnh4Gm1X1cUODdRbICQ\""
+      "etag": "W/\"84d8-K3kn8sN4tTdF2NjEcOz3Yv9UpCg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 06 Sep 2026 22:43:20 GMT"
+      "modified": "Mon, 07 Sep 2026 00:23:09 GMT"
     }
   },
   "pendientes": {
@@ -721,7 +722,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-06 22:43",
+    "ultima_pasada_utc": "2026-09-07 00:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
