@@ -578,17 +578,17 @@
       "modified": "Fri, 04 Sep 2026 21:44:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5fcb1f499c81f4fa4afe4e7a50dd7a01\"",
-      "modified": "Fri, 04 Sep 2026 11:32:37 GMT"
+      "etag": "\"b4f7a63b0b96eef0e7bd6a451cc01855\"",
+      "modified": "Mon, 07 Sep 2026 09:26:34 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-aKejdOgEQCvCg/LveMb/MUda1Kw\""
+      "etag": "W/\"84d8-RYblFBb4QtMxUmeH3KpOlKHxs2k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 07 Sep 2026 05:04:34 GMT"
+      "modified": "Mon, 07 Sep 2026 10:13:47 GMT"
     }
   },
   "pendientes": {
@@ -722,7 +722,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-07 05:04",
+    "ultima_pasada_utc": "2026-09-07 10:13",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
