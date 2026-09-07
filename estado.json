@@ -569,12 +569,16 @@
     "https://www.aciprensa.com/noticias/128253/peregrinacion-del-divino-nino-del-milagro-sigue-preparando-la-llegada-del-papa-leon-xiv-al-peru": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128259/el-santuario-de-santo-toribio-de-liebana-quedara-hermanado-con-la-basilica-del-santo-sepulcro-de": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128257/el-arzobispo-de-oviedo-sobre-la-crisis-en-ceuta-autentica-avalancha-que-nos-ha-invadido": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128255/un-refugio-para-la-juventud-acn-impulsa-un-nuevo-centro-pastoral-en-una-zona-vulnerable-del-peru": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128255/un-refugio-para-la-juventud-acn-impulsa-un-nuevo-centro-pastoral-en-una-zona-vulnerable-del-peru": "descartado_palabras",
+    "https://morningstarnews.org/?p=18362": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128265/el-papa-leon-xiv-explica-como-conocer-mas-a-maria-a-falta-de-relatos-en-el-evangelio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128263/explosiones-en-cuartel-de-bolivia-dejan-7-muertos-unos-80-heridos-y-desaparecidos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128261/comienza-preinscripcion-de-voluntarios-para-visita-del-papa-leon-xiv-a-la-argentina": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"29fcfb7e64a585c622d02f51b8ad2d5a\"",
-      "modified": "Thu, 03 Sep 2026 21:13:51 GMT"
+      "etag": "W/\"25bbe2d8ca8a3b3e833f7ff6573b19bf\"",
+      "modified": "Mon, 07 Sep 2026 16:08:41 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"44747d1e257132a9fb1ee4e3d1768000\"",
@@ -588,24 +592,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-VqaLhUHBxgQ/fEyf2bEY3Nm5si0\""
+      "etag": "W/\"84d8-sGKUWXuZL+VMhfVlwjFZqH3H3b4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 07 Sep 2026 15:55:09 GMT"
+      "modified": "Mon, 07 Sep 2026 19:48:22 GMT"
     }
   },
   "pendientes": {
-    "51": {
-      "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Ante la amenaza de la eutanasia, la Iglesia pide no desatender a quienes cuidan a los enfermos</b>\n\nLa Arquidiócesis Primada de México pidió “ayudar y apoyar a los cuidadores” de los enfermos, pues también enfrentan cansancio y estrés emocional.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127927/iglesia-apoyo-cuidadores-enfermos-eutanasia\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787597641/ewtn-news/es/Enfermo-cuidador-Shutterstock-240826_h4mpqk.jpg?w=800&amp;jpg"
-      },
-      "msg_id": 81,
-      "fuente": "ACI Prensa",
-      "titulo": "Ante la amenaza de la eutanasia, la Iglesia pide no desatender a quienes cuidan a los enfermos",
-      "creado": 1787598438.303367
-    },
     "52": {
       "texto": "📄 <b>MARRUECOS</b> 🇲🇦\n\n<b>ICC, Regent University Center for Global Justice publican un informe sobre la libertad religiosa en Marruecos</b>\n\nAunque Marruecos reconoce formalmente la libertad religiosa en su Constitución y se presenta como un país que apoya la tolerancia religiosa, un nuevo informe de International Christian Concern (ICC) y el Centro para la Justicia Global de la Universidad Regent argumenta que sus leyes y prácticas administrativas restringen sustancialmente esa libertad.\n\n➖➖➖\n🇬🇧 <b>ICC, Regent University Center for Global Justice Publish Report on Religious Freedom in Morocco</b>\n\n<i>Although Morocco formally recognizes religious freedom in its Constitution and portrays itself as a country that supports religious tolerance, a new report from International Christian Concern (ICC) and Regent University’s Center for Global Justice argues that its laws and administrative practices substantially restrict that freedom.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/25/icc-regent-university-center-for-global-justice-publish-report-on-religious-freedom-in-morocco/\">Fuente: International Christian Concern</a>\n#Marruecos #Africa #Leyes #Informe #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -714,7 +707,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-07 15:54",
+    "ultima_pasada_utc": "2026-09-07 19:48",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
