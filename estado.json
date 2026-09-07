@@ -566,7 +566,10 @@
     "https://www.aciprensa.com/noticias/128247/explosion-de-pirotecnia-en-parroquia-de-temascalcingo-mexico-deja-9-muertos-y-decenas-de-heridos": "procesado",
     "https://www.aciprensa.com/noticias/128249/iglesia-saluda-adhesion-de-rep-dominicana-al-consenso-de-ginebra-declaracion-provida-y": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128251/no-seamos-pasivos-ante-dictaduras-que-destruyen-la-democracia-pide-el-obispo-baez-de-nicaragua": "procesado",
-    "https://www.aciprensa.com/noticias/128253/peregrinacion-del-divino-nino-del-milagro-sigue-preparando-la-llegada-del-papa-leon-xiv-al-peru": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128253/peregrinacion-del-divino-nino-del-milagro-sigue-preparando-la-llegada-del-papa-leon-xiv-al-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128259/el-santuario-de-santo-toribio-de-liebana-quedara-hermanado-con-la-basilica-del-santo-sepulcro-de": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128257/el-arzobispo-de-oviedo-sobre-la-crisis-en-ceuta-autentica-avalancha-que-nos-ha-invadido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128255/un-refugio-para-la-juventud-acn-impulsa-un-nuevo-centro-pastoral-en-una-zona-vulnerable-del-peru": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -578,31 +581,20 @@
       "modified": "Fri, 04 Sep 2026 21:44:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b4f7a63b0b96eef0e7bd6a451cc01855\"",
-      "modified": "Mon, 07 Sep 2026 09:26:34 GMT"
+      "etag": "\"3c6a66302392f82eafab81ead01c97b8\"",
+      "modified": "Mon, 07 Sep 2026 14:03:32 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-RYblFBb4QtMxUmeH3KpOlKHxs2k\""
+      "etag": "W/\"84d8-VqaLhUHBxgQ/fEyf2bEY3Nm5si0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 07 Sep 2026 10:13:47 GMT"
+      "modified": "Mon, 07 Sep 2026 15:55:09 GMT"
     }
   },
   "pendientes": {
-    "50": {
-      "texto": "⚠️ <b>SUDÁN</b> 🇸🇩\n\n<b>Obrero cristiano de socorro detenido en las montañas Nuba de Sudán</b>\n\nNAIROBI, Kenia (Morning Star News) – Una trabajadora humanitaria cristiana arrestada por militantes rebeldes en las montañas Nuba de Sudán hace cinco meses sigue cautiva, dijo su familia. En el estado de Kordofán del Sur, la familia está haciendo un llamamiento urgente para la liberación de Najwa Musa Konda, cuya hermana Zaki Musa Konda fue una de las cuatro ayudantes de Samaritan's Purse [...]\n\n➖➖➖\n🇬🇧 <b>Christian Relief Worker Detained in Sudan’s Nuba Mountains</b>\n\n<i>NAIROBI, Kenya (Morning Star News) – A Christian relief worker arrested by rebel militants in Sudan’s Nuba Mountains five months ago remains captive, her family said. In South Kordofan state, the family is making an urgent appeal for the release of Najwa Musa Konda, whose sister Zaki Musa Konda was one of four Samaritan’s Purse aid […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/\">Fuente: Morning Star News</a>\n#Sudan #Africa #Detenciones #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/Location-of-South-Kordofan-state-in-Sudan.-TUBS-Creative-Commons-300x263.png"
-      },
-      "msg_id": 79,
-      "fuente": "Morning Star News",
-      "titulo": "Christian Relief Worker Detained in Sudan’s Nuba Mountains",
-      "creado": 1787586122.4235375
-    },
     "51": {
       "texto": "📄 <b>INTERNACIONAL</b> 🌍\n\n<b>Ante la amenaza de la eutanasia, la Iglesia pide no desatender a quienes cuidan a los enfermos</b>\n\nLa Arquidiócesis Primada de México pidió “ayudar y apoyar a los cuidadores” de los enfermos, pues también enfrentan cansancio y estrés emocional.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127927/iglesia-apoyo-cuidadores-enfermos-eutanasia\">Fuente: ACI Prensa</a>\n#Mundo #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -722,7 +714,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-07 10:13",
+    "ultima_pasada_utc": "2026-09-07 15:54",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
