@@ -575,7 +575,10 @@
     "https://www.aciprensa.com/noticias/128263/explosiones-en-cuartel-de-bolivia-dejan-7-muertos-unos-80-heridos-y-desaparecidos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128261/comienza-preinscripcion-de-voluntarios-para-visita-del-papa-leon-xiv-a-la-argentina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128269/arquidiocesis-de-mexico-califica-como-un-error-limitarse-a-prohibir-celulares-en-las-escuelas": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128267/tres-jovenes-libaneses-convierten-un-pequeno-estudio-biblico-en-el-mas-grande-de-medio-oriente": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128267/tres-jovenes-libaneses-convierten-un-pequeno-estudio-biblico-en-el-mas-grande-de-medio-oriente": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128275/ante-iniciativas-sobre-el-aborto-convocan-a-marcha-por-la-vida-en-guanajuato-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128273/cardenal-cobo-presidio-en-mar-del-plata-la-misa-por-el-dia-del-migrante-y-del-refugiado": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128271/presidente-colombiano-anuncia-primeros-320-mil-dolares-para-restaurar-basilica-senor-de-los-milagros-de-buga": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -594,10 +597,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-meXvGDKQY/MRbjFMhmUEaVEwMIo\""
+      "etag": "W/\"84d8-N+YeLj0VREdSAq6xiKsAO5XWKHU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 07 Sep 2026 22:22:31 GMT"
+      "modified": "Tue, 08 Sep 2026 00:36:03 GMT"
     }
   },
   "pendientes": {
@@ -709,7 +712,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-07 22:23",
+    "ultima_pasada_utc": "2026-09-08 00:36",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
