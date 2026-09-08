@@ -590,7 +590,11 @@
     "https://persecution.org/?p=4495721": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128293/obispo-aleman-expresa-su-gran-preocupacion-tras-historica-victoria-de-afd-en-elecciones": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128291/virgen-del-valle-en-venezuela-obispo-de-margarita-pide-regalo-de-amor-para-victimas-de": "descartado_palabras",
-    "https://morningstarnews.org/?p=18369": "procesado"
+    "https://morningstarnews.org/?p=18369": "procesado",
+    "https://www.aciprensa.com/noticias/128295/cualquier-accion-sobre-cuba-debe-buscar-devolverle-la-soberania-al-pueblo-senala-el-mcl": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/101013/los-fieles-celebran-en-las-redes-el-cumpleanos-de-la-virgen-maria": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128297/el-papa-leon-xiv-insta-a-los-jovenes-de-africa-a-ser-constructores-de-puentes": "descartado_palabras",
+    "https://persecution.org/?p=4495728": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -598,8 +602,8 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"ec0756488a2a530aef35d81a53de2c10\"",
-      "modified": "Tue, 08 Sep 2026 20:49:12 GMT"
+      "etag": "\"84c4a63e37f01d1d63a15fcc14a39d8b\"",
+      "modified": "Tue, 08 Sep 2026 21:28:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"7b68783934bb2753e3c3e191b4983628\"",
@@ -609,10 +613,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-+sC1pGBKT2f5iRD3zQITT5xhjII\""
+      "etag": "W/\"84d8-Abg9ogGVpQfVdfIzettgIUgZPSs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 08 Sep 2026 20:57:27 GMT"
+      "modified": "Tue, 08 Sep 2026 23:22:24 GMT"
     }
   },
   "pendientes": {
@@ -724,7 +728,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-08 20:58",
+    "ultima_pasada_utc": "2026-09-08 23:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
