@@ -581,29 +581,34 @@
     "https://www.aciprensa.com/noticias/128271/presidente-colombiano-anuncia-primeros-320-mil-dolares-para-restaurar-basilica-senor-de-los-milagros-de-buga": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128281/esto-es-una-boda-proclama-un-obispo-en-la-consagracion-de-dos-nuevas-virgenes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128279/arzobispado-pide-extremar-las-precauciones-ante-una-oleada-de-robos-en-sus-templos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128277/el-vaticano-profundiza-en-el-pecado-contra-la-creacion-y-su-lugar-en-la-teologia-catolica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128277/el-vaticano-profundiza-en-el-pecado-contra-la-creacion-y-su-lugar-en-la-teologia-catolica": "descartado_palabras",
+    "https://morningstarnews.org/?p=18366": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128289/el-papa-leon-xiv-nombra-a-un-franciscano-obispo-coadjutor-en-puerto-rico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128287/obispo-domingo-oropesa-es-dado-de-alta-del-hospital-para-continuar-su-recuperacion-en-casa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128285/el-peligroso-viaje-de-regreso-a-casa-para-las-comunidades-cristianas-del-sur-del-libano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128283/papa-leon-xiv-hoy-celebramos-el-nacimiento-de-una-nina-llamada-a-ser-la-madre-de-su-creador": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"25bbe2d8ca8a3b3e833f7ff6573b19bf\"",
-      "modified": "Mon, 07 Sep 2026 16:08:41 GMT"
+      "etag": "W/\"865e08a89ccd063a9f12d52269ad7049\"",
+      "modified": "Tue, 08 Sep 2026 16:23:40 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"44747d1e257132a9fb1ee4e3d1768000\"",
       "modified": "Fri, 04 Sep 2026 21:44:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"cd96dc579f70e4ab0c16a44bb8802190\"",
-      "modified": "Tue, 08 Sep 2026 13:31:31 GMT"
+      "etag": "\"7b68783934bb2753e3c3e191b4983628\"",
+      "modified": "Tue, 08 Sep 2026 14:47:25 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-uOK4R25RYkxX3hxdWzma79IjLQU\""
+      "etag": "W/\"84d8-Y3BbGTxd8HbYrYaNFnRXes33KLg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 08 Sep 2026 14:05:10 GMT"
+      "modified": "Tue, 08 Sep 2026 17:53:32 GMT"
     }
   },
   "pendientes": {
@@ -715,7 +720,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-08 14:04",
+    "ultima_pasada_utc": "2026-09-08 17:54",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
