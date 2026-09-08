@@ -586,16 +586,20 @@
     "https://www.aciprensa.com/noticias/128289/el-papa-leon-xiv-nombra-a-un-franciscano-obispo-coadjutor-en-puerto-rico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128287/obispo-domingo-oropesa-es-dado-de-alta-del-hospital-para-continuar-su-recuperacion-en-casa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128285/el-peligroso-viaje-de-regreso-a-casa-para-las-comunidades-cristianas-del-sur-del-libano": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128283/papa-leon-xiv-hoy-celebramos-el-nacimiento-de-una-nina-llamada-a-ser-la-madre-de-su-creador": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128283/papa-leon-xiv-hoy-celebramos-el-nacimiento-de-una-nina-llamada-a-ser-la-madre-de-su-creador": "descartado_palabras",
+    "https://persecution.org/?p=4495721": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128293/obispo-aleman-expresa-su-gran-preocupacion-tras-historica-victoria-de-afd-en-elecciones": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128291/virgen-del-valle-en-venezuela-obispo-de-margarita-pide-regalo-de-amor-para-victimas-de": "descartado_palabras",
+    "https://morningstarnews.org/?p=18369": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"865e08a89ccd063a9f12d52269ad7049\"",
-      "modified": "Tue, 08 Sep 2026 16:23:40 GMT"
+      "etag": "W/\"6b58c717a98684f46b6de5694e72e528\"",
+      "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"44747d1e257132a9fb1ee4e3d1768000\"",
-      "modified": "Fri, 04 Sep 2026 21:44:46 GMT"
+      "etag": "W/\"ec0756488a2a530aef35d81a53de2c10\"",
+      "modified": "Tue, 08 Sep 2026 20:49:12 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"7b68783934bb2753e3c3e191b4983628\"",
@@ -605,10 +609,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Y3BbGTxd8HbYrYaNFnRXes33KLg\""
+      "etag": "W/\"84d8-+sC1pGBKT2f5iRD3zQITT5xhjII\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 08 Sep 2026 17:53:32 GMT"
+      "modified": "Tue, 08 Sep 2026 20:57:27 GMT"
     }
   },
   "pendientes": {
@@ -720,7 +724,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-08 17:54",
+    "ultima_pasada_utc": "2026-09-08 20:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
