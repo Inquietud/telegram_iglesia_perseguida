@@ -601,7 +601,9 @@
     "https://www.aciprensa.com/noticias/128311/leon-xiv-denuncia-la-paradoja-de-occidente-mas-enfasis-en-la-libertad-pero-temor-a-ser-juzgados": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128309/el-papa-leon-xiv-lanza-un-mensaje-a-los-novios-el-amor-no-es-un-sentimiento-sino-una-decision": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128307/leon-xiv-advierte-contra-las-falsificaciones-y-manipulaciones-que-desfiguran-la-dignidad-humana": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128305/texto-completo-catequesis-de-leon-xiv-sobre-la-dignidad-humana": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128305/texto-completo-catequesis-de-leon-xiv-sobre-la-dignidad-humana": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128315/no-mas-entrenar-por-ego-el-gimnasio-catolico-que-pone-a-dios-en-el-centro-del-ejercicio-fisico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128313/diocesis-de-ee-uu-recibiran-replicas-de-la-tilma-de-guadalupe-por-los-500-anos-de-las": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -609,21 +611,21 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"84c4a63e37f01d1d63a15fcc14a39d8b\"",
-      "modified": "Tue, 08 Sep 2026 21:28:02 GMT"
+      "etag": "W/\"8b43f65c4637bb83afd786a87c6176c2\"",
+      "modified": "Wed, 09 Sep 2026 15:12:33 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"7b68783934bb2753e3c3e191b4983628\"",
-      "modified": "Tue, 08 Sep 2026 14:47:25 GMT"
+      "etag": "\"5f727474014b99eecc591ffea87198fd\"",
+      "modified": "Wed, 09 Sep 2026 13:45:38 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-oGs62MCoOVZEGOjAE4rAZ8TwYmQ\""
+      "etag": "W/\"84d8-3n9nFmcMICTHZIsOo0flFVVSL+U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 09 Sep 2026 11:39:22 GMT"
+      "modified": "Wed, 09 Sep 2026 15:18:28 GMT"
     }
   },
   "pendientes": {
@@ -724,7 +726,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-09 11:39",
+    "ultima_pasada_utc": "2026-09-09 15:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
