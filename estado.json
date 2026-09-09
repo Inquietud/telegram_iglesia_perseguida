@@ -594,7 +594,10 @@
     "https://www.aciprensa.com/noticias/128295/cualquier-accion-sobre-cuba-debe-buscar-devolverle-la-soberania-al-pueblo-senala-el-mcl": "descartado_palabras",
     "https://www.aciprensa.com/noticias/101013/los-fieles-celebran-en-las-redes-el-cumpleanos-de-la-virgen-maria": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128297/el-papa-leon-xiv-insta-a-los-jovenes-de-africa-a-ser-constructores-de-puentes": "descartado_palabras",
-    "https://persecution.org/?p=4495728": "procesado"
+    "https://persecution.org/?p=4495728": "procesado",
+    "https://www.aciprensa.com/noticias/128303/el-amor-es-una-decision-el-esposo-que-cada-dia-elige-amar-mas-a-su-mujer-con-alzheimer-temprano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128301/a-dos-anos-de-la-violencia-que-azota-sinaloa-en-mexico-convocan-a-marcha-por-la-paz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128299/ccollanan-maria-canto-mariano-en-quechua-une-la-fe-de-los-andes-con-la-devocion-a-la-virgen": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -613,24 +616,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Abg9ogGVpQfVdfIzettgIUgZPSs\""
+      "etag": "W/\"84d8-VJTA3D6niqH0DUkt3cfIWkCLsWE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 08 Sep 2026 23:22:24 GMT"
+      "modified": "Wed, 09 Sep 2026 01:21:18 GMT"
     }
   },
   "pendientes": {
-    "52": {
-      "texto": "📄 <b>MARRUECOS</b> 🇲🇦\n\n<b>ICC, Regent University Center for Global Justice publican un informe sobre la libertad religiosa en Marruecos</b>\n\nAunque Marruecos reconoce formalmente la libertad religiosa en su Constitución y se presenta como un país que apoya la tolerancia religiosa, un nuevo informe de International Christian Concern (ICC) y el Centro para la Justicia Global de la Universidad Regent argumenta que sus leyes y prácticas administrativas restringen sustancialmente esa libertad.\n\n➖➖➖\n🇬🇧 <b>ICC, Regent University Center for Global Justice Publish Report on Religious Freedom in Morocco</b>\n\n<i>Although Morocco formally recognizes religious freedom in its Constitution and portrays itself as a country that supports religious tolerance, a new report from International Christian Concern (ICC) and Regent University’s Center for Global Justice argues that its laws and administrative practices substantially restrict that freedom.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/25/icc-regent-university-center-for-global-justice-publish-report-on-religious-freedom-in-morocco/\">Fuente: International Christian Concern</a>\n#Marruecos #Africa #Leyes #Informe #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Morocco-report.jpg"
-      },
-      "msg_id": 83,
-      "fuente": "International Christian Concern",
-      "titulo": "ICC, Regent University Center for Global Justice Publish Report on Religious Freedom in Morocco",
-      "creado": 1787702539.0132782
-    },
     "53": {
       "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Arrestan a sospechoso de provocar incendio que destruyó histórica iglesia católica en Canadá</b>\n\nLas autoridades señalaron que la iglesia católica Saint-Simon, en la península acadiana, quedó “completamente destruida” tras ser consumida por un enorme incendio.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127987/incendio-provocado-destruye-historica-iglesia-catolica-canada\">Fuente: ACI Prensa</a>\n#Mundo #Detenciones #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -728,7 +720,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-08 23:22",
+    "ultima_pasada_utc": "2026-09-09 01:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
