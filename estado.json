@@ -605,7 +605,10 @@
     "https://www.aciprensa.com/noticias/128315/no-mas-entrenar-por-ego-el-gimnasio-catolico-que-pone-a-dios-en-el-centro-del-ejercicio-fisico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128313/diocesis-de-ee-uu-recibiran-replicas-de-la-tilma-de-guadalupe-por-los-500-anos-de-las": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128321/septima-diocesis-estados-unidos-dispensa-misa-migrantes-deportaciones": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128319/directores-de-sagrado-corazon-a-veces-es-mas-facil-llevar-a-la-gente-al-cine-que-a-la-iglesia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128319/directores-de-sagrado-corazon-a-veces-es-mas-facil-llevar-a-la-gente-al-cine-que-a-la-iglesia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128325/mater-fatima-inicia-30-dias-de-oracion-y-ayuno": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128323/el-camino-de-brochero-declarado-patrimonio-cultural-inmaterial-de-argentina": "descartado_palabras",
+    "https://persecution.org/?p=4495752": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -613,21 +616,21 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"35c45a0ae5c55e5b0d5abe68cf7ff0b9\"",
-      "modified": "Wed, 09 Sep 2026 18:07:11 GMT"
+      "etag": "\"d79345ff862d23528e6390eb5793c1de\"",
+      "modified": "Wed, 09 Sep 2026 21:01:19 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"c530d6450afade99f16b7ee4f4250799\"",
-      "modified": "Wed, 09 Sep 2026 16:45:03 GMT"
+      "etag": "\"27d9a7c77ffe0d338774cce43bfdb91e\"",
+      "modified": "Wed, 09 Sep 2026 19:48:44 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-lqj6Ko+SookUpm2T1gCRaLy9sr4\""
+      "etag": "W/\"84d8-C6bKDhtxGX+7Q85qP4mfkQXnLl0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 09 Sep 2026 18:44:02 GMT"
+      "modified": "Wed, 09 Sep 2026 21:16:36 GMT"
     }
   },
   "pendientes": {
@@ -728,7 +731,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-09 18:44",
+    "ultima_pasada_utc": "2026-09-09 21:16",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
