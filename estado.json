@@ -608,7 +608,8 @@
     "https://www.aciprensa.com/noticias/128319/directores-de-sagrado-corazon-a-veces-es-mas-facil-llevar-a-la-gente-al-cine-que-a-la-iglesia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128325/mater-fatima-inicia-30-dias-de-oracion-y-ayuno": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128323/el-camino-de-brochero-declarado-patrimonio-cultural-inmaterial-de-argentina": "descartado_palabras",
-    "https://persecution.org/?p=4495752": "procesado"
+    "https://persecution.org/?p=4495752": "procesado",
+    "https://www.aciprensa.com/noticias/128327/caro-ramirez-la-cantautora-catolica-que-busca-llevar-esperanza-y-fe-con-su-musica": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -627,24 +628,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-C6bKDhtxGX+7Q85qP4mfkQXnLl0\""
+      "etag": "W/\"84d8-yBIXVjOYDUDX2NeDCpBJCzbiQ7s\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 09 Sep 2026 21:16:36 GMT"
+      "modified": "Wed, 09 Sep 2026 23:21:32 GMT"
     }
   },
   "pendientes": {
-    "53": {
-      "texto": "⚠️ <b>INTERNACIONAL</b> 🌍\n\n<b>Arrestan a sospechoso de provocar incendio que destruyó histórica iglesia católica en Canadá</b>\n\nLas autoridades señalaron que la iglesia católica Saint-Simon, en la península acadiana, quedó “completamente destruida” tras ser consumida por un enorme incendio.\n\n📎 <a href=\"https://www.aciprensa.com/noticias/127987/incendio-provocado-destruye-historica-iglesia-catolica-canada\">Fuente: ACI Prensa</a>\n#Mundo #Detenciones #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787769766/ewtn-news/es/Incendio-iglesia-Canada-1-260826_ci5jic.jpg?w=800&amp;jpg"
-      },
-      "msg_id": 85,
-      "fuente": "ACI Prensa",
-      "titulo": "Arrestan a sospechoso de provocar incendio que destruyó histórica iglesia católica en Canadá",
-      "creado": 1787782768.8858626
-    },
     "54": {
       "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Agricultores cristianos temen regresar a sus campos en el estado de Plateau después de que las milicias fulani mataran a 27</b>\n\nPara muchos agricultores cristianos en las comunidades de Irigwe en el estado de Plateau, Nigeria, viajar a sus granjas se ha vuelto peligroso. Algunos han dejado de ir por completo. Otros ahora se mueven en grupos, con la esperanza de que los números ofrezcan cierta protección.\n\n➖➖➖\n🇬🇧 <b>Christian Farmers Fear Returning to Their Fields in Plateau State After Fulani Militias Kill 27</b>\n\n<i>For many Christian farmers in Irigwe communities in Plateau state, Nigeria, traveling to their farms has become dangerous. Some have stopped going altogether. Others now move in groups, hoping that numbers will offer some protection.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -731,7 +721,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-09 21:16",
+    "ultima_pasada_utc": "2026-09-09 23:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
