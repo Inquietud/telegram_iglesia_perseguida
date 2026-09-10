@@ -625,7 +625,9 @@
     "https://www.aciprensa.com/noticias/128349/familia-catolica-de-brasil-defiende-la-educacion-en-casa-ante-batalla-legal": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128355/lo-que-realmente-ensena-la-iglesia-catolica-sobre-el-suicidio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128353/arzobispo-pide-a-trump-suspender-deportaciones-de-haitianos": "descartado_palabras",
-    "https://persecution.org/?p=4495786": "procesado"
+    "https://persecution.org/?p=4495786": "procesado",
+    "https://www.aciprensa.com/noticias/128361/nueva-ministra-de-educacion-colombia-ilva-hoyos-tiene-experiencia-en-defensa-de-la-familia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128357/papa-leon-xiv-jubileo-basilica-guadalupe": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -644,10 +646,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-gimVlPd6I+CzAFbg27Cqza2HPMU\""
+      "etag": "W/\"84d8-JKCx9aA6p+1yymkKTDmhPqZy5eU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 10 Sep 2026 21:08:13 GMT"
+      "modified": "Thu, 10 Sep 2026 23:11:42 GMT"
     }
   },
   "pendientes": {
@@ -737,7 +739,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-10 21:08",
+    "ultima_pasada_utc": "2026-09-10 23:11",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
