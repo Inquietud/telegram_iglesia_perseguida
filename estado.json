@@ -613,7 +613,8 @@
     "https://www.aciprensa.com/noticias/128333/cuba-libre-obispo-palm-beach": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128329/obispo-brasil-prohibe-alcohol-bingos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128331/masoneria-francesa-escuelas-privadas-catolicas-elecciones": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128335/panama-celebra-madre-patrona-santa-maria-antigua": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128335/panama-celebra-madre-patrona-santa-maria-antigua": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128337/el-vaticano-exaltara-a-304-martires-latinoamericanos-en-congreso-internacional": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -625,17 +626,17 @@
       "modified": "Wed, 09 Sep 2026 21:01:19 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4e7b9476d41f0f8b10f113c262b8eb05\"",
-      "modified": "Wed, 09 Sep 2026 22:00:51 GMT"
+      "etag": "\"62fc1efdb91e20d072c4935b6c76d770\"",
+      "modified": "Thu, 10 Sep 2026 10:17:36 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-dWWVfna9v8bS54YZAKUKsfcK7vk\""
+      "etag": "W/\"84d8-kVs9wX3UP7+e6AhBzIUfVWBGFDI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 10 Sep 2026 06:09:43 GMT"
+      "modified": "Thu, 10 Sep 2026 11:24:02 GMT"
     }
   },
   "pendientes": {
@@ -725,7 +726,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-10 06:09",
+    "ultima_pasada_utc": "2026-09-10 11:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
