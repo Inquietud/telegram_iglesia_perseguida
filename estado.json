@@ -609,7 +609,9 @@
     "https://www.aciprensa.com/noticias/128325/mater-fatima-inicia-30-dias-de-oracion-y-ayuno": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128323/el-camino-de-brochero-declarado-patrimonio-cultural-inmaterial-de-argentina": "descartado_palabras",
     "https://persecution.org/?p=4495752": "procesado",
-    "https://www.aciprensa.com/noticias/128327/caro-ramirez-la-cantautora-catolica-que-busca-llevar-esperanza-y-fe-con-su-musica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128327/caro-ramirez-la-cantautora-catolica-que-busca-llevar-esperanza-y-fe-con-su-musica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128333/cuba-libre-obispo-palm-beach": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128329/obispo-brasil-prohibe-alcohol-bingos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -621,17 +623,17 @@
       "modified": "Wed, 09 Sep 2026 21:01:19 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"27d9a7c77ffe0d338774cce43bfdb91e\"",
-      "modified": "Wed, 09 Sep 2026 19:48:44 GMT"
+      "etag": "\"4e7b9476d41f0f8b10f113c262b8eb05\"",
+      "modified": "Wed, 09 Sep 2026 22:00:51 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-yBIXVjOYDUDX2NeDCpBJCzbiQ7s\""
+      "etag": "W/\"84d8-DGiXhr4FLRVOgn3rA/+N/ouJiB8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 09 Sep 2026 23:21:32 GMT"
+      "modified": "Thu, 10 Sep 2026 01:18:32 GMT"
     }
   },
   "pendientes": {
@@ -721,7 +723,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-09 23:21",
+    "ultima_pasada_utc": "2026-09-10 01:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
