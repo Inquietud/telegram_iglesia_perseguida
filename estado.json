@@ -614,7 +614,13 @@
     "https://www.aciprensa.com/noticias/128329/obispo-brasil-prohibe-alcohol-bingos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128331/masoneria-francesa-escuelas-privadas-catolicas-elecciones": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128335/panama-celebra-madre-patrona-santa-maria-antigua": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128337/el-vaticano-exaltara-a-304-martires-latinoamericanos-en-congreso-internacional": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128337/el-vaticano-exaltara-a-304-martires-latinoamericanos-en-congreso-internacional": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128347/el-15-de-los-ninos-que-piden-hacer-la-primera-comunion-en-espana-esta-sin-bautizar": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128345/la-primera-mision-que-el-papa-encomienda-a-los-obispos-permanecer-con-jesus": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128343/las-23-iglesias-orientales-catolicas-una-riqueza-milenaria-en-comunion-con-roma": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128317/grupo-del-sinodo-pide-mecanismos-que-promuevan-la-igualdad-de-genero-en-ambitos-eclesiales": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128339/elena-lorenzo-coach-especializada-en-identidad-personal-10-anos-bajo-la-lupa-del-lobby-lgtb": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128341/obispos-de-ee-uu-instan-a-la-corte-suprema-a-fallar-contra-detencion-indefinida-de-no": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -622,21 +628,21 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"d79345ff862d23528e6390eb5793c1de\"",
-      "modified": "Wed, 09 Sep 2026 21:01:19 GMT"
+      "etag": "\"aec247611594428990088340d69e2794\"",
+      "modified": "Thu, 10 Sep 2026 14:28:04 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"62fc1efdb91e20d072c4935b6c76d770\"",
-      "modified": "Thu, 10 Sep 2026 10:17:36 GMT"
+      "etag": "\"4211314e74080a45d9ec661f716bd8d9\"",
+      "modified": "Thu, 10 Sep 2026 14:09:38 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-kVs9wX3UP7+e6AhBzIUfVWBGFDI\""
+      "etag": "W/\"84d8-abkdVXmcyYEqNe3kFBE7PnJtBMk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 10 Sep 2026 11:24:02 GMT"
+      "modified": "Thu, 10 Sep 2026 15:06:45 GMT"
     }
   },
   "pendientes": {
@@ -726,7 +732,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-10 11:23",
+    "ultima_pasada_utc": "2026-09-10 15:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
