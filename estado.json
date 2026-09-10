@@ -622,7 +622,10 @@
     "https://www.aciprensa.com/noticias/128339/elena-lorenzo-coach-especializada-en-identidad-personal-10-anos-bajo-la-lupa-del-lobby-lgtb": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128341/obispos-de-ee-uu-instan-a-la-corte-suprema-a-fallar-contra-detencion-indefinida-de-no": "procesado",
     "https://www.aciprensa.com/noticias/128351/legado-emiliano-tardif-dia-ocho": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128349/familia-catolica-de-brasil-defiende-la-educacion-en-casa-ante-batalla-legal": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128349/familia-catolica-de-brasil-defiende-la-educacion-en-casa-ante-batalla-legal": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128355/lo-que-realmente-ensena-la-iglesia-catolica-sobre-el-suicidio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128353/arzobispo-pide-a-trump-suspender-deportaciones-de-haitianos": "descartado_palabras",
+    "https://persecution.org/?p=4495786": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -630,8 +633,8 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"86800ff9472b140abdafb5490faecf9b\"",
-      "modified": "Thu, 10 Sep 2026 18:25:51 GMT"
+      "etag": "\"3a0e9033d3e367003226dc0b50bc783b\"",
+      "modified": "Thu, 10 Sep 2026 20:32:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"ee5a73fe3ec76b9ab9bd6d879b277d95\"",
@@ -641,10 +644,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-tGjag4+eUoZavCFOxxAdt3X30Fk\""
+      "etag": "W/\"84d8-gimVlPd6I+CzAFbg27Cqza2HPMU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 10 Sep 2026 18:27:13 GMT"
+      "modified": "Thu, 10 Sep 2026 21:08:13 GMT"
     }
   },
   "pendientes": {
@@ -734,7 +737,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-10 18:27",
+    "ultima_pasada_utc": "2026-09-10 21:08",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
