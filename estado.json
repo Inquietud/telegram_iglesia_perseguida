@@ -630,7 +630,9 @@
     "https://www.aciprensa.com/noticias/128357/papa-leon-xiv-jubileo-basilica-guadalupe": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128367/teologo-catolico-cargo-departamento-seguridad-nacional-trump": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128365/obispos-eeuu-25-aniversario-atentados-11-septiembre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128363/claudia-sheinbaum-dos-anos-gobierno-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128363/claudia-sheinbaum-dos-anos-gobierno-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128359/fe-venezuela-cientos-navegan-virgen-valle": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/83495/la-historia-de-la-cruz-que-dio-esperanza-tras-el-atentado-del-11-de-septiembre": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -649,10 +651,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-iEkEgF+UQoJjmGFVhiF5fsWgzh4\""
+      "etag": "W/\"84d8-4zzi0eAVkHYh/248+3Vnit07pYM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 11 Sep 2026 01:10:14 GMT"
+      "modified": "Fri, 11 Sep 2026 06:03:13 GMT"
     }
   },
   "pendientes": {
@@ -731,7 +733,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-11 01:10",
+    "ultima_pasada_utc": "2026-09-11 06:03",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
