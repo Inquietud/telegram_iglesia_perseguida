@@ -627,7 +627,10 @@
     "https://www.aciprensa.com/noticias/128353/arzobispo-pide-a-trump-suspender-deportaciones-de-haitianos": "descartado_palabras",
     "https://persecution.org/?p=4495786": "procesado",
     "https://www.aciprensa.com/noticias/128361/nueva-ministra-de-educacion-colombia-ilva-hoyos-tiene-experiencia-en-defensa-de-la-familia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128357/papa-leon-xiv-jubileo-basilica-guadalupe": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128357/papa-leon-xiv-jubileo-basilica-guadalupe": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128367/teologo-catolico-cargo-departamento-seguridad-nacional-trump": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128365/obispos-eeuu-25-aniversario-atentados-11-septiembre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128363/claudia-sheinbaum-dos-anos-gobierno-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -646,24 +649,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-JKCx9aA6p+1yymkKTDmhPqZy5eU\""
+      "etag": "W/\"84d8-iEkEgF+UQoJjmGFVhiF5fsWgzh4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 10 Sep 2026 23:11:42 GMT"
+      "modified": "Fri, 11 Sep 2026 01:10:14 GMT"
     }
   },
   "pendientes": {
-    "54": {
-      "texto": "🚨 <b>NIGERIA</b> 🇳🇬\n\n<b>Agricultores cristianos temen regresar a sus campos en el estado de Plateau después de que las milicias fulani mataran a 27</b>\n\nPara muchos agricultores cristianos en las comunidades de Irigwe en el estado de Plateau, Nigeria, viajar a sus granjas se ha vuelto peligroso. Algunos han dejado de ir por completo. Otros ahora se mueven en grupos, con la esperanza de que los números ofrezcan cierta protección.\n\n➖➖➖\n🇬🇧 <b>Christian Farmers Fear Returning to Their Fields in Plateau State After Fulani Militias Kill 27</b>\n\n<i>For many Christian farmers in Irigwe communities in Plateau state, Nigeria, traveling to their farms has become dangerous. Some have stopped going altogether. Others now move in groups, hoping that numbers will offer some protection.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/\">Fuente: International Christian Concern</a>\n#Nigeria #Africa #Asesinato #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/08/Nigeria-attack-3.jpg"
-      },
-      "msg_id": 87,
-      "fuente": "International Christian Concern",
-      "titulo": "Christian Farmers Fear Returning to Their Fields in Plateau State After Fulani Militias Kill 27",
-      "creado": 1787875089.9612732
-    },
     "55": {
       "texto": "🚨 <b>INTERNACIONAL</b> 🌍\n\n<b>Una pandilla ataca una iglesia y mata a decenas de personas en Haití</b>\n\nDel 23 al 24 de agosto, más de 50 personas fueron secuestradas y 47 personas murieron en un ataque en la comuna haitiana de Kenscoff. A partir de las 22:30 h.\n\n➖➖➖\n🇬🇧 <b>Gang Attacks Church, Kills Dozens in Haiti</b>\n\n<i>From Aug. 23 to 24, more than 50 people were kidnapped, and 47 people were killed in an attack in Haiti’s Kenscoff commune. Starting at 10:30 p.m.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/28/gang-attacks-church-kills-dozens-in-haiti/\">Fuente: International Christian Concern</a>\n#Mundo #Asesinato #Secuestro #Templos #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": null,
@@ -739,7 +731,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-10 23:11",
+    "ultima_pasada_utc": "2026-09-11 01:10",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
