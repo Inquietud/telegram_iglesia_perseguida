@@ -632,7 +632,8 @@
     "https://www.aciprensa.com/noticias/128365/obispos-eeuu-25-aniversario-atentados-11-septiembre": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128363/claudia-sheinbaum-dos-anos-gobierno-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128359/fe-venezuela-cientos-navegan-virgen-valle": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/83495/la-historia-de-la-cruz-que-dio-esperanza-tras-el-atentado-del-11-de-septiembre": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/83495/la-historia-de-la-cruz-que-dio-esperanza-tras-el-atentado-del-11-de-septiembre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128369/el-obispo-de-barbastro-marca-terreno-a-24-horas-de-que-llegue-el-comisario-pontificio-a": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -644,17 +645,17 @@
       "modified": "Thu, 10 Sep 2026 20:32:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"ee5a73fe3ec76b9ab9bd6d879b277d95\"",
-      "modified": "Thu, 10 Sep 2026 16:06:08 GMT"
+      "etag": "\"036b4103d04b4218efbecf7bcbf13500\"",
+      "modified": "Fri, 11 Sep 2026 11:01:37 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-4zzi0eAVkHYh/248+3Vnit07pYM\""
+      "etag": "W/\"84d8-69UZS0zKpWTQmt0alOY5NWAK+UY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 11 Sep 2026 06:03:13 GMT"
+      "modified": "Fri, 11 Sep 2026 11:16:03 GMT"
     }
   },
   "pendientes": {
@@ -733,7 +734,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-11 06:03",
+    "ultima_pasada_utc": "2026-09-11 11:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
