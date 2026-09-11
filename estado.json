@@ -639,7 +639,10 @@
     "https://www.aciprensa.com/noticias/128371/la-abadia-del-valle-de-los-caidos-pide-respeto-para-los-muertos-filmados-sin-permiso-en-las": "descartado_palabras",
     "https://persecution.org/?p=4495795": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128379/iglesia-en-colombia-reconstruccion-despues-del-sismo-debe-ir-va-mas-alla-de-la-vivienda": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128377/suicidio-exige-hablar-de-salud-mental-en-ambientes-de-la-iglesia-catolica": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128377/suicidio-exige-hablar-de-salud-mental-en-ambientes-de-la-iglesia-catolica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128385/papa-leon-xiv-visitaria-centroamerica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128383/coloquio-resistencia-cristera-centenario-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128381/mons-roger-landry-suspendido-por-acusaciones-de-violaciones-al-codigo-de-conducta": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -658,10 +661,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-by8eWtiIs+iSyT/z/93HYBnOXAU\""
+      "etag": "W/\"84d8-LB4MOjiZsPbQ+dtI0N4U0721fCI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 11 Sep 2026 18:32:19 GMT"
+      "modified": "Fri, 11 Sep 2026 21:15:36 GMT"
     }
   },
   "pendientes": {
@@ -740,7 +743,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-11 18:30",
+    "ultima_pasada_utc": "2026-09-11 21:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
