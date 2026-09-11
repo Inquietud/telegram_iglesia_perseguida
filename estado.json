@@ -633,7 +633,10 @@
     "https://www.aciprensa.com/noticias/128363/claudia-sheinbaum-dos-anos-gobierno-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128359/fe-venezuela-cientos-navegan-virgen-valle": "descartado_palabras",
     "https://www.aciprensa.com/noticias/83495/la-historia-de-la-cruz-que-dio-esperanza-tras-el-atentado-del-11-de-septiembre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128369/el-obispo-de-barbastro-marca-terreno-a-24-horas-de-que-llegue-el-comisario-pontificio-a": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128369/el-obispo-de-barbastro-marca-terreno-a-24-horas-de-que-llegue-el-comisario-pontificio-a": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128375/el-papa-leon-xiv-felicita-a-la-comunidad-judia-de-roma-con-motivo-de-sus-fiestas-de-inicio-de": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128373/cardenal-spengler-llama-a-la-escucha-y-dialogo-para-afrontar-la-crisis-socioambiental": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128371/la-abadia-del-valle-de-los-caidos-pide-respeto-para-los-muertos-filmados-sin-permiso-en-las": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -641,21 +644,21 @@
       "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"3a0e9033d3e367003226dc0b50bc783b\"",
-      "modified": "Thu, 10 Sep 2026 20:32:43 GMT"
+      "etag": "\"c85ce69a1779ead9bc2ca6e6ae3711d4\"",
+      "modified": "Fri, 11 Sep 2026 14:00:24 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"036b4103d04b4218efbecf7bcbf13500\"",
-      "modified": "Fri, 11 Sep 2026 11:01:37 GMT"
+      "etag": "\"1f219f2d87151fbdc1ba662e9061c55e\"",
+      "modified": "Fri, 11 Sep 2026 11:31:31 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-69UZS0zKpWTQmt0alOY5NWAK+UY\""
+      "etag": "W/\"84d8-yjyCEEUjekfJFzVK8UFxbGwyPGw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 11 Sep 2026 11:16:03 GMT"
+      "modified": "Fri, 11 Sep 2026 15:06:30 GMT"
     }
   },
   "pendientes": {
@@ -734,7 +737,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-11 11:15",
+    "ultima_pasada_utc": "2026-09-11 15:05",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
