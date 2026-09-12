@@ -647,7 +647,10 @@
     "https://www.aciprensa.com/noticias/128387/acutis-ai-inteligencia-artificial-catolica": "descartado_palabras",
     "https://persecution.org/?p=4495821": "procesado",
     "https://www.aciprensa.com/noticias/128393/25-anos-11-s-fe-heroica-conversion-esperanza": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128391/lideres-catolicos-tecnologia-limites-inteligencia-artificial": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128391/lideres-catolicos-tecnologia-limites-inteligencia-artificial": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/56977/los-7-rasgos-del-santo-nombre-de-maria-que-todo-cristiano-debe-saber": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128397/comisario-pontificio-visita-torreciudad-y-la-define-como-verdadera-escuela-de-fe": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128395/papa-leon-xiv-benedictinas-cristo-testigo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -666,10 +669,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-TS5IvgWm/jf7qpDsHmR540LbbqQ\""
+      "etag": "W/\"84d8-TwI9Hvv3FVtMUAlfwhwkiq3BBhw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 12 Sep 2026 14:00:28 GMT"
+      "modified": "Sat, 12 Sep 2026 17:02:33 GMT"
     }
   },
   "pendientes": {
@@ -718,7 +721,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-12 14:00",
+    "ultima_pasada_utc": "2026-09-12 17:02",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
