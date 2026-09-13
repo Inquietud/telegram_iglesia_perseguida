@@ -653,7 +653,10 @@
     "https://www.aciprensa.com/noticias/128395/papa-leon-xiv-benedictinas-cristo-testigo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128399/leon-xiv-desarrollo-tecnologico-humanidad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128401/madre-subrogada-recurre-a-corte-suprema-de-ee-uu-para-garantizar-atencion-medica-a-recien": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128403/bogota-sera-sede-de-congreso-internacional-sobre-joseph-ratzinger": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128403/bogota-sera-sede-de-congreso-internacional-sobre-joseph-ratzinger": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128409/el-papa-recuerda-a-las-victimas-del-11-s-y-pide-rezar-por-la-paz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128407/papa-leon-xiv-solo-el-perdon-libera-y-devuelve-la-luz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128405/34-diocesis-recibieron-permiso-del-vaticano-para-celebrar-la-misa-tridentina-en-2025": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -672,10 +675,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-p25w3BVOe6KNSzaKHVcZIrzGlbA\""
+      "etag": "W/\"84d8-PvmhPdy3Zst1dCYhKR5jIjlJdm0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 13 Sep 2026 06:15:14 GMT"
+      "modified": "Sun, 13 Sep 2026 12:04:47 GMT"
     }
   },
   "pendientes": {
@@ -724,7 +727,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-13 06:15",
+    "ultima_pasada_utc": "2026-09-13 12:04",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
