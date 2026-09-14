@@ -667,7 +667,12 @@
     "https://www.aciprensa.com/noticias/128423/leon-xiv-restituye-los-recortes-salariales-impuestos-a-cardenales-del-vaticano": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128421/custodio-de-tierra-santa-la-cruz-no-se-explica-con-palabras-se-atraviesa-con-cristo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128419/papa-leon-xiv-celebra-sus-71-anos-en-el-vaticano": "descartado_palabras",
-    "https://morningstarnews.org/?p=18378": "procesado"
+    "https://morningstarnews.org/?p=18378": "procesado",
+    "https://persecution.org/?p=4495839": "descartado_palabras",
+    "https://persecution.org/?p=4495809": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128433/marija-clara-nueva-version-de-salve-regina": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128431/huerto-vaticano-organico-alimenta-monjas": "descartado_palabras",
+    "https://persecution.org/?p=4495834": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -675,35 +680,24 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"8eacd832e2b757d66c2bbc214f18fb4c\"",
-      "modified": "Mon, 14 Sep 2026 16:57:29 GMT"
+      "etag": "\"aa0bd8980b973f7d04e620d3ef124c5f\"",
+      "modified": "Mon, 14 Sep 2026 21:42:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"58770dfaeb3932e49af1ce07583b436c\"",
-      "modified": "Mon, 14 Sep 2026 17:49:39 GMT"
+      "etag": "\"32d113b41fe848fe7ce533a465eb59bf\"",
+      "modified": "Mon, 14 Sep 2026 21:03:01 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-DQX1duvHdY5AjI9B5Ew5pdqag8U\""
+      "etag": "W/\"84d8-hhYIWqX7Owxa0aWgTnggGNEZRdg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 14 Sep 2026 18:42:41 GMT"
+      "modified": "Mon, 14 Sep 2026 22:07:15 GMT"
     }
   },
   "pendientes": {
-    "58": {
-      "texto": "🚨 <b>PAKISTÁN</b> 🇵🇰\n\n<b>Condenada la custodia musulmana de una niña cristiana en Pakistán</b>\n\nLAHORE, Pakistán (Christian Daily International-Morning Star News) – Defensores de los derechos de los cristianos condenaron el sábado (29 de agosto) la decisión de un tribunal paquistaní de otorgar la custodia de una niña cristiana de 13 años a un musulmán acusado de secuestrarla, convertirla por la fuerza y casarse con ella. Advirtiendo que el fallo podría exponer a Amber Nadeem a más abusos y coerción, los defensores junto con [...]\n\n➖➖➖\n🇬🇧 <b>Muslim’s Custody of Christian Girl in Pakistan Condemned</b>\n\n<i>LAHORE, Pakistan (Christian Daily International–Morning Star News) – Christian rights advocates on Saturday (Aug. 29) condemned a Pakistani court’s decision to give custody of a 13-year-old Christian girl to a Muslim accused of abducting, forcibly converting and marrying her. Warning that the ruling could expose Amber Nadeem to further abuse and coercion, the advocates along with […]</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/\">Fuente: Morning Star News</a>\n#Pakistan #Asia #Secuestro #Juicio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://morningstarnews.org/wp-content/uploads/2026/08/MINORI1-300x181.png"
-      },
-      "msg_id": 95,
-      "fuente": "Morning Star News",
-      "titulo": "Muslim’s Custody of Christian Girl in Pakistan Condemned",
-      "creado": 1788207925.762371
-    },
     "59": {
       "texto": "📄 <b>IRÁN</b> 🇮🇷\n\n<b>Canadá concede asilo a cristiano iraní deportado de EE.UU.</b>\n\nDespués de ser deportado de los Estados Unidos mientras buscaba asilo, un converso cristiano que huyó de la persecución en Irán tiene un nuevo hogar. Artemis Ghasemzadeh, de 27 años, recibió recientemente asilo a través del programa de reasentamiento de refugiados de Canadá. Llegó a su nuevo hogar en Denman Island, cerca de Vancouver, en julio.\n\n➖➖➖\n🇬🇧 <b>Canada Grants Asylum to Iranian Christian Deported from US</b>\n\n<i>After being deported from the United States while seeking asylum, a Christian convert who fled persecution in Iran has a new home. Artemis Ghasemzadeh, 27, recently received asylum through Canada’s refugee resettlement program. She arrived at her new home on Denman Island near Vancouver in July.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/\">Fuente: International Christian Concern</a>\n#Iran #OrienteMedio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": null,
@@ -738,7 +732,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-14 18:43",
+    "ultima_pasada_utc": "2026-09-14 22:07",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
