@@ -659,7 +659,8 @@
     "https://www.aciprensa.com/noticias/128405/34-diocesis-recibieron-permiso-del-vaticano-para-celebrar-la-misa-tridentina-en-2025": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128411/papa-leon-xiv-arzobispo-coadjutor-rabat-marruecos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128413/arquidiocesis-de-chicago-religiosas-catolicas-no-tendran-que-acatar-ley-estatal-sobre-suicidio": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128415/piden-a-onu-reconocer-maternidad-subrogada-como-nueva-forma-de-esclavitud": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128415/piden-a-onu-reconocer-maternidad-subrogada-como-nueva-forma-de-esclavitud": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128417/leon-xiv-destaca-la-biblioteca-apostolica-como-signo-de-la-apertura-cultural-de-la-iglesia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -671,17 +672,17 @@
       "modified": "Fri, 11 Sep 2026 21:49:10 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"1f219f2d87151fbdc1ba662e9061c55e\"",
-      "modified": "Fri, 11 Sep 2026 11:31:31 GMT"
+      "etag": "\"8caeb542888612c5a28e10925705fcc0\"",
+      "modified": "Mon, 14 Sep 2026 12:51:55 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Nd2oa6VUtBSN/72J4IZ9kKjQ/nE\""
+      "etag": "W/\"84d8-010DYRwMjAOyhes+SDOXkmmE7JU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 14 Sep 2026 06:26:39 GMT"
+      "modified": "Mon, 14 Sep 2026 13:16:11 GMT"
     }
   },
   "pendientes": {
@@ -730,7 +731,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-14 06:26",
+    "ultima_pasada_utc": "2026-09-14 13:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
