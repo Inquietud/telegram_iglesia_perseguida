@@ -660,29 +660,36 @@
     "https://www.aciprensa.com/noticias/128411/papa-leon-xiv-arzobispo-coadjutor-rabat-marruecos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128413/arquidiocesis-de-chicago-religiosas-catolicas-no-tendran-que-acatar-ley-estatal-sobre-suicidio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128415/piden-a-onu-reconocer-maternidad-subrogada-como-nueva-forma-de-esclavitud": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128417/leon-xiv-destaca-la-biblioteca-apostolica-como-signo-de-la-apertura-cultural-de-la-iglesia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128417/leon-xiv-destaca-la-biblioteca-apostolica-como-signo-de-la-apertura-cultural-de-la-iglesia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128429/obispos-mexico-heridas-abiertas-independencia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128427/alerta-por-venta-de-entradas-falsas-para-ver-a-leon-xiv-en-uruguay-ninguna-actividad-tendra": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128425/el-papa-leon-xiv-nombra-obispo-para-el-ordinariato-castrense-de-bolivia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128423/leon-xiv-restituye-los-recortes-salariales-impuestos-a-cardenales-del-vaticano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128421/custodio-de-tierra-santa-la-cruz-no-se-explica-con-palabras-se-atraviesa-con-cristo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128419/papa-leon-xiv-celebra-sus-71-anos-en-el-vaticano": "descartado_palabras",
+    "https://morningstarnews.org/?p=18378": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"6b58c717a98684f46b6de5694e72e528\"",
-      "modified": "Tue, 08 Sep 2026 19:09:09 GMT"
+      "etag": "W/\"dd92030aaea421dd2e1bf80b1e7e020e\"",
+      "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"fa7b86dae8b58adcab4a1b2a5cb2655b\"",
-      "modified": "Fri, 11 Sep 2026 21:49:10 GMT"
+      "etag": "\"8eacd832e2b757d66c2bbc214f18fb4c\"",
+      "modified": "Mon, 14 Sep 2026 16:57:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"8caeb542888612c5a28e10925705fcc0\"",
-      "modified": "Mon, 14 Sep 2026 12:51:55 GMT"
+      "etag": "\"58770dfaeb3932e49af1ce07583b436c\"",
+      "modified": "Mon, 14 Sep 2026 17:49:39 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-010DYRwMjAOyhes+SDOXkmmE7JU\""
+      "etag": "W/\"84d8-DQX1duvHdY5AjI9B5Ew5pdqag8U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 14 Sep 2026 13:16:11 GMT"
+      "modified": "Mon, 14 Sep 2026 18:42:41 GMT"
     }
   },
   "pendientes": {
@@ -731,7 +738,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-14 13:15",
+    "ultima_pasada_utc": "2026-09-14 18:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
