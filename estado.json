@@ -672,7 +672,8 @@
     "https://persecution.org/?p=4495809": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128433/marija-clara-nueva-version-de-salve-regina": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128431/huerto-vaticano-organico-alimenta-monjas": "descartado_palabras",
-    "https://persecution.org/?p=4495834": "procesado"
+    "https://persecution.org/?p=4495834": "procesado",
+    "https://www.aciprensa.com/noticias/128435/correccion-rumbo-desafios-educativos-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -691,21 +692,13 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-hhYIWqX7Owxa0aWgTnggGNEZRdg\""
+      "etag": "W/\"84d8-GJyPM1jzxhuW6DS6Fr/7gsMNwtg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 14 Sep 2026 22:07:15 GMT"
+      "modified": "Tue, 15 Sep 2026 00:38:32 GMT"
     }
   },
   "pendientes": {
-    "59": {
-      "texto": "📄 <b>IRÁN</b> 🇮🇷\n\n<b>Canadá concede asilo a cristiano iraní deportado de EE.UU.</b>\n\nDespués de ser deportado de los Estados Unidos mientras buscaba asilo, un converso cristiano que huyó de la persecución en Irán tiene un nuevo hogar. Artemis Ghasemzadeh, de 27 años, recibió recientemente asilo a través del programa de reasentamiento de refugiados de Canadá. Llegó a su nuevo hogar en Denman Island, cerca de Vancouver, en julio.\n\n➖➖➖\n🇬🇧 <b>Canada Grants Asylum to Iranian Christian Deported from US</b>\n\n<i>After being deported from the United States while seeking asylum, a Christian convert who fled persecution in Iran has a new home. Artemis Ghasemzadeh, 27, recently received asylum through Canada’s refugee resettlement program. She arrived at her new home on Denman Island near Vancouver in July.</i>\n\n📎 <a href=\"https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/\">Fuente: International Christian Concern</a>\n#Iran #OrienteMedio #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": null,
-      "msg_id": 97,
-      "fuente": "International Christian Concern",
-      "titulo": "Canada Grants Asylum to Iranian Christian Deported from US",
-      "creado": 1788220957.917023
-    },
     "60": {
       "texto": "🚨 <b>PAKISTÁN</b> 🇵🇰\n\n<b>Dos cristianos arrestados bajo las leyes de blasfemia en Pakistán</b>\n\nLAHORE, Pakistán (Christian Daily International–Morning Star News) – Un cristiano en Pakistán fue arrestado y acusado de blasfemia el sábado (29 de agosto) y otro enfrentó la misma acusación el 11 de agosto bajo leyes que conllevan la pena de muerte, dijeron fuentes.\n\n➖➖➖\n🇬🇧 <b>Two Christians Arrested under Blasphemy Laws in Pakistan</b>\n\n<i>LAHORE, Pakistan (Christian Daily International–Morning Star News) – One Christian in Pakistan was arrested and charged with blasphemy on Saturday (Aug. 29) and another faced the same accusation on Aug. 11 under laws that carry the death penalty, sources said.</i>\n\n📎 <a href=\"https://morningstarnews.org/2026/09/two-christians-arrested-under-blasphemy-laws-in-pakistan/\">Fuente: Morning Star News</a>\n#Pakistan #Asia #Detenciones #Blasfemia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
       "media": {
@@ -732,7 +725,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-14 22:07",
+    "ultima_pasada_utc": "2026-09-15 00:38",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
