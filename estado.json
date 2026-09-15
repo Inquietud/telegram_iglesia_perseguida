@@ -681,7 +681,13 @@
     "https://www.aciprensa.com/noticias/128453/arzobispado-lima-serie-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128451/peregrino-mexico-bicicleta-virgen-guadalupe": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128449/don-biker-el-sacerdote-motociclista-que-evangeliza-sobre-dos-ruedas": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128447/la-diocesis-de-quilmes-peregrino-a-lujan-para-celebrar-sus-50-anos": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128447/la-diocesis-de-quilmes-peregrino-a-lujan-para-celebrar-sus-50-anos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128457/venezuela-dialogo-acuerdos-petroleros-delcy-rodriguez": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128455/arzobispo-angeles-legado-mexicanos-persecucion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128459/comision-libertad-religiosa-trump-presos": "procesado",
+    "https://persecution.org/?p=4495881": "procesado",
+    "https://persecution.org/?p=4495873": "procesado",
+    "https://persecution.org/?p=4495866": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -689,21 +695,21 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"9a036ac7dbb211ac28d92a16b99e124e\"",
-      "modified": "Tue, 15 Sep 2026 15:49:18 GMT"
+      "etag": "\"7548c7e7d8dd2888ae8f1e54129e5e87\"",
+      "modified": "Tue, 15 Sep 2026 21:54:37 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"bd4e029850a06d137f03f76a9355a3b5\"",
-      "modified": "Tue, 15 Sep 2026 15:03:03 GMT"
+      "etag": "\"10e28d13e7e492d1bb6a920090ed125d\"",
+      "modified": "Tue, 15 Sep 2026 16:17:10 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-IkGPY021HBHkjswQynX/ZYP5E3w\""
+      "etag": "W/\"84d8-+2pw4eWzVkf/F7xNcYVVUEiLpuU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 15 Sep 2026 19:02:04 GMT"
+      "modified": "Tue, 15 Sep 2026 22:10:50 GMT"
     }
   },
   "pendientes": {
@@ -733,7 +739,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-15 19:01",
+    "ultima_pasada_utc": "2026-09-15 22:11",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -742,6 +748,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 4
   }
 }
