@@ -706,7 +706,11 @@
     "https://www.aciprensa.com/noticias/128491/hakuna-group-music-nominacion-grammy": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128487/catolicos-marchan-washington-congreso-migrantes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128485/trabajadores-vaticano-leon-xiv-derechos-salariales": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128489/papa-leon-xiv-martires-evangelizadores-de-la-iglesia": "procesado"
+    "https://www.aciprensa.com/noticias/128489/papa-leon-xiv-martires-evangelizadores-de-la-iglesia": "procesado",
+    "https://www.aciprensa.com/noticias/128501/abelardo-de-la-espriella-congreso-de-colombia-prohibir-cambio-de-sexo-en-menores": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128499/arquidiocesis-consejos-amar-mexico-fe": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128493/universidad-catolica-chile-diplomado-abusos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128495/obispos-eeuu-dignidad-humana-ia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -725,29 +729,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-B0dws+svfpdI23w9O9S/77zCiEw\""
+      "etag": "W/\"84d6-3d1PkUS8rP9tHFKCRbXqanYrn2E\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 16 Sep 2026 21:44:37 GMT"
+      "modified": "Wed, 16 Sep 2026 23:54:07 GMT"
     }
   },
-  "pendientes": {
-    "61": {
-      "texto": "⚠️ <b>INDIA</b> 🇮🇳\n\n<b>Hindúes cortan el agua y la electricidad para una familia cristiana en Chhattisgarh</b>\n\nUna turba hindú radical atacó recientemente a una familia cristiana en Chhattisgarh después de que se negaron a participar en una ceremonia de reconversión hindú llamada Ghar Wapsi. La turba derribó el techo de la casa de la familia, dejando a siete personas expuestas a las fuertes lluvias del monzón e incapaces de vivir con seguridad en la estructura. Según fuentes locales, alrededor de... El post Hindus Cut Water, Electricity Off for Christian Family en Chhattisgarh apareció por primera vez en International Christian Concern .\n\n➖➖➖\n🇬🇧 <b>Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh</b>\n\n<i>A radical Hindu mob recently attacked a Christian family in Chhattisgarh after they refused to participate in a Hindu reconversion ceremony called Ghar Wapsi. The mob tore down the roof of the family’s home, leaving seven people exposed to heavy monsoon rains and unable to live safely in the structure. According to local sources, around… The post Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh first appeared on International Christian Concern .</i>\n\n📎 <a href=\"https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/\">Fuente: International Christian Concern</a>\n#India #Asia #IglesiaPerseguida #PersecutedChurch #Christ #Christianity #Faith #Persecution #CarrytheCross",
-      "media": {
-        "tipo": "foto",
-        "url": "https://persecution.org/wp-content/uploads/2026/01/Indian-village.jpg"
-      },
-      "msg_id": 101,
-      "fuente": "International Christian Concern",
-      "titulo": "Hindus Cut Water, Electricity Off for Christian Family in Chhattisgarh",
-      "creado": 1788390981.9174225
-    }
-  },
+  "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-16 21:44",
+    "ultima_pasada_utc": "2026-09-16 23:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
