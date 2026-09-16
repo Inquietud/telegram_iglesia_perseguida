@@ -689,7 +689,10 @@
     "https://persecution.org/?p=4495873": "procesado",
     "https://persecution.org/?p=4495866": "procesado",
     "https://www.aciprensa.com/noticias/128465/artistas-catolicos-reconstruyeme-esperanza-venezuela": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128461/peregrinos-fe-fidelidad-milagro-salta": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128461/peregrinos-fe-fidelidad-milagro-salta": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128469/unidad-iglesia-catolica-centroamerica-independencia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128463/medicos-coaccion-abortar-perjudica-mujeres": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128467/detenganse-obispo-violencia-criminal-sinaloa": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -708,10 +711,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-Nw8zY7nj/hj8mnL8R0SKKmMGZH0\""
+      "etag": "W/\"84d8-7Pne6XUDVUc5UbhuP4q29wuzngI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 16 Sep 2026 00:25:00 GMT"
+      "modified": "Wed, 16 Sep 2026 05:07:22 GMT"
     }
   },
   "pendientes": {
@@ -741,7 +744,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-16 00:25",
+    "ultima_pasada_utc": "2026-09-16 05:07",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -750,6 +753,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 4
+    "publicados_ultima_pasada": 1
   }
 }
