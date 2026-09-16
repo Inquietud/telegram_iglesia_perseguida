@@ -701,7 +701,12 @@
     "https://persecution.org/?p=4495884": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128483/el-hospital-del-papa-renueva-su-cooperacion-sanitaria-en-america-latina-por-otros-cuatro-anos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128481/presos-argentinos-envian-cartas-para-invitar-al-papa-leon-xiv-a-visitarlos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128479/los-ateos-superan-a-los-catolicos-practicantes-por-primera-vez-en-espana": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128479/los-ateos-superan-a-los-catolicos-practicantes-por-primera-vez-en-espana": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128497/cardenal-porras-comision-opositora-dialogo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128491/hakuna-group-music-nominacion-grammy": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128487/catolicos-marchan-washington-congreso-migrantes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128485/trabajadores-vaticano-leon-xiv-derechos-salariales": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128489/papa-leon-xiv-martires-evangelizadores-de-la-iglesia": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -720,10 +725,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-DU3nyLy8iPDxs41uv3Q5MJJ59MU\""
+      "etag": "W/\"84d6-B0dws+svfpdI23w9O9S/77zCiEw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 16 Sep 2026 18:34:46 GMT"
+      "modified": "Wed, 16 Sep 2026 21:44:37 GMT"
     }
   },
   "pendientes": {
@@ -742,7 +747,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-16 18:34",
+    "ultima_pasada_utc": "2026-09-16 21:44",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
