@@ -693,7 +693,11 @@
     "https://www.aciprensa.com/noticias/128469/unidad-iglesia-catolica-centroamerica-independencia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128463/medicos-coaccion-abortar-perjudica-mujeres": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128467/detenganse-obispo-violencia-criminal-sinaloa": "procesado",
-    "https://www.aciprensa.com/noticias/128471/texto-completo-catequesis-de-leon-xiv-sobre-la-constitucion-pastoral-gaudium-et-spes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128471/texto-completo-catequesis-de-leon-xiv-sobre-la-constitucion-pastoral-gaudium-et-spes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/61467/7-advertencias-sobre-el-diablo-que-dejo-el-famoso-exorcista-p-gabriele-amorth": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128477/cardenal-pizzaballa-llama-a-los-cristianos-de-tierra-santa-a-hacer-de-la-cruz-un-camino-de-vida": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128473/el-papa-pide-respeto-y-amor-incluso-hacia-quienes-piensan-de-forma-distinta": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128475/record-de-ataques-a-la-libertad-religiosa-en-espana-impulsados-desde-el-gobierno": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -701,21 +705,21 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"7548c7e7d8dd2888ae8f1e54129e5e87\"",
-      "modified": "Tue, 15 Sep 2026 21:54:37 GMT"
+      "etag": "\"388dc9e05368b960dfa55b68d821f8dd\"",
+      "modified": "Wed, 16 Sep 2026 12:53:16 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"402b6b15a3e393600298eb640f4ca338\"",
-      "modified": "Wed, 16 Sep 2026 08:33:27 GMT"
+      "etag": "\"db171cf7b42b6d0a567db9a7084906b1\"",
+      "modified": "Wed, 16 Sep 2026 14:40:04 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-U6jpLjkdbPm5wl5xtxzXiZ8aaiY\""
+      "etag": "W/\"84d8-eU05F8wMFj10I/bXwzGRbEucEbQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 16 Sep 2026 09:57:34 GMT"
+      "modified": "Wed, 16 Sep 2026 14:49:36 GMT"
     }
   },
   "pendientes": {
@@ -745,7 +749,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-16 09:57",
+    "ultima_pasada_utc": "2026-09-16 14:49",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
