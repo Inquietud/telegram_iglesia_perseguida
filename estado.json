@@ -687,7 +687,9 @@
     "https://www.aciprensa.com/noticias/128459/comision-libertad-religiosa-trump-presos": "procesado",
     "https://persecution.org/?p=4495881": "procesado",
     "https://persecution.org/?p=4495873": "procesado",
-    "https://persecution.org/?p=4495866": "procesado"
+    "https://persecution.org/?p=4495866": "procesado",
+    "https://www.aciprensa.com/noticias/128465/artistas-catolicos-reconstruyeme-esperanza-venezuela": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128461/peregrinos-fe-fidelidad-milagro-salta": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -706,10 +708,10 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d8-+2pw4eWzVkf/F7xNcYVVUEiLpuU\""
+      "etag": "W/\"84d8-Nw8zY7nj/hj8mnL8R0SKKmMGZH0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 15 Sep 2026 22:10:50 GMT"
+      "modified": "Wed, 16 Sep 2026 00:25:00 GMT"
     }
   },
   "pendientes": {
@@ -739,7 +741,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-15 22:11",
+    "ultima_pasada_utc": "2026-09-16 00:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
