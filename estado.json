@@ -726,7 +726,11 @@
     "https://www.aciprensa.com/noticias/128523/unica-escuela-catolica-gaza-reabre": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128521/lujan-presenta-al-papa-el-primer-foro-de-santuarios-de-america-latina-poco-antes-de-su-visita": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128531/verdad-justicia-juicio-muerte-ponce-de-leon": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128529/chile-nuevo-tedeum-ecumenico-patria": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128529/chile-nuevo-tedeum-ecumenico-patria": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/57042/7-hechos-asombrosos-de-la-vida-de-san-jose-de-cupertino-el-santo-volador": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128535/jovenes-venezuela-clases-dolor-terremotos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128533/iglesia-eeuu-semana-migracion-ninos": "descartado_palabras",
+    "https://persecution.org/?p=4495898": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -734,8 +738,8 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"0f13b6d429bda205d4555ee5c9c4c614\"",
-      "modified": "Thu, 17 Sep 2026 16:36:13 GMT"
+      "etag": "\"c6e531f71b8cc33007cfeb4f3e0ae896\"",
+      "modified": "Thu, 17 Sep 2026 22:26:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"0cb55deccc64962614a80c5ec5039af4\"",
@@ -745,17 +749,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-SxzBbeBjQqwE3q9AzKrgIuMThus\""
+      "etag": "W/\"84d6-SfkthRr7Zgk1awEjNK/VCkEe/fU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 17 Sep 2026 21:41:51 GMT"
+      "modified": "Thu, 17 Sep 2026 23:43:39 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-17 21:41",
+    "ultima_pasada_utc": "2026-09-17 23:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
