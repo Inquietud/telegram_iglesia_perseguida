@@ -719,7 +719,12 @@
     "https://www.aciprensa.com/noticias/128519/obispos-espanoles-convocan-un-encuentro-nacional-de-sacerdotes-como-servidores-de-la-comunion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128517/muerte-san-francisco-proyecto-digital-basilica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128515/la-fundacion-red-madre-evito-el-aborto-de-mas-de-50-000-bebes-en-2025": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128513/el-vaticano-apuesta-por-el-dialogo-interreligioso-pero-rechaza-que-las-creencias-queden": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128513/el-vaticano-apuesta-por-el-dialogo-interreligioso-pero-rechaza-que-las-creencias-queden": "descartado_palabras",
+    "https://persecution.org/?p=4495891": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128527/abogados-cristianos-pide-a-cidh-reclamar-liberacion-de-samuel-adrian-en-colombia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128525/argentina-estafador-sacerdote-hogares-dinero": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128523/unica-escuela-catolica-gaza-reabre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128521/lujan-presenta-al-papa-el-primer-foro-de-santuarios-de-america-latina-poco-antes-de-su-visita": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -727,28 +732,28 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"789277ec2b5dc22f3f383e6154d0a848\"",
-      "modified": "Wed, 16 Sep 2026 17:19:22 GMT"
+      "etag": "\"0f13b6d429bda205d4555ee5c9c4c614\"",
+      "modified": "Thu, 17 Sep 2026 16:36:13 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5d09b8db13f06720b0da1cc0688e89f4\"",
-      "modified": "Wed, 16 Sep 2026 15:41:42 GMT"
+      "etag": "\"0cb55deccc64962614a80c5ec5039af4\"",
+      "modified": "Thu, 17 Sep 2026 15:00:38 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-xpvZE8DMeZW2DrJenEMYvS/BnPY\""
+      "etag": "W/\"84d6-PxOEpbg7MIJ9TDs/hNJOUfygC28\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 17 Sep 2026 14:25:44 GMT"
+      "modified": "Thu, 17 Sep 2026 18:29:20 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-17 14:25",
+    "ultima_pasada_utc": "2026-09-17 18:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
