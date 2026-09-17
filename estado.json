@@ -724,7 +724,9 @@
     "https://www.aciprensa.com/noticias/128527/abogados-cristianos-pide-a-cidh-reclamar-liberacion-de-samuel-adrian-en-colombia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128525/argentina-estafador-sacerdote-hogares-dinero": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128523/unica-escuela-catolica-gaza-reabre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128521/lujan-presenta-al-papa-el-primer-foro-de-santuarios-de-america-latina-poco-antes-de-su-visita": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128521/lujan-presenta-al-papa-el-primer-foro-de-santuarios-de-america-latina-poco-antes-de-su-visita": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128531/verdad-justicia-juicio-muerte-ponce-de-leon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128529/chile-nuevo-tedeum-ecumenico-patria": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -743,17 +745,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-PxOEpbg7MIJ9TDs/hNJOUfygC28\""
+      "etag": "W/\"84d6-SxzBbeBjQqwE3q9AzKrgIuMThus\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 17 Sep 2026 18:29:20 GMT"
+      "modified": "Thu, 17 Sep 2026 21:41:51 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-17 18:29",
+    "ultima_pasada_utc": "2026-09-17 21:41",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
