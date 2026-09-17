@@ -710,7 +710,12 @@
     "https://www.aciprensa.com/noticias/128501/abelardo-de-la-espriella-congreso-de-colombia-prohibir-cambio-de-sexo-en-menores": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128499/arquidiocesis-consejos-amar-mexico-fe": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128493/universidad-catolica-chile-diplomado-abusos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128495/obispos-eeuu-dignidad-humana-ia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128495/obispos-eeuu-dignidad-humana-ia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128509/caridad-expres-catedral-mexicana-comida": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128505/inversion-vida-estudiar-teologia-online": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128503/robert-barron-comision-libertad-religiosa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128507/caritas-cuba-recibira-mas-ayuda-humanitaria-de-estados-unidos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128511/obispos-mexico-exigen-investigacion-asesinato": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -729,17 +734,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-3d1PkUS8rP9tHFKCRbXqanYrn2E\""
+      "etag": "W/\"84d6-6Es6PHCqII46Qa89mLfWAo+gluA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 16 Sep 2026 23:54:07 GMT"
+      "modified": "Thu, 17 Sep 2026 04:14:19 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-16 23:53",
+    "ultima_pasada_utc": "2026-09-17 04:14",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
