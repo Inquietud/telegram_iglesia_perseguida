@@ -730,7 +730,10 @@
     "https://www.aciprensa.com/noticias/57042/7-hechos-asombrosos-de-la-vida-de-san-jose-de-cupertino-el-santo-volador": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128535/jovenes-venezuela-clases-dolor-terremotos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128533/iglesia-eeuu-semana-migracion-ninos": "descartado_palabras",
-    "https://persecution.org/?p=4495898": "procesado"
+    "https://persecution.org/?p=4495898": "procesado",
+    "https://www.aciprensa.com/noticias/128541/cardenal-parolin-cooperacion-amenazas-ia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128539/cardenal-denuncia-infiltracion-narcotrafico-escuelas-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128537/comunidad-fe-transfronteriza-guerra-cristera": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -749,17 +752,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-SfkthRr7Zgk1awEjNK/VCkEe/fU\""
+      "etag": "W/\"84d6-kGalTofWW9+oVtdpaqfjjeI1Zzc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 17 Sep 2026 23:43:39 GMT"
+      "modified": "Fri, 18 Sep 2026 01:36:39 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-17 23:43",
+    "ultima_pasada_utc": "2026-09-18 01:36",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
