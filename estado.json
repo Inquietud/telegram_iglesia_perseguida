@@ -741,7 +741,13 @@
     "https://www.aciprensa.com/noticias/128547/el-evangelio-medieval-de-san-marcos-convertido-en-reliquia-vuelve-a-reunirse-siete-siglos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128555/216-anos-primer-gobierno-patrio-tedeum-chile": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128553/goodway-rating-una-herramienta-para-ofrecer-alternativas-eticas-para-el-inversor-catolico": "descartado_palabras",
-    "https://persecution.org/?p=4495904": "procesado"
+    "https://persecution.org/?p=4495904": "procesado",
+    "https://www.aciprensa.com/noticias/128563/rosario-familia-peruana-dolor-tarata": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128561/papa-leon-xiv-obispos-uruguay": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128559/iglesia-peru-subsidios-visita-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128557/dia-chamame-ritmo-correntino-catedral": "descartado_palabras",
+    "https://persecution.org/?p=4495915": "procesado",
+    "https://persecution.org/?p=4495909": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -749,8 +755,8 @@
       "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"37939585ad03e46a419c4e16b789da7e\"",
-      "modified": "Fri, 18 Sep 2026 16:26:32 GMT"
+      "etag": "\"8f3d0bfb6ad0a1e8956fbe34847d2a59\"",
+      "modified": "Fri, 18 Sep 2026 21:03:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"b38fe60845812a57116bc1b0c5247a71\"",
@@ -760,17 +766,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-C/eYQo+WhojvjjHDhqQsbIGn1NU\""
+      "etag": "W/\"84d6-OO2h4K7kXww4k5WqcsDrMRi++zg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 18 Sep 2026 19:00:04 GMT"
+      "modified": "Fri, 18 Sep 2026 21:36:50 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-18 19:00",
+    "ultima_pasada_utc": "2026-09-18 21:37",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -779,6 +785,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
