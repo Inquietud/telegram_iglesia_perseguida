@@ -735,7 +735,10 @@
     "https://www.aciprensa.com/noticias/128539/cardenal-denuncia-infiltracion-narcotrafico-escuelas-mexico": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128537/comunidad-fe-transfronteriza-guerra-cristera": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128545/leon-xiv-pone-en-valor-la-raiz-popular-de-la-doctrina-social-de-la-iglesia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128543/rezandovoy-jesuitas-espana-ia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128543/rezandovoy-jesuitas-espana-ia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128551/colombia-se-retira-de-coalicion-internacional-pro-lgbt": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128549/senor-milagros-misa-papa-leon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128547/el-evangelio-medieval-de-san-marcos-convertido-en-reliquia-vuelve-a-reunirse-siete-siglos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -747,24 +750,24 @@
       "modified": "Thu, 17 Sep 2026 22:26:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"e48d504143908b87541aca7d80caf8ab\"",
-      "modified": "Fri, 18 Sep 2026 10:31:48 GMT"
+      "etag": "\"38af739006a0efd8cefbf848572dc909\"",
+      "modified": "Fri, 18 Sep 2026 13:19:48 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-8+GkPQTf/vu0ZJlOdvOVJOk+QuA\""
+      "etag": "W/\"84d6-fA9w5ArKR7uBwcVwb7Qm35Ideus\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 18 Sep 2026 11:52:48 GMT"
+      "modified": "Fri, 18 Sep 2026 15:58:18 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-18 11:52",
+    "ultima_pasada_utc": "2026-09-18 15:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
