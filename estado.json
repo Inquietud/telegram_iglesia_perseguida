@@ -751,7 +751,12 @@
     "https://www.aciprensa.com/noticias/128569/casa-blanca-victorias-personas-fe": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128567/iglesia-haiti-inicio-ano-escolar": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128565/proyecto-cocinar-santa-hildegarda": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128571/sacerdote-lloro-consagracion-video-viral": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128571/sacerdote-lloro-consagracion-video-viral": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128581/catholic-music-awards-pospone-2028": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128579/lupita-venegas-matrimonio-problemas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128577/obispo-guatemala-formara-ciudadanos-voto": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128575/leon-xiv-atletas-especiales-mundo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128573/santos-formando-santos-papa-leon": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -770,17 +775,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-CH3m7uRB3ISB63w/Asq9ayAT64s\""
+      "etag": "W/\"84d6-xKFv6kza9wBGB2datQbAZ36b274\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 19 Sep 2026 14:47:29 GMT"
+      "modified": "Sat, 19 Sep 2026 21:45:09 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-19 19:34",
+    "ultima_pasada_utc": "2026-09-19 21:44",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
