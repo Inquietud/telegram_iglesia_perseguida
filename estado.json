@@ -756,7 +756,8 @@
     "https://www.aciprensa.com/noticias/128579/lupita-venegas-matrimonio-problemas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128577/obispo-guatemala-formara-ciudadanos-voto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128575/leon-xiv-atletas-especiales-mundo": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128573/santos-formando-santos-papa-leon": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128573/santos-formando-santos-papa-leon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128583/lima-restaurara-capilla-virgen-milagro": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -775,17 +776,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-xKFv6kza9wBGB2datQbAZ36b274\""
+      "etag": "W/\"84d6-QVj5zA1sVVtA9mudBy4piGOo+SE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 19 Sep 2026 21:45:09 GMT"
+      "modified": "Sat, 19 Sep 2026 23:39:25 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-19 21:44",
+    "ultima_pasada_utc": "2026-09-19 23:39",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
