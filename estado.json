@@ -762,7 +762,8 @@
     "https://www.aciprensa.com/noticias/128585/papa-leon-xiv-los-planes-de-dios-son-infinitamente-mas-grandes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128593/yom-kippur-obispos-catolicos-judios": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128591/asis-celebracion-800-anos-san-francisco": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128589/presidente-de-los-obispos-de-uruguay-preve-una-primavera-espiritual-con-la-visita-del-papa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128589/presidente-de-los-obispos-de-uruguay-preve-una-primavera-espiritual-con-la-visita-del-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128595/basilica-san-pedro-restauracion-mosaicos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -781,17 +782,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-1pHSlddQvPSv6iGiVSjer/pd4p4\""
+      "etag": "W/\"84d6-FFtckqzyuh3dSG1X+zaMMO4Tw1A\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 20 Sep 2026 18:57:25 GMT"
+      "modified": "Sun, 20 Sep 2026 21:26:52 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-20 18:57",
+    "ultima_pasada_utc": "2026-09-20 21:26",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
