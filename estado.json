@@ -757,7 +757,9 @@
     "https://www.aciprensa.com/noticias/128577/obispo-guatemala-formara-ciudadanos-voto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128575/leon-xiv-atletas-especiales-mundo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128573/santos-formando-santos-papa-leon": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128583/lima-restaurara-capilla-virgen-milagro": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128583/lima-restaurara-capilla-virgen-milagro": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128587/el-papa-leon-xiv-llama-a-la-comunidad-internacional-a-actuar-ante-la-grave-crisis-humanitaria-en": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128585/papa-leon-xiv-los-planes-de-dios-son-infinitamente-mas-grandes": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -776,17 +778,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-JrvtnPQalqIYpyC2CzyjreeEPZI\""
+      "etag": "W/\"84d6-/7u2VU3BnMl7LW2PzXwhlySSWuA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 20 Sep 2026 07:05:28 GMT"
+      "modified": "Sun, 20 Sep 2026 12:20:42 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-20 07:05",
+    "ultima_pasada_utc": "2026-09-20 12:20",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
