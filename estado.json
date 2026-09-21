@@ -763,7 +763,10 @@
     "https://www.aciprensa.com/noticias/128593/yom-kippur-obispos-catolicos-judios": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128591/asis-celebracion-800-anos-san-francisco": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128589/presidente-de-los-obispos-de-uruguay-preve-una-primavera-espiritual-con-la-visita-del-papa": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128595/basilica-san-pedro-restauracion-mosaicos": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128595/basilica-san-pedro-restauracion-mosaicos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128601/papa-leon-xiv-rezara-el-rosario-por-la-paz-junto-a-cientos-de-ninos-en-vaticano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128599/programa-viaje-papa-leon-xiv-uruguay-argentina-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128597/papa-leon-xiv-las-vocaciones-no-salen-de-las-estrategias-sino-de-la-oracion-y-el-silencio": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -775,24 +778,24 @@
       "modified": "Fri, 18 Sep 2026 21:03:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b38fe60845812a57116bc1b0c5247a71\"",
-      "modified": "Fri, 18 Sep 2026 16:04:56 GMT"
+      "etag": "\"b287d5ba8a60c64d70066ab9243001bc\"",
+      "modified": "Mon, 21 Sep 2026 12:11:41 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-kpq17BpIZjgyz5QPetqu+5V2hrU\""
+      "etag": "W/\"84d6-m4ubko2ZjAk7Dq09nUcpqCKWfCY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 21 Sep 2026 07:07:04 GMT"
+      "modified": "Mon, 21 Sep 2026 14:08:52 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-21 07:06",
+    "ultima_pasada_utc": "2026-09-21 14:08",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
