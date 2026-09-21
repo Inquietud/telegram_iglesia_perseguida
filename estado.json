@@ -766,36 +766,42 @@
     "https://www.aciprensa.com/noticias/128595/basilica-san-pedro-restauracion-mosaicos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128601/papa-leon-xiv-rezara-el-rosario-por-la-paz-junto-a-cientos-de-ninos-en-vaticano": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128599/programa-viaje-papa-leon-xiv-uruguay-argentina-peru": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128597/papa-leon-xiv-las-vocaciones-no-salen-de-las-estrategias-sino-de-la-oracion-y-el-silencio": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128597/papa-leon-xiv-las-vocaciones-no-salen-de-las-estrategias-sino-de-la-oracion-y-el-silencio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128611/buenos-aires-misa-sociedad-esclavos-excluidos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128609/papa-leon-xiv-nombramientos-mexico-puebla-queretaro": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128607/diocesis-estados-unidos-procesos-con-sacerdotes-acusados-por-mala-conducta": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128603/logos-lemas-papa-leon-xiv-uruguay-argentina-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128613/mexico-violencia-iglesia-construir-paz": "procesado",
+    "https://morningstarnews.org/?p=18392": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"dd92030aaea421dd2e1bf80b1e7e020e\"",
-      "modified": "Mon, 14 Sep 2026 17:31:58 GMT"
+      "etag": "W/\"774f62e1707727abe2465556205395b1\"",
+      "modified": "Mon, 21 Sep 2026 18:05:11 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"8f3d0bfb6ad0a1e8956fbe34847d2a59\"",
       "modified": "Fri, 18 Sep 2026 21:03:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b287d5ba8a60c64d70066ab9243001bc\"",
-      "modified": "Mon, 21 Sep 2026 12:11:41 GMT"
+      "etag": "\"c1aadfb00ac2c23a37d919e445308ac4\"",
+      "modified": "Mon, 21 Sep 2026 15:51:46 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-m4ubko2ZjAk7Dq09nUcpqCKWfCY\""
+      "etag": "W/\"84d6-gh1lgqKznw+I82aLKWDPRl3leuo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 21 Sep 2026 14:08:52 GMT"
+      "modified": "Mon, 21 Sep 2026 19:29:14 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-21 14:08",
+    "ultima_pasada_utc": "2026-09-21 19:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
