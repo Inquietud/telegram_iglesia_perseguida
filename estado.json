@@ -781,16 +781,22 @@
     "https://www.aciprensa.com/noticias/128629/marcha-por-la-vida-en-alemania": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128625/cupula-iglesia-san-joaquin-de-roma-escondio-perseguidos-por-nazis": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128605/archidiocesis-madrid-soledad-sacerdotes": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128623/vaticano-convoca-congreso-internacional-sobre-pastoral-escolar-y-universitaria": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128623/vaticano-convoca-congreso-internacional-sobre-pastoral-escolar-y-universitaria": "descartado_palabras",
+    "https://morningstarnews.org/?p=18398": "descartado_palabras",
+    "https://persecution.org/?p=4495929": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128637/papa-leon-xiv-norte-peru-mula": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128633/teologo-estadounidense-john-cavadini-premio-ratzinger": "descartado_palabras",
+    "https://persecution.org/?p=4495926": "procesado",
+    "https://www.aciprensa.com/noticias/128631/mexico-asesinato-sacerdote-advertencia-miedo": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"774f62e1707727abe2465556205395b1\"",
-      "modified": "Mon, 21 Sep 2026 18:05:11 GMT"
+      "etag": "W/\"46420bf50ef1d1a8feba19283526f8cb\"",
+      "modified": "Tue, 22 Sep 2026 17:52:16 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"a7edd6cd83b02a5aa10c3e7a0b3c0b41\"",
-      "modified": "Tue, 22 Sep 2026 16:14:53 GMT"
+      "etag": "\"a6ece1d61d225631128cc4e3df6cf67f\"",
+      "modified": "Tue, 22 Sep 2026 19:16:10 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"2c599c893a6dd0f3bc20fd8d3aff5825\"",
@@ -800,17 +806,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-lkFss/mDUZrBK9300S6Z8P/ju98\""
+      "etag": "W/\"84d6-oSFzOkuEodRF+OkiJPKQKuKJTjE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 22 Sep 2026 16:50:22 GMT"
+      "modified": "Tue, 22 Sep 2026 20:00:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-22 16:50",
+    "ultima_pasada_utc": "2026-09-22 20:00",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
