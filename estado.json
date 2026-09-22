@@ -774,7 +774,8 @@
     "https://www.aciprensa.com/noticias/128613/mexico-violencia-iglesia-construir-paz": "procesado",
     "https://morningstarnews.org/?p=18392": "procesado",
     "https://www.aciprensa.com/noticias/128617/francia-prepara-recibir-papa-leon-xiv": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128615/obispo-estadounidense-cuba-no-es-propiedad-de-un-partido": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128615/obispo-estadounidense-cuba-no-es-propiedad-de-un-partido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128619/milagros-san-juan-macias-rector": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -782,8 +783,8 @@
       "modified": "Mon, 21 Sep 2026 18:05:11 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"e0a7b7b990af6a300e5dff555d9b4d4a\"",
-      "modified": "Mon, 21 Sep 2026 20:41:05 GMT"
+      "etag": "W/\"d862e36b99badc26f31b288e45156e50\"",
+      "modified": "Tue, 22 Sep 2026 01:00:18 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"c1aadfb00ac2c23a37d919e445308ac4\"",
@@ -793,17 +794,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-/7TZ5k0QT60wtow54qE59S3J/Qw\""
+      "etag": "W/\"84d6-PIYRmI6lxWQU8QPQqJbLOor5TFY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 21 Sep 2026 22:47:03 GMT"
+      "modified": "Tue, 22 Sep 2026 01:18:31 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-21 22:47",
+    "ultima_pasada_utc": "2026-09-22 01:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
