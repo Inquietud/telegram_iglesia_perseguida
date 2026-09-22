@@ -787,7 +787,10 @@
     "https://www.aciprensa.com/noticias/128637/papa-leon-xiv-norte-peru-mula": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128633/teologo-estadounidense-john-cavadini-premio-ratzinger": "descartado_palabras",
     "https://persecution.org/?p=4495926": "procesado",
-    "https://www.aciprensa.com/noticias/128631/mexico-asesinato-sacerdote-advertencia-miedo": "procesado"
+    "https://www.aciprensa.com/noticias/128631/mexico-asesinato-sacerdote-advertencia-miedo": "procesado",
+    "https://persecution.org/?p=4495937": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128639/cercania-victor-sanchez-puebla-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128635/apocalipsis-ia-catolicos-posturas-diferentes": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -795,8 +798,8 @@
       "modified": "Tue, 22 Sep 2026 17:52:16 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"a6ece1d61d225631128cc4e3df6cf67f\"",
-      "modified": "Tue, 22 Sep 2026 19:16:10 GMT"
+      "etag": "\"be900055d0b2de7bfa5f1edd130ce78f\"",
+      "modified": "Tue, 22 Sep 2026 20:27:53 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"2c599c893a6dd0f3bc20fd8d3aff5825\"",
@@ -806,17 +809,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-oSFzOkuEodRF+OkiJPKQKuKJTjE\""
+      "etag": "W/\"84d6-TFq+7Ah2NwZ0XYEOUXviUj/fPTE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 22 Sep 2026 20:00:03 GMT"
+      "modified": "Tue, 22 Sep 2026 22:53:41 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-22 20:00",
+    "ultima_pasada_utc": "2026-09-22 22:54",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
