@@ -777,7 +777,11 @@
     "https://www.aciprensa.com/noticias/128615/obispo-estadounidense-cuba-no-es-propiedad-de-un-partido": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128619/milagros-san-juan-macias-rector": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128621/vaticano-ia-dignidad-humana-onu": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/61462/asi-fue-la-ultima-misa-del-padre-pio-poco-antes-de-morir-video": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/61462/asi-fue-la-ultima-misa-del-padre-pio-poco-antes-de-morir-video": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128629/marcha-por-la-vida-en-alemania": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128625/cupula-iglesia-san-joaquin-de-roma-escondio-perseguidos-por-nazis": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128605/archidiocesis-madrid-soledad-sacerdotes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128623/vaticano-convoca-congreso-internacional-sobre-pastoral-escolar-y-universitaria": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -785,28 +789,28 @@
       "modified": "Mon, 21 Sep 2026 18:05:11 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"03cf1d01a06b870ded99166c742bfbbb\"",
-      "modified": "Tue, 22 Sep 2026 01:04:20 GMT"
+      "etag": "\"a7edd6cd83b02a5aa10c3e7a0b3c0b41\"",
+      "modified": "Tue, 22 Sep 2026 16:14:53 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"59dbeb22583cbbd41cfbcf6e0d63791e\"",
-      "modified": "Tue, 22 Sep 2026 11:24:19 GMT"
+      "etag": "\"2c599c893a6dd0f3bc20fd8d3aff5825\"",
+      "modified": "Tue, 22 Sep 2026 16:05:27 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-mz8FxTZ+BJ439PJ1AWR4GxVRUCI\""
+      "etag": "W/\"84d6-lkFss/mDUZrBK9300S6Z8P/ju98\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 22 Sep 2026 12:00:15 GMT"
+      "modified": "Tue, 22 Sep 2026 16:50:22 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-22 12:00",
+    "ultima_pasada_utc": "2026-09-22 16:50",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
