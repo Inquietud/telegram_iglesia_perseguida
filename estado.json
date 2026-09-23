@@ -799,7 +799,11 @@
     "https://www.aciprensa.com/noticias/128655/documental-producido-por-el-vaticano-nominacion-premios-oscar": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128653/nuevo-nuncio-apostolico-angelo-accattino-llego-a-colombia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128651/papa-leon-xiv-abusos-lourdes": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128649/seminario-menor-getafe-cuidar-vocacion": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128649/seminario-menor-getafe-cuidar-vocacion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128661/espada-san-miguel-arcangel-visitara-paraguay": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128659/senor-milagros-2026-procesiones-lima": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128657/gobierno-argentino-feriado-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128663/iglesia-colombia-pide-dialogo-para-superar-violencia-santa-marta": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -811,24 +815,24 @@
       "modified": "Wed, 23 Sep 2026 14:53:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"89402fee2ebf478fd870ec8224c268c6\"",
-      "modified": "Wed, 23 Sep 2026 10:29:25 GMT"
+      "etag": "\"b66c5eb9508c2154b9facd7e48bfd19b\"",
+      "modified": "Wed, 23 Sep 2026 16:26:28 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-aTpr+Cjj0cloKNxVhHGqNBePlP0\""
+      "etag": "W/\"84d6-go8f10OCW1EZnE4RQCIq6XuJrV4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 23 Sep 2026 16:06:42 GMT"
+      "modified": "Wed, 23 Sep 2026 19:42:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-23 16:06",
+    "ultima_pasada_utc": "2026-09-23 19:42",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -837,6 +841,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
