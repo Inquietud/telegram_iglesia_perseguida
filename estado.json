@@ -808,7 +808,15 @@
     "https://www.aciprensa.com/noticias/128665/salette-180-anos-aparicion-virgen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128673/madre-de-china-una-exposicion-mariana-que-asombra-a-lima-en-septiembre": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128671/sacerdote-libro-humano-cerebro-patas": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128667/monaguillo-mexicano-francia-espera-esperanza": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128667/monaguillo-mexicano-francia-espera-esperanza": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128689/presidente-universidad-catolica-ia-salud-mental": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128687/programa-catolico-ayuda-hijos-padres-divorciados": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128685/primer-ministro-hungaro-papa-cardenal": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128683/sri-lanka-condena-15-atentados-iglesias": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128681/obispo-bautizado-fulton-sheen-legado": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128679/rise-up-pelicula-apostolado-sanacion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128675/tres-papas-que-visitaron-lourdes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128677/el-papa-urge-a-actuar-contra-el-cambio-climatico-antes-de-que-la-catastrofe-ya-haya-ocurrido": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -827,17 +835,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-dibLqpXqpnNk5ryQ19My99MjM5U\""
+      "etag": "W/\"84d6-bZXlwFrLsCj7+JJ1TRE2TwLU4f0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 24 Sep 2026 10:32:54 GMT"
+      "modified": "Thu, 24 Sep 2026 15:29:35 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-24 10:32",
+    "ultima_pasada_utc": "2026-09-24 15:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
