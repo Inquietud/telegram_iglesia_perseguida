@@ -816,7 +816,14 @@
     "https://www.aciprensa.com/noticias/128681/obispo-bautizado-fulton-sheen-legado": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128679/rise-up-pelicula-apostolado-sanacion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128675/tres-papas-que-visitaron-lourdes": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128677/el-papa-urge-a-actuar-contra-el-cambio-climatico-antes-de-que-la-catastrofe-ya-haya-ocurrido": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128677/el-papa-urge-a-actuar-contra-el-cambio-climatico-antes-de-que-la-catastrofe-ya-haya-ocurrido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128703/ultimo-llamado-maria-medjugorje-latinoamerica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128701/papa-leon-xiv-sacerdote-consejo-de-europa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128699/liberan-a-samuel-adrian-en-colombia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128697/argentina-papa-leon-xiv-cancion-oficial": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128695/obispo-barron-habla-sobre-fulton-sheen": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128693/encuesta-revela-control-migratorio-en-escuelas-y-tribunales-estados-unidos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128691/treinta-seminaristas-y-sacerdotes-chinos-estudiaron-en-europa-con-becas-de-formacion-sacerdotal": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -828,24 +835,24 @@
       "modified": "Wed, 23 Sep 2026 14:53:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b66c5eb9508c2154b9facd7e48bfd19b\"",
-      "modified": "Wed, 23 Sep 2026 16:26:28 GMT"
+      "etag": "\"5e25208493643b37966e0b2af5d6bd26\"",
+      "modified": "Thu, 24 Sep 2026 15:59:15 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-bZXlwFrLsCj7+JJ1TRE2TwLU4f0\""
+      "etag": "W/\"84d6-g0ZPaT1DxuxD/P+s1eJJXQYOk88\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 24 Sep 2026 15:29:35 GMT"
+      "modified": "Thu, 24 Sep 2026 19:29:20 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-24 15:29",
+    "ultima_pasada_utc": "2026-09-24 19:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
