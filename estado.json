@@ -823,7 +823,10 @@
     "https://www.aciprensa.com/noticias/128697/argentina-papa-leon-xiv-cancion-oficial": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128695/obispo-barron-habla-sobre-fulton-sheen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128693/encuesta-revela-control-migratorio-en-escuelas-y-tribunales-estados-unidos": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128691/treinta-seminaristas-y-sacerdotes-chinos-estudiaron-en-europa-con-becas-de-formacion-sacerdotal": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128691/treinta-seminaristas-y-sacerdotes-chinos-estudiaron-en-europa-con-becas-de-formacion-sacerdotal": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128709/terremotos-venezuela-caritas-respuesta-victimas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128707/obispos-oposicion-venezuela-dialogo-chavismo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128705/fulton-sheen-ya-es-beato": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -842,17 +845,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-g0ZPaT1DxuxD/P+s1eJJXQYOk88\""
+      "etag": "W/\"84d6-7ukKj7WB4YLYsnPBaowiLRyrnAM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 24 Sep 2026 19:29:20 GMT"
+      "modified": "Thu, 24 Sep 2026 22:42:56 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-24 19:29",
+    "ultima_pasada_utc": "2026-09-24 22:42",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
