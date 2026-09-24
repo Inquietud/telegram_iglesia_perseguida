@@ -807,7 +807,8 @@
     "https://www.aciprensa.com/noticias/128669/arzobispo-mexicano-hora-santa-carceles": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128665/salette-180-anos-aparicion-virgen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128673/madre-de-china-una-exposicion-mariana-que-asombra-a-lima-en-septiembre": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128671/sacerdote-libro-humano-cerebro-patas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128671/sacerdote-libro-humano-cerebro-patas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128667/monaguillo-mexicano-francia-espera-esperanza": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -826,17 +827,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-wH8RIoJSrOu0cD2G/1Wsblj2lho\""
+      "etag": "W/\"84d6-Nce5mV0zu7iRwZ758n85lBzz4oM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 24 Sep 2026 00:50:03 GMT"
+      "modified": "Thu, 24 Sep 2026 05:45:14 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-24 00:50",
+    "ultima_pasada_utc": "2026-09-24 05:45",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
