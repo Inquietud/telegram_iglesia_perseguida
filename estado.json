@@ -826,7 +826,10 @@
     "https://www.aciprensa.com/noticias/128691/treinta-seminaristas-y-sacerdotes-chinos-estudiaron-en-europa-con-becas-de-formacion-sacerdotal": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128709/terremotos-venezuela-caritas-respuesta-victimas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128707/obispos-oposicion-venezuela-dialogo-chavismo": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128705/fulton-sheen-ya-es-beato": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128705/fulton-sheen-ya-es-beato": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128717/stade-de-france-recibira-al-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128713/fallece-arzobispo-primado-bolivia-centellas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128711/abelardo-de-la-espriella-estado-laico-y-libertad-religiosa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -845,17 +848,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-7ukKj7WB4YLYsnPBaowiLRyrnAM\""
+      "etag": "W/\"84d6-ox8FsaFs/2dyfFFgv8tQk5zTUj4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 24 Sep 2026 22:42:56 GMT"
+      "modified": "Fri, 25 Sep 2026 00:55:43 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-24 22:42",
+    "ultima_pasada_utc": "2026-09-25 00:55",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
