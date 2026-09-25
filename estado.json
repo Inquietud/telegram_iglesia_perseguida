@@ -833,7 +833,9 @@
     "https://www.aciprensa.com/noticias/128723/reliquia-tunica-cristo-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128721/12-datos-viaje-papa-leon-xiv-francia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128719/viaje-del-papa-leon-xiv-a-francia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128715/40-dias-vida-santo-domingo": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128715/40-dias-vida-santo-domingo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128727/discurso-leon-xiv-autoridades-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128725/papa-leon-xiv-paris-francia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -845,24 +847,24 @@
       "modified": "Wed, 23 Sep 2026 14:53:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5e25208493643b37966e0b2af5d6bd26\"",
-      "modified": "Thu, 24 Sep 2026 15:59:15 GMT"
+      "etag": "\"9d02ae46ba31d6eabe7829bd8992f3cc\"",
+      "modified": "Fri, 25 Sep 2026 11:10:19 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-aRVGtN9oF9mDL6s1WnhmaOs7VSU\""
+      "etag": "W/\"84d6-s2O7WfubO1XV8W+51IA8p30/sC4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 25 Sep 2026 06:03:52 GMT"
+      "modified": "Fri, 25 Sep 2026 11:45:51 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-25 06:03",
+    "ultima_pasada_utc": "2026-09-25 11:45",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
