@@ -839,7 +839,13 @@
     "https://www.aciprensa.com/noticias/128735/leon-xiv-advierte-corrupcion-cultura": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128733/discurso-leon-xiv-unesco": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128731/sigue-por-ewtn-los-momentos-destacados-del-viaje-del-papa-leon-xiv-a-francia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128729/leon-xiv-francia-proteger-vida": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128729/leon-xiv-francia-proteger-vida": "descartado_palabras",
+    "https://persecution.org/?p=4495947": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128743/anulan-fallo-que-ordeno-a-de-la-espriella-disculparse-por-acto-religioso": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128741/papa-leon-xiv-reza-en-catedral-notre-dame-paris-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128739/papa-leon-xiv-visitara-lujan-pueblo-argentino": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128737/homilia-papa-leon-xiv-notre-dame-francia": "descartado_palabras",
+    "https://persecution.org/?p=4495953": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -847,8 +853,8 @@
       "modified": "Tue, 22 Sep 2026 17:52:16 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"07350f6714b533edcdf5e8b93e00029a\"",
-      "modified": "Wed, 23 Sep 2026 14:53:25 GMT"
+      "etag": "\"1c5614345817fb7820747bb75f456102\"",
+      "modified": "Fri, 25 Sep 2026 17:32:23 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"7f3bdedf8ba42a6d89396600022dd730\"",
@@ -858,17 +864,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-zm1OL3glZcxh9dySTi8ulWqCqqk\""
+      "etag": "W/\"84d6-O/WcjRATDplN+IUBIhoM+S63dx0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 25 Sep 2026 15:57:50 GMT"
+      "modified": "Fri, 25 Sep 2026 19:59:12 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-25 15:57",
+    "ultima_pasada_utc": "2026-09-25 19:59",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
