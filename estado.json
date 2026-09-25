@@ -829,7 +829,11 @@
     "https://www.aciprensa.com/noticias/128705/fulton-sheen-ya-es-beato": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128717/stade-de-france-recibira-al-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128713/fallece-arzobispo-primado-bolivia-centellas": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128711/abelardo-de-la-espriella-estado-laico-y-libertad-religiosa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128711/abelardo-de-la-espriella-estado-laico-y-libertad-religiosa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128723/reliquia-tunica-cristo-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128721/12-datos-viaje-papa-leon-xiv-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128719/viaje-del-papa-leon-xiv-a-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128715/40-dias-vida-santo-domingo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -848,17 +852,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-ox8FsaFs/2dyfFFgv8tQk5zTUj4\""
+      "etag": "W/\"84d6-aRVGtN9oF9mDL6s1WnhmaOs7VSU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 25 Sep 2026 00:55:43 GMT"
+      "modified": "Fri, 25 Sep 2026 06:03:52 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-25 00:55",
+    "ultima_pasada_utc": "2026-09-25 06:03",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
