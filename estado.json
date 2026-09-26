@@ -857,7 +857,11 @@
     "https://www.aciprensa.com/noticias/128759/inscripcion-islamica-el-greco-san-francisco": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128761/150000-almas-bienvenida-papa-leon-lourdes": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128757/iglesias-centroamerica-fronteras-ninos-migrantes": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128763/asesinan-sacerdote-cuchillo-abadia-polonia": "procesado"
+    "https://www.aciprensa.com/noticias/128763/asesinan-sacerdote-cuchillo-abadia-polonia": "procesado",
+    "https://www.aciprensa.com/noticias/128771/discurso-papa-leon-xiv-institut-catholique": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128769/leon-xiv-escucha-migrantes-paris": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128767/discurso-papa-maison-bakhita-inmigrantes-paris": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128765/leon-xiv-santuario-mariano-fulton-sheen": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -876,17 +880,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-gdD0j5m+GasT1ABmxTtwRw57KqY\""
+      "etag": "W/\"84d6-1ZUrDf508Qp7kXa67nj5scwCawM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 26 Sep 2026 06:41:12 GMT"
+      "modified": "Sat, 26 Sep 2026 11:51:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-26 06:41",
+    "ultima_pasada_utc": "2026-09-26 11:51",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
