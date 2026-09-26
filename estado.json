@@ -863,7 +863,10 @@
     "https://www.aciprensa.com/noticias/128767/discurso-papa-maison-bakhita-inmigrantes-paris": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128765/leon-xiv-santuario-mariano-fulton-sheen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128775/papa-crecimiento-catolicos-francia-secularizada": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128773/homilia-misa-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128773/homilia-misa-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128783/papa-leon-lourdes-gobernantes-sabios": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128781/misa-papa-leon-xiv-plaza-de-la-concordia-paris-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128777/parejas-catolicas-iglesia-matrimonios-felices": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -882,17 +885,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-1zVSJ3SG1Kf8LM1XaZ3Iw0qqBPw\""
+      "etag": "W/\"84d6-stw2yGJUUN5SJqVM9v/ucLSoJuU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 26 Sep 2026 15:43:30 GMT"
+      "modified": "Sat, 26 Sep 2026 18:44:45 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-26 15:43",
+    "ultima_pasada_utc": "2026-09-26 18:45",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
