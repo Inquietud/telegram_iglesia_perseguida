@@ -873,7 +873,8 @@
     "https://www.aciprensa.com/noticias/128795/beato-fulton-sheen-canonizado-pronto": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128793/corte-idh-nicaragua-obispo-mata": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128791/acapulco-alertan-ordenaciones-iglesia-catolica": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128789/peoria-parroquia-beato-fulton-sheen": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128789/peoria-parroquia-beato-fulton-sheen": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128799/leon-xiv-lourdes-sanar-heridas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -892,17 +893,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-P8y0cPXzpFbSTfquxxwxu6oWnH4\""
+      "etag": "W/\"84d6-mEryX5WJjiJv0krEdrZC5MxGkRE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 27 Sep 2026 05:07:53 GMT"
+      "modified": "Sun, 27 Sep 2026 10:33:29 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-27 05:07",
+    "ultima_pasada_utc": "2026-09-27 10:33",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
