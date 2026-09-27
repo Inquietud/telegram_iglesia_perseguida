@@ -877,7 +877,9 @@
     "https://www.aciprensa.com/noticias/128799/leon-xiv-lourdes-sanar-heridas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128803/discurso-papa-leon-xiv-obispos-francia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128797/papa-migrantes-numeros-experta-vaticana": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128801/homilia-papa-leon-xiv-lourdes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128801/homilia-papa-leon-xiv-lourdes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128807/discurso-papa-leon-xiv-enfermos-acompanantes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128805/matar-enfermos-falsa-compasion-papa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -896,17 +898,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-qWCKKP23K3CVBEHDRnIFdgzd3tU\""
+      "etag": "W/\"84d6-nLqT9dLDFSdJXcI0VGe0vV5Rmjw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 27 Sep 2026 15:17:40 GMT"
+      "modified": "Sun, 27 Sep 2026 19:05:37 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-27 15:17",
+    "ultima_pasada_utc": "2026-09-27 19:05",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
