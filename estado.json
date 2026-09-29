@@ -916,7 +916,10 @@
     "https://www.aciprensa.com/noticias/128867/vaticano-confirma-abusos-de-carlos-miguel-buela-fundador-instituto-del-verbo-encarnado": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128865/congreso-hispanidad-fe-isabel-catolica": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128859/visita-papa-leon-xiv-francia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128861/tema-61-jornada-mundial-comunicaciones": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128861/tema-61-jornada-mundial-comunicaciones": "descartado_palabras",
+    "https://persecution.org/?p=4495983": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128879/dia-oracion-chile-virgen-carmen": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128877/muere-repentinamente-obispo-hondureno-roma": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -924,8 +927,8 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"547c118474c24389428a83ecdbc5da4e\"",
-      "modified": "Tue, 29 Sep 2026 15:02:30 GMT"
+      "etag": "\"ac9274d326eb1bd79cb1cb1063eeccc2\"",
+      "modified": "Tue, 29 Sep 2026 20:30:11 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a3c2d9def19008fd77d94dc117081736\"",
@@ -935,17 +938,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-urfGWoXlZ9x3M+ig5529agpmxEo\""
+      "etag": "W/\"84d7-JqSiKKN/B6STRW4jXdMfHngbf74\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 29 Sep 2026 18:25:08 GMT"
+      "modified": "Tue, 29 Sep 2026 22:32:11 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-29 18:24",
+    "ultima_pasada_utc": "2026-09-29 22:31",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
