@@ -896,7 +896,14 @@
     "https://www.aciprensa.com/noticias/128837/papa-leon-xiv-rosario-paz": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128835/papa-leon-xiv-heridas-europa-luz": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128833/homilia-papa-leon-xiv-metz": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128831/sacerdote-herido-polonia-perdona-agresor": "procesado"
+    "https://www.aciprensa.com/noticias/128831/sacerdote-herido-polonia-perdona-agresor": "procesado",
+    "https://persecution.org/?p=4495972": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128847/viaje-papa-leon-xiv-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128845/rueda-prensa-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128839/tepeyac-leadership-iniciative-curso-formacion-lideres-catolicos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128843/fotos-ultimo-dia-papa-leon-xiv-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128841/papa-leon-xiv-peligros-inteligencia-artificial": "descartado_palabras",
+    "https://persecution.org/?p=4495967": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -904,8 +911,8 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"9f66f5aa57f288b909f82824858567b2\"",
-      "modified": "Mon, 28 Sep 2026 19:06:27 GMT"
+      "etag": "\"152ba857ec3e8c83b44ed3d0cded157f\"",
+      "modified": "Mon, 28 Sep 2026 21:22:30 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"baa3839b39b594c009b81ec4e592eeca\"",
@@ -915,17 +922,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-4xu8TpF8TfLOZrOjhA1qDwPm/4Q\""
+      "etag": "W/\"84d7-htjr/GvSZygwZLZ/uLWMdfVQCuc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 28 Sep 2026 20:18:24 GMT"
+      "modified": "Tue, 29 Sep 2026 00:27:28 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-28 20:18",
+    "ultima_pasada_utc": "2026-09-29 00:27",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
