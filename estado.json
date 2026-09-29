@@ -908,7 +908,15 @@
     "https://www.aciprensa.com/noticias/128851/lideres-catolicos-inmigrantes-gobierno-deportaciones": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128849/leon-xiv-misa-amazonia-peru": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128857/jack-valero-opus-dei-gobierno-acompanar": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128855/leon-xiv-nombra-obispos-mazatlan-puerto-escondido": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128855/leon-xiv-nombra-obispos-mazatlan-puerto-escondido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128875/papa-leon-xiv-obispo-trois-rivieres": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128873/cardenal-parolin-onu-legitima-defensa-no-justifica-carrera-armamentista": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128871/bolivia-muerte-arzobispo-administrador-apostolico-sucre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128869/cardenal-zuppi-viaje-rusia-liberacion-de-prisioneros-ucranianos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128867/vaticano-confirma-abusos-de-carlos-miguel-buela-fundador-instituto-del-verbo-encarnado": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128865/congreso-hispanidad-fe-isabel-catolica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128859/visita-papa-leon-xiv-francia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128861/tema-61-jornada-mundial-comunicaciones": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -916,28 +924,28 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"152ba857ec3e8c83b44ed3d0cded157f\"",
-      "modified": "Mon, 28 Sep 2026 21:22:30 GMT"
+      "etag": "\"547c118474c24389428a83ecdbc5da4e\"",
+      "modified": "Tue, 29 Sep 2026 15:02:30 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"ac1693470b6d88216dad4c3975ad8645\"",
-      "modified": "Tue, 29 Sep 2026 11:26:33 GMT"
+      "etag": "\"a3c2d9def19008fd77d94dc117081736\"",
+      "modified": "Tue, 29 Sep 2026 14:26:36 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-AIFdfEijdes7RUP0uoW0ewumyq0\""
+      "etag": "W/\"84d7-urfGWoXlZ9x3M+ig5529agpmxEo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 29 Sep 2026 12:50:19 GMT"
+      "modified": "Tue, 29 Sep 2026 18:25:08 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-29 12:50",
+    "ultima_pasada_utc": "2026-09-29 18:24",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
