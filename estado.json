@@ -930,7 +930,14 @@
     "https://www.aciprensa.com/noticias/128895/reconstruir-parroquia-dana-valencia-cruz-luz": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128893/leon-xiv-suplica-violencia-tigray": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128891/leon-xiv-clave-viaje-francia-renacimiento": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128889/texto-completo-catequesis-del-papa-leon-xiv-durante-la-audiencia-general": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128889/texto-completo-catequesis-del-papa-leon-xiv-durante-la-audiencia-general": "descartado_palabras",
+    "https://persecution.org/?p=4495987": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128911/episcopado-mexicano-investigar-fosa-ninos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128909/marcha-provida-guanajuato-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128907/papa-leon-xiv-monjas-dominicas-contemplativas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128905/documental-carlo-acutis-el-joven-santo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128903/iglesia-catolicos-y-politica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128901/misa-exequias-arzobispo-ricardo-centellas-bolivia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -938,28 +945,28 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ac9274d326eb1bd79cb1cb1063eeccc2\"",
-      "modified": "Tue, 29 Sep 2026 20:30:11 GMT"
+      "etag": "\"835210c1d7e04aabe54305f74e654fb2\"",
+      "modified": "Wed, 30 Sep 2026 18:29:42 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"dc51f987f162b88c0c422d09d81e48cb\"",
-      "modified": "Wed, 30 Sep 2026 11:44:10 GMT"
+      "etag": "\"67538ec947a9f8d41642052c35ff139e\"",
+      "modified": "Wed, 30 Sep 2026 14:33:10 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-80JE5KXNCoZZbmb6zGGv6k/T47w\""
+      "etag": "W/\"84d7-iPENH2aqF8Ok5jbQNsr8ou3MJis\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 30 Sep 2026 14:06:24 GMT"
+      "modified": "Wed, 30 Sep 2026 19:18:27 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-30 14:06",
+    "ultima_pasada_utc": "2026-09-30 19:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
