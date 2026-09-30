@@ -924,7 +924,13 @@
     "https://www.aciprensa.com/noticias/128881/terremotos-templo-vivo-compasion-obispo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/117739/un-dia-como-hoy-en-el-2023-francisco-creo-cardenal-al-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128885/march-for-life-verdad-2027": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128887/lucro-empresa-camino-santidad": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128887/lucro-empresa-camino-santidad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128899/reliquia-cuna-jesus-roma-decadas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128897/iglesia-catolica-premia-luis-fuente": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128895/reconstruir-parroquia-dana-valencia-cruz-luz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128893/leon-xiv-suplica-violencia-tigray": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128891/leon-xiv-clave-viaje-francia-renacimiento": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128889/texto-completo-catequesis-del-papa-leon-xiv-durante-la-audiencia-general": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -936,24 +942,24 @@
       "modified": "Tue, 29 Sep 2026 20:30:11 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"a3c2d9def19008fd77d94dc117081736\"",
-      "modified": "Tue, 29 Sep 2026 14:26:36 GMT"
+      "etag": "\"dc51f987f162b88c0c422d09d81e48cb\"",
+      "modified": "Wed, 30 Sep 2026 11:44:10 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-y5CzJJeRp/s2B3PwvLuvB0q2Ua0\""
+      "etag": "W/\"84d7-80JE5KXNCoZZbmb6zGGv6k/T47w\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 30 Sep 2026 07:23:15 GMT"
+      "modified": "Wed, 30 Sep 2026 14:06:24 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-30 07:23",
+    "ultima_pasada_utc": "2026-09-30 14:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
