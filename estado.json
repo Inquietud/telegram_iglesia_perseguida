@@ -937,7 +937,10 @@
     "https://www.aciprensa.com/noticias/128907/papa-leon-xiv-monjas-dominicas-contemplativas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128905/documental-carlo-acutis-el-joven-santo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128903/iglesia-catolicos-y-politica": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128901/misa-exequias-arzobispo-ricardo-centellas-bolivia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128901/misa-exequias-arzobispo-ricardo-centellas-bolivia": "descartado_palabras",
+    "https://persecution.org/?p=4495992": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128915/nuncio-papa-eucaristia-iglesia-ong": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128913/funcionario-vaticano-finanzas-necesitan-supervision": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -945,8 +948,8 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"835210c1d7e04aabe54305f74e654fb2\"",
-      "modified": "Wed, 30 Sep 2026 18:29:42 GMT"
+      "etag": "\"fa32b34bc136c447c8b56d968af4d855\"",
+      "modified": "Wed, 30 Sep 2026 20:15:11 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"67538ec947a9f8d41642052c35ff139e\"",
@@ -956,17 +959,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-iPENH2aqF8Ok5jbQNsr8ou3MJis\""
+      "etag": "W/\"84d7-mx39YCW8ogpoMY2DHk84uL9cgk0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 30 Sep 2026 19:18:27 GMT"
+      "modified": "Wed, 30 Sep 2026 23:05:48 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-30 19:18",
+    "ultima_pasada_utc": "2026-09-30 23:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
