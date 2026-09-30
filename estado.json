@@ -921,7 +921,10 @@
     "https://www.aciprensa.com/noticias/128879/dia-oracion-chile-virgen-carmen": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128877/muere-repentinamente-obispo-hondureno-roma": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128883/venezuela-octubre-misionero-domund-2026": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128881/terremotos-templo-vivo-compasion-obispo": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128881/terremotos-templo-vivo-compasion-obispo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/117739/un-dia-como-hoy-en-el-2023-francisco-creo-cardenal-al-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128885/march-for-life-verdad-2027": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128887/lucro-empresa-camino-santidad": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -940,17 +943,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-d2nhp6RzW3sKtmdszKfhQmtenUI\""
+      "etag": "W/\"84d7-y5CzJJeRp/s2B3PwvLuvB0q2Ua0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 30 Sep 2026 01:31:26 GMT"
+      "modified": "Wed, 30 Sep 2026 07:23:15 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-30 01:31",
+    "ultima_pasada_utc": "2026-09-30 07:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
