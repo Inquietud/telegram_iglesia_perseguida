@@ -940,7 +940,9 @@
     "https://www.aciprensa.com/noticias/128901/misa-exequias-arzobispo-ricardo-centellas-bolivia": "descartado_palabras",
     "https://persecution.org/?p=4495992": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128915/nuncio-papa-eucaristia-iglesia-ong": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128913/funcionario-vaticano-finanzas-necesitan-supervision": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128913/funcionario-vaticano-finanzas-necesitan-supervision": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128919/leon-xiv-medalla-cientifica-harvard-catolicismo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128917/caracteristicas-de-un-sacerdote-exorcista": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -959,17 +961,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-mx39YCW8ogpoMY2DHk84uL9cgk0\""
+      "etag": "W/\"84d7-CdKUcYRPDJDOTKRt746MRqC0IY0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 30 Sep 2026 23:05:48 GMT"
+      "modified": "Thu, 01 Oct 2026 02:08:38 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-09-30 23:06",
+    "ultima_pasada_utc": "2026-10-01 02:08",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
