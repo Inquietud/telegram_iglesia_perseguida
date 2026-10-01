@@ -943,7 +943,16 @@
     "https://www.aciprensa.com/noticias/128913/funcionario-vaticano-finanzas-necesitan-supervision": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128919/leon-xiv-medalla-cientifica-harvard-catolicismo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128917/caracteristicas-de-un-sacerdote-exorcista": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128921/sinodo-propone-reformar-el-derecho-canonico-para-dar-mas-peso-a-laicos-y-mujeres-en-la-iglesia": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128921/sinodo-propone-reformar-el-derecho-canonico-para-dar-mas-peso-a-laicos-y-mujeres-en-la-iglesia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128937/guzman-carriquiry-analiza-visita-de-papa-leon-xiv-a-uruguay-argentina-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128935/siete-misioneros-espanoles-togo-domund": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128933/papa-rezar-pastoral-salud-mental": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128931/santos-fiestas-catolicas-octubre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128929/leon-xiv-superar-modelo-consumista": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128927/barron-roma-catolicismo-ideales-eeuu": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128925/conferencia-episcopal-reconstruira-seminario-pereira": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/66766/cada-1-de-octubre-inicia-el-mes-del-santo-rosario": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128923/sacerdotes-abusaron-ninos-diocesis-massachusetts": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -955,24 +964,24 @@
       "modified": "Wed, 30 Sep 2026 20:15:11 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"67538ec947a9f8d41642052c35ff139e\"",
-      "modified": "Wed, 30 Sep 2026 14:33:10 GMT"
+      "etag": "\"b790f84e8760eeaca45668c3f8066f48\"",
+      "modified": "Thu, 01 Oct 2026 16:10:40 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-nkDOA0hnlesJwKQy6T6syrlV6Vs\""
+      "etag": "W/\"84d7-4TfPBBB5hiOrGILc3+biUbY9Tnc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 01 Oct 2026 08:58:21 GMT"
+      "modified": "Thu, 01 Oct 2026 16:19:42 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-01 08:58",
+    "ultima_pasada_utc": "2026-10-01 16:19",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
