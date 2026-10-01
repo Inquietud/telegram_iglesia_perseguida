@@ -942,7 +942,8 @@
     "https://www.aciprensa.com/noticias/128915/nuncio-papa-eucaristia-iglesia-ong": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128913/funcionario-vaticano-finanzas-necesitan-supervision": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128919/leon-xiv-medalla-cientifica-harvard-catolicismo": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128917/caracteristicas-de-un-sacerdote-exorcista": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128917/caracteristicas-de-un-sacerdote-exorcista": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128921/sinodo-propone-reformar-el-derecho-canonico-para-dar-mas-peso-a-laicos-y-mujeres-en-la-iglesia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -961,17 +962,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-CdKUcYRPDJDOTKRt746MRqC0IY0\""
+      "etag": "W/\"84d7-nkDOA0hnlesJwKQy6T6syrlV6Vs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 01 Oct 2026 02:08:38 GMT"
+      "modified": "Thu, 01 Oct 2026 08:58:21 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-01 02:08",
+    "ultima_pasada_utc": "2026-10-01 08:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
