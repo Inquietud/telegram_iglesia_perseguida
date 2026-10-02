@@ -964,7 +964,11 @@
     "https://www.aciprensa.com/noticias/128953/millon-ninos-rezaran-rosario-venezuela": "descartado_palabras",
     "https://persecution.org/?p=4496003": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128947/cuba-santuario-virgen-caridad-del-cobre-hostias": "descartado_palabras",
-    "https://persecution.org/?p=4496010": "procesado"
+    "https://persecution.org/?p=4496010": "procesado",
+    "https://www.aciprensa.com/noticias/128963/leon-xiv-artistas-alianza-ia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128961/obispos-eeuu-votantes-catolicos-fe-politica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128959/encomiendan-san-miguel-arcangel-policia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128957/grupo-catolico-condena-ejecucion-christa-pike": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -976,24 +980,24 @@
       "modified": "Fri, 02 Oct 2026 05:10:54 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b790f84e8760eeaca45668c3f8066f48\"",
-      "modified": "Thu, 01 Oct 2026 16:10:40 GMT"
+      "etag": "\"3c751477d002499fdc17dcee9341c06c\"",
+      "modified": "Fri, 02 Oct 2026 09:08:07 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-K9kgdt7Hm7u1eIcptq/egJ2HU3k\""
+      "etag": "W/\"84d7-S8KQp/vjULdJAgYcsAA9m/CbkdY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 02 Oct 2026 06:29:45 GMT"
+      "modified": "Fri, 02 Oct 2026 13:06:27 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-02 06:29",
+    "ultima_pasada_utc": "2026-10-02 13:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
