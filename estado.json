@@ -961,7 +961,10 @@
     "https://www.aciprensa.com/noticias/128939/union-europea-debate-eliminacion-de-registros-bautismales": "descartado_palabras",
     "https://www.aciprensa.com/noticias/117903/con-esta-campana-virtual-puedes-convertirte-en-un-misionero-del-rosario-en-octubre": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128955/artista-argentina-espera-papa-leon": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128953/millon-ninos-rezaran-rosario-venezuela": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128953/millon-ninos-rezaran-rosario-venezuela": "descartado_palabras",
+    "https://persecution.org/?p=4496003": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128947/cuba-santuario-virgen-caridad-del-cobre-hostias": "descartado_palabras",
+    "https://persecution.org/?p=4496010": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -969,8 +972,8 @@
       "modified": "Mon, 28 Sep 2026 17:57:57 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"fa32b34bc136c447c8b56d968af4d855\"",
-      "modified": "Wed, 30 Sep 2026 20:15:11 GMT"
+      "etag": "\"7cc61a1d8afd75151f0df2d2223a7668\"",
+      "modified": "Fri, 02 Oct 2026 05:10:54 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"b790f84e8760eeaca45668c3f8066f48\"",
@@ -980,17 +983,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-c8tK2CSWuR9YvBEgl5sJgCkfLJM\""
+      "etag": "W/\"84d7-K9kgdt7Hm7u1eIcptq/egJ2HU3k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 02 Oct 2026 00:48:42 GMT"
+      "modified": "Fri, 02 Oct 2026 06:29:45 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-02 00:49",
+    "ultima_pasada_utc": "2026-10-02 06:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
