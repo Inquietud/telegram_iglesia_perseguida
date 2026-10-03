@@ -981,7 +981,11 @@
     "https://www.aciprensa.com/noticias/128979/hombres-mexico-calles-rezar-rosario": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128977/ebola-lecciones-africa-iglesia-virus": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128975/prelado-opus-dei-pide-fidelidad": "descartado_palabras",
-    "https://morningstarnews.org/?p=18423": "procesado"
+    "https://morningstarnews.org/?p=18423": "procesado",
+    "https://persecution.org/?p=4496016": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128991/toribio-leon-vidas-caminos-paralelos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128989/abuela-catequista-apostolado-evangelizar-nietos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128987/unirse-8-rosario-mundial-mater-fatima": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -989,8 +993,8 @@
       "modified": "Fri, 02 Oct 2026 20:00:13 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"7cc61a1d8afd75151f0df2d2223a7668\"",
-      "modified": "Fri, 02 Oct 2026 05:10:54 GMT"
+      "etag": "\"6ea53faf7c2233ff11b8083b384868c9\"",
+      "modified": "Fri, 02 Oct 2026 23:57:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"f83d3350411cf89f0ff51c18ec813fcc\"",
@@ -1000,17 +1004,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-+YGCFVcINTE+ib0j06j/uiQUr/U\""
+      "etag": "W/\"84d7-iCCFGcleISr13DPJvLSc8HU3g9I\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 02 Oct 2026 22:28:15 GMT"
+      "modified": "Sat, 03 Oct 2026 01:22:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-02 22:28",
+    "ultima_pasada_utc": "2026-10-03 01:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
