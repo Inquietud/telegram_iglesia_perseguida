@@ -986,7 +986,9 @@
     "https://www.aciprensa.com/noticias/128991/toribio-leon-vidas-caminos-paralelos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128989/abuela-catequista-apostolado-evangelizar-nietos": "descartado_palabras",
     "https://www.aciprensa.com/noticias/128987/unirse-8-rosario-mundial-mater-fatima": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/128993/pelicula-cristiada-regresa-cines-mexico": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/128993/pelicula-cristiada-regresa-cines-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128997/papa-nombra-gambetti-arzobispo-chieti-vasto": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/128995/iglesia-mexico-visita-leon-xiv": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1005,17 +1007,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-qKEafCKofegwt7sFoaTdY0luiD8\""
+      "etag": "W/\"84d7-fPePZZSbEqp8L8IAv6LFBW20hbc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 03 Oct 2026 12:21:49 GMT"
+      "modified": "Sat, 03 Oct 2026 16:34:46 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-03 12:21",
+    "ultima_pasada_utc": "2026-10-03 16:34",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
