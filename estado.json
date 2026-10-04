@@ -999,7 +999,9 @@
     "https://www.aciprensa.com/noticias/129009/leon-xiv-reivindica-el-legado-de-san-francisco-de-asis-en-el-octavo-centenario-de-su-muerte": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129015/buscan-cristo-filosofo-princeton-catolicismo": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129019/bebe-abortado-gana-demanda-abortista": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129017/notre-dame-premio-provida-dominicas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129017/notre-dame-premio-provida-dominicas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129021/seres-humanos-formando-obispo-ataque-secundaria": "procesado",
+    "https://persecution.org/?p=4496027": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1007,8 +1009,8 @@
       "modified": "Fri, 02 Oct 2026 20:00:13 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"78435c02ad8cce6679097814752136e5\"",
-      "modified": "Sun, 04 Oct 2026 04:57:39 GMT"
+      "etag": "\"9e62a8bb6661a6aeed4434cfddb609a7\"",
+      "modified": "Sun, 04 Oct 2026 23:02:52 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"f83d3350411cf89f0ff51c18ec813fcc\"",
@@ -1018,17 +1020,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-wbul9QpCMvMYYPMk397qb7RhpWY\""
+      "etag": "W/\"84d7-blhcAAqejzNgLosa/uT5etTRpdU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 04 Oct 2026 20:34:34 GMT"
+      "modified": "Sun, 04 Oct 2026 23:35:24 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-04 20:34",
+    "ultima_pasada_utc": "2026-10-04 23:35",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1037,6 +1039,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
