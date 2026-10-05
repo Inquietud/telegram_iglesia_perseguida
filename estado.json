@@ -1001,36 +1001,45 @@
     "https://www.aciprensa.com/noticias/129019/bebe-abortado-gana-demanda-abortista": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129017/notre-dame-premio-provida-dominicas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129021/seres-humanos-formando-obispo-ataque-secundaria": "procesado",
-    "https://persecution.org/?p=4496027": "procesado"
+    "https://persecution.org/?p=4496027": "procesado",
+    "https://morningstarnews.org/?p=18439": "descartado_palabras",
+    "https://persecution.org/?p=4496030": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129033/record-historico-lujan-peregrinos-madre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129031/expulsan-sacerdote-jesuita-abusar-menores": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129027/papa-leon-xiv-primer-ministro-eslovenia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129025/leon-xiv-dialogo-conflictos-laborales-ia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129023/iglesia-preocupada-eliminacion-registros-bautismales": "descartado_palabras",
+    "https://morningstarnews.org/?p=18428": "procesado",
+    "https://www.aciprensa.com/noticias/129029/jmj-2027-leon-xiv-corea": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"db06cd16457d6795f731f90d15c83332\"",
-      "modified": "Fri, 02 Oct 2026 20:00:13 GMT"
+      "etag": "W/\"fde16ca0d301f8828714fd2d024ae7a0\"",
+      "modified": "Mon, 05 Oct 2026 18:21:48 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"9e62a8bb6661a6aeed4434cfddb609a7\"",
-      "modified": "Sun, 04 Oct 2026 23:02:52 GMT"
+      "etag": "\"ef29b3b8fb8e04a962b745294569f0b1\"",
+      "modified": "Mon, 05 Oct 2026 16:34:44 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4f3a78053da6c2cfafaf7e0199793082\"",
-      "modified": "Mon, 05 Oct 2026 09:30:46 GMT"
+      "etag": "\"efbb910a36aa4bcf61338cd43f31eeff\"",
+      "modified": "Mon, 05 Oct 2026 16:06:44 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-Q+broyg6TGY1yNYoUHTPe8J/4bY\""
+      "etag": "W/\"84d7-thFJ55LtDubaWUduPCK37kHcK8g\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 05 Oct 2026 09:31:40 GMT"
+      "modified": "Mon, 05 Oct 2026 18:48:55 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-05 09:31",
+    "ultima_pasada_utc": "2026-10-05 18:49",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
