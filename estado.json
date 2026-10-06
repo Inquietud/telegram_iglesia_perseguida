@@ -1022,12 +1022,19 @@
     "https://www.aciprensa.com/noticias/129053/15-peregrinos-mueren-accidente-kenia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129051/vaticano-publicara-diario-personal-papa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129049/partidos-preferidos-catolicos-elecciones-anticipadas": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129047/el-cuadro-hecho-por-ninos-guatemaltecos-que-conmovio-al-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129047/el-cuadro-hecho-por-ninos-guatemaltecos-que-conmovio-al-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129063/presentan-web-redes-visita-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129061/munilla-razones-rezar-rosario-octubre": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129059/leon-xiv-volvera-por-tercera-vez-a-asis-para-participar-en-encuentro-intereligioso-por-la-paz": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129057/carrera-deportiva-basilica-guadalupe-cdmx": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129055/obispos-expertos-roma-pastoral-salud-mental": "descartado_palabras",
+    "https://morningstarnews.org/?p=18458": "procesado",
+    "https://www.aciprensa.com/noticias/129065/incendian-puerta-destruyen-imagenes-capilla": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"b09fbb8779f6b4d53b2ef9244c2d9d33\"",
-      "modified": "Mon, 05 Oct 2026 19:29:14 GMT"
+      "etag": "W/\"b53944688e5e25430d259e6fd929a308\"",
+      "modified": "Tue, 06 Oct 2026 18:49:03 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"b4d3da1e49a3c5e5897d1e0405ee36a6\"",
@@ -1041,17 +1048,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-jE5uUW0Pwn+QgwJo4EKCp4ZUB2A\""
+      "etag": "W/\"84d7-LUEa3Fo7esCViiw2JdOYArXEK9Y\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 06 Oct 2026 13:45:13 GMT"
+      "modified": "Tue, 06 Oct 2026 19:08:21 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-06 13:45",
+    "ultima_pasada_utc": "2026-10-06 19:08",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1060,6 +1067,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
