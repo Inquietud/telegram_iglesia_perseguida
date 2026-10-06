@@ -1010,16 +1010,23 @@
     "https://www.aciprensa.com/noticias/129025/leon-xiv-dialogo-conflictos-laborales-ia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129023/iglesia-preocupada-eliminacion-registros-bautismales": "descartado_palabras",
     "https://morningstarnews.org/?p=18428": "procesado",
-    "https://www.aciprensa.com/noticias/129029/jmj-2027-leon-xiv-corea": "procesado"
+    "https://www.aciprensa.com/noticias/129029/jmj-2027-leon-xiv-corea": "procesado",
+    "https://persecution.org/?p=4496035": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129043/tiranos-deseo-enfermizo-poder-obispo": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129041/10-anos-amoris-laetitia-ensenanzas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129039/800-motociclistas-chile-bendicion-ruedas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129037/premios-sheen-homenaje-madre-angelica": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129035/corazon-senor-milagros-papa-leon": "descartado_palabras",
+    "https://morningstarnews.org/?p=18448": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"fde16ca0d301f8828714fd2d024ae7a0\"",
-      "modified": "Mon, 05 Oct 2026 18:21:48 GMT"
+      "etag": "W/\"b09fbb8779f6b4d53b2ef9244c2d9d33\"",
+      "modified": "Mon, 05 Oct 2026 19:29:14 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ef29b3b8fb8e04a962b745294569f0b1\"",
-      "modified": "Mon, 05 Oct 2026 16:34:44 GMT"
+      "etag": "\"b4d3da1e49a3c5e5897d1e0405ee36a6\"",
+      "modified": "Mon, 05 Oct 2026 23:41:10 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"efbb910a36aa4bcf61338cd43f31eeff\"",
@@ -1029,17 +1036,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-thFJ55LtDubaWUduPCK37kHcK8g\""
+      "etag": "W/\"84d7-Eryp6LRu8jYZQzTmvLJWb52cawQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 05 Oct 2026 18:48:55 GMT"
+      "modified": "Tue, 06 Oct 2026 00:28:54 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-05 18:49",
+    "ultima_pasada_utc": "2026-10-06 00:28",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1048,6 +1055,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
