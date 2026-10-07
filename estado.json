@@ -1036,7 +1036,12 @@
     "https://morningstarnews.org/?p=18461": "procesado",
     "https://www.aciprensa.com/noticias/129073/santa-beatriz-silva-baul-tordesillas": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129071/beatificacion-ignacio-larranaga-talleres-oracion": "descartado_palabras",
-    "https://persecution.org/?p=4496049": "procesado"
+    "https://persecution.org/?p=4496049": "procesado",
+    "https://www.aciprensa.com/noticias/129083/diocesis-fedex-riesgos-mifepristona-estados-provida": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129081/auxilio-cristianos-letania-mariana-batalla-cristiandad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129079/congreso-catolico-inteligencia-artificial-hiperconexion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129077/papa-iglesia-mundo-positivo-evangelio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129075/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-constitucion-concicliar-gaudium-et-spes": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1044,28 +1049,28 @@
       "modified": "Tue, 06 Oct 2026 20:06:05 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ef64b02603d336e70363186ca38a696d\"",
-      "modified": "Tue, 06 Oct 2026 23:23:02 GMT"
+      "etag": "\"d6c2d362219927a73919f51da278c6d1\"",
+      "modified": "Wed, 07 Oct 2026 15:20:32 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"ed20476e7e03c0245380bda604194927\"",
-      "modified": "Tue, 06 Oct 2026 11:35:05 GMT"
+      "etag": "\"77e717d4a01f5f4564e6f2ed8934b0f3\"",
+      "modified": "Wed, 07 Oct 2026 10:03:34 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-nqDVBCKGa8Yx5vEENueS9p4j2Kg\""
+      "etag": "W/\"84d7-rHDj3Kxs3oEZ5YQKNICjDAfG2ZQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 07 Oct 2026 09:01:03 GMT"
+      "modified": "Wed, 07 Oct 2026 16:23:45 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-07 09:01",
+    "ultima_pasada_utc": "2026-10-07 16:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
