@@ -1041,16 +1041,23 @@
     "https://www.aciprensa.com/noticias/129081/auxilio-cristianos-letania-mariana-batalla-cristiandad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129079/congreso-catolico-inteligencia-artificial-hiperconexion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129077/papa-iglesia-mundo-positivo-evangelio": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129075/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-constitucion-concicliar-gaudium-et-spes": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129075/texto-completo-catequesis-del-papa-leon-xiv-sobre-la-constitucion-concicliar-gaudium-et-spes": "descartado_palabras",
+    "https://persecution.org/?p=4496069": "descartado_palabras",
+    "https://persecution.org/?p=4496062": "descartado_palabras",
+    "https://persecution.org/?p=4496056": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129087/elecciones-espana-paralizan-proyectos-iglesia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129085/el-papa-pide-a-los-obispos-valentia-para-aprender-de-las-familias-marcadas-por-la-dificultad": "descartado_palabras",
+    "https://morningstarnews.org/?p=18467": "procesado",
+    "https://morningstarnews.org/?p=18464": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"74b103d93b76372de3f69587da4156a1\"",
-      "modified": "Tue, 06 Oct 2026 20:06:05 GMT"
+      "etag": "W/\"0bb0868ac36979f6b0ffbf88508a98b6\"",
+      "modified": "Wed, 07 Oct 2026 18:38:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"d6c2d362219927a73919f51da278c6d1\"",
-      "modified": "Wed, 07 Oct 2026 15:20:32 GMT"
+      "etag": "W/\"64378d39f365c5a1343bd252e0a99631\"",
+      "modified": "Wed, 07 Oct 2026 21:15:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"77e717d4a01f5f4564e6f2ed8934b0f3\"",
@@ -1060,17 +1067,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-rHDj3Kxs3oEZ5YQKNICjDAfG2ZQ\""
+      "etag": "W/\"84d7-JOHQvPJvmoP3cEjGscKBUe0WXYA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 07 Oct 2026 16:23:45 GMT"
+      "modified": "Wed, 07 Oct 2026 21:28:17 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-07 16:23",
+    "ultima_pasada_utc": "2026-10-07 21:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1079,6 +1086,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
