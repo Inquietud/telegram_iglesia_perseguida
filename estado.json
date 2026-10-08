@@ -1053,12 +1053,15 @@
     "https://www.aciprensa.com/noticias/129097/canada-no-ampliara-suicidio-asistido": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129093/obispo-mexicano-responde-silenciar-iglesia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129089/exorcistas-posesion-musica-virgen-maria": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129095/arzobispo-dijon-oraciones-sacerdote-suicidio": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129095/arzobispo-dijon-oraciones-sacerdote-suicidio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129103/iglesia-espana-800-anos-virgen-cabeza": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129101/theophile-monaguillo-misa-papa-sueno": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129099/papa-misionero-peru-centenario-domund": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"0bb0868ac36979f6b0ffbf88508a98b6\"",
-      "modified": "Wed, 07 Oct 2026 18:38:51 GMT"
+      "etag": "W/\"ff62e28f565ed4676bbb3db8412f071d\"",
+      "modified": "Thu, 08 Oct 2026 13:38:37 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"64378d39f365c5a1343bd252e0a99631\"",
@@ -1072,17 +1075,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-xsGrVAjXuA/rFwC/p6gQ39M7U7I\""
+      "etag": "W/\"84d7-WmFtxbVdKAVcsh2lV+4EKA8JoMI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 08 Oct 2026 07:33:17 GMT"
+      "modified": "Thu, 08 Oct 2026 14:55:38 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-08 07:33",
+    "ultima_pasada_utc": "2026-10-08 14:55",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
