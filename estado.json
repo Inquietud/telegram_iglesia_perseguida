@@ -1056,26 +1056,33 @@
     "https://www.aciprensa.com/noticias/129095/arzobispo-dijon-oraciones-sacerdote-suicidio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129103/iglesia-espana-800-anos-virgen-cabeza": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129101/theophile-monaguillo-misa-papa-sueno": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129099/papa-misionero-peru-centenario-domund": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129099/papa-misionero-peru-centenario-domund": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129115/presos-esperan-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129113/experto-virgen-guadalupe-mision-apariciones": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129111/misa-papa-leon-xiv-universidades-pontificias": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129109/homilia-papa-leon-xiv-ano-academico-universidades-pontificias": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129107/leon-xiv-nombra-a-la-hna-mary-teresa-barron-nueva-presidenta-de-las-obras-misionales-pontificias": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129105/nuevo-comic-historia-cristiada-generaciones": "descartado_palabras",
+    "https://morningstarnews.org/?p=18472": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"ff62e28f565ed4676bbb3db8412f071d\"",
-      "modified": "Thu, 08 Oct 2026 13:38:37 GMT"
+      "etag": "W/\"8fd1e5c882dd0c5b065034e827c97c08\"",
+      "modified": "Thu, 08 Oct 2026 19:47:38 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"64378d39f365c5a1343bd252e0a99631\"",
       "modified": "Wed, 07 Oct 2026 21:15:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"77e717d4a01f5f4564e6f2ed8934b0f3\"",
-      "modified": "Wed, 07 Oct 2026 10:03:34 GMT"
+      "etag": "\"4112ca3846f0443324e9993d1162efdc\"",
+      "modified": "Thu, 08 Oct 2026 15:26:16 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-WmFtxbVdKAVcsh2lV+4EKA8JoMI\""
+      "etag": "W/\"84d7-R84cj+beXS9uXaiXS5AZZfKgIMc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 08 Oct 2026 14:55:38 GMT"
@@ -1085,7 +1092,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-08 14:55",
+    "ultima_pasada_utc": "2026-10-08 20:39",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1094,6 +1101,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
