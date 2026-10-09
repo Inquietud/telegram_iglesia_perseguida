@@ -1070,7 +1070,12 @@
     "https://www.aciprensa.com/noticias/129129/celebraran-mujer-vida-mexico-vulnerabilidad": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129127/vaticano-pide-en-la-onu-abolicion-de-pena-de-muerte": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129125/colombia-retorna-a-consenso-de-ginebra-declaracion-provida": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129123/obispo-mexicano-amenazas-muerte": "procesado"
+    "https://www.aciprensa.com/noticias/129123/obispo-mexicano-amenazas-muerte": "procesado",
+    "https://www.aciprensa.com/noticias/129139/cardenal-tagle-elegido-decano-colegio-cardenalicio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129137/obispos-eeuu-elegiran-secretario-comites": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129135/martires-rebeldes-congreso-roma-cristero": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129133/leon-xiv-congreso-internacional-infertilidad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129131/40-dias-vida-salva-2-vidas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1082,14 +1087,14 @@
       "modified": "Wed, 07 Oct 2026 21:15:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4112ca3846f0443324e9993d1162efdc\"",
-      "modified": "Thu, 08 Oct 2026 15:26:16 GMT"
+      "etag": "\"6cb93aeeedae29a8eae6776f3a50ab89\"",
+      "modified": "Fri, 09 Oct 2026 13:54:18 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-+MKNRt9uPRumSac1oeYh5MgTDM4\""
+      "etag": "W/\"84d7-81EtxsUg+Teo4+ONSKSXyUZ5P70\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 09 Oct 2026 06:48:21 GMT"
@@ -1099,7 +1104,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-09 06:48",
+    "ultima_pasada_utc": "2026-10-09 13:57",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
