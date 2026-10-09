@@ -1066,7 +1066,11 @@
     "https://morningstarnews.org/?p=18472": "procesado",
     "https://www.aciprensa.com/noticias/129119/enfermedad-santa-teresa-jose-gregorio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/90173/3-santos-del-mes-de-octubre-que-brillaron-por-su-amor-a-jesus-eucaristia": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129121/sacerdote-chileno-asalto-violento-casa-parroquial": "procesado"
+    "https://www.aciprensa.com/noticias/129121/sacerdote-chileno-asalto-violento-casa-parroquial": "procesado",
+    "https://www.aciprensa.com/noticias/129129/celebraran-mujer-vida-mexico-vulnerabilidad": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129127/vaticano-pide-en-la-onu-abolicion-de-pena-de-muerte": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129125/colombia-retorna-a-consenso-de-ginebra-declaracion-provida": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129123/obispo-mexicano-amenazas-muerte": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1085,17 +1089,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-ZD/v9jZtfZGOJKdoSLlNZlHRmpM\""
+      "etag": "W/\"84d7-+MKNRt9uPRumSac1oeYh5MgTDM4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 08 Oct 2026 14:55:38 GMT"
+      "modified": "Fri, 09 Oct 2026 06:48:21 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-09 00:41",
+    "ultima_pasada_utc": "2026-10-09 06:48",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
