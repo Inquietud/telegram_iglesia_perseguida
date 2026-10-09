@@ -1063,12 +1063,15 @@
     "https://www.aciprensa.com/noticias/129109/homilia-papa-leon-xiv-ano-academico-universidades-pontificias": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129107/leon-xiv-nombra-a-la-hna-mary-teresa-barron-nueva-presidenta-de-las-obras-misionales-pontificias": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129105/nuevo-comic-historia-cristiada-generaciones": "descartado_palabras",
-    "https://morningstarnews.org/?p=18472": "procesado"
+    "https://morningstarnews.org/?p=18472": "procesado",
+    "https://www.aciprensa.com/noticias/129119/enfermedad-santa-teresa-jose-gregorio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/90173/3-santos-del-mes-de-octubre-que-brillaron-por-su-amor-a-jesus-eucaristia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129121/sacerdote-chileno-asalto-violento-casa-parroquial": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"8fd1e5c882dd0c5b065034e827c97c08\"",
-      "modified": "Thu, 08 Oct 2026 19:47:38 GMT"
+      "etag": "W/\"3d501ea346d8dbbbcefaa5c9954a04bd\"",
+      "modified": "Thu, 08 Oct 2026 22:24:45 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"64378d39f365c5a1343bd252e0a99631\"",
@@ -1082,7 +1085,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-R84cj+beXS9uXaiXS5AZZfKgIMc\""
+      "etag": "W/\"84d7-ZD/v9jZtfZGOJKdoSLlNZlHRmpM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 08 Oct 2026 14:55:38 GMT"
@@ -1092,7 +1095,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-08 20:39",
+    "ultima_pasada_utc": "2026-10-09 00:41",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
