@@ -1075,36 +1075,44 @@
     "https://www.aciprensa.com/noticias/129137/obispos-eeuu-elegiran-secretario-comites": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129135/martires-rebeldes-congreso-roma-cristero": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129133/leon-xiv-congreso-internacional-infertilidad": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129131/40-dias-vida-salva-2-vidas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129131/40-dias-vida-salva-2-vidas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129153/obispos-leon-xiv-desaparecidos-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129151/fin-semana-colecta-nacional-caritas-chile": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129149/vaticano-proyecto-velas-santuario-lourdes": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129147/obispos-salvador-papa-romero-doctor": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129145/calendario-jornadas-colectas-espana": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129143/ewtn-nombra-a-ursula-murua-para-suceder-a-montse-alvarado-al-frente-de-ewtn-news": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129141/encuentro-sobre-amoris-laetitia-busca-respuestas-a-por-que-muchos-jovenes-no-quieren-casarse": "descartado_palabras",
+    "https://morningstarnews.org/?p=18477": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"3d501ea346d8dbbbcefaa5c9954a04bd\"",
-      "modified": "Thu, 08 Oct 2026 22:24:45 GMT"
+      "etag": "W/\"73c588a916d6a13d96a0b1dc677239dd\"",
+      "modified": "Fri, 09 Oct 2026 18:43:13 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "W/\"64378d39f365c5a1343bd252e0a99631\"",
       "modified": "Wed, 07 Oct 2026 21:15:59 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"6cb93aeeedae29a8eae6776f3a50ab89\"",
-      "modified": "Fri, 09 Oct 2026 13:54:18 GMT"
+      "etag": "\"306cc3b9ec4380123d38de286e7b5317\"",
+      "modified": "Fri, 09 Oct 2026 15:26:12 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-81EtxsUg+Teo4+ONSKSXyUZ5P70\""
+      "etag": "W/\"84d7-IZgjEjHOy4n3Lz9yquXVX1Wntwk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 09 Oct 2026 06:48:21 GMT"
+      "modified": "Fri, 09 Oct 2026 19:27:02 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-09 13:57",
+    "ultima_pasada_utc": "2026-10-09 19:27",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
