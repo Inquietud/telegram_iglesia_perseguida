@@ -1089,7 +1089,9 @@
     "https://www.aciprensa.com/noticias/129157/bialasik-asumio-gran-canciller-ucb": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129155/arzobispo-ulloa-mensaje-sismo-panama": "descartado_palabras",
     "https://persecution.org/?p=4496077": "procesado",
-    "https://morningstarnews.org/?p=18484": "procesado"
+    "https://morningstarnews.org/?p=18484": "procesado",
+    "https://www.aciprensa.com/noticias/129165/obispo-eeuu-belleza-virgen-guadalupe": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129163/papa-leon-xiv-obispos-honduras": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1108,7 +1110,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-bBFcPWxVX2DgbQMTIyXyKGBD7aA\""
+      "etag": "W/\"84d7-suDFnQ+PFqb5SJHaUvD9Lsc8bKo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 09 Oct 2026 23:26:36 GMT"
@@ -1118,7 +1120,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-09 23:26",
+    "ultima_pasada_utc": "2026-10-10 02:38",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
