@@ -1091,7 +1091,10 @@
     "https://persecution.org/?p=4496077": "procesado",
     "https://morningstarnews.org/?p=18484": "procesado",
     "https://www.aciprensa.com/noticias/129165/obispo-eeuu-belleza-virgen-guadalupe": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129163/papa-leon-xiv-obispos-honduras": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129163/papa-leon-xiv-obispos-honduras": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129171/papa-leon-xiv-nombra-arcipreste": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129169/jovenes-libano-siria-irak-educacion": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129167/papa-leon-arte-proclamacion-evangelica-belleza": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1110,7 +1113,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-ejr8xmtTC6P5Sc1BQikjUdlSmKE\""
+      "etag": "W/\"84d7-DHd2YWPokNs13oxodxSAFO+iCow\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Sat, 10 Oct 2026 09:03:40 GMT"
@@ -1120,7 +1123,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-10 15:19",
+    "ultima_pasada_utc": "2026-10-10 19:24",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
