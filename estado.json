@@ -1095,7 +1095,11 @@
     "https://www.aciprensa.com/noticias/129171/papa-leon-xiv-nombra-arcipreste": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129169/jovenes-libano-siria-irak-educacion": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129167/papa-leon-arte-proclamacion-evangelica-belleza": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129173/hermandad-senor-milagros-exige-disculpas": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129173/hermandad-senor-milagros-exige-disculpas": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129181/leon-xiv-llama-a-anunciar-el-evangelio-con-valentia-incluso-alli-donde-no-es-comprendido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129179/el-papa-leon-xiv-anuncia-que-sera-operado-en-los-proximos-dias-para-extirpar-un-nodulo-pulmonar": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129177/ninos-de-la-amazonia-boliviana-se-unen-al-rosario-con-el-papa-escuchan-a-dios-en-su-corazon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129175/el-papa-tacha-de-inadmisible-la-pena-de-muerte-tras-anuncio-de-ejecucion-publica-en-estados": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1114,7 +1118,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-FMEnXF/FLFO91EbXUPRpQ/9een8\""
+      "etag": "W/\"84d7-juMYkwxJ8/5Pzsfej+5zRi8w4ig\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Sun, 11 Oct 2026 07:48:24 GMT"
@@ -1124,7 +1128,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-11 07:48",
+    "ultima_pasada_utc": "2026-10-11 14:28",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
