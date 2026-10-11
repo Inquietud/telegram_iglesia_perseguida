@@ -1114,17 +1114,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-l/nQBEgyNitxfH+ib2vu+o2BQgc\""
+      "etag": "W/\"84d7-FMEnXF/FLFO91EbXUPRpQ/9een8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 11 Oct 2026 01:35:09 GMT"
+      "modified": "Sun, 11 Oct 2026 07:48:24 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-11 01:34",
+    "ultima_pasada_utc": "2026-10-11 07:48",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
