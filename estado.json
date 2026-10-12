@@ -1103,7 +1103,9 @@
     "https://www.aciprensa.com/noticias/129187/oracion-dios-salud-papa-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129185/obispos-catolicos-rezan-salud-papa": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129183/lo-que-se-sabemos-sobre-la-salud-del-papa": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129189/internas-penal-peru-munecos-papa-leon-xiv": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129189/internas-penal-peru-munecos-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129193/juan-pablo-leon-salud-pontifices": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129191/papa-leon-xiv-salud-cirugia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1122,7 +1124,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-+cN6g75xWKMa/NI1ysv5r7gYW7o\""
+      "etag": "W/\"84d7-sFctmo+dUyear8hUu6cTW39ELrc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Sun, 11 Oct 2026 19:08:30 GMT"
@@ -1132,7 +1134,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-11 22:56",
+    "ultima_pasada_utc": "2026-10-12 02:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
