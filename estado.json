@@ -1115,12 +1115,19 @@
     "https://www.aciprensa.com/noticias/129199/hicks-arzobispo-peregrino-santiago-jesus": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129197/vaticano-nodulo-pulmonar-leon-xiv": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129195/disputa-derechos-virgen-hakuna-tribunales": "descartado_palabras",
-    "https://morningstarnews.org/?p=18489": "procesado"
+    "https://morningstarnews.org/?p=18489": "procesado",
+    "https://www.aciprensa.com/noticias/129223/leon-xiv-vaticano-senor-milagros": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129221/oraciones-recuperacion-salud-obispo-puerto-escondido": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129219/palacio-libertad-buenos-aires-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129215/santo-domingo-nuevo-arzobispo-morel": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129213/leon-xiv-cruz-hilo-morado-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129217/enviado-papa-visita-culiacan-violencia": "procesado",
+    "https://morningstarnews.org/?p=18498": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"a6a938ebd066e446a413f5dbd892cb65\"",
-      "modified": "Mon, 12 Oct 2026 18:24:26 GMT"
+      "etag": "W/\"a2b120f9be3cfb0251173cb5ca1d09e0\"",
+      "modified": "Mon, 12 Oct 2026 21:07:09 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"cdea2e6dfe556f5ae0438dd983e53e95\"",
@@ -1134,7 +1141,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-z5j1a0HtkT3B2+0WUOz3T9jVQQc\""
+      "etag": "W/\"84d7-QTs87opo+OzsWZOhwQV//bJdTUc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Sun, 11 Oct 2026 19:08:30 GMT"
@@ -1144,7 +1151,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-12 19:16",
+    "ultima_pasada_utc": "2026-10-13 01:27",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1153,6 +1160,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
