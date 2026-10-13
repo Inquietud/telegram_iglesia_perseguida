@@ -1122,7 +1122,17 @@
     "https://www.aciprensa.com/noticias/129215/santo-domingo-nuevo-arzobispo-morel": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129213/leon-xiv-cruz-hilo-morado-peru": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129217/enviado-papa-visita-culiacan-violencia": "procesado",
-    "https://morningstarnews.org/?p=18498": "procesado"
+    "https://morningstarnews.org/?p=18498": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-vaticano-senor-milagros": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/oraciones-recuperacion-salud-obispo-puerto-escondido": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/palacio-libertad-buenos-aires-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/santo-domingo-nuevo-arzobispo-morel": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-cruz-hilo-morado-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-presidente-obispos-nicaragua": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-ecuador-oracion-misas-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/aci-prensa-convierte-ewtn-news-espanol": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-caridad-cristiana": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/enviado-papa-visita-culiacan-violencia": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1141,17 +1151,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-QTs87opo+OzsWZOhwQV//bJdTUc\""
+      "etag": "W/\"84d7-bFAL4muX35MY1onvsXYv3hc9QBc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 11 Oct 2026 19:08:30 GMT"
+      "modified": "Tue, 13 Oct 2026 08:13:57 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-13 01:27",
+    "ultima_pasada_utc": "2026-10-13 08:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1160,6 +1170,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
