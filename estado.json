@@ -1132,7 +1132,12 @@
     "https://www.ewtnnews.com/es/mundo/america/obispos-ecuador-oracion-misas-papa": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/aci-prensa-convierte-ewtn-news-espanol": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-caridad-cristiana": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/enviado-papa-visita-culiacan-violencia": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/enviado-papa-visita-culiacan-violencia": "procesado",
+    "https://www.aciprensa.com/noticias/129233/carino-fieles-arropa-papa-gemelli": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129231/maricarmen-carlos-mision-ad-gentes-domund": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129229/gemelli-leon-xiv-hospitalizado-roma-peru": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129227/iglesia-mexico-oracion-salud-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129225/cardenales-curia-elogian-transparencia-leon-xiv-operacion": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1140,18 +1145,18 @@
       "modified": "Mon, 12 Oct 2026 21:07:09 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"cdea2e6dfe556f5ae0438dd983e53e95\"",
-      "modified": "Fri, 09 Oct 2026 22:39:06 GMT"
+      "etag": "\"5e74a8ad8662d58bd995861953153762\"",
+      "modified": "Tue, 13 Oct 2026 15:46:52 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4404d953c601f15cd4ac0626f239a095\"",
-      "modified": "Mon, 12 Oct 2026 11:54:53 GMT"
+      "etag": "\"295571226ad9d4f5c99781ef75ef8c9b\"",
+      "modified": "Tue, 13 Oct 2026 16:02:16 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-bFAL4muX35MY1onvsXYv3hc9QBc\""
+      "etag": "W/\"84d7-4zXHNPAe6nljSFjcqrcPJ+/srG0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 13 Oct 2026 08:13:57 GMT"
@@ -1161,7 +1166,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-13 08:21",
+    "ultima_pasada_utc": "2026-10-13 16:14",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
