@@ -1137,26 +1137,37 @@
     "https://www.aciprensa.com/noticias/129231/maricarmen-carlos-mision-ad-gentes-domund": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129229/gemelli-leon-xiv-hospitalizado-roma-peru": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129227/iglesia-mexico-oracion-salud-papa": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129225/cardenales-curia-elogian-transparencia-leon-xiv-operacion": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129225/cardenales-curia-elogian-transparencia-leon-xiv-operacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/parlamento-uruguayo-reconocio-trayectoria-salesianos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/mensajes-estudiantes-usat-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-cancer-pulmon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-obispo-coadjutor-guatemala": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/doctor-carbone-medico-personal-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fotos-chiclayo-misa-salud-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/cirugia-leon-xiv-concluyo-positivamente": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-salud-cirugia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/carino-fieles-arropa-papa-gemelli": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/maricarmen-carlos-mision-ad-gentes-domund": "descartado_palabras",
+    "https://morningstarnews.org/?p=18503": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"a2b120f9be3cfb0251173cb5ca1d09e0\"",
-      "modified": "Mon, 12 Oct 2026 21:07:09 GMT"
+      "etag": "W/\"8534e40b3cd6b0d991d487a87f1499aa\"",
+      "modified": "Tue, 13 Oct 2026 21:19:39 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"5e74a8ad8662d58bd995861953153762\"",
       "modified": "Tue, 13 Oct 2026 15:46:52 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"295571226ad9d4f5c99781ef75ef8c9b\"",
-      "modified": "Tue, 13 Oct 2026 16:02:16 GMT"
+      "etag": "\"598c2cc3c63a38962c2937c855ecb249\"",
+      "modified": "Tue, 13 Oct 2026 16:25:04 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-4zXHNPAe6nljSFjcqrcPJ+/srG0\""
+      "etag": "W/\"84d7-Cs/GGjJUMqWD3yYXR03cs9Vivd0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 13 Oct 2026 08:13:57 GMT"
@@ -1166,7 +1177,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-13 16:14",
+    "ultima_pasada_utc": "2026-10-13 21:20",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
