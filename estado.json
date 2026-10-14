@@ -1148,7 +1148,16 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-salud-cirugia": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/carino-fieles-arropa-papa-gemelli": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/maricarmen-carlos-mision-ad-gentes-domund": "descartado_palabras",
-    "https://morningstarnews.org/?p=18503": "procesado"
+    "https://morningstarnews.org/?p=18503": "procesado",
+    "https://persecution.org/?p=4496125": "descartado_palabras",
+    "https://persecution.org/?p=4496122": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/oncologo-adenocarcinoma-recuperacion-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-mexico-papa-leon-cancer": "descartado_palabras",
+    "https://www.ewtnnews.com/es/libertad-religiosa/iglesia-recupera-memoria-cristiada-mexico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/quien-dirige-el-vaticano-mientras-el-papa-francisco-esta-hospitalizado": "descartado_palabras",
+    "https://persecution.org/?p=4496135": "procesado",
+    "https://persecution.org/?p=4496129": "procesado",
+    "https://persecution.org/?p=4496118": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1156,8 +1165,8 @@
       "modified": "Tue, 13 Oct 2026 21:19:39 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"5e74a8ad8662d58bd995861953153762\"",
-      "modified": "Tue, 13 Oct 2026 15:46:52 GMT"
+      "etag": "\"83a934a0ed87cb810d425fdee3e577de\"",
+      "modified": "Tue, 13 Oct 2026 23:05:51 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"598c2cc3c63a38962c2937c855ecb249\"",
@@ -1167,17 +1176,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-Cs/GGjJUMqWD3yYXR03cs9Vivd0\""
+      "etag": "W/\"84d6-gIYyjyqvjsNbD69vrYg5emY1LMc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 13 Oct 2026 08:13:57 GMT"
+      "modified": "Wed, 14 Oct 2026 00:27:08 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-13 21:20",
+    "ultima_pasada_utc": "2026-10-14 00:27",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1186,6 +1195,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 3
   }
 }
