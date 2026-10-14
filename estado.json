@@ -1157,7 +1157,16 @@
     "https://www.ewtnnews.com/es/vaticano/quien-dirige-el-vaticano-mientras-el-papa-francisco-esta-hospitalizado": "descartado_palabras",
     "https://persecution.org/?p=4496135": "procesado",
     "https://persecution.org/?p=4496129": "procesado",
-    "https://persecution.org/?p=4496118": "procesado"
+    "https://persecution.org/?p=4496118": "procesado",
+    "https://www.aciprensa.com/noticias/129253/oncologo-adenocarcinoma-recuperacion-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129251/obispos-mexico-papa-leon-cancer": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129249/iglesia-recupera-memoria-cristiada-mexico": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/111185/quien-dirige-el-vaticano-mientras-el-papa-francisco-esta-hospitalizado": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129243/parlamento-uruguayo-reconocio-trayectoria-salesianos": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129247/mensajes-estudiantes-usat-papa-leon-xiv": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129245/papa-leon-xiv-cancer-pulmon": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129241/papa-leon-xiv-obispo-coadjutor-guatemala": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129239/doctor-carbone-medico-personal-papa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1176,7 +1185,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-gIYyjyqvjsNbD69vrYg5emY1LMc\""
+      "etag": "W/\"84d6-tcN8ICqvboN6NWj/1LBQNBIijRU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Wed, 14 Oct 2026 00:27:08 GMT"
@@ -1186,7 +1195,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-14 00:27",
+    "ultima_pasada_utc": "2026-10-14 05:17",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
