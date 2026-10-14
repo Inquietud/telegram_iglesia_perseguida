@@ -1174,7 +1174,15 @@
     "https://www.aciprensa.com/noticias/129261/favorable-recuperacion-papa-gobernando-iglesia": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129259/sor-celina-clarisa-portera-fallecio": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129257/3000-espanoles-aprobacion-causas-martirio": "descartado_palabras",
-    "https://www.aciprensa.com/noticias/129255/uruguay-reza-ave-marias-papa": "descartado_palabras"
+    "https://www.aciprensa.com/noticias/129255/uruguay-reza-ave-marias-papa": "descartado_palabras",
+    "https://persecution.org/?p=4496143": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/catolicos-eeuu-misa-oran-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/portavoz-casa-blanca-madre-adopcion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/uruguay-argentina-esperan-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/nace-san-antonio-instituto-guadalupano": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/arquidiocesis-lima-posterga-reunion-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/favorable-recuperacion-papa-gobernando-iglesia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/sor-celina-clarisa-portera-fallecio": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1182,8 +1190,8 @@
       "modified": "Tue, 13 Oct 2026 21:19:39 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"83a934a0ed87cb810d425fdee3e577de\"",
-      "modified": "Tue, 13 Oct 2026 23:05:51 GMT"
+      "etag": "\"929d037cac2f5b6e8c30d8c37d29d05e\"",
+      "modified": "Wed, 14 Oct 2026 20:38:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"598c2cc3c63a38962c2937c855ecb249\"",
@@ -1193,17 +1201,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-YARhGVxXAdO3gYeklMLD7oEz634\""
+      "etag": "W/\"84d6-tN2P79InE61GxZmWjlnR2v+Qlp0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 14 Oct 2026 15:21:02 GMT"
+      "modified": "Wed, 14 Oct 2026 22:24:05 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-14 19:33",
+    "ultima_pasada_utc": "2026-10-14 22:36",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
