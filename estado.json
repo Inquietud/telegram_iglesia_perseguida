@@ -1168,7 +1168,13 @@
     "https://www.aciprensa.com/noticias/129241/papa-leon-xiv-obispo-coadjutor-guatemala": "descartado_palabras",
     "https://www.aciprensa.com/noticias/129239/doctor-carbone-medico-personal-papa": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/3000-espanoles-aprobacion-causas-martirio": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/uruguay-reza-ave-marias-papa": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/uruguay-reza-ave-marias-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129265/nace-san-antonio-instituto-guadalupano": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129263/arquidiocesis-lima-posterga-reunion-papa": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129261/favorable-recuperacion-papa-gobernando-iglesia": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129259/sor-celina-clarisa-portera-fallecio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129257/3000-espanoles-aprobacion-causas-martirio": "descartado_palabras",
+    "https://www.aciprensa.com/noticias/129255/uruguay-reza-ave-marias-papa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1187,7 +1193,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-1yTeK4jJWlgCrPdCqrwbgIaGcgM\""
+      "etag": "W/\"84d6-YARhGVxXAdO3gYeklMLD7oEz634\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Wed, 14 Oct 2026 15:21:02 GMT"
@@ -1197,7 +1203,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-14 15:20",
+    "ultima_pasada_utc": "2026-10-14 19:33",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
