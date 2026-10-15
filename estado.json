@@ -1187,7 +1187,8 @@
     "https://www.ewtnnews.com/es/mundo/america/millon-fieles-romeria-virgen-zapopan": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/san-peregrino-santo-cancer-papa": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/basilica-guadalupe-50-anos-jubilar": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-mensaje-cirugia-oraciones": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-mensaje-cirugia-oraciones": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/millones-personas-procesion-cirio-nazare": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1206,17 +1207,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-dSpsSTOsQAOriI9gzxDYNxOkd0Y\""
+      "etag": "W/\"84d6-/r+2aJ9GhedERcVNP+8yzdm3Y68\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 15 Oct 2026 00:42:02 GMT"
+      "modified": "Thu, 15 Oct 2026 05:39:47 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-15 00:53",
+    "ultima_pasada_utc": "2026-10-15 05:39",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
