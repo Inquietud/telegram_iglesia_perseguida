@@ -1194,7 +1194,13 @@
     "https://www.ewtnnews.com/es/mundo/oceania/catolicos-australianos-misa-fe-estudio": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/africa/suspenden-actividades-nigeria-persistente-inseguridad": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/100-anos-domund-catolicos-mision-347": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/especialistas-catolicos-cancer-pulmon-papa": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/especialistas-catolicos-cancer-pulmon-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/corazon-misionero-iglesia-cochabamba-expo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/encuentro-vaticano-familia-cirugia-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/parolin-presidente-dominicana-haiti-cuba": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cientos-venezuela-mensaje-divina-misericordia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/universidad-catolica-analiza-crisis-familia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/los-medicos-del-papa-confirman-una-buena-recuperacion-del-pulmon-operado": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1213,7 +1219,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-Yr85W4PmE1dQTMsA+JqyJ+pzBaM\""
+      "etag": "W/\"84d6-CrpVRHiZu/7bSc67HwT0HKaNb8M\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 15 Oct 2026 15:11:59 GMT"
@@ -1223,7 +1229,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-15 15:11",
+    "ultima_pasada_utc": "2026-10-15 19:13",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
