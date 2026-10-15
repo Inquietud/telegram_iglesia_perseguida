@@ -1200,7 +1200,10 @@
     "https://www.ewtnnews.com/es/mundo/america/parolin-presidente-dominicana-haiti-cuba": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/cientos-venezuela-mensaje-divina-misericordia": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/universidad-catolica-analiza-crisis-familia": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/los-medicos-del-papa-confirman-una-buena-recuperacion-del-pulmon-operado": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/los-medicos-del-papa-confirman-una-buena-recuperacion-del-pulmon-operado": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/obispo-consagrado-china-acuerdo-vaticano": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/manos-jesus-cancion-nathali-nunca-solo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-chomali-propone-higiene-digital": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1219,17 +1222,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-CrpVRHiZu/7bSc67HwT0HKaNb8M\""
+      "etag": "W/\"84d6-7bKk3bBiHI4/JM6d6z3BkL9Xrf8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 15 Oct 2026 15:11:59 GMT"
+      "modified": "Thu, 15 Oct 2026 22:27:05 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-15 19:13",
+    "ultima_pasada_utc": "2026-10-15 22:26",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
