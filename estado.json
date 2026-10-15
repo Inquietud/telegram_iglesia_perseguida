@@ -1207,17 +1207,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-/r+2aJ9GhedERcVNP+8yzdm3Y68\""
+      "etag": "W/\"84d6-7NwYAWyUdCq3alHqOJF9tWlQIUM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 15 Oct 2026 05:39:47 GMT"
+      "modified": "Thu, 15 Oct 2026 10:21:57 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-15 05:39",
+    "ultima_pasada_utc": "2026-10-15 10:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
