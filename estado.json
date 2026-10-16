@@ -1216,7 +1216,13 @@
     "https://www.ewtnnews.com/es/vaticano/parolin-viaje-papa-america-latina": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/obispo-necesidad-reevangelizar-espana-gentiles": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/retiros-proyecto-amor-conyugal-colombia-mexico": "descartado_palabras",
-    "https://morningstarnews.org/?p=18510": "procesado"
+    "https://morningstarnews.org/?p=18510": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/maracaibo-celebrara-chinita-sobriedad-solidaridad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/sacerdote-ucraniano-campo-militar-frente": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/enciendete-2026-concierto-musica-adoracion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-hambre-dignidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/el-capellan-del-gemelli-la-presencia-del-santo-padre-es-reconfortante-para-los-enfermos": "descartado_palabras",
+    "https://persecution.org/?p=4496148": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1224,8 +1230,8 @@
       "modified": "Fri, 16 Oct 2026 17:30:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"929d037cac2f5b6e8c30d8c37d29d05e\"",
-      "modified": "Wed, 14 Oct 2026 20:38:58 GMT"
+      "etag": "\"49a04fb2baf079ed4ec1130e74ccf7e2\"",
+      "modified": "Fri, 16 Oct 2026 18:44:09 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"77ba2d02c8a467f5ff05b20585b3bc17\"",
@@ -1235,17 +1241,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-aUq3wdmB1/QeJIZ0ZJJ6O6qG8Oo\""
+      "etag": "W/\"84d6-a07TKW625YoDoAjx9doWWzp6wH4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 16 Oct 2026 18:09:58 GMT"
+      "modified": "Fri, 16 Oct 2026 21:18:15 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-16 18:17",
+    "ultima_pasada_utc": "2026-10-16 21:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
