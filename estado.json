@@ -1222,7 +1222,9 @@
     "https://www.ewtnnews.com/es/mundo/america/enciendete-2026-concierto-musica-adoracion": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-hambre-dignidad": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/el-capellan-del-gemelli-la-presencia-del-santo-padre-es-reconfortante-para-los-enfermos": "descartado_palabras",
-    "https://persecution.org/?p=4496148": "procesado"
+    "https://persecution.org/?p=4496148": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/tradicion-rosario-obispo-mexicano-glorieta": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-bolivia-debate-eutanasia-vida": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1241,17 +1243,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-a07TKW625YoDoAjx9doWWzp6wH4\""
+      "etag": "W/\"84d6-8VxRoNheJesKt63qH1YrMKE8X3U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 16 Oct 2026 21:18:15 GMT"
+      "modified": "Fri, 16 Oct 2026 23:47:49 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-16 21:25",
+    "ultima_pasada_utc": "2026-10-16 23:47",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
