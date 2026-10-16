@@ -1209,36 +1209,43 @@
     "https://www.ewtnnews.com/es/mundo/asia/obispo-consagrado-china-acuerdo-vaticano": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/vaticano-fotos-papa-leon-xiv": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/papa-leon-xiv-obispos-madrid": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/crece-numero-sacerdotes-mundo": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/crece-numero-sacerdotes-mundo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/sacerdote-salesiano-nuevo-provicario-chaco-paraguayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-telefono-vladimir-putin": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/athenas-zamba-cura-brochero": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/parolin-viaje-papa-america-latina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/obispo-necesidad-reevangelizar-espana-gentiles": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/retiros-proyecto-amor-conyugal-colombia-mexico": "descartado_palabras",
+    "https://morningstarnews.org/?p=18510": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"8534e40b3cd6b0d991d487a87f1499aa\"",
-      "modified": "Tue, 13 Oct 2026 21:19:39 GMT"
+      "etag": "W/\"8830cb22392cbb196d4c26a90ed2d018\"",
+      "modified": "Fri, 16 Oct 2026 17:30:51 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"929d037cac2f5b6e8c30d8c37d29d05e\"",
       "modified": "Wed, 14 Oct 2026 20:38:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"509e772645a3dbe38b0a45f9cf3fa370\"",
-      "modified": "Fri, 16 Oct 2026 10:03:03 GMT"
+      "etag": "\"77ba2d02c8a467f5ff05b20585b3bc17\"",
+      "modified": "Fri, 16 Oct 2026 16:11:52 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-Wm4B6ga3iW1wc3Vc/x6Lg9SfR4A\""
+      "etag": "W/\"84d6-aUq3wdmB1/QeJIZ0ZJJ6O6qG8Oo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 16 Oct 2026 14:25:34 GMT"
+      "modified": "Fri, 16 Oct 2026 18:09:58 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-16 14:25",
+    "ultima_pasada_utc": "2026-10-16 18:17",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1247,6 +1254,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 3
+    "publicados_ultima_pasada": 1
   }
 }
