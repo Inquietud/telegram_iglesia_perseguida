@@ -1206,7 +1206,10 @@
     "https://www.ewtnnews.com/es/mundo/america/cardenal-chomali-propone-higiene-digital": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/cardenal-czerny-recibe-medalla-sostenibilidad": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/chosen-trailer-temporada-6-jesus": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/asia/obispo-consagrado-china-acuerdo-vaticano": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/asia/obispo-consagrado-china-acuerdo-vaticano": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/vaticano-fotos-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/papa-leon-xiv-obispos-madrid": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/crece-numero-sacerdotes-mundo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1218,24 +1221,24 @@
       "modified": "Wed, 14 Oct 2026 20:38:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"335b3def41aec0d0cc83fc852538e818\"",
-      "modified": "Fri, 16 Oct 2026 07:58:51 GMT"
+      "etag": "\"509e772645a3dbe38b0a45f9cf3fa370\"",
+      "modified": "Fri, 16 Oct 2026 10:03:03 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-fyhQuDi3f34Yu4NszeuumIvrm4E\""
+      "etag": "W/\"84d6-Wm4B6ga3iW1wc3Vc/x6Lg9SfR4A\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 16 Oct 2026 09:49:35 GMT"
+      "modified": "Fri, 16 Oct 2026 14:25:34 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-16 09:49",
+    "ultima_pasada_utc": "2026-10-16 14:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
