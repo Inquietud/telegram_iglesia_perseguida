@@ -1203,7 +1203,9 @@
     "https://www.ewtnnews.com/es/vaticano/los-medicos-del-papa-confirman-una-buena-recuperacion-del-pulmon-operado": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/obispo-consagrado-china-acuerdo-vaticano": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/manos-jesus-cancion-nathali-nunca-solo": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/cardenal-chomali-propone-higiene-digital": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-chomali-propone-higiene-digital": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/cardenal-czerny-recibe-medalla-sostenibilidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/chosen-trailer-temporada-6-jesus": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1222,17 +1224,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-7bKk3bBiHI4/JM6d6z3BkL9Xrf8\""
+      "etag": "W/\"84d6-z2XTMo7bKeL4Co51kVjoO+6We0M\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 15 Oct 2026 22:27:05 GMT"
+      "modified": "Fri, 16 Oct 2026 00:36:18 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-15 22:26",
+    "ultima_pasada_utc": "2026-10-16 00:40",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
