@@ -1224,7 +1224,9 @@
     "https://www.ewtnnews.com/es/vaticano/el-capellan-del-gemelli-la-presencia-del-santo-padre-es-reconfortante-para-los-enfermos": "descartado_palabras",
     "https://persecution.org/?p=4496148": "procesado",
     "https://www.ewtnnews.com/es/mundo/america/tradicion-rosario-obispo-mexicano-glorieta": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/iglesia-bolivia-debate-eutanasia-vida": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-bolivia-debate-eutanasia-vida": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-argentina-fortalece-fe": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/domund-catolicos-mexicanos-sostienen-misiones": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1243,17 +1245,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-8VxRoNheJesKt63qH1YrMKE8X3U\""
+      "etag": "W/\"84d6-ZDfhngmkIXjuvh0IqGI3wUgKOVU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 16 Oct 2026 23:47:49 GMT"
+      "modified": "Sat, 17 Oct 2026 01:48:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-16 23:47",
+    "ultima_pasada_utc": "2026-10-17 01:47",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
