@@ -1240,36 +1240,41 @@
     "https://www.ewtnnews.com/es/mundo/america/obispos-mexico-orar-paz-misiones": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/desde-roma-arzobispo-argentino-pide-orar-por-el-papa-y-por-las-mamas-este-dia-de-la-madre": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/africa/sacerdote-ghana-escapa-incendio-auto": "procesado",
-    "https://www.ewtnnews.com/es/mundo/america/catolicos-lloran-muerte-sacerdote-guayaquil": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/catolicos-lloran-muerte-sacerdote-guayaquil": "procesado",
+    "https://morningstarnews.org/?p=18524": "antigua",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-retomara-esta-semana-audiencia-general-de-los-miercoles": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/colombia-diocesis-pereira-alerta-sobre-sacerdote-no-catolico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/espana-encuentros-siloe-apostolado-ateos-agnosticos": "descartado_palabras",
+    "https://morningstarnews.org/?p=18516": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"8830cb22392cbb196d4c26a90ed2d018\"",
-      "modified": "Fri, 16 Oct 2026 17:30:51 GMT"
+      "etag": "W/\"ea99f00d496ec945ba1b2865e3302e5c\"",
+      "modified": "Mon, 19 Oct 2026 16:57:50 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"aa64b4dd464dadec99772b6f7b091736\"",
       "modified": "Mon, 19 Oct 2026 06:56:34 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"9962db769fd0b4b1808de50f4a48e486\"",
-      "modified": "Mon, 19 Oct 2026 10:24:12 GMT"
+      "etag": "\"5ce6582283807a515b6cc731eb57000c\"",
+      "modified": "Mon, 19 Oct 2026 15:01:38 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-wAq+WaUukddkEgDS2lhB9xPi530\""
+      "etag": "W/\"84d6-l8Fkr0Cu3HhB+Nq38XagweZzxnM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 19 Oct 2026 10:45:40 GMT"
+      "modified": "Mon, 19 Oct 2026 17:12:47 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-19 10:44",
+    "ultima_pasada_utc": "2026-10-19 17:12",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1278,6 +1283,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
