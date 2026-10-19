@@ -1245,16 +1245,22 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-retomara-esta-semana-audiencia-general-de-los-miercoles": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/colombia-diocesis-pereira-alerta-sobre-sacerdote-no-catolico": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/espana-encuentros-siloe-apostolado-ateos-agnosticos": "descartado_palabras",
-    "https://morningstarnews.org/?p=18516": "procesado"
+    "https://morningstarnews.org/?p=18516": "procesado",
+    "https://www.ewtnnews.com/es/mundo/obispos-franceses-calma-disturbios-saqueos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-telefono-presidente-ucraniano-zelensky": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-chris-pratt-documental": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-sturla-preparacion-visita-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/estados-unidos-aumentan-conversiones-al-catolicismo-universidad-de-stanford": "descartado_palabras",
+    "https://persecution.org/?p=4496162": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"ea99f00d496ec945ba1b2865e3302e5c\"",
-      "modified": "Mon, 19 Oct 2026 16:57:50 GMT"
+      "etag": "W/\"04ca7c5ea4ab846300a6bee44b505dbb\"",
+      "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"aa64b4dd464dadec99772b6f7b091736\"",
-      "modified": "Mon, 19 Oct 2026 06:56:34 GMT"
+      "etag": "\"182ed65faea10e5eaca0b161efe268d6\"",
+      "modified": "Mon, 19 Oct 2026 20:40:45 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5ce6582283807a515b6cc731eb57000c\"",
@@ -1264,17 +1270,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-l8Fkr0Cu3HhB+Nq38XagweZzxnM\""
+      "etag": "W/\"84d7-wGyTpHn5JSgIv1Tdkw4N4rK6/q0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 19 Oct 2026 17:12:47 GMT"
+      "modified": "Mon, 19 Oct 2026 21:30:46 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-19 17:12",
+    "ultima_pasada_utc": "2026-10-19 21:35",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
