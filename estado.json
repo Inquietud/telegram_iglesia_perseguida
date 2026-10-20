@@ -1251,7 +1251,10 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-chris-pratt-documental": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/cardenal-sturla-preparacion-visita-papa": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/estados-unidos-aumentan-conversiones-al-catolicismo-universidad-de-stanford": "descartado_palabras",
-    "https://persecution.org/?p=4496162": "procesado"
+    "https://persecution.org/?p=4496162": "procesado",
+    "https://persecution.org/?p=4496165": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-castillo-rechazar-culto-dinero": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-integra-latinoamericanos-espanol-comision": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1259,8 +1262,8 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"182ed65faea10e5eaca0b161efe268d6\"",
-      "modified": "Mon, 19 Oct 2026 20:40:45 GMT"
+      "etag": "\"2b2e78324bf540bee7bb7f16e49e2578\"",
+      "modified": "Mon, 19 Oct 2026 21:45:49 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5ce6582283807a515b6cc731eb57000c\"",
@@ -1270,17 +1273,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-wGyTpHn5JSgIv1Tdkw4N4rK6/q0\""
+      "etag": "W/\"84d7-3782/6VE9pgpZy6I89gshcraxK8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 19 Oct 2026 21:30:46 GMT"
+      "modified": "Tue, 20 Oct 2026 00:42:27 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-19 21:35",
+    "ultima_pasada_utc": "2026-10-20 00:39",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
