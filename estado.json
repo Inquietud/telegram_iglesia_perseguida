@@ -1254,7 +1254,10 @@
     "https://persecution.org/?p=4496162": "procesado",
     "https://persecution.org/?p=4496165": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/cardenal-castillo-rechazar-culto-dinero": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-integra-latinoamericanos-espanol-comision": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-integra-latinoamericanos-espanol-comision": "descartado_palabras",
+    "https://persecution.org/?p=4496170": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/sacerdote-rescata-tesoro-fe-catolicos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/exorcista-acepta-ayuno-conferencias-entrevistas": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1262,8 +1265,8 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"2b2e78324bf540bee7bb7f16e49e2578\"",
-      "modified": "Mon, 19 Oct 2026 21:45:49 GMT"
+      "etag": "\"da7c68c4b35b9b522e2eb2ec6d226743\"",
+      "modified": "Tue, 20 Oct 2026 04:53:03 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5ce6582283807a515b6cc731eb57000c\"",
@@ -1273,17 +1276,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-3782/6VE9pgpZy6I89gshcraxK8\""
+      "etag": "W/\"84d7-cCE8kLmyp1U7Ltoi6LQd4UjWToE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 20 Oct 2026 00:42:27 GMT"
+      "modified": "Tue, 20 Oct 2026 05:08:20 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-20 00:39",
+    "ultima_pasada_utc": "2026-10-20 05:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
