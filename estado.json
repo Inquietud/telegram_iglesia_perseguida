@@ -1263,7 +1263,10 @@
     "https://www.ewtnnews.com/es/mundo/america/nuncio-apostolico-pide-una-tecnologia-centrada-en-el-ser-humano": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-encarga-a-sus-teologos-redefinir-que-es-la-tradicion-de-la-iglesia": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/sacerdote-responde-muerte-patricio-sanchez": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/arzobispo-oviedo-senado-espana-politica": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/arzobispo-oviedo-senado-espana-politica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/luis-fuente-copa-mundo-virgen-pilar": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/jovenes-orden-malta-ayudan-sinhogar": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/prevencion-ludopatia-pastoral-social": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1275,24 +1278,24 @@
       "modified": "Tue, 20 Oct 2026 04:53:03 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"82ee9fb1438560a51b857f0aee331cc8\"",
-      "modified": "Tue, 20 Oct 2026 11:48:14 GMT"
+      "etag": "\"f0df5e161aeb5fc300613161db14bcb9\"",
+      "modified": "Tue, 20 Oct 2026 16:05:09 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-Gx8G6zxo3IfMvB7Cpc3SOMRz6Hw\""
+      "etag": "W/\"84d7-fF2EBBcRoH3Co9RGkySA1kZILRA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 20 Oct 2026 10:11:25 GMT"
+      "modified": "Tue, 20 Oct 2026 19:20:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-20 15:12",
+    "ultima_pasada_utc": "2026-10-20 19:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
