@@ -1266,7 +1266,13 @@
     "https://www.ewtnnews.com/es/mundo/espana/arzobispo-oviedo-senado-espana-politica": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/luis-fuente-copa-mundo-virgen-pilar": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/jovenes-orden-malta-ayudan-sinhogar": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/prevencion-ludopatia-pastoral-social": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/prevencion-ludopatia-pastoral-social": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-venezuela-captura-maduro-terremotos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/artistas-catolicos-alertan-copias-ia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/8-datos-que-todo-cristiano-debe-saber-sobre-halloween": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/colombia-antioquia-turismo-religioso": "descartado_palabras",
+    "https://www.ewtnnews.com/es/libertad-religiosa/suprema-corte-archiva-caso-nacimiento": "descartado_palabras",
+    "https://persecution.org/?p=4496178": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1274,8 +1280,8 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"da7c68c4b35b9b522e2eb2ec6d226743\"",
-      "modified": "Tue, 20 Oct 2026 04:53:03 GMT"
+      "etag": "W/\"bd0606dfc8fdf8fd777cda8b8a9cf08f\"",
+      "modified": "Tue, 20 Oct 2026 22:15:12 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"f0df5e161aeb5fc300613161db14bcb9\"",
@@ -1285,17 +1291,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d7-fF2EBBcRoH3Co9RGkySA1kZILRA\""
+      "etag": "W/\"84d6-IQvAGIwKbkJqYqmb0n8Z23uJAqg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 20 Oct 2026 19:20:03 GMT"
+      "modified": "Tue, 20 Oct 2026 22:29:53 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-20 19:21",
+    "ultima_pasada_utc": "2026-10-20 22:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
