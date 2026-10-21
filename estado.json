@@ -1283,7 +1283,11 @@
     "https://www.ewtnnews.com/es/mundo/america/miles-corrieron-basilica-guadalupe-sacerdotes": "descartado_palabras",
     "https://www.ewtnnews.com/es/vida-y-familia/acompanar-personas-atraccion-mismo-sexo": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/el-papa-reafirma-la-indisoluble-unidad-matrimonial-en-su-primera-audiencia-general-tras-la": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/texto-completo-catequesis-del-papa-durante-la-primera-audiencia-general-tras-la-operacion": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/texto-completo-catequesis-del-papa-durante-la-primera-audiencia-general-tras-la-operacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-audiencia-operacion-cancer": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/iglesia-catolica-union-europea-ia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/sacerdote-con-cancer-al-santo-padre-la-enfermedad-le-fortalece-tambien": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/diocesis-zamora-proceso-canonico-exvicario": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1291,28 +1295,28 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"f5f0d7d2e24193aaab8e037314c9c508\"",
-      "modified": "Tue, 20 Oct 2026 23:52:58 GMT"
+      "etag": "\"704160e7e496f146ccfa0f8ba1b950ff\"",
+      "modified": "Wed, 21 Oct 2026 11:45:51 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4bfe5968868381f1548de553b02f713b\"",
-      "modified": "Wed, 21 Oct 2026 10:28:16 GMT"
+      "etag": "\"52586d51713a9b79e91f95d2afa403fd\"",
+      "modified": "Wed, 21 Oct 2026 14:22:00 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-QAYp4gwH7zJ/gF0CDBVJsrs4hFE\""
+      "etag": "W/\"84d6-GUzYIKHVWp8Rk8DX0fGrPJ2QUqI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 21 Oct 2026 10:41:03 GMT"
+      "modified": "Wed, 21 Oct 2026 15:34:20 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-21 10:37",
+    "ultima_pasada_utc": "2026-10-21 15:38",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
