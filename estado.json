@@ -1278,7 +1278,10 @@
     "https://www.ewtnnews.com/es/mundo/america/fieles-misa-sismo-templo-cdmx": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/senor-milagros-ingresa-palacio-gobierno": "descartado_palabras",
     "https://persecution.org/?p=4496189": "procesado",
-    "https://persecution.org/?p=4496181": "procesado"
+    "https://persecution.org/?p=4496181": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/7-datos-santa-laura-siena": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/miles-corrieron-basilica-guadalupe-sacerdotes": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/acompanar-personas-atraccion-mismo-sexo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1297,17 +1300,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-P+uIMtFxlZyFoDhxUySkKtLQc78\""
+      "etag": "W/\"84d6-/yg26Dtfh3fNCq7hdbMz2uQPUb0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 21 Oct 2026 00:52:01 GMT"
+      "modified": "Wed, 21 Oct 2026 05:34:29 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-21 00:52",
+    "ultima_pasada_utc": "2026-10-21 05:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
