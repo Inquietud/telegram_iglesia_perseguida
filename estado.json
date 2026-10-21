@@ -1287,7 +1287,12 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-audiencia-operacion-cancer": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/europa/iglesia-catolica-union-europea-ia": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/sacerdote-con-cancer-al-santo-padre-la-enfermedad-le-fortalece-tambien": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/diocesis-zamora-proceso-canonico-exvicario": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/diocesis-zamora-proceso-canonico-exvicario": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/medico-papa-leon-xiv-tratamiento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/archivan-proceso-contra-sacerdote-francisco-de-roux": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/nuncio-confirma-viaje-papa-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-el-mundo-es-mas-pobre-sin-santos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-argentina-vinculo-bergoglio": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1295,28 +1300,28 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"704160e7e496f146ccfa0f8ba1b950ff\"",
-      "modified": "Wed, 21 Oct 2026 11:45:51 GMT"
+      "etag": "\"fb5a2a0fba833e5cfdad2039357041d9\"",
+      "modified": "Wed, 21 Oct 2026 18:05:04 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"52586d51713a9b79e91f95d2afa403fd\"",
-      "modified": "Wed, 21 Oct 2026 14:22:00 GMT"
+      "etag": "\"d85af373cc81878127428693dd9356ea\"",
+      "modified": "Wed, 21 Oct 2026 15:57:56 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-GUzYIKHVWp8Rk8DX0fGrPJ2QUqI\""
+      "etag": "W/\"84d6-ViyUMIsCbAHzhYAt46es5ySDnlY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 21 Oct 2026 15:34:20 GMT"
+      "modified": "Wed, 21 Oct 2026 19:39:24 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-21 15:38",
+    "ultima_pasada_utc": "2026-10-21 19:39",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
