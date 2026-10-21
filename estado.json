@@ -1292,7 +1292,12 @@
     "https://www.ewtnnews.com/es/mundo/america/archivan-proceso-contra-sacerdote-francisco-de-roux": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/nuncio-confirma-viaje-papa-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-el-mundo-es-mas-pobre-sin-santos": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-argentina-vinculo-bergoglio": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-argentina-vinculo-bergoglio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/keiko-fujimori-dios-peru-fuerza": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/sacerdote-exorcist-files-demanda-difamacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/lujan-sede-foro-iberoamericano-ciudades-marianas": "descartado_palabras",
+    "https://persecution.org/?p=4496200": "procesado",
+    "https://persecution.org/?p=4496196": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1300,8 +1305,8 @@
       "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"fb5a2a0fba833e5cfdad2039357041d9\"",
-      "modified": "Wed, 21 Oct 2026 18:05:04 GMT"
+      "etag": "\"f60d008db18b7f74accb68dbd405ea73\"",
+      "modified": "Wed, 21 Oct 2026 21:27:16 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"d85af373cc81878127428693dd9356ea\"",
@@ -1311,17 +1316,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-ViyUMIsCbAHzhYAt46es5ySDnlY\""
+      "etag": "W/\"84d6-qKZHLxVXGo1GC7f1y77tjm6u3wc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 21 Oct 2026 19:39:24 GMT"
+      "modified": "Wed, 21 Oct 2026 22:47:42 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-21 19:39",
+    "ultima_pasada_utc": "2026-10-21 22:47",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
