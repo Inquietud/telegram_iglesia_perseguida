@@ -1281,7 +1281,9 @@
     "https://persecution.org/?p=4496181": "procesado",
     "https://www.ewtnnews.com/es/mundo/america/7-datos-santa-laura-siena": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/miles-corrieron-basilica-guadalupe-sacerdotes": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vida-y-familia/acompanar-personas-atraccion-mismo-sexo": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vida-y-familia/acompanar-personas-atraccion-mismo-sexo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/el-papa-reafirma-la-indisoluble-unidad-matrimonial-en-su-primera-audiencia-general-tras-la": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/texto-completo-catequesis-del-papa-durante-la-primera-audiencia-general-tras-la-operacion": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1293,24 +1295,24 @@
       "modified": "Tue, 20 Oct 2026 23:52:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f0df5e161aeb5fc300613161db14bcb9\"",
-      "modified": "Tue, 20 Oct 2026 16:05:09 GMT"
+      "etag": "\"4bfe5968868381f1548de553b02f713b\"",
+      "modified": "Wed, 21 Oct 2026 10:28:16 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-/yg26Dtfh3fNCq7hdbMz2uQPUb0\""
+      "etag": "W/\"84d6-QAYp4gwH7zJ/gF0CDBVJsrs4hFE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 21 Oct 2026 05:34:29 GMT"
+      "modified": "Wed, 21 Oct 2026 10:41:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-21 05:43",
+    "ultima_pasada_utc": "2026-10-21 10:37",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
