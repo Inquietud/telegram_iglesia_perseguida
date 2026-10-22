@@ -1303,7 +1303,8 @@
     "https://www.ewtnnews.com/es/mundo/america/100-iglesias-panama-afectadas-sismo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/san-juan-pablo-ii-12-momentos-que-marcaron-la-vida-del-santo-polaco": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/indianapolis-sede-congreso-eucaristico-nacional": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/obispos-mexicanos-reestreno-pelicula-cristiada": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/obispos-mexicanos-reestreno-pelicula-cristiada": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/espana-roban-30-hostias-consagradas-halloween": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1322,17 +1323,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-e6TuZHKibDhIt7I7LjdjE8la6vM\""
+      "etag": "W/\"84d6-pOrzSQI+QEmbG7xDzlVZB9wrMjc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 22 Oct 2026 06:06:30 GMT"
+      "modified": "Thu, 22 Oct 2026 11:44:07 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-22 06:04",
+    "ultima_pasada_utc": "2026-10-22 11:46",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
