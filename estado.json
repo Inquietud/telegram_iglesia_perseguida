@@ -1304,12 +1304,18 @@
     "https://www.ewtnnews.com/es/mundo/san-juan-pablo-ii-12-momentos-que-marcaron-la-vida-del-santo-polaco": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/indianapolis-sede-congreso-eucaristico-nacional": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/obispos-mexicanos-reestreno-pelicula-cristiada": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/espana-roban-30-hostias-consagradas-halloween": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/espana-roban-30-hostias-consagradas-halloween": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/vaticano-conversion-joven-tiktok-renovacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/documental-lejeune-amigo-juan-pablo-ii": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/jd-vance-migraciones-estados-unidos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-educacion-jovenes": "descartado_palabras",
+    "https://morningstarnews.org/?p=18534": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/vaticano-y-honduras-firman-nuevo-acuerdo": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"04ca7c5ea4ab846300a6bee44b505dbb\"",
-      "modified": "Mon, 19 Oct 2026 17:53:28 GMT"
+      "etag": "W/\"e77a77e60f703a40e73d7cbcaa3ef10f\"",
+      "modified": "Thu, 22 Oct 2026 14:30:31 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"f60d008db18b7f74accb68dbd405ea73\"",
@@ -1323,17 +1329,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-pOrzSQI+QEmbG7xDzlVZB9wrMjc\""
+      "etag": "W/\"84d6-z3tf4j2es8iYSjEoNpadXBI+1No\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 22 Oct 2026 11:44:07 GMT"
+      "modified": "Thu, 22 Oct 2026 16:05:50 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-22 11:46",
+    "ultima_pasada_utc": "2026-10-22 16:05",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
