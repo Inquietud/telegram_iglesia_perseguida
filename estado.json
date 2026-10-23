@@ -1325,7 +1325,10 @@
     "https://persecution.org/?p=4496212": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/jd-vance-ewtn-embajadores-dios": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/artista-chicago-icono-mariano-leon-xiv": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/adelantan-fiesta-san-jose-sanchez": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/adelantan-fiesta-san-jose-sanchez": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/congreso-impulsado-por-vaticano-responde-a-emergencia-de-la-infertilidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/pelicula-poder-del-rosario-espana": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/por-consejo-medico-leon-xiv-cancela-su-visita-a-asis-pero-enviara-un-mensaje": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1337,14 +1340,14 @@
       "modified": "Fri, 23 Oct 2026 00:35:21 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f1b107792f7bab5c11b2043ab641af8d\"",
-      "modified": "Thu, 22 Oct 2026 16:23:21 GMT"
+      "etag": "\"8ee0c306ab9257d872485a11d9d2edcc\"",
+      "modified": "Fri, 23 Oct 2026 11:10:57 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-lN8xk4x9mN7KUjiGu5UBAinAcvg\""
+      "etag": "W/\"84d6-Ny+5Sz5iUCj9PEOGfVIdFmeCwm0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 22 Oct 2026 16:05:50 GMT"
@@ -1354,7 +1357,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-23 06:35",
+    "ultima_pasada_utc": "2026-10-23 12:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
