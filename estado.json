@@ -1328,7 +1328,12 @@
     "https://www.ewtnnews.com/es/mundo/america/adelantan-fiesta-san-jose-sanchez": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/congreso-impulsado-por-vaticano-responde-a-emergencia-de-la-infertilidad": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/pelicula-poder-del-rosario-espana": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/por-consejo-medico-leon-xiv-cancela-su-visita-a-asis-pero-enviara-un-mensaje": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/por-consejo-medico-leon-xiv-cancela-su-visita-a-asis-pero-enviara-un-mensaje": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/obispos-panama-mision-evangelizadora-sinodal": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/comunion-divorciados-teologo-moral-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/125-aniversario-salesianos-de-atocha": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-explica-derecho-canonico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-catolicos-de-estados-unidos-rezan-con-donald-trump": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1340,14 +1345,14 @@
       "modified": "Fri, 23 Oct 2026 00:35:21 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"8ee0c306ab9257d872485a11d9d2edcc\"",
-      "modified": "Fri, 23 Oct 2026 11:10:57 GMT"
+      "etag": "\"732d629a0482fe22daf679e75d98a13f\"",
+      "modified": "Fri, 23 Oct 2026 14:33:43 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-Ny+5Sz5iUCj9PEOGfVIdFmeCwm0\""
+      "etag": "W/\"84d6-mteTMALtTKsQ8MkH4HAzf9KDAtg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 22 Oct 2026 16:05:50 GMT"
@@ -1357,7 +1362,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-23 12:06",
+    "ultima_pasada_utc": "2026-10-23 17:06",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1366,6 +1371,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
