@@ -1354,7 +1354,8 @@
     "https://persecution.org/?p=4496228": "procesado",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-aprueba-6-nuevos-venerables": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-jovenes-fe-y-matrimonio": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/obispos-venezuela-superar-crisis": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/obispos-venezuela-superar-crisis": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/expertos-catolicos-debaten-si-es-moral-adoptar-embriones": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1373,7 +1374,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-krPtieJ1fTrDD7Wc4Hbr2RYIKxs\""
+      "etag": "W/\"84d6-v+V8P/1T7yqQGGw0UuVa9dpZijQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1383,7 +1384,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-24 21:09",
+    "ultima_pasada_utc": "2026-10-24 23:17",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
