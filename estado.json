@@ -1359,7 +1359,8 @@
     "https://www.ewtnnews.com/es/mundo/5-hechos-sobrenaturales-que-hacen-de-estos-santos-los-patronos-de-halloween": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/el-papa-reza-por-las-victimas-del-atentado-contra-una-iglesia-ortodoxa-de-jordania": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-sin-el-amor-a-dios-nuestras-buenas-obras-se-reducirian-a-moralismo": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/las-iglesias-de-tierra-santa-agradecen-el-respaldo-de-autoridades-tras-atentado-en-jordania": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/las-iglesias-de-tierra-santa-agradecen-el-respaldo-de-autoridades-tras-atentado-en-jordania": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/africa/egipto-cristianos-detenidos-por-video-tiktok-islam": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1378,7 +1379,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-2gjsmLH174MODMlgGwZ8Li8yueM\""
+      "etag": "W/\"84d6-7GALbKDph5ZTkljMNVLAcIaRUto\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1388,7 +1389,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-25 15:59",
+    "ultima_pasada_utc": "2026-10-25 18:57",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
