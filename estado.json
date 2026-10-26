@@ -1369,7 +1369,11 @@
     "https://www.ewtnnews.com/es/mundo/america/desaparicion-sacerdote-sinaloa-mexico": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/arzobispo-denver-responde-criticas-trump": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/vaticano-mision-humanitaria-ucrania-invierno": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/celebrar-dia-muertos-sentido-catolico": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/celebrar-dia-muertos-sentido-catolico": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/visita-papa-leon-xiv-argentina-streaming": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-caridad-divisiones": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/el-papa-leon-xiv-confirma-su-viaje-a-uruguay-argentina-y-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arzobispo-milwaukee-disculpa-reunion-casa-blanca": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1377,18 +1381,18 @@
       "modified": "Thu, 22 Oct 2026 14:30:31 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"a0863af554b686b3d9fbaa0a0bd38a34\"",
-      "modified": "Mon, 26 Oct 2026 03:57:33 GMT"
+      "etag": "\"e3b85fedb58e98c3168da57c2ae4e9f6\"",
+      "modified": "Mon, 26 Oct 2026 14:21:03 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"e65408b0393bdc683786d5f443b2ef81\"",
-      "modified": "Mon, 26 Oct 2026 10:52:22 GMT"
+      "etag": "\"cae265bac4991bfb36f720f9d5f27f48\"",
+      "modified": "Mon, 26 Oct 2026 17:26:26 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-uNh8OqjpiWr6wTq9R4saR+lG5Co\""
+      "etag": "W/\"84d6-SkVDA0tO0bBxUgie136GJjWEOLs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1398,7 +1402,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-26 14:12",
+    "ultima_pasada_utc": "2026-10-26 19:59",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
