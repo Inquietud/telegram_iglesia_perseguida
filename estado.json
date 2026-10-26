@@ -1364,7 +1364,9 @@
     "https://www.ewtnnews.com/es/mundo/africa/iglesia-catolica-jovenes-egipto": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/maria-corina-machado-regresa-venezuela": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/6-diferencias-entre-el-dia-de-muertos-y-el-culto-a-la-santa-muerte": "procesado",
-    "https://www.ewtnnews.com/es/mundo/america/lula-da-silva-gana-presidencia-de-brasil": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/lula-da-silva-gana-presidencia-de-brasil": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/estatua-hiperrealista-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/desaparicion-sacerdote-sinaloa-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1372,8 +1374,8 @@
       "modified": "Thu, 22 Oct 2026 14:30:31 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"14614d42eb9b6fb9600779ee26e5f872\"",
-      "modified": "Sat, 24 Oct 2026 00:21:01 GMT"
+      "etag": "\"a0863af554b686b3d9fbaa0a0bd38a34\"",
+      "modified": "Mon, 26 Oct 2026 03:57:33 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"732d629a0482fe22daf679e75d98a13f\"",
@@ -1383,7 +1385,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-TxLw+hK/lQX7NdKQpNpicDK0hG4\""
+      "etag": "W/\"84d6-vLU6JhyAE3rmAlcxmOHazr9tugA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1393,7 +1395,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-26 01:43",
+    "ultima_pasada_utc": "2026-10-26 07:03",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
