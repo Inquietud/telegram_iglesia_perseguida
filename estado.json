@@ -1381,26 +1381,36 @@
     "https://www.ewtnnews.com/es/mundo/america/ofrenda-dia-muertos-catolico": "procesado",
     "https://www.ewtnnews.com/es/mundo/espana/hakuna-prepara-decimo-aniversario-encuentros": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-misa-santos-cementerio": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/obispo-reunion-trump-explotada-politicamente": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/obispo-reunion-trump-explotada-politicamente": "descartado_palabras",
+    "https://persecution.org/?p=4496257": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-panama-familias-afectadas-terremoto": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-ecuador-iglesia-verdad-familia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/uruguay-recibe-papa-iglesia-secularizada": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-guerra-santa-asis": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-reuniones-victimas-abusos-america-latina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/artistas-argentinos-visita-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/papa-pide-rezar-yeme": "descartado_palabras",
+    "https://persecution.org/?p=4496252": "procesado",
+    "https://morningstarnews.org/?p=18541": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"e77a77e60f703a40e73d7cbcaa3ef10f\"",
-      "modified": "Thu, 22 Oct 2026 14:30:31 GMT"
+      "etag": "W/\"e3f707cb82e981b9546c0f6e87c3c534\"",
+      "modified": "Tue, 27 Oct 2026 17:09:35 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"9e2a419a37c9ffb4171b3e5e1784b769\"",
-      "modified": "Mon, 26 Oct 2026 22:47:42 GMT"
+      "etag": "\"8e479ebd0f59ed747c2814f9829239df\"",
+      "modified": "Tue, 27 Oct 2026 15:47:09 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f41462cfcd0ba51ab29ab315322afa6c\"",
-      "modified": "Tue, 27 Oct 2026 12:50:27 GMT"
+      "etag": "\"a092ab71c0fcd134db1301b0d21179c2\"",
+      "modified": "Tue, 27 Oct 2026 16:34:58 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-NT71fWKsVh34yqZWzjPCiUCgf5g\""
+      "etag": "W/\"84d6-pMOoMK4ZilfXcoxVOj+WjCOY/B4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1410,7 +1420,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-27 14:46",
+    "ultima_pasada_utc": "2026-10-27 19:42",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1419,6 +1429,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
