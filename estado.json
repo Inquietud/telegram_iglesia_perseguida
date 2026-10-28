@@ -1407,36 +1407,44 @@
     "https://www.ewtnnews.com/es/vaticano/guardias-suizos-frenan-amenazas-discrecion": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-fe-contraposicion-hostilidad-mundo": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/catequesis-papa-leon-xiv-gaudium": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/iglesia-catolica-espana-tragedia-ferroviaria": "procesado"
+    "https://www.ewtnnews.com/es/mundo/espana/iglesia-catolica-espana-tragedia-ferroviaria": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-fortalece-ayuda-migrantes-mexico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cierran-inscripciones-encuentros-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/rezar-46-rosarios-virgen-guda": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/7-claves-discernir-persona-indicada-casarte": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/oracion-fallecidos-heridos-accidente-tren": "descartado_palabras",
+    "https://persecution.org/?p=4496270": "procesado",
+    "https://morningstarnews.org/?p=18552": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/obispo-condena-asesinato-precandidato-alcaldia": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"e3f707cb82e981b9546c0f6e87c3c534\"",
-      "modified": "Tue, 27 Oct 2026 17:09:35 GMT"
+      "etag": "W/\"b3606ed091b1732db2c5d08c7e2c4c20\"",
+      "modified": "Wed, 28 Oct 2026 18:17:26 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"201fd90c941c0baa2f89704320bab49b\"",
-      "modified": "Wed, 28 Oct 2026 00:06:02 GMT"
+      "etag": "\"29a11d0136b43f9fe0b5be1644f6a53f\"",
+      "modified": "Wed, 28 Oct 2026 18:42:53 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5ad718e0ac489560753c7b81c22e4deb\"",
-      "modified": "Wed, 28 Oct 2026 12:46:15 GMT"
+      "etag": "\"ab185b78314a6e138dec6b3142286fed\"",
+      "modified": "Wed, 28 Oct 2026 16:46:36 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-2r8jmUkFe47sgHiQLn9cypAiBHA\""
+      "etag": "W/\"84d6-yCFiYTPFE98A5zgRF1QDH/cn8Xo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
+      "modified": "Wed, 28 Oct 2026 20:42:18 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-28 15:49",
+    "ultima_pasada_utc": "2026-10-28 20:42",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1445,6 +1453,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 3
   }
 }
