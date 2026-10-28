@@ -1399,7 +1399,15 @@
     "https://persecution.org/?p=4496265": "procesado",
     "https://persecution.org/?p=4496260": "procesado",
     "https://www.ewtnnews.com/es/mundo/cada-28-de-octubre-la-iglesia-catolica-conmemora-al-senor-de-los-milagros": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-28-de-octubre-se-celebra-a-san-judas-tadeo-patrono-de-las-causas-imposibles": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-28-de-octubre-se-celebra-a-san-judas-tadeo-patrono-de-las-causas-imposibles": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/accidente-tren-toledo-espana-ultimas-noticias-en-vivo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-visitara-parroquias-roma-adviento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/repudiado-familia-musulmana-sacerdote-catolico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/centenario-consagracion-obispos-chinos-pio-xi": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/guardias-suizos-frenan-amenazas-discrecion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-fe-contraposicion-hostilidad-mundo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/catequesis-papa-leon-xiv-gaudium": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/iglesia-catolica-espana-tragedia-ferroviaria": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1411,14 +1419,14 @@
       "modified": "Wed, 28 Oct 2026 00:06:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"a092ab71c0fcd134db1301b0d21179c2\"",
-      "modified": "Tue, 27 Oct 2026 16:34:58 GMT"
+      "etag": "\"5ad718e0ac489560753c7b81c22e4deb\"",
+      "modified": "Wed, 28 Oct 2026 12:46:15 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-EezjF/mJ92ix4iUBUlbXoQbBEJc\""
+      "etag": "W/\"84d6-2r8jmUkFe47sgHiQLn9cypAiBHA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1428,7 +1436,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-28 08:53",
+    "ultima_pasada_utc": "2026-10-28 15:49",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1437,6 +1445,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
