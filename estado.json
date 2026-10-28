@@ -1397,7 +1397,9 @@
     "https://www.ewtnnews.com/es/mundo/america/7-sugerencias-para-celebrar-a-los-santos-y-olvidarse-de-halloween": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/ninos-albergue-chiclayo-papa-leon-xiv": "descartado_palabras",
     "https://persecution.org/?p=4496265": "procesado",
-    "https://persecution.org/?p=4496260": "procesado"
+    "https://persecution.org/?p=4496260": "procesado",
+    "https://www.ewtnnews.com/es/mundo/cada-28-de-octubre-la-iglesia-catolica-conmemora-al-senor-de-los-milagros": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-28-de-octubre-se-celebra-a-san-judas-tadeo-patrono-de-las-causas-imposibles": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1416,7 +1418,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-zL33xJHxzIygFkEeJiaIfvRGY7o\""
+      "etag": "W/\"84d6-EezjF/mJ92ix4iUBUlbXoQbBEJc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1426,7 +1428,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-28 02:24",
+    "ultima_pasada_utc": "2026-10-28 08:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
