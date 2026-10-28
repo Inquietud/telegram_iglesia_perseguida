@@ -1393,7 +1393,11 @@
     "https://persecution.org/?p=4496252": "procesado",
     "https://morningstarnews.org/?p=18541": "procesado",
     "https://www.ewtnnews.com/es/mundo/diosidencias-viaje-papa-leon-sudamerica": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/regresa-sacerdote-desaparecido-sinaloa-mexico": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/regresa-sacerdote-desaparecido-sinaloa-mexico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/7-sugerencias-para-celebrar-a-los-santos-y-olvidarse-de-halloween": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/ninos-albergue-chiclayo-papa-leon-xiv": "descartado_palabras",
+    "https://persecution.org/?p=4496265": "procesado",
+    "https://persecution.org/?p=4496260": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1401,8 +1405,8 @@
       "modified": "Tue, 27 Oct 2026 17:09:35 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"3350401c6e0f777aa9e66afa02fb25e2\"",
-      "modified": "Tue, 27 Oct 2026 19:40:27 GMT"
+      "etag": "\"201fd90c941c0baa2f89704320bab49b\"",
+      "modified": "Wed, 28 Oct 2026 00:06:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"a092ab71c0fcd134db1301b0d21179c2\"",
@@ -1412,7 +1416,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-5Ni2UV3v1PZ5HNt1+h1+m8toqtw\""
+      "etag": "W/\"84d6-zL33xJHxzIygFkEeJiaIfvRGY7o\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Fri, 23 Oct 2026 20:15:05 GMT"
@@ -1422,7 +1426,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-27 23:14",
+    "ultima_pasada_utc": "2026-10-28 02:24",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
