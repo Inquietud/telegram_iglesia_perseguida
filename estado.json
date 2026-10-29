@@ -1426,36 +1426,43 @@
     "https://www.ewtnnews.com/es/mundo/cada-29-de-octubre-recordamos-a-la-beata-chiara-luce-badano-la-adolescente-de-la-sonrisa-eterna": "descartado_palabras",
     "https://www.ewtnnews.com/es/vida-y-familia/profesionales-desafios-tratar-adiccion-pornografia": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/presidenta-costa-rica-papa-leon": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/padre-abrazo-vivo-sacerdote-accidente": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/padre-abrazo-vivo-sacerdote-accidente": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/regreso-papa-leon-xiv-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arquidiocesis-mexico-prevenir-reclutamiento-menores": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/dios-vida-parroco-urda-tragedia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/abelardo-de-la-espriella-agenda-woke-medios-publicos-colombianos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/tragedia-urda-dolor-oracion-esperanza": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/ultimas-palabras-hombre-mujer-hijos": "descartado_palabras",
+    "https://morningstarnews.org/?p=18556": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"b3606ed091b1732db2c5d08c7e2c4c20\"",
-      "modified": "Wed, 28 Oct 2026 18:17:26 GMT"
+      "etag": "W/\"f93dccf61dbc24c0dabaeb931e4af2c3\"",
+      "modified": "Thu, 29 Oct 2026 17:02:37 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"ccae2a6a0968f65b203336f707cc6c96\"",
       "modified": "Wed, 28 Oct 2026 23:24:28 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"4569052e29f3596c9520baf1a8bbdafb\"",
-      "modified": "Thu, 29 Oct 2026 10:51:49 GMT"
+      "etag": "\"537c50f5f90ec9a365280132936570d9\"",
+      "modified": "Thu, 29 Oct 2026 17:13:20 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-dOQ2S7J53yQpI3RMO4r067z1Zwc\""
+      "etag": "W/\"84d6-utiRz3M5S9RMZe6o/tKApYAqYww\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 29 Oct 2026 13:31:23 GMT"
+      "modified": "Thu, 29 Oct 2026 19:11:39 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-29 13:31",
+    "ultima_pasada_utc": "2026-10-29 19:11",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
