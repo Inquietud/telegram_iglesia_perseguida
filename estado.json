@@ -1421,7 +1421,10 @@
     "https://www.ewtnnews.com/es/mundo/america/senor-milagros-procesion-advierte-obispo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/visita-papa-leon-xiv-cordoba": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/exorcista-mexicano-claves-halloween-fe": "descartado_palabras",
-    "https://persecution.org/?p=4496276": "procesado"
+    "https://persecution.org/?p=4496276": "procesado",
+    "https://www.ewtnnews.com/es/mundo/cada-29-de-octubre-recordamos-al-beato-miguel-rua-el-amigo-y-sucesor-de-don-bosco": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-29-de-octubre-recordamos-a-la-beata-chiara-luce-badano-la-adolescente-de-la-sonrisa-eterna": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/profesionales-desafios-tratar-adiccion-pornografia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1440,17 +1443,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-dtnaUSoFjuwnJDTD+JGIygLlMCA\""
+      "etag": "W/\"84d6-D6wW2e7tu5FKtSoxCL9aDbURCW8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 29 Oct 2026 00:17:21 GMT"
+      "modified": "Thu, 29 Oct 2026 06:22:41 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-29 00:27",
+    "ultima_pasada_utc": "2026-10-29 06:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
