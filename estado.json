@@ -1424,7 +1424,9 @@
     "https://persecution.org/?p=4496276": "procesado",
     "https://www.ewtnnews.com/es/mundo/cada-29-de-octubre-recordamos-al-beato-miguel-rua-el-amigo-y-sucesor-de-don-bosco": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-29-de-octubre-recordamos-a-la-beata-chiara-luce-badano-la-adolescente-de-la-sonrisa-eterna": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vida-y-familia/profesionales-desafios-tratar-adiccion-pornografia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vida-y-familia/profesionales-desafios-tratar-adiccion-pornografia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/presidenta-costa-rica-papa-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/padre-abrazo-vivo-sacerdote-accidente": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1436,24 +1438,24 @@
       "modified": "Wed, 28 Oct 2026 23:24:28 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"ab185b78314a6e138dec6b3142286fed\"",
-      "modified": "Wed, 28 Oct 2026 16:46:36 GMT"
+      "etag": "\"4569052e29f3596c9520baf1a8bbdafb\"",
+      "modified": "Thu, 29 Oct 2026 10:51:49 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-D6wW2e7tu5FKtSoxCL9aDbURCW8\""
+      "etag": "W/\"84d6-dOQ2S7J53yQpI3RMO4r067z1Zwc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 29 Oct 2026 06:22:41 GMT"
+      "modified": "Thu, 29 Oct 2026 13:31:23 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-29 06:22",
+    "ultima_pasada_utc": "2026-10-29 13:31",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
