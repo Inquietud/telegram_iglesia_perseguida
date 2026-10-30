@@ -1437,7 +1437,9 @@
     "https://www.ewtnnews.com/es/mundo/america/leon-xiv-divino-nino-milagro": "descartado_palabras",
     "https://persecution.org/?p=4496288": "procesado",
     "https://www.ewtnnews.com/es/mundo/america/dia-muertos-cielo-purgatorio-tierra-ofrenda-catolica": "procesado",
-    "https://www.ewtnnews.com/es/mundo/america/cabrera-seguridad-muerte-sacerdote-cruz": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/cabrera-seguridad-muerte-sacerdote-cruz": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-reavive-fe-uruguay": "descartado_palabras",
+    "https://persecution.org/?p=4496291": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1445,8 +1447,8 @@
       "modified": "Thu, 29 Oct 2026 17:02:37 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"75e96ed8fe0735ba0047f8bcd5efe6f7\"",
-      "modified": "Thu, 29 Oct 2026 22:30:36 GMT"
+      "etag": "\"1d3b09af40aaaf772c8bd42e47a6deb6\"",
+      "modified": "Thu, 29 Oct 2026 23:21:20 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"537c50f5f90ec9a365280132936570d9\"",
@@ -1456,17 +1458,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-sJTLOnVFl/+/gKf2qptveGtWFkM\""
+      "etag": "W/\"84d6-+HRS0n5kD/FRtTL/RzUBD6DaT8U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 29 Oct 2026 23:06:02 GMT"
+      "modified": "Fri, 30 Oct 2026 02:46:09 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-29 23:20",
+    "ultima_pasada_utc": "2026-10-30 02:46",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1475,6 +1477,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 3
+    "publicados_ultima_pasada": 1
   }
 }
