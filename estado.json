@@ -1439,7 +1439,14 @@
     "https://www.ewtnnews.com/es/mundo/america/dia-muertos-cielo-purgatorio-tierra-ofrenda-catolica": "procesado",
     "https://www.ewtnnews.com/es/mundo/america/cabrera-seguridad-muerte-sacerdote-cruz": "procesado",
     "https://www.ewtnnews.com/es/mundo/america/leon-xiv-reavive-fe-uruguay": "descartado_palabras",
-    "https://persecution.org/?p=4496291": "procesado"
+    "https://persecution.org/?p=4496291": "procesado",
+    "https://www.ewtnnews.com/es/mundo/anuncian-vigilia-de-oracion-y-reparacion-ante-ritos-satanicos-de-halloween": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/mural-maria-actos-vandalicos-medjugorje": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-votar-elecciones": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-refuerza-garantias-procesales-empleados": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/acuerdo-china-vaticano-tiene-imperfecciones": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/absolucion-general-tragedia-urda-sacerdote": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-nombra-subsecretarios-sinodo": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1451,24 +1458,24 @@
       "modified": "Thu, 29 Oct 2026 23:21:20 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"537c50f5f90ec9a365280132936570d9\"",
-      "modified": "Thu, 29 Oct 2026 17:13:20 GMT"
+      "etag": "\"5c5d43a20709f9e2e14e74c825951550\"",
+      "modified": "Fri, 30 Oct 2026 15:27:11 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-SIoA/rPDFDKU3o2gnVDNdQW7X6Q\""
+      "etag": "W/\"84d6-MW02SOf8wV3UgYyAAe1agkD8JCU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 30 Oct 2026 09:05:02 GMT"
+      "modified": "Fri, 30 Oct 2026 15:54:09 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-30 09:04",
+    "ultima_pasada_utc": "2026-10-30 15:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
