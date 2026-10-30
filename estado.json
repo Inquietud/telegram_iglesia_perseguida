@@ -1446,36 +1446,46 @@
     "https://www.ewtnnews.com/es/vaticano/papa-refuerza-garantias-procesales-empleados": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/acuerdo-china-vaticano-tiene-imperfecciones": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/absolucion-general-tragedia-urda-sacerdote": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/leon-xiv-nombra-subsecretarios-sinodo": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-nombra-subsecretarios-sinodo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/ayuda-a-la-iglesia-necesitada-amenazas-contra-lideres-religiosos-colombia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/obispo-misa-ninos-no-nacidos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/provida-protesta-premio-cardenal-cupich": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-estados-unidos-voto-catolico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/toledo-funeral-victimas-accidente-trenes": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-chomali-visita-leon-xiv-sudamerica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/cristo-urda-funeral-victimas-accidente": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/senor-milagros-recorrido-nocturno-chiclayo": "descartado_palabras",
+    "https://persecution.org/?p=4496294": "procesado",
+    "https://morningstarnews.org/?p=18559": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"f93dccf61dbc24c0dabaeb931e4af2c3\"",
-      "modified": "Thu, 29 Oct 2026 17:02:37 GMT"
+      "etag": "W/\"013cbca1ca864e03bf512f8fe2876697\"",
+      "modified": "Fri, 30 Oct 2026 17:46:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"1d3b09af40aaaf772c8bd42e47a6deb6\"",
-      "modified": "Thu, 29 Oct 2026 23:21:20 GMT"
+      "etag": "\"8f32dc0a681ec10c484f70216c7ea901\"",
+      "modified": "Fri, 30 Oct 2026 18:49:34 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5c5d43a20709f9e2e14e74c825951550\"",
-      "modified": "Fri, 30 Oct 2026 15:27:11 GMT"
+      "etag": "\"0753743b806906e79367c5f6bf2a5fa5\"",
+      "modified": "Fri, 30 Oct 2026 17:17:28 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-MW02SOf8wV3UgYyAAe1agkD8JCU\""
+      "etag": "W/\"84d6-38/0OUaWGF4SfJhE1qeg1Fzy11U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 30 Oct 2026 15:54:09 GMT"
+      "modified": "Fri, 30 Oct 2026 20:34:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-30 15:53",
+    "ultima_pasada_utc": "2026-10-30 20:35",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1484,6 +1494,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
