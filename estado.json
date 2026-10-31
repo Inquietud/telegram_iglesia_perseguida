@@ -1456,7 +1456,12 @@
     "https://www.ewtnnews.com/es/mundo/espana/cristo-urda-funeral-victimas-accidente": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/senor-milagros-recorrido-nocturno-chiclayo": "descartado_palabras",
     "https://persecution.org/?p=4496294": "procesado",
-    "https://morningstarnews.org/?p=18559": "procesado"
+    "https://morningstarnews.org/?p=18559": "procesado",
+    "https://www.ewtnnews.com/es/mundo/demonios-expediente-oculto-podcast-halloween": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/musicos-coreutas-misa-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/ewtn-fin-radio-onda-corta": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-ia-persona": "descartado_palabras",
+    "https://persecution.org/?p=4496300": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1464,8 +1469,8 @@
       "modified": "Fri, 30 Oct 2026 17:46:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"8f32dc0a681ec10c484f70216c7ea901\"",
-      "modified": "Fri, 30 Oct 2026 18:49:34 GMT"
+      "etag": "\"a67495996febbb3090c7c451d384c2fd\"",
+      "modified": "Fri, 30 Oct 2026 23:43:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"0753743b806906e79367c5f6bf2a5fa5\"",
@@ -1475,17 +1480,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-38/0OUaWGF4SfJhE1qeg1Fzy11U\""
+      "etag": "W/\"84d6-KZc7yE0+gPjTPX3Xmvzel0zejz0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 30 Oct 2026 20:34:03 GMT"
+      "modified": "Sat, 31 Oct 2026 00:04:16 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-30 20:35",
+    "ultima_pasada_utc": "2026-10-31 00:04",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1494,6 +1499,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
