@@ -1461,7 +1461,10 @@
     "https://www.ewtnnews.com/es/mundo/america/musicos-coreutas-misa-papa": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/ewtn-fin-radio-onda-corta": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-ia-persona": "descartado_palabras",
-    "https://persecution.org/?p=4496300": "procesado"
+    "https://persecution.org/?p=4496300": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/misionero-digital-comentarios-odio-redes": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fallece-arzobispo-cusco-richard-alarcon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/plataforma-apariciones-virgen-guadalupe-mexico": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1480,17 +1483,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-KZc7yE0+gPjTPX3Xmvzel0zejz0\""
+      "etag": "W/\"84d6-mn0XD/B+W7CKAj38DeSDQNPAs/k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 31 Oct 2026 00:04:16 GMT"
+      "modified": "Sat, 31 Oct 2026 05:32:56 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-10-31 00:04",
+    "ultima_pasada_utc": "2026-10-31 05:32",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
