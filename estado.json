@@ -1476,7 +1476,9 @@
     "https://www.ewtnnews.com/es/vaticano/papa-evacuacion-humanitaria-civiles-oleskhy": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/indulgencias-plenarias-asi-las-puedes-obtener-la-primera-semana-de-noviembre": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-1-de-noviembre-se-celebra-la-solemnidad-de-todos-los-santos": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-santidad-vocacion-universal": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-santidad-vocacion-universal": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fallece-obispo-puno-jorge-carrion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/beatifican-frailes-franciscanos-santidad-matrimonio": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1488,24 +1490,24 @@
       "modified": "Fri, 30 Oct 2026 23:43:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"0753743b806906e79367c5f6bf2a5fa5\"",
-      "modified": "Fri, 30 Oct 2026 17:17:28 GMT"
+      "etag": "\"e84168712bcd7888d6daa4c632396200\"",
+      "modified": "Sun, 01 Nov 2026 18:49:55 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-DNe00n9fnNeBlkN0NuJDVNZpxqA\""
+      "etag": "W/\"84d6-NbzXPTqTWfajWbV7XfvfF5ENOqA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 01 Nov 2026 16:19:58 GMT"
+      "modified": "Sun, 01 Nov 2026 20:42:23 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-01 16:19",
+    "ultima_pasada_utc": "2026-11-01 20:40",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
