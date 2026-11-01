@@ -1471,7 +1471,12 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-campeon-santo": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-intencion-oracion-noviembre-riqueza-egoismo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/dia-muertos-tradicion-fe-supersticion": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/santiago-schnell-renuncia-dartmouth-ia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/santiago-schnell-renuncia-dartmouth-ia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/humildad-merry-val-colchon-paja": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-evacuacion-humanitaria-civiles-oleskhy": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/indulgencias-plenarias-asi-las-puedes-obtener-la-primera-semana-de-noviembre": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-1-de-noviembre-se-celebra-la-solemnidad-de-todos-los-santos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-santidad-vocacion-universal": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1490,17 +1495,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-zLATcIjqnInZEjvc0Sc7V13boX8\""
+      "etag": "W/\"84d6-DNe00n9fnNeBlkN0NuJDVNZpxqA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 01 Nov 2026 09:29:53 GMT"
+      "modified": "Sun, 01 Nov 2026 16:19:58 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-01 09:31",
+    "ultima_pasada_utc": "2026-11-01 16:19",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
