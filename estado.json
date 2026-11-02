@@ -1478,7 +1478,8 @@
     "https://www.ewtnnews.com/es/mundo/cada-1-de-noviembre-se-celebra-la-solemnidad-de-todos-los-santos": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-santidad-vocacion-universal": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/fallece-obispo-puno-jorge-carrion": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/beatifican-frailes-franciscanos-santidad-matrimonio": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/beatifican-frailes-franciscanos-santidad-matrimonio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-2-de-noviembre-se-conmemora-a-todos-los-fieles-difuntos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1486,8 +1487,8 @@
       "modified": "Fri, 30 Oct 2026 17:46:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"56f00d1738ffc7d3fa8e76b73528b9c9\"",
-      "modified": "Sun, 01 Nov 2026 23:36:54 GMT"
+      "etag": "\"ba790268b3e972b2c4931cbd023da493\"",
+      "modified": "Mon, 02 Nov 2026 03:35:00 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"e84168712bcd7888d6daa4c632396200\"",
@@ -1497,17 +1498,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-UwYjgm8zCSwWK29HFGRnIlbSBfw\""
+      "etag": "W/\"84d6-7hAlQ37/DVurfyp1oTrGLd+qMJQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 01 Nov 2026 23:42:38 GMT"
+      "modified": "Mon, 02 Nov 2026 05:34:47 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-01 23:55",
+    "ultima_pasada_utc": "2026-11-02 05:46",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
