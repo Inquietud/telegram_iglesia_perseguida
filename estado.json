@@ -1482,7 +1482,19 @@
     "https://www.ewtnnews.com/es/mundo/cada-2-de-noviembre-se-conmemora-a-todos-los-fieles-difuntos": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/sacerdote-anima-rezar-por-difuntos-almas-purgatorio": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/propagandistas-salesianos-fallecidos-trenes-urda": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/4-oraciones-que-puedes-rezar-a-dios-por-tus-difuntos": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/4-oraciones-que-puedes-rezar-a-dios-por-tus-difuntos": "descartado_palabras",
+    "https://persecution.org/?p=4496349": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/vida-y-milagros-de-san-martin-de-porres-que-hizo-para-ser-santo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/virgen-chapi-jovenes-santos-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/luces-papa-montevideo-buenos-aires": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/papa-convirtio-ultima-palabra-santidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/lujan-papa-leon-xiv-basilica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-misa-fieles-difuntos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/sacerdotes-toledo-tragedia-trenes-urda": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arzobispo-nueva-york-demanda-contra-ley-suicidio-asistido": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/abren-causa-beatificacion-joven-scout-roma": "descartado_palabras",
+    "https://persecution.org/?p=4496342": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-justicia-crimen-maestra-argentina": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1490,28 +1502,28 @@
       "modified": "Fri, 30 Oct 2026 17:46:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ba790268b3e972b2c4931cbd023da493\"",
-      "modified": "Mon, 02 Nov 2026 03:35:00 GMT"
+      "etag": "\"ca27db33a7dc3eb81fd35e0fcff67f58\"",
+      "modified": "Mon, 02 Nov 2026 21:52:16 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"3213ef52b9437ebcb11876efcfbb0bb2\"",
-      "modified": "Mon, 02 Nov 2026 13:13:39 GMT"
+      "etag": "\"062fee921f64adb69a34e4011d20a136\"",
+      "modified": "Mon, 02 Nov 2026 16:53:26 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-sXi+hS3JCYcGrEGnkjvj48fqvPc\""
+      "etag": "W/\"84fa-z+810LtC2z2zmq4Dh4HdDI6qXFM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 02 Nov 2026 13:48:41 GMT"
+      "modified": "Mon, 02 Nov 2026 22:38:39 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-02 13:53",
+    "ultima_pasada_utc": "2026-11-02 22:38",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1520,6 +1532,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
