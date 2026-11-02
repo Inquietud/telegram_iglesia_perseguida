@@ -1479,7 +1479,10 @@
     "https://www.ewtnnews.com/es/vaticano/papa-santidad-vocacion-universal": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/fallece-obispo-puno-jorge-carrion": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/beatifican-frailes-franciscanos-santidad-matrimonio": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-2-de-noviembre-se-conmemora-a-todos-los-fieles-difuntos": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-2-de-noviembre-se-conmemora-a-todos-los-fieles-difuntos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/sacerdote-anima-rezar-por-difuntos-almas-purgatorio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/propagandistas-salesianos-fallecidos-trenes-urda": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/4-oraciones-que-puedes-rezar-a-dios-por-tus-difuntos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1491,24 +1494,24 @@
       "modified": "Mon, 02 Nov 2026 03:35:00 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"e84168712bcd7888d6daa4c632396200\"",
-      "modified": "Sun, 01 Nov 2026 18:49:55 GMT"
+      "etag": "\"3213ef52b9437ebcb11876efcfbb0bb2\"",
+      "modified": "Mon, 02 Nov 2026 13:13:39 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84d6-7hAlQ37/DVurfyp1oTrGLd+qMJQ\""
+      "etag": "W/\"84d6-sXi+hS3JCYcGrEGnkjvj48fqvPc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 02 Nov 2026 05:34:47 GMT"
+      "modified": "Mon, 02 Nov 2026 13:48:41 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-02 05:46",
+    "ultima_pasada_utc": "2026-11-02 13:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
