@@ -1512,24 +1512,24 @@
       "modified": "Tue, 03 Nov 2026 00:57:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"062fee921f64adb69a34e4011d20a136\"",
-      "modified": "Mon, 02 Nov 2026 16:53:26 GMT"
+      "etag": "\"638497e0c542d5f93e487f4698f27ecf\"",
+      "modified": "Tue, 03 Nov 2026 09:42:06 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-z6WHl+uerIqb4Q647pAvbzpgixI\""
+      "etag": "W/\"84fa-1y3ZIzGQ+XsdS/Ou9DHeJ99Iyg4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 03 Nov 2026 03:33:29 GMT"
+      "modified": "Tue, 03 Nov 2026 11:15:07 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-03 03:43",
+    "ultima_pasada_utc": "2026-11-03 11:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
