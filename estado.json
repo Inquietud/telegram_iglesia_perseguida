@@ -1509,7 +1509,12 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-carta-obispos-de-francia": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-3-de-noviembre-se-celebra-a-san-martin-de-porres-patrono-de-la-justicia-social": "descartado_palabras",
     "https://www.ewtnnews.com/es/vida-y-familia/testimonio-de-esperanza-de-ana-tras-perder-a-su-hermano-en-urda": "descartado_palabras",
-    "https://morningstarnews.org/?p=18570": "procesado"
+    "https://morningstarnews.org/?p=18570": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/celebro-holywins-america-latina-2026": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/senor-cautivo-ayabaca-chiclayo-prevost": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/comision-teologica-internacional-argentino-vaticano": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/uruguay-pan-postre-leon-xiv": "descartado_palabras",
+    "https://persecution.org/?p=4496365": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1517,28 +1522,28 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"91d26ffd8893def27e2114a0822c583e\"",
-      "modified": "Tue, 03 Nov 2026 00:57:02 GMT"
+      "etag": "\"b24f6d2fcab9264e5921fe62fe3ea6ec\"",
+      "modified": "Tue, 03 Nov 2026 19:46:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5f9fb143d9b034c621fda6f528f7c050\"",
-      "modified": "Tue, 03 Nov 2026 15:23:33 GMT"
+      "etag": "\"6581794ad69b013fc8f34ff83aac698d\"",
+      "modified": "Tue, 03 Nov 2026 23:02:16 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-a7bQvQiEOdQocWxEkDEA4twD7w4\""
+      "etag": "W/\"84fa-3IV46ZKL6VzMLbs7c+pRR37U3mY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 03 Nov 2026 11:15:07 GMT"
+      "modified": "Tue, 03 Nov 2026 23:41:28 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-03 18:36",
+    "ultima_pasada_utc": "2026-11-03 23:42",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
