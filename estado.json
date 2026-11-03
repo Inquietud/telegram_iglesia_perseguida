@@ -1494,7 +1494,13 @@
     "https://www.ewtnnews.com/es/mundo/america/arzobispo-nueva-york-demanda-contra-ley-suicidio-asistido": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/abren-causa-beatificacion-joven-scout-roma": "descartado_palabras",
     "https://persecution.org/?p=4496342": "procesado",
-    "https://www.ewtnnews.com/es/mundo/america/iglesia-justicia-crimen-maestra-argentina": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-justicia-crimen-maestra-argentina": "procesado",
+    "https://persecution.org/?p=4496353": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/datos-viaje-papa-leon-xiv-uruguay-argentina-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/con-las-bienaventuranzas-jesus-no-nos-propone-un-sueno-imposible-afirma-obispo-nicaragueense": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispo-palm-beach-mes-morado": "descartado_palabras",
+    "https://persecution.org/?p=4496360": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/sacerdote-mexicano-desaparecido-golpeado-amenazado": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1502,8 +1508,8 @@
       "modified": "Fri, 30 Oct 2026 17:46:03 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ca27db33a7dc3eb81fd35e0fcff67f58\"",
-      "modified": "Mon, 02 Nov 2026 21:52:16 GMT"
+      "etag": "\"91d26ffd8893def27e2114a0822c583e\"",
+      "modified": "Tue, 03 Nov 2026 00:57:02 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"062fee921f64adb69a34e4011d20a136\"",
@@ -1513,17 +1519,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-z+810LtC2z2zmq4Dh4HdDI6qXFM\""
+      "etag": "W/\"84fa-z6WHl+uerIqb4Q647pAvbzpgixI\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 02 Nov 2026 22:38:39 GMT"
+      "modified": "Tue, 03 Nov 2026 03:33:29 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-02 22:38",
+    "ultima_pasada_utc": "2026-11-03 03:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
