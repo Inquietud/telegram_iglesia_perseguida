@@ -1514,7 +1514,10 @@
     "https://www.ewtnnews.com/es/mundo/america/senor-cautivo-ayabaca-chiclayo-prevost": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/comision-teologica-internacional-argentino-vaticano": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/uruguay-pan-postre-leon-xiv": "descartado_palabras",
-    "https://persecution.org/?p=4496365": "procesado"
+    "https://persecution.org/?p=4496365": "procesado",
+    "https://persecution.org/?p=4496367": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/consagracion-maria-madre-misericordia-preparacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-misa-migrantes-muertos-frontera": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1522,8 +1525,8 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"b24f6d2fcab9264e5921fe62fe3ea6ec\"",
-      "modified": "Tue, 03 Nov 2026 19:46:40 GMT"
+      "etag": "\"0b2cf0ac4c4ed74936b097983d3c87a7\"",
+      "modified": "Wed, 04 Nov 2026 01:08:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6581794ad69b013fc8f34ff83aac698d\"",
@@ -1533,17 +1536,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-3IV46ZKL6VzMLbs7c+pRR37U3mY\""
+      "etag": "W/\"84fa-UgQZ/WjvXXu+5jNGSYw8PdQRRgs\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 03 Nov 2026 23:41:28 GMT"
+      "modified": "Wed, 04 Nov 2026 03:14:06 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-03 23:42",
+    "ultima_pasada_utc": "2026-11-04 03:21",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
