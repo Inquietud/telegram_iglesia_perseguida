@@ -1519,7 +1519,17 @@
     "https://www.ewtnnews.com/es/mundo/consagracion-maria-madre-misericordia-preparacion": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/obispos-misa-migrantes-muertos-frontera": "procesado",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-paz-mundial-economia-injusta": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-gaudium-spes": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-gaudium-spes": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/jose-masip-propagandistas-iglesia-fe": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/elecciones-medio-termino-estados-unidos-aborto": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/quienes-van-al-purgatorio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/el-primer-aceite-de-la-cosecha-llega-al-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-servidores-paz": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-recibe-a-presidente-chile-jose-antonio-kast": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/aneto-pirineos-recupera-cruz-tras-acto-vandalico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/fray-alejandro-reza-difuntos-cementerio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-pide-oraciones-viaje-sudamerica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-4-de-noviembre-se-celebra-a-san-carlos-borromeo-patrono-del-papa-san-juan-pablo-ii": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1531,32 +1541,34 @@
       "modified": "Wed, 04 Nov 2026 01:08:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"1c98e9a7a179dbd085bb092b845fb887\"",
-      "modified": "Wed, 04 Nov 2026 11:08:53 GMT"
+      "etag": "\"180d00353d128c727886d232210b7a0d\"",
+      "modified": "Wed, 04 Nov 2026 15:40:13 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-r7cp4kf82N2rLWAwfpxTFGwtCsg\""
+      "etag": "W/\"84fa-DXld9aQ1sNiwqMVlSuK6zy8qTFw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 04 Nov 2026 11:20:58 GMT"
+      "modified": "Wed, 04 Nov 2026 18:46:12 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-04 11:22",
-    "en_cola_al_empezar": 0,
+    "ultima_pasada_utc": "2026-11-04 18:45",
+    "en_cola_al_empezar": 1,
     "tipos_permitidos": [
       "message",
       "callback_query"
     ],
-    "updates_recibidos": 0,
+    "updates_recibidos": 1,
     "pulsaciones": [],
-    "mensajes": [],
+    "mensajes": [
+      "/status"
+    ],
     "publicados_ultima_pasada": 1
   }
 }
