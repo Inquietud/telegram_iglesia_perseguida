@@ -1517,7 +1517,9 @@
     "https://persecution.org/?p=4496365": "procesado",
     "https://persecution.org/?p=4496367": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/consagracion-maria-madre-misericordia-preparacion": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/obispos-misa-migrantes-muertos-frontera": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/obispos-misa-migrantes-muertos-frontera": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-paz-mundial-economia-injusta": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-gaudium-spes": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1529,24 +1531,24 @@
       "modified": "Wed, 04 Nov 2026 01:08:46 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"6581794ad69b013fc8f34ff83aac698d\"",
-      "modified": "Tue, 03 Nov 2026 23:02:16 GMT"
+      "etag": "\"1c98e9a7a179dbd085bb092b845fb887\"",
+      "modified": "Wed, 04 Nov 2026 11:08:53 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-UgQZ/WjvXXu+5jNGSYw8PdQRRgs\""
+      "etag": "W/\"84fa-r7cp4kf82N2rLWAwfpxTFGwtCsg\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 04 Nov 2026 03:14:06 GMT"
+      "modified": "Wed, 04 Nov 2026 11:20:58 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-04 03:21",
+    "ultima_pasada_utc": "2026-11-04 11:22",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
