@@ -1529,7 +1529,11 @@
     "https://www.ewtnnews.com/es/mundo/aneto-pirineos-recupera-cruz-tras-acto-vandalico": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/fray-alejandro-reza-difuntos-cementerio": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-pide-oraciones-viaje-sudamerica": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-4-de-noviembre-se-celebra-a-san-carlos-borromeo-patrono-del-papa-san-juan-pablo-ii": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-4-de-noviembre-se-celebra-a-san-carlos-borromeo-patrono-del-papa-san-juan-pablo-ii": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/santuarios-marianos-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-obispos-guadalajara": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/emilce-cuda-leon-xiv-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-bob-dylan": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1548,27 +1552,25 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-DXld9aQ1sNiwqMVlSuK6zy8qTFw\""
+      "etag": "W/\"84fa-6cI5tgHZE2GO484zfJKPAOTOXiU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 04 Nov 2026 18:46:12 GMT"
+      "modified": "Wed, 04 Nov 2026 23:58:00 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-04 18:45",
-    "en_cola_al_empezar": 1,
+    "ultima_pasada_utc": "2026-11-04 23:57",
+    "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
       "callback_query"
     ],
-    "updates_recibidos": 1,
+    "updates_recibidos": 0,
     "pulsaciones": [],
-    "mensajes": [
-      "/status"
-    ],
+    "mensajes": [],
     "publicados_ultima_pasada": 1
   }
 }
