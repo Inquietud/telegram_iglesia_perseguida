@@ -1533,7 +1533,10 @@
     "https://www.ewtnnews.com/es/mundo/america/santuarios-marianos-papa-leon-xiv": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-obispos-guadalajara": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/emilce-cuda-leon-xiv-papa": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-bob-dylan": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-bob-dylan": "descartado_palabras",
+    "https://persecution.org/?p=4496378": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/eventos-papa-leon-xiv-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papamovil-papa-leon-xiv-peru": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1541,8 +1544,8 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"0b2cf0ac4c4ed74936b097983d3c87a7\"",
-      "modified": "Wed, 04 Nov 2026 01:08:46 GMT"
+      "etag": "\"57db8f66c3841b7b1d7a6a45e7bc50b8\"",
+      "modified": "Thu, 05 Nov 2026 05:23:16 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"180d00353d128c727886d232210b7a0d\"",
@@ -1552,7 +1555,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-6cI5tgHZE2GO484zfJKPAOTOXiU\""
+      "etag": "W/\"84fa-UGxiCw16TK7M4JI9L53T/fARLow\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Wed, 04 Nov 2026 23:58:00 GMT"
@@ -1562,7 +1565,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-04 23:57",
+    "ultima_pasada_utc": "2026-11-05 06:29",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
