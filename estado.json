@@ -1540,7 +1540,13 @@
     "https://www.ewtnnews.com/es/mundo/america/estados-unidos-obispos-y-movimiento-provida-resultados-referendum-aborto": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/absolucion-general-muerte-indulgencias-difuntos": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/sacerdote-peruano-espera-con-ilusion-a-leon-xiv": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-5-de-noviembre-se-celebra-a-san-zacarias-y-santa-isabel-padres-de-juan-bautista": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-5-de-noviembre-se-celebra-a-san-zacarias-y-santa-isabel-padres-de-juan-bautista": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/comedor-popular-leon-xiv-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/congreso-catolico-ia-servicio-trabajadores": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/seis-similitudes-del-papa-leon-xiv-con-los-santos-peruanos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-misa-cardenales-y-obispos-fallecidos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-comunidad-enfermo-2027": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/diocesis-orense-premia-hombre-sacristan": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1548,28 +1554,28 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"57db8f66c3841b7b1d7a6a45e7bc50b8\"",
-      "modified": "Thu, 05 Nov 2026 05:23:16 GMT"
+      "etag": "\"42b247b4c800f6688206b3b7b69029b0\"",
+      "modified": "Thu, 05 Nov 2026 14:44:04 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"180d00353d128c727886d232210b7a0d\"",
-      "modified": "Wed, 04 Nov 2026 15:40:13 GMT"
+      "etag": "\"460270371e2cbe452924196cb13c5689\"",
+      "modified": "Thu, 05 Nov 2026 17:58:56 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-NFZH6TSj20uf1C9M83iCyWJNnnQ\""
+      "etag": "W/\"84fa-FRAnSqjc+K+senV6+aZxQaZzKcU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 04 Nov 2026 23:58:00 GMT"
+      "modified": "Thu, 05 Nov 2026 21:25:46 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-05 14:55",
+    "ultima_pasada_utc": "2026-11-05 21:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
