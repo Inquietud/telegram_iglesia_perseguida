@@ -1554,7 +1554,12 @@
     "https://persecution.org/?p=4496384": "procesado",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-uruguay-sudamerica": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/obispos-puerto-rico-oleada-antivida": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/paso-familia-2026-dominicanos-fe": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/paso-familia-2026-dominicanos-fe": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-argentina-confesion-20-anos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/congreso-de-colombia-debatira-vientres-de-alquiler": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/legionarios-de-cristo-sexto-informe-anual-sobre-abusos-y-atencion-a-victimas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/beatificacion-fray-augusto-ramirez-monasterio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-6-de-noviembre-se-celebra-a-san-leonardo-de-noblac-patrono-de-parturientas-y-prisioneros": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1562,28 +1567,28 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"e7b73ae695bc443904f38776847e7279\"",
-      "modified": "Thu, 05 Nov 2026 23:32:07 GMT"
+      "etag": "\"e9980a04b64e008f02e8a8033b55ca8b\"",
+      "modified": "Fri, 06 Nov 2026 13:50:17 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"460270371e2cbe452924196cb13c5689\"",
-      "modified": "Thu, 05 Nov 2026 17:58:56 GMT"
+      "etag": "\"a726bf44f434299b28090d7413832808\"",
+      "modified": "Fri, 06 Nov 2026 15:46:39 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-P6ty4QxpI2jLyN94Sqjdxi1VNHQ\""
+      "etag": "W/\"84fa-//+0fnilwbKpIoqEYV42TPiTMPA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 06 Nov 2026 08:22:12 GMT"
+      "modified": "Fri, 06 Nov 2026 16:09:16 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-06 08:35",
+    "ultima_pasada_utc": "2026-11-06 16:17",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
