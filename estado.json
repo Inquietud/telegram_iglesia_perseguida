@@ -1546,7 +1546,12 @@
     "https://www.ewtnnews.com/es/mundo/america/seis-similitudes-del-papa-leon-xiv-con-los-santos-peruanos": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-misa-cardenales-y-obispos-fallecidos": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-comunidad-enfermo-2027": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/diocesis-orense-premia-hombre-sacristan": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/diocesis-orense-premia-hombre-sacristan": "descartado_palabras",
+    "https://persecution.org/?p=4496396": "descartado_palabras",
+    "https://persecution.org/?p=4496392": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cortes-papa-leon-xiv-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/menu-papa-leon-trabajo-argentina": "descartado_palabras",
+    "https://persecution.org/?p=4496384": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1554,8 +1559,8 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"42b247b4c800f6688206b3b7b69029b0\"",
-      "modified": "Thu, 05 Nov 2026 14:44:04 GMT"
+      "etag": "\"e7b73ae695bc443904f38776847e7279\"",
+      "modified": "Thu, 05 Nov 2026 23:32:07 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"460270371e2cbe452924196cb13c5689\"",
@@ -1565,17 +1570,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-FRAnSqjc+K+senV6+aZxQaZzKcU\""
+      "etag": "W/\"84fa-dmkSUiYFvA0y9heUOTgAH1ihqiM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 05 Nov 2026 21:25:46 GMT"
+      "modified": "Fri, 06 Nov 2026 01:45:24 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-05 21:25",
+    "ultima_pasada_utc": "2026-11-06 01:45",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
