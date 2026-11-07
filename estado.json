@@ -1567,7 +1567,15 @@
     "https://www.ewtnnews.com/es/libertad-religiosa/sacerdote-obligado-quitarse-traje-eclesiastico": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/pelicula-en-busca-del-mesias-judios-conversos-al-catolicismo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/papa-leon-xiv-quiso-ser-peruano": "descartado_palabras",
-    "https://persecution.org/?p=4496408": "procesado"
+    "https://persecution.org/?p=4496408": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/yamandu-orsi-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-montevideo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/jacinto-vera-beato-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/senor-milagros-leon-xiv-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/artigas-padre-nacion-papa-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-papa-leon-xiv-discurso-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-discurso-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-uruguay-proteger-vida": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1586,17 +1594,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-GOHcSdnvyyP6o4GSzRi5hC0/qc0\""
+      "etag": "W/\"84fa-1OncYfW9PYrcsbk+1V2COivMJec\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 06 Nov 2026 21:25:03 GMT"
+      "modified": "Sat, 07 Nov 2026 01:14:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-06 21:38",
+    "ultima_pasada_utc": "2026-11-07 01:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
