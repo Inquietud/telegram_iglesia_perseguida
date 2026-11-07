@@ -1584,7 +1584,14 @@
     "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-paysandu-uruguay": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-7-de-noviembre-se-recuerda-al-beato-francisco-palau-predicador-de-las-misiones-populares": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-acepta-renuncia-arzobispo-de-santiago-de-cuba": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-segundo-dia-uruguay": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-segundo-dia-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/papa-sacude-uruguay-interes-fe": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/coro-misa-leon-xiv-buenos-aires": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/nuevo-obispo-diocesis-san-lorenzo-paraguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fotos-montevideo-papa-leon-xiv-visita": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-rueda-misa-holocausto-palacio-de-justicia-colombia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-anima-a-uruguay-a-ser-una-comunidad-de-oracion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/10-frases-homilia-papa-leon-xiv-paysandu-uruguay": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1603,17 +1610,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-oYrK1J6QiQhHuqXF8DjS+nAXN0c\""
+      "etag": "W/\"84fa-ozNAIu8BBku721b9wS9MU3odMPM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 07 Nov 2026 14:15:29 GMT"
+      "modified": "Sat, 07 Nov 2026 18:53:10 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-07 14:15",
+    "ultima_pasada_utc": "2026-11-07 18:52",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
