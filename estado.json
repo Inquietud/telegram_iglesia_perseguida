@@ -1580,7 +1580,11 @@
     "https://www.ewtnnews.com/es/vaticano/fotos-papa-leon-xiv-uruguay": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/uruguayos-primer-dia-papa-leon": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/uruguay-herida-aborto-papa-leon": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/futbol-frances-fe-seminaristas-monterrey": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/futbol-frances-fe-seminaristas-monterrey": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-paysandu-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-7-de-noviembre-se-recuerda-al-beato-francisco-palau-predicador-de-las-misiones-populares": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-acepta-renuncia-arzobispo-de-santiago-de-cuba": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-segundo-dia-uruguay": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1599,17 +1603,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-jIX3yRwuXD5g+MJUwaMLRUwlSvs\""
+      "etag": "W/\"84fa-oYrK1J6QiQhHuqXF8DjS+nAXN0c\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 07 Nov 2026 07:20:02 GMT"
+      "modified": "Sat, 07 Nov 2026 14:15:29 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-07 07:19",
+    "ultima_pasada_utc": "2026-11-07 14:15",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
