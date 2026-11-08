@@ -1593,7 +1593,10 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-anima-a-uruguay-a-ser-una-comunidad-de-oracion": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/10-frases-homilia-papa-leon-xiv-paysandu-uruguay": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-educacion-uruguay": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-casavalle-uruguay": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-casavalle-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-vigilia-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/vigilia-oracion-leon-xiv-uruguay": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-delincuencia-violenta": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1612,17 +1615,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-M24Bv9UGRL/c7WU5MEIID1LoM1c\""
+      "etag": "W/\"84fa-B045CsTAuxOqRX4YoDrgh7MxaPY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sat, 07 Nov 2026 22:31:09 GMT"
+      "modified": "Sun, 08 Nov 2026 01:45:15 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-07 22:31",
+    "ultima_pasada_utc": "2026-11-08 01:46",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
