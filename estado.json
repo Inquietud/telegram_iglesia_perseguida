@@ -1615,7 +1615,17 @@
     "https://www.ewtnnews.com/es/mundo/america/fallece-obispo-agustino-amigo-leon": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-leon-bendicion-casan-letrero": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/voluntarios-misa-papa-leon-buenos": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/leon-xiv-atentado-muertos-cracovia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/leon-xiv-atentado-muertos-cracovia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/encuentro-papa-trabajadores-empresarios-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-familia-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/descarga-ebook-mensajes-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-papa-leon-xiv-misa-monumento-espanoles-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-misa-monumento-espanoles-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/frases-papa-leon-xiv-cottolengo-claypole": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/testimonio-mujer-abandonada-por-discapacidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-discurso-centro-pequeno-cottolengo-don-orione-de-claypole-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/proyecto-catolicos-miedo-estudiar-biblia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/cardenal-cobo-nuevas-iniciativas-evangelizacion-madrid": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1627,24 +1637,24 @@
       "modified": "Fri, 06 Nov 2026 21:07:04 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"c28ea07a4a79a199e129242552acfa00\"",
-      "modified": "Mon, 09 Nov 2026 09:12:29 GMT"
+      "etag": "\"6579a544743b150bfee3f7a2996b87bd\"",
+      "modified": "Mon, 09 Nov 2026 15:11:47 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-VzJx3tMYivObnPXQba8AfVghWrY\""
+      "etag": "W/\"84fa-IhlL8UPL0mkV4rQ7XMgpqlP2Bs4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 09 Nov 2026 10:25:47 GMT"
+      "modified": "Mon, 09 Nov 2026 21:00:01 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-09 10:25",
+    "ultima_pasada_utc": "2026-11-09 20:59",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
