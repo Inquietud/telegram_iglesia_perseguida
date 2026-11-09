@@ -1608,7 +1608,11 @@
     "https://www.ewtnnews.com/es/vaticano/frases-papa-leon-xiv-santuario-virgen-de-los-treinta-y-tres-uruguay": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-santuario-virgen-treinta-y-tres-uruguay": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-misa-santuario-virgen-de-los-treinta-y-tres-uruguay": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/discurso-papa-autoridades-sociedad-argentina": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/discurso-papa-autoridades-sociedad-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/javier-milei-papa-leon-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-discurso-papa-leon-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-crecimiento-economico-necesitados": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fallece-obispo-agustino-amigo-leon": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1627,17 +1631,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-ib9ber30/Zodc2CJpQCsAXZXHAA\""
+      "etag": "W/\"84fa-J8z7/Jxgka6eqyHXZql1EC9Ky10\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 08 Nov 2026 23:07:56 GMT"
+      "modified": "Mon, 09 Nov 2026 02:44:31 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-08 23:11",
+    "ultima_pasada_utc": "2026-11-09 02:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
