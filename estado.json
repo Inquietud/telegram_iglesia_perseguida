@@ -1652,7 +1652,15 @@
     "https://www.ewtnnews.com/es/mundo/espana/nuncio-pioppo-evangelio-politico-social": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-lamenta-ninos-desplazados-creciendo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-10-de-noviembre-se-celebra-a-san-leon-magno-doctor-de-la-iglesia-y-protector-de-los-indefensos": "descartado_palabras",
-    "https://morningstarnews.org/?p=18574": "procesado"
+    "https://morningstarnews.org/?p=18574": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/ancianos-esperan-papa-leon-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/calendario-de-adviento-lecturas-y-oraciones-cada-domingo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-clero-argentino-iglesia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-rossi-iglesia-pies-barro": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-vocacion-leon-xiv-catdreal-cordoba": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/testimonio-de-sacerdote-que-quedo-sin-oxigeno-durante-una-operacion-estremece-el-encuentro-del": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/texto-discurso-papa-leon-xiv-cordoba": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/funeral-victimas-tren-urda-espana": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1660,8 +1668,8 @@
       "modified": "Tue, 10 Nov 2026 18:47:17 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"2d465c56bd217aed59a1cae1bed3f35d\"",
-      "modified": "Tue, 10 Nov 2026 17:33:29 GMT"
+      "etag": "\"cb078b715defc382f6958a54012f6b78\"",
+      "modified": "Tue, 10 Nov 2026 19:51:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"33c10ad21eed1d3150e9cafea0bef9f5\"",
@@ -1671,7 +1679,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-cfpI9NR9qHh0X7zi8NYGGcXJ3V0\""
+      "etag": "W/\"84fa-hWx+YgVjs2auDqeNAdFilW9PfcM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 10 Nov 2026 11:40:35 GMT"
@@ -1681,7 +1689,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-10 18:52",
+    "ultima_pasada_utc": "2026-11-10 23:55",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
