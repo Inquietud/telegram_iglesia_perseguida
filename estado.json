@@ -1625,7 +1625,19 @@
     "https://www.ewtnnews.com/es/mundo/testimonio-mujer-abandonada-por-discapacidad": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-discurso-centro-pequeno-cottolengo-don-orione-de-claypole-argentina": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/proyecto-catolicos-miedo-estudiar-biblia": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/cardenal-cobo-nuevas-iniciativas-evangelizacion-madrid": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/cardenal-cobo-nuevas-iniciativas-evangelizacion-madrid": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-unidad-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/fotos-papa-leon-xiv-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/misa-multitudinaria-leon-xiv-historias": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-trabajadores-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/cartoneros-empresarios-trabajadores-argentina-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-catedral-buenos-aires": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/athenas-cantar-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-reune-victimas-abusos-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/encuentro-papa-lideres-religiosos-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-caridad-obispos-argentinos": "descartado_palabras",
+    "https://persecution.org/?p=4496420": "procesado",
+    "https://persecution.org/?p=4496413": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1633,8 +1645,8 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"cec5445884f5e161f175835ab5f2e897\"",
-      "modified": "Fri, 06 Nov 2026 21:07:04 GMT"
+      "etag": "\"b8c25cacb04834286534d1982fa6042b\"",
+      "modified": "Tue, 10 Nov 2026 00:04:25 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"6579a544743b150bfee3f7a2996b87bd\"",
@@ -1644,17 +1656,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-IhlL8UPL0mkV4rQ7XMgpqlP2Bs4\""
+      "etag": "W/\"84fa-8dRrb+GoqDNE5EjJx4MeCwe1/+M\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 09 Nov 2026 21:00:01 GMT"
+      "modified": "Tue, 10 Nov 2026 03:27:53 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-09 20:59",
+    "ultima_pasada_utc": "2026-11-10 03:28",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1663,6 +1675,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
