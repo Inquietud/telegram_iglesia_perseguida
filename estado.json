@@ -1637,7 +1637,10 @@
     "https://www.ewtnnews.com/es/vaticano/encuentro-papa-lideres-religiosos-argentina": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-caridad-obispos-argentinos": "descartado_palabras",
     "https://persecution.org/?p=4496420": "procesado",
-    "https://persecution.org/?p=4496413": "procesado"
+    "https://persecution.org/?p=4496413": "procesado",
+    "https://persecution.org/?p=4496437": "procesado",
+    "https://persecution.org/?p=4496431": "procesado",
+    "https://persecution.org/?p=4496425": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1645,28 +1648,28 @@
       "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"b8c25cacb04834286534d1982fa6042b\"",
-      "modified": "Tue, 10 Nov 2026 00:04:25 GMT"
+      "etag": "\"97a3b5a355dbad275bc6864f36df9385\"",
+      "modified": "Tue, 10 Nov 2026 06:09:39 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"6579a544743b150bfee3f7a2996b87bd\"",
-      "modified": "Mon, 09 Nov 2026 15:11:47 GMT"
+      "etag": "\"2f0ea0067486623de2cd4bec8c88c31d\"",
+      "modified": "Tue, 10 Nov 2026 11:36:09 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-8dRrb+GoqDNE5EjJx4MeCwe1/+M\""
+      "etag": "W/\"84fa-LDT57jtxLLo0Kt3B7a6AdinqdC4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 10 Nov 2026 03:27:53 GMT"
+      "modified": "Tue, 10 Nov 2026 11:40:35 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-10 03:28",
+    "ultima_pasada_utc": "2026-11-10 11:40",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1675,6 +1678,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 3
   }
 }
