@@ -1640,26 +1640,38 @@
     "https://persecution.org/?p=4496413": "procesado",
     "https://persecution.org/?p=4496437": "procesado",
     "https://persecution.org/?p=4496431": "procesado",
-    "https://persecution.org/?p=4496425": "procesado"
+    "https://persecution.org/?p=4496425": "procesado",
+    "https://persecution.org/?p=4496443": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fallecio-aguer-arzobispo-emerito-plata": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cae-35-catolicos-iberoamerica-estudio": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-argentina-cordoba-buenos-aires": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-misa-cordoba-vayan-evangelicen": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-cordoba": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/adviento-inicia-nuevo-ciclo-liturgico-significado": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-santos-argentinos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/nuncio-pioppo-evangelio-politico-social": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-lamenta-ninos-desplazados-creciendo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-10-de-noviembre-se-celebra-a-san-leon-magno-doctor-de-la-iglesia-y-protector-de-los-indefensos": "descartado_palabras",
+    "https://morningstarnews.org/?p=18574": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"9fa03257c6c7adc28652d80f0585dbd5\"",
-      "modified": "Tue, 03 Nov 2026 16:05:51 GMT"
+      "etag": "W/\"983a028e700de973cc2037f360ae611e\"",
+      "modified": "Tue, 10 Nov 2026 18:47:17 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"97a3b5a355dbad275bc6864f36df9385\"",
-      "modified": "Tue, 10 Nov 2026 06:09:39 GMT"
+      "etag": "\"2d465c56bd217aed59a1cae1bed3f35d\"",
+      "modified": "Tue, 10 Nov 2026 17:33:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"2f0ea0067486623de2cd4bec8c88c31d\"",
-      "modified": "Tue, 10 Nov 2026 11:36:09 GMT"
+      "etag": "\"33c10ad21eed1d3150e9cafea0bef9f5\"",
+      "modified": "Tue, 10 Nov 2026 16:57:34 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-LDT57jtxLLo0Kt3B7a6AdinqdC4\""
+      "etag": "W/\"84fa-cfpI9NR9qHh0X7zi8NYGGcXJ3V0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 10 Nov 2026 11:40:35 GMT"
@@ -1669,7 +1681,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-10 11:40",
+    "ultima_pasada_utc": "2026-11-10 18:52",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1678,6 +1690,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 3
+    "publicados_ultima_pasada": 1
   }
 }
