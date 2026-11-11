@@ -1669,7 +1669,12 @@
     "https://www.ewtnnews.com/es/mundo/america/obispo-alienta-acompanamiento-drama-suicidio": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/toribio-mogrovejo-patrono-derechos-humanos": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/dialogo-papa-leon-xiv-jovenes": "descartado_palabras",
-    "https://persecution.org/?p=4496447": "procesado"
+    "https://persecution.org/?p=4496447": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-argentina-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/leon-xiv-arzobispo-barcelona-omella": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/juventud-papa-encuentro-leon-xiv-buenos-aires": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/texto-papa-leon-xiv-complejo-penitenciario-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-11-de-noviembre-se-celebra-a-san-martin-de-tours-patrono-de-la-guardia-suiza-pontificia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1681,24 +1686,24 @@
       "modified": "Wed, 11 Nov 2026 01:13:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"33c10ad21eed1d3150e9cafea0bef9f5\"",
-      "modified": "Tue, 10 Nov 2026 16:57:34 GMT"
+      "etag": "\"0d606fdecf45b2354811c7f63d71e865\"",
+      "modified": "Wed, 11 Nov 2026 13:05:21 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-Jkq5lBLQMZ4sFGRPiDxtxoZTs0g\""
+      "etag": "W/\"84fa-SPnClbgsKasX5VzH2Nr4LiivYKY\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 10 Nov 2026 11:40:35 GMT"
+      "modified": "Wed, 11 Nov 2026 13:20:21 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-11 05:50",
+    "ultima_pasada_utc": "2026-11-11 13:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
