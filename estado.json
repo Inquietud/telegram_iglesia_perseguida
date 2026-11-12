@@ -1674,36 +1674,47 @@
     "https://www.ewtnnews.com/es/mundo/espana/leon-xiv-arzobispo-barcelona-omella": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/juventud-papa-encuentro-leon-xiv-buenos-aires": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/texto-papa-leon-xiv-complejo-penitenciario-argentina": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-11-de-noviembre-se-celebra-a-san-martin-de-tours-patrono-de-la-guardia-suiza-pontificia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-11-de-noviembre-se-celebra-a-san-martin-de-tours-patrono-de-la-guardia-suiza-pontificia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/obispos-britanicos-proyecto-de-ley-identidad-genero": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/los-domingos-de-adviento-preparacion-para-la-navidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/la-corona-de-adviento-como-armarla-en-5-pasos-la-bendicion-oficial-y-oraciones": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/presidente-episcopado-papa-leon-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/catolicos-mexico-ano-jubilar-cristiada": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/intervenciones-papa-leon-xiv-argentina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/presidente-obispos-peru-anhelo-santidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/vaticano-maximo-tribunal-de-apelaciones-critica-publicacion-listas-de-clerigos-creiblemente-acusados": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arzobispo-panama-papa-leon-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/augusto-rafael-ramirez-monasterio-beato": "descartado_palabras",
+    "https://morningstarnews.org/?p=18580": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"983a028e700de973cc2037f360ae611e\"",
-      "modified": "Tue, 10 Nov 2026 18:47:17 GMT"
+      "etag": "W/\"6b3c603b5614cf1b1907518592f1d1e3\"",
+      "modified": "Wed, 11 Nov 2026 19:08:48 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"c9474c14373ac60db26341fd6d4ab30f\"",
       "modified": "Wed, 11 Nov 2026 01:13:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"0d606fdecf45b2354811c7f63d71e865\"",
-      "modified": "Wed, 11 Nov 2026 13:05:21 GMT"
+      "etag": "\"275fa0524c9d6061f9c7f96df3548fa7\"",
+      "modified": "Wed, 11 Nov 2026 15:28:52 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-SPnClbgsKasX5VzH2Nr4LiivYKY\""
+      "etag": "W/\"84fa-FgxC577MY4Ys4UieJomMAjOR6sU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 11 Nov 2026 13:20:21 GMT"
+      "modified": "Thu, 12 Nov 2026 01:56:53 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-11 13:25",
+    "ultima_pasada_utc": "2026-11-12 01:57",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
