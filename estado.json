@@ -1685,7 +1685,14 @@
     "https://www.ewtnnews.com/es/vaticano/vaticano-maximo-tribunal-de-apelaciones-critica-publicacion-listas-de-clerigos-creiblemente-acusados": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/arzobispo-panama-papa-leon-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/augusto-rafael-ramirez-monasterio-beato": "descartado_palabras",
-    "https://morningstarnews.org/?p=18580": "procesado"
+    "https://morningstarnews.org/?p=18580": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-vuelve-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/aqui-estoy-hoy-en-casa-dice-el-papa-leon-y-alienta-a-ser-constructores-de-paz": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/keiko-fujimori-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-discurso-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-despidio-argentinos-lujan": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/obispos-franceses-eutanasia-hospitales-catolicos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/discurso-papa-autoridades-sociedad-peru": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1697,24 +1704,24 @@
       "modified": "Wed, 11 Nov 2026 01:13:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"275fa0524c9d6061f9c7f96df3548fa7\"",
-      "modified": "Wed, 11 Nov 2026 15:28:52 GMT"
+      "etag": "\"1bdeadb237c3d286a070fd07776420ef\"",
+      "modified": "Thu, 12 Nov 2026 08:46:34 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-FgxC577MY4Ys4UieJomMAjOR6sU\""
+      "etag": "W/\"84fa-zZjbNIHqOLve5yF08WtHlzAv6+k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Thu, 12 Nov 2026 01:56:53 GMT"
+      "modified": "Thu, 12 Nov 2026 09:41:19 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-12 01:57",
+    "ultima_pasada_utc": "2026-11-12 09:41",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
