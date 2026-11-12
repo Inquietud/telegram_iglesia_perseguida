@@ -1700,7 +1700,17 @@
     "https://www.ewtnnews.com/es/vaticano/texto-encuentro-papa-leon-obispos-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/capellan-carcel-llorar-papa-dios": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-12-de-noviembre-se-celebra-la-fiesta-de-san-josafat-martir-conocido-como-el-ladron-de-almas": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/espana/real-academia-espanola-incorpora-cristianofobia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/espana/real-academia-espanola-incorpora-cristianofobia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-papa-leon-xiv-futuro-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arquidiocesis-pide-no-levantar-manos-padrenuestro": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-brasil-directrices-evangelizacion-internet": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/frases-papa-leon-xiv-a-obispos-sacerdotes-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arquidiocesis-olinda-recife-350-anos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/joseph-walijewski-vaticano-canonizacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-estadounidenses-senado-haitianos-deportacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/jennifer-hudson-concierto-navideno-vaticano": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/estola-chiclayo-papa-leon-xiv-peru": "descartado_palabras",
+    "https://persecution.org/?p=4496457": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1708,18 +1718,18 @@
       "modified": "Wed, 11 Nov 2026 19:08:48 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"c9474c14373ac60db26341fd6d4ab30f\"",
-      "modified": "Wed, 11 Nov 2026 01:13:29 GMT"
+      "etag": "\"55acac17c0622f8c985d6d75b8b9c206\"",
+      "modified": "Thu, 12 Nov 2026 22:33:52 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b2d1ba39674af5eaf14bec51d889a83b\"",
-      "modified": "Thu, 12 Nov 2026 17:41:57 GMT"
+      "etag": "\"cf3c5418a4f3406dfe0a32c4a10cea78\"",
+      "modified": "Thu, 12 Nov 2026 18:36:19 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-J25sTnFjHeBb6UdR4CpoA1BLQew\""
+      "etag": "W/\"84fa-KOD21IjEID9x3yUdxIvoTC35liE\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 12 Nov 2026 17:45:45 GMT"
@@ -1729,7 +1739,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-12 17:45",
+    "ultima_pasada_utc": "2026-11-12 22:54",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
