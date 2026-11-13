@@ -1718,7 +1718,10 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-se-reunio-con-seis-victimas-de-abusos-en-peru": "descartado_palabras",
     "https://persecution.org/?p=4496470": "procesado",
     "https://persecution.org/?p=4496466": "procesado",
-    "https://persecution.org/?p=4496462": "procesado"
+    "https://persecution.org/?p=4496462": "procesado",
+    "https://persecution.org/?p=4496479": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-13-de-noviembre-se-celebra-a-santa-francisca-javier-cabrini-patrona-de-los-inmigrantes": "descartado_palabras",
+    "https://persecution.org/?p=4496484": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1726,8 +1729,8 @@
       "modified": "Wed, 11 Nov 2026 19:08:48 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"e24b6031fca94576c4266c7f3952c878\"",
-      "modified": "Fri, 13 Nov 2026 00:36:09 GMT"
+      "etag": "\"93aac166d28fa1cb1f29955638ccd6c5\"",
+      "modified": "Fri, 13 Nov 2026 07:15:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"cf3c5418a4f3406dfe0a32c4a10cea78\"",
@@ -1737,17 +1740,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-EKeIcEzz3BNcqFhM2TuYhsQE/Dk\""
+      "etag": "W/\"84fa-IT1EoJyftIsGpxL1arhWGhCKiqA\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 13 Nov 2026 03:08:35 GMT"
+      "modified": "Fri, 13 Nov 2026 11:07:55 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-13 03:18",
+    "ultima_pasada_utc": "2026-11-13 11:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1756,6 +1759,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 3
+    "publicados_ultima_pasada": 1
   }
 }
