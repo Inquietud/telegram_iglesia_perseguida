@@ -1721,36 +1721,46 @@
     "https://persecution.org/?p=4496462": "procesado",
     "https://persecution.org/?p=4496479": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-13-de-noviembre-se-celebra-a-santa-francisca-javier-cabrini-patrona-de-los-inmigrantes": "descartado_palabras",
-    "https://persecution.org/?p=4496484": "procesado"
+    "https://persecution.org/?p=4496484": "procesado",
+    "https://morningstarnews.org/?p=18586": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-discipulos-misioneros-evangelizar": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-peru-regreso-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/frases-homilia-papa-leon-xiv-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-pimentel-chiclayo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/corpus-christi-leon-xiv-chiclayo-2015": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/obispos-austria-normas-ia-iglesia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/colombia-angelo-accattino-presento-cartas-credenciales-como-nuncio-apostolico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/santa-francisca-javiera-cabrini": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/medio-oriente/cristianos-libano-enfrentan-violencia-presiones": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"6b3c603b5614cf1b1907518592f1d1e3\"",
-      "modified": "Wed, 11 Nov 2026 19:08:48 GMT"
+      "etag": "W/\"a25f68e65131068a3082e0951e98e2dc\"",
+      "modified": "Fri, 13 Nov 2026 15:44:35 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"93aac166d28fa1cb1f29955638ccd6c5\"",
       "modified": "Fri, 13 Nov 2026 07:15:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"cf3c5418a4f3406dfe0a32c4a10cea78\"",
-      "modified": "Thu, 12 Nov 2026 18:36:19 GMT"
+      "etag": "\"37c1b107c412c15177652b4d108a2b55\"",
+      "modified": "Fri, 13 Nov 2026 17:10:48 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-IT1EoJyftIsGpxL1arhWGhCKiqA\""
+      "etag": "W/\"84fa-1YLjwPwIhvCj1myCCv2fxitxz6c\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Fri, 13 Nov 2026 11:07:55 GMT"
+      "modified": "Fri, 13 Nov 2026 18:29:03 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-13 11:18",
+    "ultima_pasada_utc": "2026-11-13 18:36",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
