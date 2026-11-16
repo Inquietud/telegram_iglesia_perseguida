@@ -1778,7 +1778,14 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-angelus-cusco": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-frases-piedad-popular-cusco": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/discurso-papa-encuentro-piedad-popular": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/medio-oriente/condenados-muerte-ataque-iglesia-jordania": "procesado"
+    "https://www.ewtnnews.com/es/mundo/medio-oriente/condenados-muerte-ataque-iglesia-jordania": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-llamada-emociono-sacerdote": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/frases-homilia-papa-leon-pucallpa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-papa-leon-xiv-pucallpa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/obispo-pucallpa-blanco-papa-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-maria-camila-pantoja": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-misioneros-representantes-pueblos-amazonicos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/discurso-leon-xiv-misioneros-amazonicos": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1797,17 +1804,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-MyZdoK0iMCL2jeMr+Lb2l2M0oRY\""
+      "etag": "W/\"84fa-HUaT7e9WYkeQC4YshWP6llRuwR8\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Sun, 15 Nov 2026 21:05:00 GMT"
+      "modified": "Mon, 16 Nov 2026 01:09:44 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-15 21:16",
+    "ultima_pasada_utc": "2026-11-16 01:09",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
