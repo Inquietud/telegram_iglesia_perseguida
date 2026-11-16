@@ -1792,36 +1792,47 @@
     "https://www.ewtnnews.com/es/mundo/cada-16-de-noviembre-se-celebra-a-santa-margarita-de-escocia-reina-y-madre-de-familia": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/no-pierdan-la-esperanza-el-ultimo-balconazo-nocturno-del-papa-leon-en-lima": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/carmelitas-chiclayo-papa-postre-favorito": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/fotos-el-papa-leon-xiv-en-pucallpa": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/fotos-el-papa-leon-xiv-en-pucallpa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/marinera-papa-bailarines-emocionan-roma": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-ultimo-dia-peru-regreso-roma": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/7-frases-destacadas-papa-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/homilia-santo-padre-misa-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-culturas-indigenas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/frases-papa-leon-xiv-ancianos-callao": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-ancianos-callao": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/asia/sacerdote-catolico-joven-singapur-vocacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/reunion-obispos-estados-unidos-baltimore": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/catolicos-eeuu-presencia-real-estudio": "descartado_palabras",
+    "https://morningstarnews.org/?p=18595": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"a25f68e65131068a3082e0951e98e2dc\"",
-      "modified": "Fri, 13 Nov 2026 15:44:35 GMT"
+      "etag": "W/\"bff8c7c3dce65c3d07f178eb16fbd3cb\"",
+      "modified": "Mon, 16 Nov 2026 18:01:29 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"ce77f83ccb603e342aa5fe23ffd9a5de\"",
       "modified": "Fri, 13 Nov 2026 19:27:35 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"37c1b107c412c15177652b4d108a2b55\"",
-      "modified": "Fri, 13 Nov 2026 17:10:48 GMT"
+      "etag": "\"f90b64938b3052ac2776cb9d58a0b1f6\"",
+      "modified": "Mon, 16 Nov 2026 17:05:30 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-y8Fb19wzk91GjngmMxmuApSoWD0\""
+      "etag": "W/\"84fa-9+lNy6dB3hYSlDziN/B+br4pUuw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 16 Nov 2026 07:58:38 GMT"
+      "modified": "Mon, 16 Nov 2026 18:24:09 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-16 08:01",
+    "ultima_pasada_utc": "2026-11-16 18:24",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
