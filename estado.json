@@ -1785,7 +1785,14 @@
     "https://www.ewtnnews.com/es/vaticano/obispo-pucallpa-blanco-papa-leon": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-leon-xiv-maria-camila-pantoja": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/papa-misioneros-representantes-pueblos-amazonicos": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/discurso-leon-xiv-misioneros-amazonicos": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/discurso-leon-xiv-misioneros-amazonicos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-16-de-noviembre-se-celebra-a-san-roque-cuyo-corazon-hablo-a-los-que-lo-mataron": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-ecuador-visita-ad-limina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-16-de-noviembre-se-celebra-a-santa-gertrudis-que-recosto-la-cabeza-sobre-el-pecho-del-senor": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-16-de-noviembre-se-celebra-a-santa-margarita-de-escocia-reina-y-madre-de-familia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/no-pierdan-la-esperanza-el-ultimo-balconazo-nocturno-del-papa-leon-en-lima": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/carmelitas-chiclayo-papa-postre-favorito": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/fotos-el-papa-leon-xiv-en-pucallpa": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1804,17 +1811,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-HUaT7e9WYkeQC4YshWP6llRuwR8\""
+      "etag": "W/\"84fa-y8Fb19wzk91GjngmMxmuApSoWD0\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 16 Nov 2026 01:09:44 GMT"
+      "modified": "Mon, 16 Nov 2026 07:58:38 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-16 01:09",
+    "ultima_pasada_utc": "2026-11-16 08:01",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
