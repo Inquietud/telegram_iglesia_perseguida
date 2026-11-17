@@ -1816,36 +1816,47 @@
     "https://www.ewtnnews.com/es/vaticano/el-papa-resalta-la-maravillosa-respuesta-de-uruguay-y-afirma-que-una-una-comunidad-pequena-puede": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-habla-cancer-tumor-futuro-conferencia": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-peru-conferencia-rosario": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/leon-xiv-argentina-milei-conferencia-avion": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-argentina-milei-conferencia-avion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/beatificacion-elena-calero-leucemia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/viajes-apostolicos-revolucion-transformo-pontificado": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/ewtn-news-amplia-programacion-informativa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/espana-excluye-odio-anticristiano-estadisticas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-17-de-noviembre-se-celebra-a-santa-isabel-de-hungria-princesa-que-se-hizo-servidora-de-todos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cada-17-de-noviembre-celebramos-a-san-gregorio-taumaturgo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/huella-viaje-latinoamericano-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/iglesia-espana-sacerdotes-proceso-sinodal": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-sacerdotes-casados-latin": "descartado_palabras",
+    "https://www.ewtnnews.com/es/libertad-religiosa/estados-siguen-sin-garantizar-libertad": "procesado",
+    "https://morningstarnews.org/?p=18600": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"bff8c7c3dce65c3d07f178eb16fbd3cb\"",
-      "modified": "Mon, 16 Nov 2026 18:01:29 GMT"
+      "etag": "W/\"d39c1358789a8da130dccd42598ec353\"",
+      "modified": "Tue, 17 Nov 2026 16:35:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"86759f77bb36de550390d2e87096bbbb\"",
-      "modified": "Tue, 17 Nov 2026 00:14:48 GMT"
+      "etag": "\"0788078b1f21ec6fb7b3ecf1af585df6\"",
+      "modified": "Tue, 17 Nov 2026 14:59:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"0c5c061acc1f4cca7cc8f70483ed0aa8\"",
-      "modified": "Tue, 17 Nov 2026 10:29:14 GMT"
+      "etag": "\"c53b926139decc18e2a3dd807a02ffa6\"",
+      "modified": "Tue, 17 Nov 2026 15:54:02 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-gNuEq1z5cVlqNIxSwPNuMACOgbo\""
+      "etag": "W/\"84fa-0kWu/qwTPhLe1d11y8pwcfBc448\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 17 Nov 2026 10:30:43 GMT"
+      "modified": "Tue, 17 Nov 2026 19:21:28 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-17 10:33",
+    "ultima_pasada_utc": "2026-11-17 19:23",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1854,6 +1865,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
