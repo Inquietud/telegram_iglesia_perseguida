@@ -1803,7 +1803,15 @@
     "https://www.ewtnnews.com/es/mundo/asia/sacerdote-catolico-joven-singapur-vocacion": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/reunion-obispos-estados-unidos-baltimore": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/catolicos-eeuu-presencia-real-estudio": "descartado_palabras",
-    "https://morningstarnews.org/?p=18595": "procesado"
+    "https://morningstarnews.org/?p=18595": "procesado",
+    "https://persecution.org/?p=4496538": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/papa-leon-uruguay-argentina-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/atleta-irlandes-dios-aventuras-extremas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/descarga-papa-leon-xiv-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/procesion-nuestra-senora-rocio-parana-brasil": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-ultima-misa-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/decenario-golpea-papa-leon-xiv": "descartado_palabras",
+    "https://persecution.org/?p=4496545": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1811,8 +1819,8 @@
       "modified": "Mon, 16 Nov 2026 18:01:29 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"ce77f83ccb603e342aa5fe23ffd9a5de\"",
-      "modified": "Fri, 13 Nov 2026 19:27:35 GMT"
+      "etag": "\"86759f77bb36de550390d2e87096bbbb\"",
+      "modified": "Tue, 17 Nov 2026 00:14:48 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"f90b64938b3052ac2776cb9d58a0b1f6\"",
@@ -1822,17 +1830,17 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-9+lNy6dB3hYSlDziN/B+br4pUuw\""
+      "etag": "W/\"84fa-hnhzzpYYabmwET1RvniKDFzhE+k\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Mon, 16 Nov 2026 18:24:09 GMT"
+      "modified": "Tue, 17 Nov 2026 01:58:25 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-16 18:24",
+    "ultima_pasada_utc": "2026-11-17 01:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
