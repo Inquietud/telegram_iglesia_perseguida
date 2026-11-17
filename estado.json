@@ -1811,7 +1811,12 @@
     "https://www.ewtnnews.com/es/mundo/america/procesion-nuestra-senora-rocio-parana-brasil": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-ultima-misa-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/decenario-golpea-papa-leon-xiv": "descartado_palabras",
-    "https://persecution.org/?p=4496545": "procesado"
+    "https://persecution.org/?p=4496545": "procesado",
+    "https://www.ewtnnews.com/es/vaticano/gesto-leon-xiv-piel-cristal": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/el-papa-resalta-la-maravillosa-respuesta-de-uruguay-y-afirma-que-una-una-comunidad-pequena-puede": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-habla-cancer-tumor-futuro-conferencia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-peru-conferencia-rosario": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-argentina-milei-conferencia-avion": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1823,24 +1828,24 @@
       "modified": "Tue, 17 Nov 2026 00:14:48 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f90b64938b3052ac2776cb9d58a0b1f6\"",
-      "modified": "Mon, 16 Nov 2026 17:05:30 GMT"
+      "etag": "\"0c5c061acc1f4cca7cc8f70483ed0aa8\"",
+      "modified": "Tue, 17 Nov 2026 10:29:14 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-hnhzzpYYabmwET1RvniKDFzhE+k\""
+      "etag": "W/\"84fa-gNuEq1z5cVlqNIxSwPNuMACOgbo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 17 Nov 2026 01:58:25 GMT"
+      "modified": "Tue, 17 Nov 2026 10:30:43 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-17 01:58",
+    "ultima_pasada_utc": "2026-11-17 10:33",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
