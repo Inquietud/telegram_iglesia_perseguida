@@ -1832,7 +1832,10 @@
     "https://www.ewtnnews.com/es/mundo/america/matrimonio-bebe-encuentro-leon-xiv": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/agustinos-papa-web-espiritualidad-agustin": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/santiago-de-cuba-despide-al-arzobispo-mons-dionisio-garcia": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-prensa-sudamerica": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-prensa-sudamerica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/presidente-obispos-priorizar-mision-iglesia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/datos-poco-conocidos-del-adviento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/oscar-romero-obispos-america-central": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1851,7 +1854,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-SYkgC5U5gpVcD2V2caNmBzcDQo8\""
+      "etag": "W/\"84fa-ocy9bsDlMOSc7DCqvdTuDL3u1Wo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Wed, 18 Nov 2026 01:40:03 GMT"
@@ -1861,7 +1864,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-18 01:46",
+    "ultima_pasada_utc": "2026-11-18 09:16",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
