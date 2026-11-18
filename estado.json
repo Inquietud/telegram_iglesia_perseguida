@@ -1835,7 +1835,17 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-prensa-sudamerica": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/presidente-obispos-priorizar-mision-iglesia": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/datos-poco-conocidos-del-adviento": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/oscar-romero-obispos-america-central": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/oscar-romero-obispos-america-central": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-nino-vestido-de-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/miles-marchan-silencio-grupos-provida": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/leon-xiv-quiere-visitar-mexico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/acciones-mensajes-papa-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/justicia-vaticana-sentencia-satue-gaztelueta": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-18-de-noviembre-se-celebra-la-dedicacion-de-las-basilicas-de-san-pedro-y-san-pablo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-cruz-pectoral-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-pescadores-guerra-pirateria-prision": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-reconocimiento-pueblo-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/red-week-iglesias-del-mundo-se-iluminan-de-rojo-libertad-religiosa": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1843,28 +1853,28 @@
       "modified": "Tue, 17 Nov 2026 16:35:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"0788078b1f21ec6fb7b3ecf1af585df6\"",
-      "modified": "Tue, 17 Nov 2026 14:59:43 GMT"
+      "etag": "\"6d1a183a1f9fd300b30571c3b8524bf1\"",
+      "modified": "Wed, 18 Nov 2026 14:17:43 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"c53b926139decc18e2a3dd807a02ffa6\"",
-      "modified": "Tue, 17 Nov 2026 15:54:02 GMT"
+      "etag": "\"d240b09f9a08571b68e7a8cdc99db49c\"",
+      "modified": "Wed, 18 Nov 2026 16:27:23 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-ocy9bsDlMOSc7DCqvdTuDL3u1Wo\""
+      "etag": "W/\"84fa-2uHWqk9A88P3Z6qM04gqk7T6buU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 18 Nov 2026 01:40:03 GMT"
+      "modified": "Wed, 18 Nov 2026 18:10:15 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-18 09:16",
+    "ultima_pasada_utc": "2026-11-18 18:14",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1873,6 +1883,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
