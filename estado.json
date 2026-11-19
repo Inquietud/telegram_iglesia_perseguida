@@ -1854,7 +1854,8 @@
     "https://www.ewtnnews.com/es/vaticano/papa-leon-400-anos-basilica": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-denario-audiencia-humor-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/islam-religion-mas-grande-mundo": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/decimo-obispo-chino-leon-xiv": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/decimo-obispo-chino-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-uruguay-beca-leon-xiv": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1873,7 +1874,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-8NcwOkHQu/wYXdAzPwxOJa+OK7c\""
+      "etag": "W/\"84fa-yC3F56ZcE06jiQs/x5UsuHbFnN4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Wed, 18 Nov 2026 18:10:15 GMT"
@@ -1883,7 +1884,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-19 00:32",
+    "ultima_pasada_utc": "2026-11-19 07:53",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
