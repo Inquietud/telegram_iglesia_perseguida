@@ -1855,7 +1855,17 @@
     "https://www.ewtnnews.com/es/vaticano/papa-denario-audiencia-humor-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/islam-religion-mas-grande-mundo": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/decimo-obispo-chino-leon-xiv": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/iglesia-uruguay-beca-leon-xiv": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-uruguay-beca-leon-xiv": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/cardenal-mexicano-jalisco-santuario-criminales": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/encendido-arbol-navidad-vaticano-aniversario": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/concierto-vida-cantantes-catolicos-bogota": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/suecia-blinda-aborto-derecho-fundamental": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/suecia-cierre-colegio-catolico-gotemburgo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/colino-vida-dios-musica-sacra": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/marcha-vida-manana-sao-paulo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/obispos-defenderan-vida-ampliar-aborto": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-19-de-noviembre-se-celebra-a-san-odon-abad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/cee-informe-actos-libertad-religiosa": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1863,28 +1873,28 @@
       "modified": "Tue, 17 Nov 2026 16:35:04 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"6d1a183a1f9fd300b30571c3b8524bf1\"",
-      "modified": "Wed, 18 Nov 2026 14:17:43 GMT"
+      "etag": "\"aaea0ffb36a1959cb160ddcc9bad0822\"",
+      "modified": "Thu, 19 Nov 2026 14:13:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"d240b09f9a08571b68e7a8cdc99db49c\"",
-      "modified": "Wed, 18 Nov 2026 16:27:23 GMT"
+      "etag": "\"b1c573d47c8e03ecf99fb4a728f89e1d\"",
+      "modified": "Thu, 19 Nov 2026 16:35:13 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-yC3F56ZcE06jiQs/x5UsuHbFnN4\""
+      "etag": "W/\"84fa-Q61MDZ1vdmyABYrMIC93s6ioLrU\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Wed, 18 Nov 2026 18:10:15 GMT"
+      "modified": "Thu, 19 Nov 2026 17:10:40 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-19 07:53",
+    "ultima_pasada_utc": "2026-11-19 17:10",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
