@@ -1875,7 +1875,11 @@
     "https://www.ewtnnews.com/es/vaticano/vaticano-jovenes-shalom-fe-vocaciones": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/obispo-uruguayo-papa-interes-sacramentos": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/organizacion-catolica-abuso-sexual-luisiana": "descartado_palabras",
-    "https://morningstarnews.org/?p=18604": "procesado"
+    "https://morningstarnews.org/?p=18604": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/nacimientos-concurso-navidad-jesus-peru": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/albergues-catolicos-migrantes-falsas-promesas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/religiosos-roma-paz-desarmada-desarmante": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/fotos-primer-papa-leon-xiv-peru": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1894,7 +1898,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-gp8kn5O6Gsi9kMF3+i7iDs+eqG8\""
+      "etag": "W/\"84fa-KJS6cmIsZqR/kKdqQ9f6v5YLx6I\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1904,7 +1908,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-19 23:36",
+    "ultima_pasada_utc": "2026-11-20 04:18",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
