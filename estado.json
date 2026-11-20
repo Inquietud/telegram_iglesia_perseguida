@@ -1879,7 +1879,11 @@
     "https://www.ewtnnews.com/es/mundo/america/nacimientos-concurso-navidad-jesus-peru": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/albergues-catolicos-migrantes-falsas-promesas": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/religiosos-roma-paz-desarmada-desarmante": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/fotos-primer-papa-leon-xiv-peru": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/fotos-primer-papa-leon-xiv-peru": "procesado",
+    "https://www.ewtnnews.com/es/mundo/america/cristianos-comunidad-religiosa-perseguida-mundo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-aprueban-oracion-justicia-racial": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/end-titular": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-20-de-noviembre-se-recuerda-a-la-beata-anna-kolesarova-patrona-de-la-juventud": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1891,14 +1895,14 @@
       "modified": "Thu, 19 Nov 2026 14:13:40 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"b1c573d47c8e03ecf99fb4a728f89e1d\"",
-      "modified": "Thu, 19 Nov 2026 16:35:13 GMT"
+      "etag": "\"85a86b1e802982c7b11cde344bca9f80\"",
+      "modified": "Fri, 20 Nov 2026 12:40:47 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-KJS6cmIsZqR/kKdqQ9f6v5YLx6I\""
+      "etag": "W/\"84fa-WwBAYdvS6kN/jCNPPN5yiP15UKk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1908,7 +1912,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-20 04:18",
+    "ultima_pasada_utc": "2026-11-20 13:19",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
