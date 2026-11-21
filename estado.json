@@ -1907,7 +1907,13 @@
     "https://www.ewtnnews.com/es/vida-y-familia/noticias-aborto-mundo": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-21-de-noviembre-se-celebra-a-nuestra-senora-de-la-presentacion-del-quinche": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/cada-21-de-noviembre-se-celebra-la-presentacion-de-la-bienaventurada-virgen-maria-en-el-templo": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/santuario-de-monserrate-de-bogota-se-ilumina-de-rojo-redweek": "procesado"
+    "https://www.ewtnnews.com/es/mundo/america/santuario-de-monserrate-de-bogota-se-ilumina-de-rojo-redweek": "procesado",
+    "https://www.ewtnnews.com/es/mundo/jornada-pro-orantibus-vida-contemplativa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-musica-belleza-divina": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-jovenes-jmj-2027": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/quienes-son-san-joaquin-y-santa-ana-y-que-relacion-tienen-con-la-presentacion-de-maria": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/la-presentacion-de-la-virgen-maria-que-es-lo-que-sabemos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-espacio-exterior": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1926,7 +1932,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-xIxHX5EmfDixvVZs5loTtD83uB4\""
+      "etag": "W/\"84fa-V+zV4HdrXZ9D30MCjuAlQGGiZio\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1936,7 +1942,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-21 17:39",
+    "ultima_pasada_utc": "2026-11-21 22:25",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
