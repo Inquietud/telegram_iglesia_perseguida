@@ -1894,7 +1894,13 @@
     "https://www.ewtnnews.com/es/mundo/dehonianos-chile-escuela-lideres-humano": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/suenos-sonados-libro-duelo-dios": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-cristianos-tierra-santa": "descartado_palabras",
-    "https://www.ewtnnews.com/es/vaticano/fundador-shalom-jovenes-sed-dios": "descartado_palabras"
+    "https://www.ewtnnews.com/es/vaticano/fundador-shalom-jovenes-sed-dios": "descartado_palabras",
+    "https://persecution.org/?p=4496579": "descartado_palabras",
+    "https://persecution.org/?p=4496570": "descartado_palabras",
+    "https://persecution.org/?p=4496564": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/arzobispo-puebla-rumbo-pastoral-misioneros": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/verastegui-zero-ad-nino-jesus": "descartado_palabras",
+    "https://persecution.org/?p=4496574": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1902,8 +1908,8 @@
       "modified": "Fri, 20 Nov 2026 17:52:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"aaea0ffb36a1959cb160ddcc9bad0822\"",
-      "modified": "Thu, 19 Nov 2026 14:13:40 GMT"
+      "etag": "\"e5e9554118f10d90ded3066ce5f1836d\"",
+      "modified": "Sat, 21 Nov 2026 00:24:50 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"85a86b1e802982c7b11cde344bca9f80\"",
@@ -1913,7 +1919,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-dQ88/YsWp6Hgq/gCjBHTbQ9nPmo\""
+      "etag": "W/\"84fa-Agy9Hy+PxHXtqcrLf8lu5mDccNM\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1923,7 +1929,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-20 21:22",
+    "ultima_pasada_utc": "2026-11-21 02:40",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
