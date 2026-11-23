@@ -1920,7 +1920,13 @@
     "https://www.ewtnnews.com/es/mundo/solemnidad-cristo-rey": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/catholic-laughter-comedia-comunidad-humor": "descartado_palabras",
     "https://www.ewtnnews.com/es/libertad-religiosa/arquidiocesis-mexico-defiende-fe-cristiada": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-23-de-noviembre-se-celebra-al-papa-san-clemente-i-impulsor-de-la-paz-y-la-concordia": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-23-de-noviembre-se-celebra-al-papa-san-clemente-i-impulsor-de-la-paz-y-la-concordia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/universidad-catolica-estados-unidos-jovenes": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-virgen-ghisallo-ciclistas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/europa/fuga-monoxido-de-carbono-durante-misa-dominical-alemania": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/cardenal-rouco-sacramento-orden-eternidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-23-de-noviembre-se-conmemora-al-beato-miguel-pro-martir-de-la-guerra-cristera-en-mexico": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-retablo-ayacuchano": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1932,14 +1938,14 @@
       "modified": "Sat, 21 Nov 2026 00:24:50 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"85a86b1e802982c7b11cde344bca9f80\"",
-      "modified": "Fri, 20 Nov 2026 12:40:47 GMT"
+      "etag": "\"898a6b8a0e420035d98f60291f315d3c\"",
+      "modified": "Mon, 23 Nov 2026 13:40:05 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-kwtCKhqNICczo3BeECzGfRGVyyo\""
+      "etag": "W/\"84fa-qhG+vrniS6Berdw6XpGv1prXXAw\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1949,7 +1955,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-23 03:58",
+    "ultima_pasada_utc": "2026-11-23 14:26",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
