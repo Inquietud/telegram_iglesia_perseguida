@@ -1918,7 +1918,9 @@
     "https://www.ewtnnews.com/es/vaticano/papa-jovenes-mansos-humildes-cristo": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-cristo-rey-humanidad": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/solemnidad-cristo-rey": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/america/catholic-laughter-comedia-comunidad-humor": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/america/catholic-laughter-comedia-comunidad-humor": "descartado_palabras",
+    "https://www.ewtnnews.com/es/libertad-religiosa/arquidiocesis-mexico-defiende-fe-cristiada": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-23-de-noviembre-se-celebra-al-papa-san-clemente-i-impulsor-de-la-paz-y-la-concordia": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1937,7 +1939,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-eCfDC/e0s2lNgmvetEyo9YNsQ6I\""
+      "etag": "W/\"84fa-kwtCKhqNICczo3BeECzGfRGVyyo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Thu, 19 Nov 2026 23:36:28 GMT"
@@ -1947,7 +1949,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-22 23:31",
+    "ultima_pasada_utc": "2026-11-23 03:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
