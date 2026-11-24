@@ -1936,7 +1936,10 @@
     "https://www.ewtnnews.com/es/vaticano/leon-xiv-sacerdote-venezolano-nuncio": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/oracion-san-miguel-autoridad-obispos": "descartado_palabras",
     "https://persecution.org/?p=4496605": "procesado",
-    "https://www.ewtnnews.com/es/vaticano/leon-xiv-milagro-religiosa-canonizacion": "procesado"
+    "https://www.ewtnnews.com/es/vaticano/leon-xiv-milagro-religiosa-canonizacion": "procesado",
+    "https://www.ewtnnews.com/es/mundo/espana/rouco-sinodalidad-desnaturaliza-iglesia": "descartado_palabras",
+    "https://www.ewtnnews.com/es/eventos/jovenes-fe-roma-congreso-kairos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-24-de-noviembre-se-celebra-a-san-andres-dung-lac-y-companeros-asesinados-por-odio-a-la-fe": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1948,24 +1951,24 @@
       "modified": "Tue, 24 Nov 2026 01:08:37 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"f7c521d1d4ef6ef27eacf71f0024190e\"",
-      "modified": "Mon, 23 Nov 2026 17:03:01 GMT"
+      "etag": "\"4334ea9a3adf4e9c55e8593fb8d4c28c\"",
+      "modified": "Tue, 24 Nov 2026 10:24:08 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fa-6A88p3HAUWjQYEpJt2rUfqpznYk\""
+      "etag": "W/\"84fa-Aofvbl2EviHXrkWWyqT+QdMP1A4\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 24 Nov 2026 01:37:03 GMT"
+      "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-24 01:51",
+    "ultima_pasada_utc": "2026-11-24 11:58",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -1974,6 +1977,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
