@@ -1951,7 +1951,11 @@
     "https://www.ewtnnews.com/es/vaticano/papa-francisco-visiones-diablo-infierno": "descartado_palabras",
     "https://www.ewtnnews.com/es/controversias/roban-destruyen-reliquia-san-nicolas": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/ferran-torres-premiado-fe-catolica": "descartado_palabras",
-    "https://persecution.org/?p=4496619": "procesado"
+    "https://persecution.org/?p=4496619": "procesado",
+    "https://www.ewtnnews.com/es/mundo/iniciativas-prepararte-espiritualmente-adviento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispado-no-respalda-bendicion-homosexual": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/candidato-onu-derecho-global-aborto": "descartado_palabras",
+    "https://persecution.org/?p=4496623": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1959,8 +1963,8 @@
       "modified": "Fri, 20 Nov 2026 17:52:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"f4c8b98e3049c219c3d32e1470dcae22\"",
-      "modified": "Tue, 24 Nov 2026 21:37:15 GMT"
+      "etag": "W/\"fa4c1e77a5fc95c30bb56d9bab403694\"",
+      "modified": "Tue, 24 Nov 2026 22:15:20 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"5d293b031e926ed375fb17de4cd37420\"",
@@ -1970,7 +1974,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-+GPQH6wJoCkv1ijJpUWiFmSBqIY\""
+      "etag": "W/\"84fb-jhi9a5W/MYbRQHCuYZjryQ05XeQ\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
@@ -1980,7 +1984,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-24 22:18",
+    "ultima_pasada_utc": "2026-11-25 04:57",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
