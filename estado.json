@@ -1955,7 +1955,17 @@
     "https://www.ewtnnews.com/es/mundo/iniciativas-prepararte-espiritualmente-adviento": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/america/obispado-no-respalda-bendicion-homosexual": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/candidato-onu-derecho-global-aborto": "descartado_palabras",
-    "https://persecution.org/?p=4496623": "procesado"
+    "https://persecution.org/?p=4496623": "procesado",
+    "https://www.ewtnnews.com/es/mundo/espana/espana-proponen-papa-hablar-congreso": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-sacerdote-argentino-cargo-clave": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vida-y-familia/espana-2025-3-millones-abortos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-reorganiza-pastoral-penitenciaria": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/viva-cristo-rey-fatima-bosch-miss-universo": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/monasterios-abren-puertas-jovenes-adviento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-lamenta-falta-compromiso-cop31": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-carrera-armamentista": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/catequesis-papa-leon-xiv-paz": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-25-de-noviembre-se-celebra-a-santa-catalina-de-alejandria-patrona-de-las-solteras": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1963,18 +1973,18 @@
       "modified": "Fri, 20 Nov 2026 17:52:28 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "W/\"fa4c1e77a5fc95c30bb56d9bab403694\"",
-      "modified": "Tue, 24 Nov 2026 22:15:20 GMT"
+      "etag": "\"b154be58e16b1a5e86a4c03f2d347ef9\"",
+      "modified": "Wed, 25 Nov 2026 05:44:00 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"5d293b031e926ed375fb17de4cd37420\"",
-      "modified": "Tue, 24 Nov 2026 16:42:42 GMT"
+      "etag": "\"2bccdec656050b14091a1ed2b38562bd\"",
+      "modified": "Wed, 25 Nov 2026 15:20:31 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-jhi9a5W/MYbRQHCuYZjryQ05XeQ\""
+      "etag": "W/\"84fb-lvdX7clP7I5emVKPDqp6PyM4ovk\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
@@ -1984,7 +1994,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-25 04:57",
+    "ultima_pasada_utc": "2026-11-25 15:27",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
