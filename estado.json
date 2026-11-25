@@ -1965,26 +1965,31 @@
     "https://www.ewtnnews.com/es/vaticano/papa-lamenta-falta-compromiso-cop31": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/papa-leon-xiv-carrera-armamentista": "descartado_palabras",
     "https://www.ewtnnews.com/es/vaticano/catequesis-papa-leon-xiv-paz": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/cada-25-de-noviembre-se-celebra-a-santa-catalina-de-alejandria-patrona-de-las-solteras": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/cada-25-de-noviembre-se-celebra-a-santa-catalina-de-alejandria-patrona-de-las-solteras": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/caritas-peru-nino-desayuno-solidario": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-estudiantes-machado-reconstruir-venezuela": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/valientes-dios-pelicula-mujer-salvo": "descartado_palabras",
+    "https://persecution.org/?p=4496628": "procesado",
+    "https://morningstarnews.org/?p=18622": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"3c6c94207122a8d98d7806500103f1d8\"",
-      "modified": "Fri, 20 Nov 2026 17:52:28 GMT"
+      "etag": "W/\"bb6b72f74d096454cf2bedf4ecab9df5\"",
+      "modified": "Wed, 25 Nov 2026 16:15:07 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"b154be58e16b1a5e86a4c03f2d347ef9\"",
-      "modified": "Wed, 25 Nov 2026 05:44:00 GMT"
+      "etag": "\"818e5b91db015d4e3cb9788102eda2f6\"",
+      "modified": "Wed, 25 Nov 2026 22:02:29 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"2bccdec656050b14091a1ed2b38562bd\"",
-      "modified": "Wed, 25 Nov 2026 15:20:31 GMT"
+      "etag": "\"d98884d9c66a600244a763e4764a52c9\"",
+      "modified": "Wed, 25 Nov 2026 15:33:29 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-lvdX7clP7I5emVKPDqp6PyM4ovk\""
+      "etag": "W/\"84fb-43PajVqbNSwMmMkJTYlYd5xgc8w\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
@@ -1994,7 +1999,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-25 15:27",
+    "ultima_pasada_utc": "2026-11-25 23:45",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -2003,6 +2008,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 1
+    "publicados_ultima_pasada": 2
   }
 }
