@@ -1973,7 +1973,14 @@
     "https://morningstarnews.org/?p=18622": "procesado",
     "https://www.ewtnnews.com/es/mundo/almirante-holandes-fuerzas-armadas-catolicas": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/australia-record-muertes-eutanasia-suicidio": "descartado_palabras",
-    "https://persecution.org/?p=4496633": "procesado"
+    "https://persecution.org/?p=4496633": "procesado",
+    "https://www.ewtnnews.com/es/mundo/espana/justicia-venta-patrimonio-exclarisas-belorado": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-26-de-noviembre-la-compania-de-jesus-celebra-a-san-juan-berchmans-modelo-para-la-juventud": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/cada-26-de-noviembre-se-celebra-al-beato-santiago-alberione-uno-de-los-patronos-de-internet": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/papa-consagrados-unidad-fragiles-problematicos": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/espana/misas-vaticano-beatificacion-isabel-catolica": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/activista-provida-juicio-orar-silencio-aborto": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/opus-dei-citacion-judicial-argentina": "descartado_palabras"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1992,7 +1999,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-YYJ+F74UegoNNgxISiTdqismx9U\""
+      "etag": "W/\"84fb-AEYDyABA6DymAXmU0KTd3QdrYlc\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
@@ -2002,7 +2009,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-26 05:31",
+    "ultima_pasada_utc": "2026-11-26 15:43",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
