@@ -1970,7 +1970,10 @@
     "https://www.ewtnnews.com/es/mundo/america/iglesia-estudiantes-machado-reconstruir-venezuela": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/valientes-dios-pelicula-mujer-salvo": "descartado_palabras",
     "https://persecution.org/?p=4496628": "procesado",
-    "https://morningstarnews.org/?p=18622": "procesado"
+    "https://morningstarnews.org/?p=18622": "procesado",
+    "https://www.ewtnnews.com/es/mundo/almirante-holandes-fuerzas-armadas-catolicas": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/australia-record-muertes-eutanasia-suicidio": "descartado_palabras",
+    "https://persecution.org/?p=4496633": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
@@ -1978,8 +1981,8 @@
       "modified": "Wed, 25 Nov 2026 16:15:07 GMT"
     },
     "https://persecution.org/feed/": {
-      "etag": "\"818e5b91db015d4e3cb9788102eda2f6\"",
-      "modified": "Wed, 25 Nov 2026 22:02:29 GMT"
+      "etag": "\"0f0fca4f6ce85f8af7c450c588a39893\"",
+      "modified": "Thu, 26 Nov 2026 00:10:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
       "etag": "\"d98884d9c66a600244a763e4764a52c9\"",
@@ -1989,7 +1992,7 @@
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-43PajVqbNSwMmMkJTYlYd5xgc8w\""
+      "etag": "W/\"84fb-YYJ+F74UegoNNgxISiTdqismx9U\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
       "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
@@ -1999,7 +2002,7 @@
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-25 23:45",
+    "ultima_pasada_utc": "2026-11-26 05:31",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
@@ -2008,6 +2011,6 @@
     "updates_recibidos": 0,
     "pulsaciones": [],
     "mensajes": [],
-    "publicados_ultima_pasada": 2
+    "publicados_ultima_pasada": 1
   }
 }
