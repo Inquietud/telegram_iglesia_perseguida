@@ -1980,36 +1980,43 @@
     "https://www.ewtnnews.com/es/vaticano/papa-consagrados-unidad-fragiles-problematicos": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/espana/misas-vaticano-beatificacion-isabel-catolica": "descartado_palabras",
     "https://www.ewtnnews.com/es/mundo/activista-provida-juicio-orar-silencio-aborto": "descartado_palabras",
-    "https://www.ewtnnews.com/es/mundo/opus-dei-citacion-judicial-argentina": "descartado_palabras"
+    "https://www.ewtnnews.com/es/mundo/opus-dei-citacion-judicial-argentina": "descartado_palabras",
+    "https://morningstarnews.org/?p=18625": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/4-maneras-de-vivir-la-caridad-catolica-esta-navidad": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/22-anos-milagro-intercesion-beatificacion": "descartado_palabras",
+    "https://www.ewtnnews.com/es/vaticano/fracaso-cumbre-clima-turquia-papa": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/oracion-familiar-para-el-primer-domingo-de-adviento": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/iglesia-argentina-adviento-papa-leon": "descartado_palabras",
+    "https://www.ewtnnews.com/es/mundo/america/obispos-centroamerica-sacerdotes-expulsados-nicaragua": "procesado"
   },
   "cache": {
     "https://morningstarnews.org/feed/": {
-      "etag": "W/\"bb6b72f74d096454cf2bedf4ecab9df5\"",
-      "modified": "Wed, 25 Nov 2026 16:15:07 GMT"
+      "etag": "W/\"314551b8345fd830347b72fa7c718d81\"",
+      "modified": "Thu, 26 Nov 2026 16:03:35 GMT"
     },
     "https://persecution.org/feed/": {
       "etag": "\"0f0fca4f6ce85f8af7c450c588a39893\"",
       "modified": "Thu, 26 Nov 2026 00:10:58 GMT"
     },
     "https://www.opendoorsuk.org/feed/": {
-      "etag": "\"d98884d9c66a600244a763e4764a52c9\"",
-      "modified": "Wed, 25 Nov 2026 15:33:29 GMT"
+      "etag": "\"af52d0d995bb54434752e183b0e44b15\"",
+      "modified": "Thu, 26 Nov 2026 16:41:51 GMT"
     },
     "https://releaseinternational.org/feed/": {
       "modified": "Tue, 30 Jun 2026 23:00:52 GMT"
     },
     "https://www.persecution.com/feed/": {
-      "etag": "W/\"84fb-AEYDyABA6DymAXmU0KTd3QdrYlc\""
+      "etag": "W/\"84fb-3qqyLkD0+apoeKCre4g8pZeuDbo\""
     },
     "https://www.aciprensa.com/rss/noticias.xml": {
-      "modified": "Tue, 24 Nov 2026 11:58:17 GMT"
+      "modified": "Thu, 26 Nov 2026 23:56:49 GMT"
     }
   },
   "pendientes": {},
   "editando": null,
   "diagnostico": {
     "webhook": "ninguno",
-    "ultima_pasada_utc": "2026-11-26 15:43",
+    "ultima_pasada_utc": "2026-11-27 00:05",
     "en_cola_al_empezar": 0,
     "tipos_permitidos": [
       "message",
